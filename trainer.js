@@ -15,6 +15,12 @@ const CF_ACCOUNT_ID = process.env.CF_ACCOUNT_ID;
 const CF_API_TOKEN = process.env.CF_API_TOKEN;
 const KV_NAMESPACE_ID = process.env.KV_NAMESPACE_ID;
 
+console.log(`🔍 فحص البيانات:`);
+console.log(`DEEPSEEK_KEY: ${DEEPSEEK_KEY ? '✅ موجود' : '❌ مفقود'}`);
+console.log(`CF_ACCOUNT_ID: ${CF_ACCOUNT_ID ? '✅ موجود' : '❌ مفقود'}`);
+console.log(`CF_API_TOKEN: ${CF_API_TOKEN ? '✅ موجود' : '❌ مفقود'}`);
+console.log(`KV_NAMESPACE_ID: ${KV_NAMESPACE_ID ? '✅ موجود' : '❌ مفقود'}`);
+
 if (!DEEPSEEK_KEY) {
   console.error(`❌ خطأ: DEEPSEEK_API_KEY غير موجود!`);
   process.exit(1);
@@ -22,17 +28,16 @@ if (!DEEPSEEK_KEY) {
 
 if (!CF_ACCOUNT_ID || !CF_API_TOKEN || !KV_NAMESPACE_ID) {
   console.error(`❌ خطأ: بيانات Cloudflare غير مكتملة!`);
-  console.error(`CF_ACCOUNT_ID: ${!!CF_ACCOUNT_ID}`);
-  console.error(`CF_API_TOKEN: ${!!CF_API_TOKEN}`);
-  console.error(`KV_NAMESPACE_ID: ${!!KV_NAMESPACE_ID}`);
   process.exit(1);
 }
 
 console.log(`🚀 بدء معالجة ${questions.length} سؤال`);
 
-// دالة لحفظ الجواب في Cloudflare KV
+// دالة لحفظ الجواب في Cloudflare KV مع طباعة تفاصيل أكثر
 async function saveToKV(key, value) {
   const url = `https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/storage/kv/namespaces/${KV_NAMESPACE_ID}/values/${key}`;
+  console.log(`📤 محاولة حفظ: ${key}`);
+  
   const response = await fetch(url, {
     method: 'PUT',
     headers: {
@@ -44,8 +49,10 @@ async function saveToKV(key, value) {
   
   if (!response.ok) {
     const errorText = await response.text();
-    throw new Error(`فشل الحفظ في KV (${response.status}): ${errorText}`);
+    console.error(`❌ فشل الحفظ: ${response.status} - ${errorText}`);
+    throw new Error(`فشل الحفظ في KV: ${response.statusText}`);
   }
+  console.log(`✅ تم الحفظ بنجاح: ${key}`);
   return true;
 }
 
@@ -56,10 +63,11 @@ async function processAll() {
   for (let i = 0; i < questions.length; i++) {
     const q = questions[i];
     const questionId = q.id || `q_${i+1}`;
-    console.log(`[${i+1}/${questions.length}] معالجة: ${questionId}`);
+    console.log(`\n[${i+1}/${questions.length}] معالجة: ${questionId}`);
     
     try {
       // استدعاء DeepSeek API
+      console.log(`🔄 جاري الاتصال بـ DeepSeek API...`);
       const response = await fetch('https://api.deepseek.com/chat/completions', {
         method: 'POST',
         headers: {
@@ -87,8 +95,9 @@ async function processAll() {
       
       const data = await response.json();
       const answer = data.choices[0].message.content;
+      console.log(`📝 تم استلام الجواب (${answer.length} حرف)`);
       
-      // تحضير البيانات بنفس صيغة الكود القديم
+      // تحضير البيانات
       const conversationId = `${questionId}_${Date.now()}`;
       const conversation = {
         id: conversationId,
