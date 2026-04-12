@@ -1,0 +1,27 @@
+name: Train AI Model
+
+on:
+  workflow_dispatch:
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Process questions
+        run: node trainer.js
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      
+      - name: Upload answers
+        uses: actions/upload-artifact@v4
+        with:
+          name: answers
+          path: answers/
