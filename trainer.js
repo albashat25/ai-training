@@ -1,14 +1,26 @@
 const fs = require('fs');
 
-const questions = JSON.parse(fs.readFileSync('questions_batch1.json'));
+// تأكد من وجود ملف الأسئلة
+const questionsFile = 'questions_batch1.json';
+if (!fs.existsSync(questionsFile)) {
+  console.error(`❌ خطأ: الملف ${questionsFile} غير موجود!`);
+  process.exit(1);
+}
+
+const questions = JSON.parse(fs.readFileSync(questionsFile, 'utf8'));
 const DEEPSEEK_KEY = process.env.DEEPSEEK_API_KEY;
 
+if (!DEEPSEEK_KEY) {
+  console.error(`❌ خطأ: DEEPSEEK_API_KEY غير موجود في Secrets!`);
+  process.exit(1);
+}
+
+console.log(`🚀 بدء معالجة ${questions.length} سؤال`);
+
 async function processAll() {
-  console.log(`🚀 بدء معالجة ${questions.length} سؤال`);
-  
   for (let i = 0; i < questions.length; i++) {
     const q = questions[i];
-    console.log(`[${i+1}/${questions.length}] معالجة: ${q.id}`);
+    console.log(`[${i+1}/${questions.length}] معالجة: ${q.id || 'بدون ID'}`);
     
     try {
       const response = await fetch('https://api.deepseek.com/chat/completions', {
@@ -28,17 +40,18 @@ async function processAll() {
       const answer = data.choices[0].message.content;
       
       if (!fs.existsSync('answers')) fs.mkdirSync('answers');
-      fs.writeFileSync(`answers/${q.id}.json`, JSON.stringify({ 
-        id: q.id, 
+      const filename = `answers/${q.id || `q_${i+1}`}.json`;
+      fs.writeFileSync(filename, JSON.stringify({ 
+        id: q.id || `q_${i+1}`,
         question: q.question, 
         answer: answer,
         timestamp: new Date().toISOString()
       }, null, 2));
       
-      console.log(`✅ تم حفظ: ${q.id}`);
+      console.log(`✅ تم حفظ: ${filename}`);
       
     } catch (err) {
-      console.log(`❌ فشل: ${q.id} - ${err.message}`);
+      console.log(`❌ فشل السؤال ${i+1}: ${err.message}`);
     }
     
     // انتظر 2 ثانية بين كل سؤال
