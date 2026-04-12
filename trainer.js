@@ -22,6 +22,9 @@ if (!DEEPSEEK_KEY) {
 
 if (!CF_ACCOUNT_ID || !CF_API_TOKEN || !KV_NAMESPACE_ID) {
   console.error(`❌ خطأ: بيانات Cloudflare غير مكتملة!`);
+  console.error(`CF_ACCOUNT_ID: ${!!CF_ACCOUNT_ID}`);
+  console.error(`CF_API_TOKEN: ${!!CF_API_TOKEN}`);
+  console.error(`KV_NAMESPACE_ID: ${!!KV_NAMESPACE_ID}`);
   process.exit(1);
 }
 
@@ -40,7 +43,8 @@ async function saveToKV(key, value) {
   });
   
   if (!response.ok) {
-    throw new Error(`فشل الحفظ في KV: ${response.statusText}`);
+    const errorText = await response.text();
+    throw new Error(`فشل الحفظ في KV (${response.status}): ${errorText}`);
   }
   return true;
 }
@@ -76,6 +80,11 @@ async function processAll() {
         })
       });
       
+      if (!response.ok) {
+        const errorText = await response.text();
+        throw new Error(`API Error ${response.status}: ${errorText}`);
+      }
+      
       const data = await response.json();
       const answer = data.choices[0].message.content;
       
@@ -94,12 +103,11 @@ async function processAll() {
       const kvKey = `training/${conversationId}.json`;
       await saveToKV(kvKey, conversation);
       
-      // أيضاً تحديث قائمة التدريب (training_list)
       console.log(`✅ تم حفظ: ${questionId}`);
       successCount++;
       
     } catch (err) {
-      console.log(`❌ فشل: ${questionId} - ${err.message}`);
+      console.error(`❌ فشل: ${questionId} - ${err.message}`);
       failCount++;
     }
     
