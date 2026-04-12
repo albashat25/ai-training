@@ -1,0 +1,5215 @@
+{
+  "questions": [
+    {
+      "id": "civil_001",
+      "question": "اكتب دالة تحسب الأحمال الحية والميتة على مبنى حسب الكود الأردني",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "loads",
+        "jordanian-code"
+      ]
+    },
+    {
+      "id": "civil_002",
+      "question": "اكتب دالة تصمم قطاع خرساني للكمرات (Beam Design) حسب ACI",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "concrete",
+        "beam",
+        "ACI"
+      ]
+    },
+    {
+      "id": "civil_003",
+      "question": "اكتب دالة تحسب كمية حديد التسليح للأعمدة الخرسانية",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "concrete",
+        "column",
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "civil_004",
+      "question": "اكتب دالة تحسب التسليح للقواعد المنفردة والمشتركة",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "foundation",
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "civil_005",
+      "question": "اكتب دالة تصمم بلاطة خرسانية (Slab Design) باتجاه واحد واتجاهين",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "concrete",
+        "slab"
+      ]
+    },
+    {
+      "id": "civil_006",
+      "question": "اكتب دالة تحسب العزوم والقص للجدران الاستنادية (Retaining Walls)",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "retaining-wall",
+        "moments",
+        "shear"
+      ]
+    },
+    {
+      "id": "civil_007",
+      "question": "اكتب دالة تحسب التشققات (Crack Width) في العناصر الخرسانية",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "concrete",
+        "crack-width"
+      ]
+    },
+    {
+      "id": "civil_008",
+      "question": "اكتب دالة تصمم درج خرساني (Staircase Design)",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "concrete",
+        "staircase"
+      ]
+    },
+    {
+      "id": "civil_009",
+      "question": "اكتب دالة تحسب الانهيار (Buckling) للأعمدة الطويلة",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "column",
+        "buckling"
+      ]
+    },
+    {
+      "id": "civil_010",
+      "question": "اكتب دالة تصمم مقطع فولاذي (Steel Beam) تحت تأثير عزم وحمل مركز",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "steel",
+        "beam"
+      ]
+    },
+    {
+      "id": "civil_011",
+      "question": "اكتب دالة تختار قطاع فولاذي مناسب حسب AISC",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "steel",
+        "section",
+        "AISC"
+      ]
+    },
+    {
+      "id": "civil_012",
+      "question": "اكتب دالة تحسب التوصيلات الفولاذية (Bolted & Welded Connections)",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "steel",
+        "connections",
+        "bolted",
+        "welded"
+      ]
+    },
+    {
+      "id": "civil_013",
+      "question": "اكتب دالة تحسب الكمرات الفولاذية المركبة مع الخرسانة (Composite Beams)",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "composite",
+        "steel-concrete"
+      ]
+    },
+    {
+      "id": "civil_014",
+      "question": "اكتب دالة تحسب تأثير الرياح (Wind Load) على مباني حسب كود البناء السعودي",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "wind-load",
+        "saudi-code"
+      ]
+    },
+    {
+      "id": "civil_015",
+      "question": "اكتب دالة تحسب تأثير الزلازل (Seismic Load) حسب الكود الأردني",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "seismic",
+        "jordanian-code"
+      ]
+    },
+    {
+      "id": "civil_016",
+      "question": "اكتب دالة تحسب القاعدة العازلة للزلازل (Base Isolation)",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "seismic",
+        "base-isolation"
+      ]
+    },
+    {
+      "id": "civil_017",
+      "question": "اكتب دالة تحلل طيف الاستجابة (Response Spectrum Analysis)",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "seismic",
+        "response-spectrum"
+      ]
+    },
+    {
+      "id": "civil_018",
+      "question": "اكتب دالة تحلل زمني (Time History Analysis) للزلازل",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "seismic",
+        "time-history"
+      ]
+    },
+    {
+      "id": "civil_019",
+      "question": "اكتب دالة تصمم جدار ساند (Shear Wall) لمقاومة الزلازل",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "seismic",
+        "shear-wall"
+      ]
+    },
+    {
+      "id": "civil_020",
+      "question": "اكتب دالة تحسب الهبوط (Settlement) للتربة تحت الأساسات",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "geotechnical",
+        "settlement"
+      ]
+    },
+    {
+      "id": "civil_021",
+      "question": "اكتب دالة تصمم خوازيق (Pile Foundation) حسب قدرة تحمل التربة",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "geotechnical",
+        "piles"
+      ]
+    },
+    {
+      "id": "civil_022",
+      "question": "اكتب دالة تحسب قدرة تحمل التربة (Bearing Capacity) حسب Terzaghi",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "geotechnical",
+        "bearing-capacity"
+      ]
+    },
+    {
+      "id": "civil_023",
+      "question": "اكتب دالة تصمم جدار حفر (Retaining Wall) للتربة المتماسكة",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "geotechnical",
+        "retaining-wall"
+      ]
+    },
+    {
+      "id": "civil_024",
+      "question": "اكتب دالة تحسب الضغط الجانبي للتربة (Lateral Earth Pressure) حسب Rankine و Coulomb",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "geotechnical",
+        "lateral-pressure"
+      ]
+    },
+    {
+      "id": "civil_025",
+      "question": "اكتب دالة تصمم منحدرات ترابية (Slope Stability) وتحسب معامل الأمان",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "geotechnical",
+        "slope-stability"
+      ]
+    },
+    {
+      "id": "civil_026",
+      "question": "اكتب دالة تحسب كمية الخرسانة والحديد لمشروع سكني",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "quantity",
+        "estimation"
+      ]
+    },
+    {
+      "id": "civil_027",
+      "question": "اكتب دالة تحسب تكلفة البناء التقديرية حسب أسعار السوق",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "cost",
+        "estimation"
+      ]
+    },
+    {
+      "id": "civil_028",
+      "question": "اكتب دالة تصمم جدول زمني للمشروع (Project Scheduling) باستخدام CPM",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "project-management",
+        "scheduling",
+        "CPM"
+      ]
+    },
+    {
+      "id": "civil_029",
+      "question": "اكتب دالة تحسب منحنى التكلفة الزمنية (Time-Cost Trade-off)",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "project-management",
+        "cost-time"
+      ]
+    },
+    {
+      "id": "civil_030",
+      "question": "اكتب دالة تصمم مخطط BIM بسيط للمباني",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "BIM",
+        "modeling"
+      ]
+    },
+    {
+      "id": "civil_031",
+      "question": "اكتب دالة تحسب الإضاءة الطبيعية (Daylighting) لغرفة حسب موقع الشمس",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "lighting",
+        "daylighting"
+      ]
+    },
+    {
+      "id": "civil_032",
+      "question": "اكتب دالة تحسب الإضاءة الصناعية (Artificial Lighting) باستخدام Lumen Method",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "lighting",
+        "artificial"
+      ]
+    },
+    {
+      "id": "civil_033",
+      "question": "اكتب دالة تحسب أحمال التدفئة والتبريد (Heating/Cooling Load) للمباني",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "HVAC",
+        "load-calculation"
+      ]
+    },
+    {
+      "id": "civil_034",
+      "question": "اكتب دالة تصمم نظام تكييف HVAC لمبنى سكني",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "HVAC",
+        "design"
+      ]
+    },
+    {
+      "id": "civil_035",
+      "question": "اكتب دالة تحسب متطلبات العزل الحراري (Thermal Insulation) للحوائط",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "insulation",
+        "thermal"
+      ]
+    },
+    {
+      "id": "civil_036",
+      "question": "اكتب دالة تصمم شبكة مياه صحية (Plumbing System) لمبنى",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "plumbing",
+        "water-supply"
+      ]
+    },
+    {
+      "id": "civil_037",
+      "question": "اكتب دالة تصمم نظام تصريف مياه الأمطار (Stormwater Drainage)",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "drainage",
+        "stormwater"
+      ]
+    },
+    {
+      "id": "civil_038",
+      "question": "اكتب دالة تحسب استهلاك المياه لمبنى سكني",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "water",
+        "consumption"
+      ]
+    },
+    {
+      "id": "civil_039",
+      "question": "اكتب دالة تصمم خزان مياه أرضي أو علوي",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "water-tank",
+        "design"
+      ]
+    },
+    {
+      "id": "civil_040",
+      "question": "اكتب دالة تصمم نظام حماية من الحريق (Fire Protection) للمباني",
+      "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "fire-protection",
+        "safety"
+      ]
+    },
+    {
+      "id": "agri_001",
+      "question": "اكتب دالة تصمم نظام ري بالتنقيط (Drip Irrigation) لحقل معين",
+      "useDeepSeek": true,
+      "tags": [
+        "agriculture",
+        "irrigation",
+        "drip"
+      ]
+    },
+    {
+      "id": "agri_002",
+      "question": "اكتب دالة تحسب الاحتياج المائي للمحاصيل (Crop Water Requirement) باستخدام طريقة Penman-Monteith",
+      "useDeepSeek": true,
+      "tags": [
+        "agriculture",
+        "water",
+        "Penman-Monteith"
+      ]
+    },
+    {
+      "id": "agri_003",
+      "question": "اكتب دالة تحسب كفاءة الري (Irrigation Efficiency) وتوزيع المياه",
+      "useDeepSeek": true,
+      "tags": [
+        "agriculture",
+        "irrigation",
+        "efficiency"
+      ]
+    },
+    {
+      "id": "agri_004",
+      "question": "اكتب دالة تصمم شبكة ري محورية (Center Pivot Irrigation)",
+      "useDeepSeek": true,
+      "tags": [
+        "agriculture",
+        "irrigation",
+        "center-pivot"
+      ]
+    },
+    {
+      "id": "agri_005",
+      "question": "اكتب دالة تحسب التبخر-نتح (Evapotranspiration) باستخدام معادلة بلاني-كريدل",
+      "useDeepSeek": true,
+      "tags": [
+        "agriculture",
+        "evapotranspiration",
+        "Blaney-Criddle"
+      ]
+    },
+    {
+      "id": "agri_006",
+      "question": "اكتب دالة تصمم نظام صرف زراعي (Agricultural Drainage)",
+      "useDeepSeek": true,
+      "tags": [
+        "agriculture",
+        "drainage",
+        "soil"
+      ]
+    },
+    {
+      "id": "agri_007",
+      "question": "اكتب دالة تحسب ملوحة التربة (Soil Salinity) وتأثيرها على الإنتاجية",
+      "useDeepSeek": true,
+      "tags": [
+        "agriculture",
+        "soil",
+        "salinity"
+      ]
+    },
+    {
+      "id": "agri_008",
+      "question": "اكتب دالة تحلل خصوبة التربة (Soil Fertility) وتوصي بالأسمدة",
+      "useDeepSeek": true,
+      "tags": [
+        "agriculture",
+        "soil",
+        "fertility",
+        "fertilizer"
+      ]
+    },
+    {
+      "id": "agri_009",
+      "question": "اكتب دالة تحسب كمية السماد المطلوبة (Fertilizer Requirement) حسب تحليل التربة",
+      "useDeepSeek": true,
+      "tags": [
+        "agriculture",
+        "fertilizer",
+        "calculation"
+      ]
+    },
+    {
+      "id": "agri_010",
+      "question": "اكتب دالة تصمم الدفيئات الزراعية (Greenhouse Design) من حيث التهوية والتبريد",
+      "useDeepSeek": true,
+      "tags": [
+        "agriculture",
+        "greenhouse",
+        "design"
+      ]
+    },
+    {
+      "id": "survey_001",
+      "question": "اكتب دالة تحسب المسافات والزوايا باستخدام طريقة التثليث (Triangulation)",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "triangulation",
+        "distances",
+        "angles"
+      ]
+    },
+    {
+      "id": "survey_002",
+      "question": "اكتب دالة تصحح أخطاء القياسات المساحية (Error Correction)",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "errors",
+        "correction"
+      ]
+    },
+    {
+      "id": "survey_003",
+      "question": "اكتب دالة تحول الإحداثيات بين أنظمة مختلفة (Coordinate Transformation)",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "coordinates",
+        "transformation"
+      ]
+    },
+    {
+      "id": "survey_004",
+      "question": "اكتب دالة تصمم شبكة مثلثات (Triangulation Network) لمنطقة معينة",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "triangulation",
+        "network"
+      ]
+    },
+    {
+      "id": "survey_005",
+      "question": "اكتب دالة تحسب مساحة قطعة أرض غير منتظمة الشكل",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "area",
+        "irregular-shape"
+      ]
+    },
+    {
+      "id": "survey_006",
+      "question": "اكتب دالة تنشئ نموذج ارتفاع رقمي (Digital Elevation Model - DEM)",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "DEM",
+        "elevation"
+      ]
+    },
+    {
+      "id": "survey_007",
+      "question": "اكتب دالة تحسب الانحدار (Slope) والتوجيه (Aspect) من DEM",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "DEM",
+        "slope",
+        "aspect"
+      ]
+    },
+    {
+      "id": "survey_008",
+      "question": "اكتب دالة تحسب أحجام الحفر والردم (Cut and Fill Volume)",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "volume",
+        "cut-fill"
+      ]
+    },
+    {
+      "id": "survey_009",
+      "question": "اكتب دالة تصمم خرائط كنتورية (Contour Maps) من نقاط ارتفاع",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "contour",
+        "maps"
+      ]
+    },
+    {
+      "id": "survey_010",
+      "question": "اكتب دالة تحليل رؤية (Viewshed Analysis) من نقطة معينة",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "viewshed",
+        "visibility"
+      ]
+    },
+    {
+      "id": "survey_011",
+      "question": "اكتب دالة تحسب أقصر طريق بين نقطتين على الخريطة",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "shortest-path",
+        "mapping"
+      ]
+    },
+    {
+      "id": "survey_012",
+      "question": "اكتب دالة تحلل مسارات الأنهار (Watershed Analysis)",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "watershed",
+        "hydrology"
+      ]
+    },
+    {
+      "id": "survey_013",
+      "question": "اكتب دالة تحسب المناطق المعرضة للفيضانات (Flood Risk Mapping)",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "flood",
+        "risk-mapping"
+      ]
+    },
+    {
+      "id": "survey_014",
+      "question": "اكتب دالة تحلل صور الأقمار الصناعية (Satellite Image Processing)",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "satellite",
+        "image-processing"
+      ]
+    },
+    {
+      "id": "survey_015",
+      "question": "اكتب دالة تطبق تصنيف صور (Image Classification) للغطاء الأرضي",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "classification",
+        "land-cover"
+      ]
+    },
+    {
+      "id": "survey_016",
+      "question": "اكتب دالة تحسب مؤشر الغطاء النباتي (NDVI) من صور الأقمار",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "NDVI",
+        "vegetation"
+      ]
+    },
+    {
+      "id": "survey_017",
+      "question": "اكتب دالة تدمج بيانات GPS مع الخرائط الرقمية",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "GPS",
+        "mapping"
+      ]
+    },
+    {
+      "id": "survey_018",
+      "question": "اكتب دالة تحسب دقة بيانات GPS (GPS Accuracy)",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "GPS",
+        "accuracy"
+      ]
+    },
+    {
+      "id": "survey_019",
+      "question": "اكتب دالة تصمم تطبيق خرائط ويب (Web Mapping) باستخدام Leaflet أو Mapbox",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "web-mapping",
+        "leaflet",
+        "mapbox"
+      ]
+    },
+    {
+      "id": "survey_020",
+      "question": "اكتب دالة تحلل كثافة الحوادث المرورية على الخريطة",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "traffic",
+        "density-analysis"
+      ]
+    },
+    {
+      "id": "survey_021",
+      "question": "اكتب دالة تصمم نظام ملاحة (Navigation System) لأفضل طريق",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "navigation",
+        "pathfinding"
+      ]
+    },
+    {
+      "id": "survey_022",
+      "question": "اكتب دالة تحلل توزيع المحلات التجارية (Spatial Distribution Analysis)",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "spatial",
+        "distribution"
+      ]
+    },
+    {
+      "id": "survey_023",
+      "question": "اكتب دالة تبحث عن أقرب مستشفى أو مدرسة لنقطة معينة",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "nearest-neighbor",
+        "facility-location"
+      ]
+    },
+    {
+      "id": "survey_024",
+      "question": "اكتب دالة تحسب التغير الزمني (Temporal Change) لاستخدام الأراضي",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "change-detection",
+        "land-use"
+      ]
+    },
+    {
+      "id": "survey_025",
+      "question": "اكتب دالة تصمم قاعدة بيانات مكانية (Spatial Database)",
+      "useDeepSeek": true,
+      "tags": [
+        "surveying",
+        "spatial-database",
+        "GIS"
+      ]
+    },
+    {
+      "id": "industrial_001",
+      "question": "اكتب دالة تحسب الإنتاجية (Productivity) للمصنع",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "productivity",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "industrial_002",
+      "question": "اكتب دالة تصمم خط إنتاج متوازن (Production Line Balancing)",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "production-line",
+        "balancing"
+      ]
+    },
+    {
+      "id": "industrial_003",
+      "question": "اكتب دالة تحسب كفاءة خط الإنتاج (Line Efficiency)",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "efficiency",
+        "production-line"
+      ]
+    },
+    {
+      "id": "industrial_004",
+      "question": "اكتب دالة تصمم تخطيط المصنع (Facility Layout) لتقليل المسافات",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "facility-layout",
+        "optimization"
+      ]
+    },
+    {
+      "id": "industrial_005",
+      "question": "اكتب دالة تحسب عدد المكائن المطلوبة للإنتاج",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "machines",
+        "capacity-planning"
+      ]
+    },
+    {
+      "id": "industrial_006",
+      "question": "اكتب دالة تحلل وقت العمل (Work Study) وتحسب الوقت القياسي",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "work-study",
+        "time-standards"
+      ]
+    },
+    {
+      "id": "industrial_007",
+      "question": "اكتب دالة تصمم عينة مقبولة (Acceptance Sampling) للمنتجات",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "quality",
+        "acceptance-sampling"
+      ]
+    },
+    {
+      "id": "industrial_008",
+      "question": "اكتب دالة تطبق مراقبة الجودة الإحصائية (Statistical Quality Control) باستخدام X-bar و R charts",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "SQC",
+        "control-charts"
+      ]
+    },
+    {
+      "id": "industrial_009",
+      "question": "اكتب دالة تحسب قدرة العملية (Process Capability - Cp & Cpk)",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "process-capability",
+        "Cp",
+        "Cpk"
+      ]
+    },
+    {
+      "id": "industrial_010",
+      "question": "اكتب دالة تطبق تحليل السبب الجذري (Root Cause Analysis) باستخدام Pareto chart",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "root-cause",
+        "pareto"
+      ]
+    },
+    {
+      "id": "industrial_011",
+      "question": "اكتب دالة تصمم مخطط سيطرة (Control Chart) للمتغيرات",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "control-chart",
+        "variables"
+      ]
+    },
+    {
+      "id": "industrial_012",
+      "question": "اكتب دالة تحسب Six Sigma مستوى الأداء (DPMO)",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "six-sigma",
+        "DPMO"
+      ]
+    },
+    {
+      "id": "industrial_013",
+      "question": "اكتب دالة تطبق خوارزمية جدولة الإنتاج (Production Scheduling) باستخدام Johnson's rule",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "scheduling",
+        "johnson-rule"
+      ]
+    },
+    {
+      "id": "industrial_014",
+      "question": "اكتب دالة تحل مشكلة ترتيب الأعمال (Job Sequencing) لتقليل وقت الإنجاز",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "sequencing",
+        "optimization"
+      ]
+    },
+    {
+      "id": "industrial_015",
+      "question": "اكتب دالة تطبق نظرية الطوابير (Queuing Theory) لتحليل طوابير الانتظار",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "queuing-theory",
+        "waiting-lines"
+      ]
+    },
+    {
+      "id": "industrial_016",
+      "question": "اكتب دالة تحسب المستوى الأمثل للمخزون (EOQ - Economic Order Quantity)",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "inventory",
+        "EOQ"
+      ]
+    },
+    {
+      "id": "industrial_017",
+      "question": "اكتب دالة تصمم نظام مراقبة مخزون (Inventory Control) باستخدام نظام Q و P",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "inventory-control",
+        "Q-system",
+        "P-system"
+      ]
+    },
+    {
+      "id": "industrial_018",
+      "question": "اكتب دالة تحسب نقطة إعادة الطلب (Reorder Point) مع مخزون الأمان",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "reorder-point",
+        "safety-stock"
+      ]
+    },
+    {
+      "id": "industrial_019",
+      "question": "اكتب دالة تصمم سلسلة توريد (Supply Chain) بأقل تكلفة",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "supply-chain",
+        "optimization"
+      ]
+    },
+    {
+      "id": "industrial_020",
+      "question": "اكتب دالة تحسب تكلفة النقل الأمثل (Transportation Problem) باستخدام طريقة North-West Corner",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "transportation",
+        "north-west-corner"
+      ]
+    },
+    {
+      "id": "industrial_021",
+      "question": "اكتب دالة تحل مشكلة تخصيص الموارد (Resource Allocation) باستخدام البرمجة الخطية",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "resource-allocation",
+        "linear-programming"
+      ]
+    },
+    {
+      "id": "industrial_022",
+      "question": "اكتب دالة تحسب مؤشرات الأداء الرئيسية (KPIs) للمصنع: OEE, MTBF, MTTR",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "KPIs",
+        "OEE",
+        "MTBF",
+        "MTTR"
+      ]
+    },
+    {
+      "id": "industrial_023",
+      "question": "اكتب دالة تحسب الفاقد (Waste) في الإنتاج وتصنفه حسب Lean Manufacturing",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "waste",
+        "lean-manufacturing"
+      ]
+    },
+    {
+      "id": "industrial_024",
+      "question": "اكتب دالة تصمم خريطة تدفق القيمة (Value Stream Mapping)",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "value-stream",
+        "mapping"
+      ]
+    },
+    {
+      "id": "industrial_025",
+      "question": "اكتب دالة تحسب العائد على الاستثمار (ROI) لمشروع تطوير صناعي",
+      "useDeepSeek": true,
+      "tags": [
+        "industrial",
+        "ROI",
+        "investment"
+      ]
+    },
+    {
+      "id": "mech_001",
+      "question": "اكتب دالة تحسب الإجهادات (Stresses) على مقطع عرضي باستخدام نظرية الاحتكاك",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "stresses",
+        "friction"
+      ]
+    },
+    {
+      "id": "mech_002",
+      "question": "اكتب دالة تصمم عمود دوران (Shaft Design) حسب معايير ASME",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "shaft",
+        "ASME"
+      ]
+    },
+    {
+      "id": "mech_003",
+      "question": "اكتب دالة تحسب عمر الكلال (Fatigue Life) باستخدام طريقة S-N",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "fatigue",
+        "S-N-curve"
+      ]
+    },
+    {
+      "id": "mech_004",
+      "question": "اكتب دالة تحسب عامل الأمان (Safety Factor) للعناصر الميكانيكية",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "safety-factor",
+        "design"
+      ]
+    },
+    {
+      "id": "mech_005",
+      "question": "اكتب دالة تصمم نابض (Spring Design) حلزوني",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "spring",
+        "helical"
+      ]
+    },
+    {
+      "id": "mech_006",
+      "question": "اكتب دالة تحسب تروس (Gears) متوازية (Spur Gears) وتصممها",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "gears",
+        "spur-gears"
+      ]
+    },
+    {
+      "id": "mech_007",
+      "question": "اكتب دالة تحسب نسب التروس في علبة سرعات (Gearbox Design)",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "gearbox",
+        "gear-ratios"
+      ]
+    },
+    {
+      "id": "mech_008",
+      "question": "اكتب دالة تصمم محامل (Bearings) وتختار النوع المناسب",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "bearings",
+        "selection"
+      ]
+    },
+    {
+      "id": "mech_009",
+      "question": "اكتب دالة تحسب كفاءة محرك احتراق داخلي (Internal Combustion Engine)",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "engine",
+        "efficiency"
+      ]
+    },
+    {
+      "id": "mech_010",
+      "question": "اكتب دالة تحلل ديناميكا حرارية (Thermodynamics) لدورة Otto",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "thermodynamics",
+        "otto-cycle"
+      ]
+    },
+    {
+      "id": "mech_011",
+      "question": "اكتب دالة تحلل دورة ديزل (Diesel Cycle) وكفاءتها",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "thermodynamics",
+        "diesel-cycle"
+      ]
+    },
+    {
+      "id": "mech_012",
+      "question": "اكتب دالة تحلل دورة برايتون (Brayton Cycle) للتوربينات الغازية",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "thermodynamics",
+        "brayton-cycle"
+      ]
+    },
+    {
+      "id": "mech_013",
+      "question": "اكتب دالة تصمم مبادل حراري (Heat Exchanger) باستخدام طريقة LMTD",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "heat-exchanger",
+        "LMTD"
+      ]
+    },
+    {
+      "id": "mech_014",
+      "question": "اكتب دالة تحسب معامل انتقال الحرارة (Heat Transfer Coefficient) بالحمل القسري",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "heat-transfer",
+        "convection"
+      ]
+    },
+    {
+      "id": "mech_015",
+      "question": "اكتب دالة تحلل انتقال الحرارة بالتوصيل (Conduction) في جدار مركب",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "heat-transfer",
+        "conduction"
+      ]
+    },
+    {
+      "id": "mech_016",
+      "question": "اكتب دالة تحسب الإشعاع الحراري (Thermal Radiation) بين سطحين",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "heat-transfer",
+        "radiation"
+      ]
+    },
+    {
+      "id": "mech_017",
+      "question": "اكتب دالة تصمم أنبوب (Pipe) لتحمل ضغط داخلي",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "pipe",
+        "pressure"
+      ]
+    },
+    {
+      "id": "mech_018",
+      "question": "اكتب دالة تحسب خسائر الاحتكاك (Friction Losses) في الأنابيب باستخدام معادلة دارسي-وايسباخ",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "fluid-mechanics",
+        "friction-losses",
+        "darcy-weisbach"
+      ]
+    },
+    {
+      "id": "mech_019",
+      "question": "اكتب دالة تحسب الرفع (Lift) والسحب (Drag) على جناح طائرة",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "aerodynamics",
+        "lift",
+        "drag"
+      ]
+    },
+    {
+      "id": "mech_020",
+      "question": "اكتب دالة تحسب رقم رينولدز (Reynolds Number) ونوع الجريان",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "fluid-mechanics",
+        "reynolds"
+      ]
+    },
+    {
+      "id": "mech_021",
+      "question": "اكتب دالة تصمم مضخة (Pump) وتختار القدرة المناسبة",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "pump",
+        "power-selection"
+      ]
+    },
+    {
+      "id": "mech_022",
+      "question": "اكتب دالة تحسب الكفاءة الهيدروليكية للمضخة",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "pump",
+        "hydraulic-efficiency"
+      ]
+    },
+    {
+      "id": "mech_023",
+      "question": "اكتب دالة تصمم توربين (Turbine) مائي أو غازي",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "turbine",
+        "design"
+      ]
+    },
+    {
+      "id": "mech_024",
+      "question": "اكتب دالة تحلل اهتزازات (Vibrations) لنظام ميكانيكي بدرجة حرية واحدة",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "vibrations",
+        "single-DOF"
+      ]
+    },
+    {
+      "id": "mech_025",
+      "question": "اكتب دالة تحلل اهتزازات لنظام بدرجتي حرية",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "vibrations",
+        "two-DOF"
+      ]
+    },
+    {
+      "id": "mech_026",
+      "question": "اكتب دالة تصمم عازل اهتزازات (Vibration Isolator)",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "vibrations",
+        "isolator"
+      ]
+    },
+    {
+      "id": "mech_027",
+      "question": "اكتب دالة تحسب التردد الطبيعي (Natural Frequency) لنظام",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "vibrations",
+        "natural-frequency"
+      ]
+    },
+    {
+      "id": "mech_028",
+      "question": "اكتب دالة تصمم آلية (Mechanism) رباعية الوصلات (Four-bar linkage)",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "mechanisms",
+        "four-bar"
+      ]
+    },
+    {
+      "id": "mech_029",
+      "question": "اكتب دالة تحلل حركة آليات الكرنك (Crank Mechanisms)",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "mechanisms",
+        "crank"
+      ]
+    },
+    {
+      "id": "mech_030",
+      "question": "اكتب دالة تحسب التوازن الديناميكي (Dynamic Balance) لدوار دوار",
+      "useDeepSeek": true,
+      "tags": [
+        "mechanical",
+        "balance",
+        "dynamic"
+      ]
+    },
+    {
+      "id": "elect_001",
+      "question": "اكتب دالة تحلل دوائر كهربائية (DC Circuits) باستخدام قوانين كيرشوف",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "DC-circuits",
+        "kirchhoff"
+      ]
+    },
+    {
+      "id": "elect_002",
+      "question": "اكتب دالة تحلل دوائر تيار متردد (AC Circuits) باستخدام الأعداد العقدية",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "AC-circuits",
+        "complex-numbers"
+      ]
+    },
+    {
+      "id": "elect_003",
+      "question": "اكتب دالة تحسب القدرة الكهربائية (Power) في دوائر AC",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "power",
+        "AC"
+      ]
+    },
+    {
+      "id": "elect_004",
+      "question": "اكتب دالة تحلل دوائر ثلاثية الطور (Three-phase Circuits)",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "three-phase",
+        "circuits"
+      ]
+    },
+    {
+      "id": "elect_005",
+      "question": "اكتب دالة تصمم محول (Transformer) وتختار مواصفاته",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "transformer",
+        "design"
+      ]
+    },
+    {
+      "id": "elect_006",
+      "question": "اكتب دالة تحسب كفاءة المحول وفقد الحديد والنحاس",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "transformer",
+        "efficiency",
+        "losses"
+      ]
+    },
+    {
+      "id": "elect_007",
+      "question": "اكتب دالة تصمم محرك كهربائي (Electric Motor) تيار مستمر",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "motor",
+        "DC"
+      ]
+    },
+    {
+      "id": "elect_008",
+      "question": "اكتب دالة تحلل أداء محرك حثي (Induction Motor) ثلاثي الطور",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "motor",
+        "induction",
+        "three-phase"
+      ]
+    },
+    {
+      "id": "elect_009",
+      "question": "اكتب دالة تحسب عزم المحرك (Torque) وقدرته",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "motor",
+        "torque",
+        "power"
+      ]
+    },
+    {
+      "id": "elect_010",
+      "question": "اكتب دالة تصمم نظام تحكم (Control System) PID لمحرك",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "control",
+        "PID",
+        "motor"
+      ]
+    },
+    {
+      "id": "elect_011",
+      "question": "اكتب دالة تحلل استقرارية نظام التحكم (Stability Analysis) باستخدام Routh-Hurwitz",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "control",
+        "stability",
+        "routh-hurwitz"
+      ]
+    },
+    {
+      "id": "elect_012",
+      "question": "اكتب دالة تحسب استجابة نظام تحكم في مجال الزمن (Time Response)",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "control",
+        "time-response"
+      ]
+    },
+    {
+      "id": "elect_013",
+      "question": "اكتب دالة تحلل نظام تحكم في مجال التردد (Frequency Response) باستخدام Bode plot",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "control",
+        "frequency-response",
+        "bode"
+      ]
+    },
+    {
+      "id": "elect_014",
+      "question": "اكتب دالة تصمم مرشح إلكتروني (Electronic Filter) باس منخفض/مرتفع",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "filters",
+        "low-pass",
+        "high-pass"
+      ]
+    },
+    {
+      "id": "elect_015",
+      "question": "اكتب دالة تحلل دوائر ترانزستور (Transistor Circuits) للتضخيم",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "transistors",
+        "amplification"
+      ]
+    },
+    {
+      "id": "elect_016",
+      "question": "اكتب دالة تصمم مضخم عملياتي (Op-Amp) لدائرة معينة",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "op-amp",
+        "design"
+      ]
+    },
+    {
+      "id": "elect_017",
+      "question": "اكتب دالة تحلل دوائر منطقية (Logic Circuits) وتصممها",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "logic-circuits",
+        "digital"
+      ]
+    },
+    {
+      "id": "elect_018",
+      "question": "اكتب دالة تصمم عداد رقمي (Digital Counter) باستخدام Flip-flops",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "digital",
+        "counter",
+        "flip-flops"
+      ]
+    },
+    {
+      "id": "elect_019",
+      "question": "اكتب دالة تصمم دائرة مؤقت (Timer Circuit) باستخدام 555",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "timer",
+        "555-timer"
+      ]
+    },
+    {
+      "id": "elect_020",
+      "question": "اكتب دالة تحلل إشارات (Signal Processing) باستخدام تحويل فورييه",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "signal-processing",
+        "fourier"
+      ]
+    },
+    {
+      "id": "chem_001",
+      "question": "اكتب دالة تصمم مفاعل كيميائي (Chemical Reactor) من نوع CSTR",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "reactor",
+        "CSTR"
+      ]
+    },
+    {
+      "id": "chem_002",
+      "question": "اكتب دالة تصمم مفاعل كيميائي من نوع PFR (Plug Flow Reactor)",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "reactor",
+        "PFR"
+      ]
+    },
+    {
+      "id": "chem_003",
+      "question": "اكتب دالة تحسب سرعة التفاعل (Reaction Rate) باستخدام معادلة أرينيوس (Arrhenius)",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "kinetics",
+        "arrhenius"
+      ]
+    },
+    {
+      "id": "chem_004",
+      "question": "اكتب دالة تحلل التوازن الكيميائي (Chemical Equilibrium) لتفاعل غازي",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "equilibrium",
+        "thermodynamics"
+      ]
+    },
+    {
+      "id": "chem_005",
+      "question": "اكتب دالة تصمم برج تقطير (Distillation Column) لفصل مكونين",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "distillation",
+        "separation"
+      ]
+    },
+    {
+      "id": "chem_006",
+      "question": "اكتب دالة تحسب عدد المراحل النظرية (Theoretical Stages) في برج تقطير باستخدام طريقة McCabe-Thiele",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "distillation",
+        "mccabe-thiele"
+      ]
+    },
+    {
+      "id": "chem_007",
+      "question": "اكتب دالة تحسب كفاءة البرج (Column Efficiency) باستخدام Murphree efficiency",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "distillation",
+        "efficiency"
+      ]
+    },
+    {
+      "id": "chem_008",
+      "question": "اكتب دالة تصمم مبادل حراري (Heat Exchanger) ذو غلاف وأنبوب (Shell and Tube)",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "heat-exchanger",
+        "shell-tube"
+      ]
+    },
+    {
+      "id": "chem_009",
+      "question": "اكتب دالة تحسب معامل انتقال الحرارة الكلي (Overall Heat Transfer Coefficient) للمبادلات",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "heat-transfer",
+        "U-value"
+      ]
+    },
+    {
+      "id": "chem_010",
+      "question": "اكتب دالة تصمم برج امتصاص (Absorption Column) لفصل غازات",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "absorption",
+        "gas-separation"
+      ]
+    },
+    {
+      "id": "chem_011",
+      "question": "اكتب دالة تصمم برج استخلاص (Extraction Column) سائل-سائل",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "extraction",
+        "liquid-liquid"
+      ]
+    },
+    {
+      "id": "chem_012",
+      "question": "اكتب دالة تحسب حجم المرسب (Sedimentation Tank) لترسيب الجسيمات",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "sedimentation",
+        "particle-settling"
+      ]
+    },
+    {
+      "id": "chem_013",
+      "question": "اكتب دالة تصمم مرشح (Filter) لتنقية السوائل",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "filtration",
+        "liquid-purification"
+      ]
+    },
+    {
+      "id": "chem_014",
+      "question": "اكتب دالة تحسب سرعة الترسيب النهائية (Terminal Velocity) لجسيم في سائل باستخدام قانون ستوكس",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "fluid-mechanics",
+        "stokes-law"
+      ]
+    },
+    {
+      "id": "chem_015",
+      "question": "اكتب دالة تصمم مجفف (Dryer) لتجفيف المواد الصلبة",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "drying",
+        "solid-drying"
+      ]
+    },
+    {
+      "id": "chem_016",
+      "question": "اكتب دالة تحسب محتوى الرطوبة (Moisture Content) للمواد الصلبة",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "moisture",
+        "solids"
+      ]
+    },
+    {
+      "id": "chem_017",
+      "question": "اكتب دالة تصمم مبخر (Evaporator) لتركيز المحاليل",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "evaporation",
+        "concentration"
+      ]
+    },
+    {
+      "id": "chem_018",
+      "question": "اكتب دالة تحسب متعددات الحدود (Polymers) ودرجة البلمرة (Degree of Polymerization)",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "polymers",
+        "polymerization"
+      ]
+    },
+    {
+      "id": "chem_019",
+      "question": "اكتب دالة تصمم نظام تبريد (Cooling System) لمصنع كيميائي",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "cooling",
+        "plant-design"
+      ]
+    },
+    {
+      "id": "chem_020",
+      "question": "اكتب دالة تحسب التوتر السطحي (Surface Tension) للسوائل",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "surface-tension",
+        "fluids"
+      ]
+    },
+    {
+      "id": "chem_021",
+      "question": "اكتب دالة تحلل ديناميكا حرارية (Thermodynamics) لدورة Rankine لمحطات الطاقة",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "thermodynamics",
+        "rankine-cycle"
+      ]
+    },
+    {
+      "id": "chem_022",
+      "question": "اكتب دالة تحلل دورة التبريد (Refrigeration Cycle) ومعامل الأداء COP",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "refrigeration",
+        "COP"
+      ]
+    },
+    {
+      "id": "chem_023",
+      "question": "اكتب دالة تصمم وعاء ضغط (Pressure Vessel) حسب الكود ASME",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "pressure-vessel",
+        "ASME"
+      ]
+    },
+    {
+      "id": "chem_024",
+      "question": "اكتب دالة تحسب سمك جدار الوعاء (Wall Thickness) لتحمل الضغط",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "pressure-vessel",
+        "thickness"
+      ]
+    },
+    {
+      "id": "chem_025",
+      "question": "اكتب دالة تحسب الفاقد الحراري (Heat Loss) من الأنابيب المعزولة",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "heat-loss",
+        "insulation"
+      ]
+    },
+    {
+      "id": "chem_026",
+      "question": "اكتب دالة تصمم نظام تحكم (Control System) لمفاعل كيميائي",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "control",
+        "reactor"
+      ]
+    },
+    {
+      "id": "chem_027",
+      "question": "اكتب دالة تحلل سلامة المصنع (Plant Safety) وتحسب المخاطر (Hazard Analysis)",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "safety",
+        "hazard-analysis"
+      ]
+    },
+    {
+      "id": "chem_028",
+      "question": "اكتب دالة تصمم نظام معالجة مخلفات (Waste Treatment) لمصنع كيميائي",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "waste-treatment",
+        "environmental"
+      ]
+    },
+    {
+      "id": "chem_029",
+      "question": "اكتب دالة تحسب كفاءة الطاقة (Energy Efficiency) لمصنع كيميائي",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "energy",
+        "efficiency"
+      ]
+    },
+    {
+      "id": "chem_030",
+      "question": "اكتب دالة تصمم خزان تخزين (Storage Tank) للمواد الكيميائية",
+      "useDeepSeek": true,
+      "tags": [
+        "chemical",
+        "storage-tank",
+        "design"
+      ]
+    },
+    {
+      "id": "aero_001",
+      "question": "اكتب دالة تحسب قوة الرفع (Lift Force) على جناح طائرة باستخدام معادلة الرفع",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "aerodynamics",
+        "lift"
+      ]
+    },
+    {
+      "id": "aero_002",
+      "question": "اكتب دالة تحسب قوة السحب (Drag Force) على جسم طائر",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "aerodynamics",
+        "drag"
+      ]
+    },
+    {
+      "id": "aero_003",
+      "question": "اكتب دالة تحسب معامل الرفع (Lift Coefficient) لملف جنيح (Airfoil)",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "airfoil",
+        "lift-coefficient"
+      ]
+    },
+    {
+      "id": "aero_004",
+      "question": "اكتب دالة تحسب معامل السحب (Drag Coefficient) لملف جنيح",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "airfoil",
+        "drag-coefficient"
+      ]
+    },
+    {
+      "id": "aero_005",
+      "question": "اكتب دالة تصمم ملف جنيح (Airfoil Design) باستخدام معادلات NACA",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "airfoil",
+        "NACA"
+      ]
+    },
+    {
+      "id": "aero_006",
+      "question": "اكتب دالة تحسب سرعة الهروب (Escape Velocity) من جاذبية الأرض",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "orbital-mechanics",
+        "escape-velocity"
+      ]
+    },
+    {
+      "id": "aero_007",
+      "question": "اكتب دالة تحسب المدار (Orbit) لقمر صناعي حول الأرض باستخدام قوانين كبلر",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "orbital-mechanics",
+        "kepler"
+      ]
+    },
+    {
+      "id": "aero_008",
+      "question": "اكتب دالة تحسب السرعة المدارية (Orbital Velocity) لجسم في مدار دائري",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "orbital-mechanics",
+        "velocity"
+      ]
+    },
+    {
+      "id": "aero_009",
+      "question": "اكتب دالة تحسب فترة المدار (Orbital Period) للقمر الصناعي",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "orbital-mechanics",
+        "period"
+      ]
+    },
+    {
+      "id": "aero_010",
+      "question": "اكتب دالة تصمم محرك صاروخي (Rocket Engine) وتحسب الدفع (Thrust)",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "rocket",
+        "thrust"
+      ]
+    },
+    {
+      "id": "aero_011",
+      "question": "اكتب دالة تحسب السرعة النهائية للصاروخ باستخدام معادلة تسيولكوفسكي (Tsiolkovsky Rocket Equation)",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "rocket",
+        "tsiolkovsky"
+      ]
+    },
+    {
+      "id": "aero_012",
+      "question": "اكتب دالة تحسب نسبة الكتلة (Mass Ratio) للصاروخ",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "rocket",
+        "mass-ratio"
+      ]
+    },
+    {
+      "id": "aero_013",
+      "question": "اكتب دالة تحلل استقرارية الطائرة (Aircraft Stability) طولياً (Longitudinal)",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "aircraft",
+        "stability"
+      ]
+    },
+    {
+      "id": "aero_014",
+      "question": "اكتب دالة تصمم نظام تحكم طيران (Flight Control System) للطائرات",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "flight-control",
+        "autopilot"
+      ]
+    },
+    {
+      "id": "aero_015",
+      "question": "اكتب دالة تحسب مركز الضغط (Center of Pressure) لملف جنيح",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "airfoil",
+        "center-of-pressure"
+      ]
+    },
+    {
+      "id": "aero_016",
+      "question": "اكتب دالة تحسب مركز الكتلة (Center of Mass) للطائرة",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "aircraft",
+        "center-of-mass"
+      ]
+    },
+    {
+      "id": "aero_017",
+      "question": "اكتب دالة تحسب الزاوية المثلى للهجوم (Angle of Attack) لتحقيق أقصى رفع",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "aerodynamics",
+        "angle-of-attack"
+      ]
+    },
+    {
+      "id": "aero_018",
+      "question": "اكتب دالة تحلل أداء المروحة (Propeller Performance) للطائرات",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "propeller",
+        "performance"
+      ]
+    },
+    {
+      "id": "aero_019",
+      "question": "اكتب دالة تصمم جناح (Wing Design) للطائرة",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "wing",
+        "design"
+      ]
+    },
+    {
+      "id": "aero_020",
+      "question": "اكتب دالة تحسب نسبة العرض إلى الارتفاع (Aspect Ratio) للجناح",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "wing",
+        "aspect-ratio"
+      ]
+    },
+    {
+      "id": "aero_021",
+      "question": "اكتب دالة تحلل ديناميكا الغازات (Gas Dynamics) للمقذوفات الصوتية Supersonic",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "gas-dynamics",
+        "supersonic"
+      ]
+    },
+    {
+      "id": "aero_022",
+      "question": "اكتب دالة تحسب رقم ماخ (Mach Number) للطائرة",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "aerodynamics",
+        "mach-number"
+      ]
+    },
+    {
+      "id": "aero_023",
+      "question": "اكتب دالة تحلل الموجات الصدمية (Shock Waves) على الأجسام الأسرع من الصوت",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "shock-waves",
+        "supersonic"
+      ]
+    },
+    {
+      "id": "aero_024",
+      "question": "اكتب دالة تصمم نظام دفع (Propulsion System) للطائرات الأسرع من الصوت",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "propulsion",
+        "supersonic"
+      ]
+    },
+    {
+      "id": "aero_025",
+      "question": "اكتب دالة تحلل أداء المحرك النفاث (Jet Engine Performance)",
+      "useDeepSeek": true,
+      "tags": [
+        "aerospace",
+        "jet-engine",
+        "performance"
+      ]
+    },
+    {
+      "id": "biomed_001",
+      "question": "اكتب دالة تحلل الإشارات الحيوية (Biomedical Signals) مثل ECG",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "signals",
+        "ECG"
+      ]
+    },
+    {
+      "id": "biomed_002",
+      "question": "اكتب دالة تصمم مرشح رقمي (Digital Filter) لتنقية إشارات ECG من الضوضاء",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "filtering",
+        "ECG"
+      ]
+    },
+    {
+      "id": "biomed_003",
+      "question": "اكتب دالة تحسب معدل ضربات القلب (Heart Rate) من إشارة ECG",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "heart-rate",
+        "ECG"
+      ]
+    },
+    {
+      "id": "biomed_004",
+      "question": "اكتب دالة تحلل إشارات EEG لتشخيص الصرع",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "EEG",
+        "epilepsy"
+      ]
+    },
+    {
+      "id": "biomed_005",
+      "question": "اكتب دالة تحلل ميكانيكا الحركة (Biomechanics) للمشي",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "biomechanics",
+        "gait"
+      ]
+    },
+    {
+      "id": "biomed_006",
+      "question": "اكتب دالة تحسب القوى المؤثرة على المفاصل (Joint Forces) أثناء المشي",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "biomechanics",
+        "joint-forces"
+      ]
+    },
+    {
+      "id": "biomed_007",
+      "question": "اكتب دالة تصمم طرف صناعي (Prosthetic Limb) سفلي",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "prosthetics",
+        "design"
+      ]
+    },
+    {
+      "id": "biomed_008",
+      "question": "اكتب دالة تصمم دعامة عظمية (Bone Implant) حسب التوافق الحيوي",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "implants",
+        "biocompatibility"
+      ]
+    },
+    {
+      "id": "biomed_009",
+      "question": "اكتب دالة تحلل تدفق الدم (Blood Flow) في الشرايين باستخدام ديناميكا الموائع الحاسوبية",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "hemodynamics",
+        "CFD"
+      ]
+    },
+    {
+      "id": "biomed_010",
+      "question": "اكتب دالة تصمم جهاز تنفس صناعي (Ventilator) للمرضى",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "ventilator",
+        "medical-device"
+      ]
+    },
+    {
+      "id": "biomed_011",
+      "question": "اكتب دالة تحلل صور طبية (Medical Imaging) مثل MRI أو CT",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "imaging",
+        "MRI",
+        "CT"
+      ]
+    },
+    {
+      "id": "biomed_012",
+      "question": "اكتب دالة تطبق خوارزمية تجزئة الصور (Image Segmentation) للأعضاء",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "image-processing",
+        "segmentation"
+      ]
+    },
+    {
+      "id": "biomed_013",
+      "question": "اكتب دالة تطبق خوارزمية التعرف على الأورام (Tumor Detection) في صور الثدي",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "cancer-detection",
+        "mammography"
+      ]
+    },
+    {
+      "id": "biomed_014",
+      "question": "اكتب دالة تحلل ديناميكا الدواء (Pharmacokinetics) في الجسم",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "pharmacokinetics",
+        "drug"
+      ]
+    },
+    {
+      "id": "biomed_015",
+      "question": "اكتب دالة تحسب الجرعة المناسبة (Dosage) لدواء حسب عمر ووزن المريض",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "dosage",
+        "medicine"
+      ]
+    },
+    {
+      "id": "biomed_016",
+      "question": "اكتب دالة تصمم نظام توصيل دواء (Drug Delivery System) متحكم به",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "drug-delivery",
+        "controlled"
+      ]
+    },
+    {
+      "id": "biomed_017",
+      "question": "اكتب دالة تحلل استجابة الجسم للعلاج (Treatment Response) باستخدام النمذجة الرياضية",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "modeling",
+        "treatment"
+      ]
+    },
+    {
+      "id": "biomed_018",
+      "question": "اكتب دالة تصمم جهاز تخطيط القلب المحمول (Portable ECG Monitor)",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "ECG",
+        "wearable"
+      ]
+    },
+    {
+      "id": "biomed_019",
+      "question": "اكتب دالة تحلل بيانات الأجهزة القابلة للارتداء (Wearable Data) للتنبؤ بالمشاكل الصحية",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "wearables",
+        "health-prediction"
+      ]
+    },
+    {
+      "id": "biomed_020",
+      "question": "اكتب دالة تصمم جهاز قياس سكر الدم (Glucose Meter) غير جراحي",
+      "useDeepSeek": true,
+      "tags": [
+        "biomedical",
+        "glucose",
+        "non-invasive"
+      ]
+    },
+    {
+      "id": "math_001",
+      "question": "اكتب دالة تلقى نقطة تقاطع مستقيمين في الفضاء الثلاثي الأبعاد (3D) مع حالة التوازي والتطابق",
+      "useDeepSeek": true,
+      "tags": [
+        "3d-geometry",
+        "lines",
+        "intersection"
+      ]
+    },
+    {
+      "id": "math_002",
+      "question": "اكتب دالة تحسب المسافة بين نقطة ومستوى (Plane) في الفضاء الثلاثي",
+      "useDeepSeek": true,
+      "tags": [
+        "3d-geometry",
+        "distance",
+        "point-plane"
+      ]
+    },
+    {
+      "id": "math_003",
+      "question": "اكتب دالة تحسب المسافة بين مستقيمين متخالفين (Skew Lines) في الفضاء الثلاثي",
+      "useDeepSeek": true,
+      "tags": [
+        "3d-geometry",
+        "distance",
+        "skew-lines"
+      ]
+    },
+    {
+      "id": "math_004",
+      "question": "اكتب دالة تحسب زاوية التقاطع بين مستويين (Planes) في الفضاء",
+      "useDeepSeek": true,
+      "tags": [
+        "3d-geometry",
+        "angle",
+        "planes"
+      ]
+    },
+    {
+      "id": "math_005",
+      "question": "اكتب دالة تلقى معادلة المستوى المار بثلاث نقاط في الفضاء",
+      "useDeepSeek": true,
+      "tags": [
+        "3d-geometry",
+        "plane",
+        "three-points"
+      ]
+    },
+    {
+      "id": "math_006",
+      "question": "اكتب دالة تحسب المسافة بين نقطة ومستقيم (Line) في الفضاء الثلاثي",
+      "useDeepSeek": true,
+      "tags": [
+        "3d-geometry",
+        "distance",
+        "point-line"
+      ]
+    },
+    {
+      "id": "math_007",
+      "question": "اكتب دالة تحسب إسقاط (Projection) نقطة على مستقيم في الفضاء",
+      "useDeepSeek": true,
+      "tags": [
+        "3d-geometry",
+        "projection",
+        "point-line"
+      ]
+    },
+    {
+      "id": "math_008",
+      "question": "اكتب دالة تحسب إسقاط نقطة على مستوى في الفضاء",
+      "useDeepSeek": true,
+      "tags": [
+        "3d-geometry",
+        "projection",
+        "point-plane"
+      ]
+    },
+    {
+      "id": "math_009",
+      "question": "اكتب دالة تلقى أقرب نقطة (Closest Point) على مستقيم إلى نقطة أخرى",
+      "useDeepSeek": true,
+      "tags": [
+        "3d-geometry",
+        "closest-point",
+        "line"
+      ]
+    },
+    {
+      "id": "math_010",
+      "question": "اكتب دالة تحسب معادلة المماس (Tangent Line) لمنحنى (Curve) عند نقطة معينة",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "tangent",
+        "curve"
+      ]
+    },
+    {
+      "id": "math_011",
+      "question": "اكتب دالة تحسب معادلة العمودي (Normal Line) على منحنى عند نقطة",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "normal",
+        "curve"
+      ]
+    },
+    {
+      "id": "math_012",
+      "question": "اكتب دالة تلقى نقاط التقاطع (Intersection Points) بين منحنى ومستقيم",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "intersection",
+        "curve-line"
+      ]
+    },
+    {
+      "id": "math_013",
+      "question": "اكتب دالة تحسب انحناء (Curvature) منحنى عند نقطة باستخدام المشتقات",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "curvature",
+        "curve"
+      ]
+    },
+    {
+      "id": "math_014",
+      "question": "اكتب دالة تحسب نصف قطر الانحناء (Radius of Curvature) لمنحنى",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "radius-curvature"
+      ]
+    },
+    {
+      "id": "math_015",
+      "question": "اكتب دالة تحسب مركز الانحناء (Center of Curvature) لمنحنى",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "center-curvature"
+      ]
+    },
+    {
+      "id": "math_016",
+      "question": "اكتب دالة تحسب الإطار الثلاثي للسيريت-فريت (Frenet-Serret Frame) لمنحنى في 3D",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "frenet-serret",
+        "3d-curve"
+      ]
+    },
+    {
+      "id": "math_017",
+      "question": "اكتب دالة تحسب الالتواء (Torsion) لمنحنى في الفضاء الثلاثي",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "torsion",
+        "3d-curve"
+      ]
+    },
+    {
+      "id": "math_018",
+      "question": "اكتب دالة تحسب المسافة الجيوديسية (Geodesic Distance) بين نقطتين على سطح كرة",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "geodesic",
+        "sphere"
+      ]
+    },
+    {
+      "id": "math_019",
+      "question": "اكتب دالة تحسب مساحة سطح (Surface Area) ناتج عن دوران منحنى حول محور",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "surface-area",
+        "revolution"
+      ]
+    },
+    {
+      "id": "math_020",
+      "question": "اكتب دالة تحسب حجم جسم ناتج عن دوران منحنى حول محور باستخدام طريقة الأقراص (Disk Method)",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "volume",
+        "disk-method"
+      ]
+    },
+    {
+      "id": "math_021",
+      "question": "اكتب دالة تحسب حجم جسم ناتج عن دوران منحنى حول محور باستخدام طريقة القشور (Shell Method)",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "volume",
+        "shell-method"
+      ]
+    },
+    {
+      "id": "math_022",
+      "question": "اكتب دالة تحسب مركز الكتلة (Centroid) لمنطقة مستوية غير منتظمة",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "centroid",
+        "plane-area"
+      ]
+    },
+    {
+      "id": "math_023",
+      "question": "اكتب دالة تحسب مركز الكتلة لمنحنى في الفضاء",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "centroid",
+        "space-curve"
+      ]
+    },
+    {
+      "id": "math_024",
+      "question": "اكتب دالة تحسب عزم القصور الذاتي (Moment of Inertia) لمنطقة مستوية",
+      "useDeepSeek": true,
+      "tags": [
+        "physics",
+        "moment-inertia",
+        "plane-area"
+      ]
+    },
+    {
+      "id": "math_025",
+      "question": "اكتب دالة تحسب معادلة المماس (Tangent Plane) لسطح (Surface) عند نقطة",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "tangent-plane",
+        "surface"
+      ]
+    },
+    {
+      "id": "math_026",
+      "question": "اكتب دالة تحسب العمودي (Normal Vector) لسطح عند نقطة",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "normal-vector",
+        "surface"
+      ]
+    },
+    {
+      "id": "math_027",
+      "question": "اكتب دالة تحسب الانحناء الغاوسي (Gaussian Curvature) لسطح عند نقطة",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "gaussian-curvature"
+      ]
+    },
+    {
+      "id": "math_028",
+      "question": "اكتب دالة تحسب الانحناء المتوسط (Mean Curvature) لسطح عند نقطة",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "mean-curvature"
+      ]
+    },
+    {
+      "id": "math_029",
+      "question": "اكتب دالة تحسب الشكل الأساسي الأول (First Fundamental Form) لسطح",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "first-fundamental-form"
+      ]
+    },
+    {
+      "id": "math_030",
+      "question": "اكتب دالة تحسب الشكل الأساسي الثاني (Second Fundamental Form) لسطح",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "second-fundamental-form"
+      ]
+    },
+    {
+      "id": "linalg_031",
+      "question": "اكتب دالة تلقى محدد (Determinant) مصفوفة n x n باستخدام تحليل LU",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "determinant",
+        "LU-decomposition"
+      ]
+    },
+    {
+      "id": "linalg_032",
+      "question": "اكتب دالة تلقى معكوس (Inverse) مصفوفة n x n باستخدام طريقة غاوس-جوردان (Gauss-Jordan)",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "inverse",
+        "gauss-jordan"
+      ]
+    },
+    {
+      "id": "linalg_033",
+      "question": "اكتب دالة تحسب مصفوفة المنظورات (Cofactor Matrix) لأي مصفوفة مربعة",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "cofactor-matrix"
+      ]
+    },
+    {
+      "id": "linalg_034",
+      "question": "اكتب دالة تحسب المصفوفة المرافقة (Adjugate Matrix)",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "adjugate-matrix"
+      ]
+    },
+    {
+      "id": "linalg_035",
+      "question": "اكتب دالة تحل نظام معادلات خطية (Linear System) باستخدام تحليل LU",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "linear-system",
+        "LU"
+      ]
+    },
+    {
+      "id": "linalg_036",
+      "question": "اكتب دالة تحل نظام معادلات خطية باستخدام تحليل QR",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "linear-system",
+        "QR"
+      ]
+    },
+    {
+      "id": "linalg_037",
+      "question": "اكتب دالة تحل نظام معادلات خطية باستخدام تحليل Cholesky (للمصفوفات المتماثلة الموجبة)",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "linear-system",
+        "cholesky"
+      ]
+    },
+    {
+      "id": "linalg_038",
+      "question": "اكتب دالة تلقى القيم الذاتية (Eigenvalues) لمصفوفة n x n باستخدام طريقة QR",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "eigenvalues",
+        "QR"
+      ]
+    },
+    {
+      "id": "linalg_039",
+      "question": "اكتب دالة تلقى المتجهات الذاتية (Eigenvectors) لمصفوفة",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "eigenvectors"
+      ]
+    },
+    {
+      "id": "linalg_040",
+      "question": "اكتب دالة تطبق عملية غرام-شميت (Gram-Schmidt) لتحويل قاعدة لأورثونورمال (Orthonormal)",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "gram-schmidt",
+        "orthonormal"
+      ]
+    },
+    {
+      "id": "linalg_041",
+      "question": "اكتب دالة تحسب تحليل QR (QR Decomposition) لمصفوفة",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "QR-decomposition"
+      ]
+    },
+    {
+      "id": "linalg_042",
+      "question": "اكتب دالة تحسب تحليل القيم المنفردة (Singular Value Decomposition - SVD) لمصفوفة",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "SVD"
+      ]
+    },
+    {
+      "id": "linalg_043",
+      "question": "اكتب دالة تحسب المعكوس المعمم (Pseudoinverse) باستخدام SVD",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "pseudoinverse",
+        "SVD"
+      ]
+    },
+    {
+      "id": "linalg_044",
+      "question": "اكتب دالة تحسب رتبة (Rank) مصفوفة باستخدام تحليل QR",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "rank",
+        "QR"
+      ]
+    },
+    {
+      "id": "linalg_045",
+      "question": "اكتب دالة تحسب أثر (Trace) مصفوفة",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "trace"
+      ]
+    },
+    {
+      "id": "linalg_046",
+      "question": "اكتب دالة تحسب معادلة مميزة (Characteristic Polynomial) لمصفوفة",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "characteristic-polynomial"
+      ]
+    },
+    {
+      "id": "linalg_047",
+      "question": "اكتب دالة تحسب كثير الحدود الأدنى (Minimal Polynomial) لمصفوفة",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "minimal-polynomial"
+      ]
+    },
+    {
+      "id": "linalg_048",
+      "question": "اكتب دالة تحسب أس مصفوفة (Matrix Exponential) باستخدام التحليل الطيفي",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "matrix-exponential"
+      ]
+    },
+    {
+      "id": "linalg_049",
+      "question": "اكتب دالة تحسب الجذر التربيعي لمصفوفة (Square Root of Matrix)",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "matrix-square-root"
+      ]
+    },
+    {
+      "id": "linalg_050",
+      "question": "اكتب دالة تحسب لوغاريتم مصفوفة (Matrix Logarithm)",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "matrix-logarithm"
+      ]
+    },
+    {
+      "id": "linalg_051",
+      "question": "اكتب دالة تحسب دالة الجيب (Matrix Sine) وجيب التمام (Cosine) لمصفوفة",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "matrix-trig-functions"
+      ]
+    },
+    {
+      "id": "linalg_052",
+      "question": "اكتب دالة تحلل مصفوفة إلى قيم مفردة (SVD) وتعيد المصفوفات U, Σ, V",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "SVD",
+        "decomposition"
+      ]
+    },
+    {
+      "id": "linalg_053",
+      "question": "اكتب دالة تحسب مسافة فريبنوس (Frobenius Norm) بين مصفوفتين",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "frobenius-norm"
+      ]
+    },
+    {
+      "id": "linalg_054",
+      "question": "اكتب دالة تحسب المصفوفة المتماثلة (Symmetric) والمصفوفة المنحرفة (Skew-Symmetric) من أي مصفوفة",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "symmetric",
+        "skew-symmetric"
+      ]
+    },
+    {
+      "id": "linalg_055",
+      "question": "اكتب دالة تحسب مصفوفة الإسقاط (Projection Matrix) على فضاء جزئي",
+      "useDeepSeek": true,
+      "tags": [
+        "linear-algebra",
+        "projection-matrix"
+      ]
+    },
+    {
+      "id": "num_056",
+      "question": "اكتب دالة تحسب المشتقة الأولى عددياً باستخدام الفروق المركزية (Central Difference) من الرتبة الرابعة",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "derivative",
+        "central-difference"
+      ]
+    },
+    {
+      "id": "num_057",
+      "question": "اكتب دالة تحسب المشتقة الثانية عددياً بدقة عالية باستخدام五点公式 (Five-Point Formula)",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "second-derivative",
+        "five-point"
+      ]
+    },
+    {
+      "id": "num_058",
+      "question": "اكتب دالة تحسب المشتقة الجزئية (Partial Derivative) لدالة متعددة المتغيرات",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "partial-derivative"
+      ]
+    },
+    {
+      "id": "num_059",
+      "question": "اكتب دالة تحسب التدرج (Gradient) لدالة متعددة المتغيرات",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "gradient"
+      ]
+    },
+    {
+      "id": "num_060",
+      "question": "اكتب دالة تحسب الالتفاف (Curl) لحقل متجهي (Vector Field) في 3D",
+      "useDeepSeek": true,
+      "tags": [
+        "vector-calculus",
+        "curl"
+      ]
+    },
+    {
+      "id": "num_061",
+      "question": "اكتب دالة تحسب التباعد (Divergence) لحقل متجهي في 3D",
+      "useDeepSeek": true,
+      "tags": [
+        "vector-calculus",
+        "divergence"
+      ]
+    },
+    {
+      "id": "num_062",
+      "question": "اكتب دالة تحسب لابلاسيان (Laplacian) لدالة عددية",
+      "useDeepSeek": true,
+      "tags": [
+        "vector-calculus",
+        "laplacian"
+      ]
+    },
+    {
+      "id": "num_063",
+      "question": "اكتب دالة تحسب التكامل المحدد (Definite Integral) عددياً باستخدام قاعدة سمبسون (Simpson's Rule) المركبة",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "integration",
+        "simpson"
+      ]
+    },
+    {
+      "id": "num_064",
+      "question": "اكتب دالة تحسب التكامل المحدد عددياً باستخدام التربيع الغاوسي (Gaussian Quadrature) بـ 8 نقاط",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "integration",
+        "gaussian-quadrature"
+      ]
+    },
+    {
+      "id": "num_065",
+      "question": "اكتب دالة تحسب التكامل الثنائي (Double Integral) عددياً باستخدام قاعدة سمبسون",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "double-integral",
+        "simpson"
+      ]
+    },
+    {
+      "id": "num_066",
+      "question": "اكتب دالة تحسب التكامل الثلاثي (Triple Integral) عددياً باستخدام طريقة مونت كارلو (Monte Carlo)",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "triple-integral",
+        "monte-carlo"
+      ]
+    },
+    {
+      "id": "num_067",
+      "question": "اكتب دالة تحسب طول قوس (Arc Length) لمنحنى بارامتري (Parametric Curve) في 3D",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "arc-length",
+        "parametric"
+      ]
+    },
+    {
+      "id": "num_068",
+      "question": "اكتب دالة تحسب مساحة سطح (Surface Area) معطى بارامترياً",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "surface-area",
+        "parametric"
+      ]
+    },
+    {
+      "id": "num_069",
+      "question": "اكتب دالة تحسب حجم جسم باستخدام التكامل الثلاثي",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "volume",
+        "triple-integral"
+      ]
+    },
+    {
+      "id": "num_070",
+      "question": "اكتب دالة تحسب تكامل الخط (Line Integral) لحقل متجهي على منحنى",
+      "useDeepSeek": true,
+      "tags": [
+        "vector-calculus",
+        "line-integral"
+      ]
+    },
+    {
+      "id": "num_071",
+      "question": "اكتب دالة تحسب تكامل السطح (Surface Integral) لحقل متجهي",
+      "useDeepSeek": true,
+      "tags": [
+        "vector-calculus",
+        "surface-integral"
+      ]
+    },
+    {
+      "id": "num_072",
+      "question": "اكتب دالة تحقق من نظرية غرين (Green's Theorem) لحقل متجهي بسيط",
+      "useDeepSeek": true,
+      "tags": [
+        "vector-calculus",
+        "green-theorem"
+      ]
+    },
+    {
+      "id": "num_073",
+      "question": "اكتب دالة تحقق من نظرية ستوكس (Stokes' Theorem) لحقل متجهي",
+      "useDeepSeek": true,
+      "tags": [
+        "vector-calculus",
+        "stokes-theorem"
+      ]
+    },
+    {
+      "id": "num_074",
+      "question": "اكتب دالة تحقق من نظرية التباعد (Divergence Theorem) لحقل متجهي",
+      "useDeepSeek": true,
+      "tags": [
+        "vector-calculus",
+        "divergence-theorem"
+      ]
+    },
+    {
+      "id": "num_075",
+      "question": "اكتب دالة تحسب تحويل فورييه (Fourier Transform) لدالة متصلة عددياً",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "fourier-transform"
+      ]
+    },
+    {
+      "id": "num_076",
+      "question": "اكتب دالة تحسب تحويل فورييه المعكوس (Inverse Fourier Transform)",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "inverse-fourier"
+      ]
+    },
+    {
+      "id": "num_077",
+      "question": "اكتب دالة تحسب تحويل لابلاس (Laplace Transform) لدالة عددياً",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "laplace-transform"
+      ]
+    },
+    {
+      "id": "num_078",
+      "question": "اكتب دالة تحسب تحويل لابلاس المعكوس (Inverse Laplace Transform) باستخدام طريقة برومفيتش (Bromwich)",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "inverse-laplace",
+        "bromwich"
+      ]
+    },
+    {
+      "id": "num_079",
+      "question": "اكتب دالة تحسب متسلسلة تايلور (Taylor Series) لدالة عند نقطة حتى رتبة معينة",
+      "useDeepSeek": true,
+      "tags": [
+        "calculus",
+        "taylor-series"
+      ]
+    },
+    {
+      "id": "num_080",
+      "question": "اكتب دالة تحسب متسلسلة فورييه (Fourier Series) لدالة دورية",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "fourier-series"
+      ]
+    },
+    {
+      "id": "complex_081",
+      "question": "اكتب دالة تحسب الباقي (Residue) لدالة عقدية (Complex Function) عند قطب (Pole)",
+      "useDeepSeek": true,
+      "tags": [
+        "complex-analysis",
+        "residue"
+      ]
+    },
+    {
+      "id": "complex_082",
+      "question": "اكتب دالة تحسب تكامل كوشي (Cauchy Integral) لدالة عقدية",
+      "useDeepSeek": true,
+      "tags": [
+        "complex-analysis",
+        "cauchy-integral"
+      ]
+    },
+    {
+      "id": "complex_083",
+      "question": "اكتب دالة تحسب التكامل على طول محيط (Contour Integral) باستخدام نظرية البواقي",
+      "useDeepSeek": true,
+      "tags": [
+        "complex-analysis",
+        "contour-integral",
+        "residue-theorem"
+      ]
+    },
+    {
+      "id": "special_084",
+      "question": "اكتب دالة تحسب الدالة الغاما (Gamma Function) باستخدام تكامل عددي",
+      "useDeepSeek": true,
+      "tags": [
+        "special-functions",
+        "gamma-function"
+      ]
+    },
+    {
+      "id": "special_085",
+      "question": "اكتب دالة تحسب الدالة بيتا (Beta Function) باستخدام علاقتها بدالة غاما",
+      "useDeepSeek": true,
+      "tags": [
+        "special-functions",
+        "beta-function"
+      ]
+    },
+    {
+      "id": "ode_086",
+      "question": "اكتب دالة تحل معادلة تفاضلية عادية (ODE) من الدرجة الأولى باستخدام طريقة أويلر المحسنة (Improved Euler)",
+      "useDeepSeek": true,
+      "tags": [
+        "ode",
+        "improved-euler",
+        "numerical-methods"
+      ]
+    },
+    {
+      "id": "ode_087",
+      "question": "اكتب دالة تحل معادلة تفاضلية عادية باستخدام طريقة رونجي-كوتا (Runge-Kutta) من الرتبة الرابعة RK4",
+      "useDeepSeek": true,
+      "tags": [
+        "ode",
+        "runge-kutta",
+        "RK4"
+      ]
+    },
+    {
+      "id": "ode_088",
+      "question": "اكتب دالة تحل معادلة تفاضلية عادية باستخدام طريقة رونجي-كوتا-فيلبرغ (Runge-Kutta-Fehlberg) RKF45 ذات التحكم بالخطأ",
+      "useDeepSeek": true,
+      "tags": [
+        "ode",
+        "runge-kutta-fehlberg",
+        "RKF45"
+      ]
+    },
+    {
+      "id": "ode_089",
+      "question": "اكتب دالة تحل نظام معادلات تفاضلية عادية باستخدام طريقة RK4",
+      "useDeepSeek": true,
+      "tags": [
+        "ode",
+        "system-odes",
+        "RK4"
+      ]
+    },
+    {
+      "id": "ode_090",
+      "question": "اكتب دالة تحل معادلة تفاضلية عادية من الدرجة الثانية بتحويلها لنظام من الدرجة الأولى",
+      "useDeepSeek": true,
+      "tags": [
+        "ode",
+        "second-order",
+        "reduction"
+      ]
+    },
+    {
+      "id": "pde_091",
+      "question": "اكتب دالة تحل معادلة تفاضلية جزئية (PDE) من النوع المكافئ (Parabolic) معادلة الحرارة (Heat Equation) باستخدام الفروق المحدودة (Finite Difference)",
+      "useDeepSeek": true,
+      "tags": [
+        "pde",
+        "heat-equation",
+        "finite-difference"
+      ]
+    },
+    {
+      "id": "pde_092",
+      "question": "اكتب دالة تحل معادلة موجية (Wave Equation) ذات بعد واحد باستخدام طريقة الفروق المحدودة",
+      "useDeepSeek": true,
+      "tags": [
+        "pde",
+        "wave-equation",
+        "finite-difference"
+      ]
+    },
+    {
+      "id": "pde_093",
+      "question": "اكتب دالة تحل معادلة لابلاس (Laplace Equation) في بعدين باستخدام طريقة الفروق المحدودة",
+      "useDeepSeek": true,
+      "tags": [
+        "pde",
+        "laplace-equation",
+        "finite-difference"
+      ]
+    },
+    {
+      "id": "pde_094",
+      "question": "اكتب دالة تحل معادلة بواسون (Poisson Equation) باستخدام طريقة جاوس-سايدل (Gauss-Seidel)",
+      "useDeepSeek": true,
+      "tags": [
+        "pde",
+        "poisson-equation",
+        "gauss-seidel"
+      ]
+    },
+    {
+      "id": "pde_095",
+      "question": "اكتب دالة تحل معادلة تفاضلية جزئية باستخدام طريقة العناصر المحدودة (Finite Element Method) المبسطة",
+      "useDeepSeek": true,
+      "tags": [
+        "pde",
+        "finite-element-method",
+        "FEM"
+      ]
+    },
+    {
+      "id": "ode_096",
+      "question": "اكتب دالة تحل معادلة تفاضلية باستخدام طريقة الرماية (Shooting Method) للقيمة الحدودية",
+      "useDeepSeek": true,
+      "tags": [
+        "ode",
+        "shooting-method",
+        "boundary-value"
+      ]
+    },
+    {
+      "id": "ode_097",
+      "question": "اكتب دالة تحل معادلة تفاضلية باستخدام طريقة الفروق المحدودة للقيمة الحدودية",
+      "useDeepSeek": true,
+      "tags": [
+        "ode",
+        "finite-difference",
+        "boundary-value"
+      ]
+    },
+    {
+      "id": "pde_098",
+      "question": "اكتب دالة تحسب الحل العددي لمعادلة انتقال-انتشار (Advection-Diffusion Equation)",
+      "useDeepSeek": true,
+      "tags": [
+        "pde",
+        "advection-diffusion"
+      ]
+    },
+    {
+      "id": "pde_099",
+      "question": "اكتب دالة تحل معادلة شريودنغر (Schrödinger Equation) ذات البعد الواحد",
+      "useDeepSeek": true,
+      "tags": [
+        "quantum",
+        "schrodinger-equation",
+        "pde"
+      ]
+    },
+    {
+      "id": "special_100",
+      "question": "اكتب دالة تحسب دالة بيسل (Bessel Function) من النوع الأول باستخدام متسلسلة القوى",
+      "useDeepSeek": true,
+      "tags": [
+        "special-functions",
+        "bessel",
+        "series"
+      ]
+    },
+    {
+      "id": "special_101",
+      "question": "اكتب دالة تحسب دالة بيسل من النوع الثاني",
+      "useDeepSeek": true,
+      "tags": [
+        "special-functions",
+        "bessel-second-kind"
+      ]
+    },
+    {
+      "id": "special_102",
+      "question": "اكتب دالة تحسب كثيرات حدود ليجاندر (Legendre Polynomials) باستخدام علاقة التعاود",
+      "useDeepSeek": true,
+      "tags": [
+        "special-functions",
+        "legendre",
+        "recurrence"
+      ]
+    },
+    {
+      "id": "special_103",
+      "question": "اكتب دالة تحسب كثيرات حدود تشيبيشيف (Chebyshev Polynomials)",
+      "useDeepSeek": true,
+      "tags": [
+        "special-functions",
+        "chebyshev"
+      ]
+    },
+    {
+      "id": "special_104",
+      "question": "اكتب دالة تحسب كثيرات حدود هيرميت (Hermite Polynomials)",
+      "useDeepSeek": true,
+      "tags": [
+        "special-functions",
+        "hermite"
+      ]
+    },
+    {
+      "id": "special_105",
+      "question": "اكتب دالة تحسب كثيرات حدود لاغير (Laguerre Polynomials)",
+      "useDeepSeek": true,
+      "tags": [
+        "special-functions",
+        "laguerre"
+      ]
+    },
+    {
+      "id": "ode_106",
+      "question": "اكتب دالة تحسب القيمة الذاتية (Eigenvalue) لمعادلة تفاضلية حدودية باستخدام طريقة الرماية",
+      "useDeepSeek": true,
+      "tags": [
+        "ode",
+        "eigenvalue",
+        "shooting-method"
+      ]
+    },
+    {
+      "id": "pde_107",
+      "question": "اكتب دالة تطبق تحويل فورييه السريع (FFT) لحل معادلات تفاضلية جزئية",
+      "useDeepSeek": true,
+      "tags": [
+        "pde",
+        "FFT",
+        "numerical-methods"
+      ]
+    },
+    {
+      "id": "pde_108",
+      "question": "اكتب دالة تحل معادلة نافييه-ستوكس (Navier-Stokes) المبسطة لتدفق غير قابل للانضغاط",
+      "useDeepSeek": true,
+      "tags": [
+        "pde",
+        "navier-stokes",
+        "fluid-dynamics"
+      ]
+    },
+    {
+      "id": "pde_109",
+      "question": "اكتب دالة تحسب الحل العددي لنظام لورنتز (Lorenz System) للتنبؤ بالطقس",
+      "useDeepSeek": true,
+      "tags": [
+        "ode",
+        "lorenz-system",
+        "chaos"
+      ]
+    },
+    {
+      "id": "pde_110",
+      "question": "اكتب دالة تحل معادلة انتشار الحرارة في بعدين مع مصدر حرارة متغير بالزمن",
+      "useDeepSeek": true,
+      "tags": [
+        "pde",
+        "heat-equation",
+        "2d",
+        "time-dependent"
+      ]
+    },
+    {
+      "id": "stats_111",
+      "question": "اكتب دالة تحسب دالة التوزيع التراكمي (CDF) للتوزيع الطبيعي القياسي باستخدام تقريب هاستينغز",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "normal-distribution",
+        "CDF",
+        "hastings"
+      ]
+    },
+    {
+      "id": "stats_112",
+      "question": "اكتب دالة تحسب دالة الكثافة الاحتمالية (PDF) للتوزيع الطبيعي متعدد المتغيرات (Multivariate Normal)",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "multivariate-normal",
+        "PDF"
+      ]
+    },
+    {
+      "id": "stats_113",
+      "question": "اكتب دالة تحسب دالة التوزيع العكسي (Inverse CDF) باستخدام طريقة Box-Muller",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "inverse-CDF",
+        "box-muller"
+      ]
+    },
+    {
+      "id": "stats_114",
+      "question": "اكتب دالة تلقى فاصل الثقة (Confidence Interval) لمتوسط مجتمع مع تباين غير معروف باستخدام توزيع t",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "confidence-interval",
+        "t-distribution"
+      ]
+    },
+    {
+      "id": "stats_115",
+      "question": "اكتب دالة تجري اختبار t-test لعينتين مستقلتين مع عدم تساوي التباينات (Welch's t-test)",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "t-test",
+        "welch"
+      ]
+    },
+    {
+      "id": "stats_116",
+      "question": "اكتب دالة تجري اختبار مربع كاي (Chi-Square) للاستقلالية في جدول الطوارئ",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "chi-square",
+        "independence"
+      ]
+    },
+    {
+      "id": "stats_117",
+      "question": "اكتب دالة تجري اختبار ANOVA أحادي الاتجاه (One-Way ANOVA)",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "ANOVA",
+        "one-way"
+      ]
+    },
+    {
+      "id": "stats_118",
+      "question": "اكتب دالة تجري اختبار ANOVA ثنائي الاتجاه (Two-Way ANOVA) مع التفاعل",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "ANOVA",
+        "two-way"
+      ]
+    },
+    {
+      "id": "stats_119",
+      "question": "اكتب دالة تحسب معامل ارتباط بيرسون (Pearson Correlation) مع اختبار الأهمية",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "pearson-correlation"
+      ]
+    },
+    {
+      "id": "stats_120",
+      "question": "اكتب دالة تحسب معامل ارتباط سبيرمان (Spearman Rank Correlation)",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "spearman-correlation"
+      ]
+    },
+    {
+      "id": "stats_121",
+      "question": "اكتب دالة تحسب معامل ارتباط كيندال تاو (Kendall Tau)",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "kendall-tau"
+      ]
+    },
+    {
+      "id": "stats_122",
+      "question": "اكتب دالة تطبق الانحدار الخطي المتعدد (Multiple Linear Regression) مع مصفوفات",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "linear-regression",
+        "multiple"
+      ]
+    },
+    {
+      "id": "stats_123",
+      "question": "اكتب دالة تطبق الانحدار اللوجستي (Logistic Regression) باستخدام طريقة نيوتن-رافسون",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "logistic-regression",
+        "newton-raphson"
+      ]
+    },
+    {
+      "id": "stats_124",
+      "question": "اكتب دالة تطبق الانحدار متعدد الحدود (Polynomial Regression) حتى رتبة معينة",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "polynomial-regression"
+      ]
+    },
+    {
+      "id": "stats_125",
+      "question": "اكتب دالة تطبق انحدار ريدج (Ridge Regression) مع معامل تنظيم L2",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "ridge-regression",
+        "L2"
+      ]
+    },
+    {
+      "id": "stats_126",
+      "question": "اكتب دالة تطبق انحدار لاسو (Lasso Regression) مع معامل تنظيم L1",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "lasso-regression",
+        "L1"
+      ]
+    },
+    {
+      "id": "stats_127",
+      "question": "اكتب دالة تطبق تحليل المكونات الرئيسية (Principal Component Analysis - PCA)",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "PCA",
+        "dimensionality-reduction"
+      ]
+    },
+    {
+      "id": "stats_128",
+      "question": "اكتب دالة تطبق تحليل العوامل (Factor Analysis) المبسط",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "factor-analysis"
+      ]
+    },
+    {
+      "id": "stats_129",
+      "question": "اكتب دالة تجري تحليل المجموعات العنقودية (K-Means Clustering)",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "k-means",
+        "clustering"
+      ]
+    },
+    {
+      "id": "stats_130",
+      "question": "اكتب دالة تجري تحليل المجموعات العنقودية الهرمي (Hierarchical Clustering)",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "hierarchical-clustering"
+      ]
+    },
+    {
+      "id": "prob_131",
+      "question": "اكتب دالة تحسب الاحتمال الخلفي (Posterior Probability) باستخدام نظرية بايز (Bayes' Theorem) مع عدة فرضيات",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "bayes-theorem",
+        "posterior"
+      ]
+    },
+    {
+      "id": "prob_132",
+      "question": "اكتب دالة تطبق سلسلة ماركوف (Markov Chain) من الدرجة الأولى وتحسب الاحتمالات المستقرة (Stationary Distribution)",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "markov-chain",
+        "stationary-distribution"
+      ]
+    },
+    {
+      "id": "prob_133",
+      "question": "اكتب دالة تحسب مصفوفة الانتقال (Transition Matrix) بعد n خطوة",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "transition-matrix",
+        "markov-chain"
+      ]
+    },
+    {
+      "id": "prob_134",
+      "question": "اكتب دالة تحسب زمن الامتصاص (Absorption Time) في سلسلة ماركوف ذات حالات ممتصة",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "absorption-time",
+        "markov-chain"
+      ]
+    },
+    {
+      "id": "prob_135",
+      "question": "اكتب دالة تولد مسار عشوائي (Random Walk) في بعد واحد مع حساب متوسط الإزاحة المربعة (MSD)",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "random-walk",
+        "MSD"
+      ]
+    },
+    {
+      "id": "prob_136",
+      "question": "اكتب دالة تحسب القيمة المتوقعة (Expected Value) والتباين (Variance) لدالة لمتغير عشوائي مستمر",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "expected-value",
+        "variance"
+      ]
+    },
+    {
+      "id": "prob_137",
+      "question": "اكتب دالة تحسب دالة توليد العزوم (Moment Generating Function - MGF) عددياً",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "MGF",
+        "moment-generating"
+      ]
+    },
+    {
+      "id": "prob_138",
+      "question": "اكتب دالة تولد أرقام عشوائية بتوزيع بواسون (Poisson Distribution) باستخدام طريقة التوليد العكسي",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "poisson",
+        "random-generation"
+      ]
+    },
+    {
+      "id": "prob_139",
+      "question": "اكتب دالة تولد أرقام عشوائية بتوزيع أسي (Exponential Distribution)",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "exponential",
+        "random-generation"
+      ]
+    },
+    {
+      "id": "prob_140",
+      "question": "اكتب دالة تولد أرقام عشوائية بتوزيع جاما (Gamma Distribution)",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "gamma",
+        "random-generation"
+      ]
+    },
+    {
+      "id": "prob_141",
+      "question": "اكتب دالة تولد أرقام عشوائية بتوزيع بيتا (Beta Distribution)",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "beta",
+        "random-generation"
+      ]
+    },
+    {
+      "id": "prob_142",
+      "question": "اكتب دالة تحسب دالة الاحتمال (PMF) للتوزيع ذي الحدين السالب (Negative Binomial)",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "negative-binomial",
+        "PMF"
+      ]
+    },
+    {
+      "id": "prob_143",
+      "question": "اكتب دالة تحسب دالة الاحتمال للتوزيع الهندسي الزائد (Hypergeometric Distribution)",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "hypergeometric",
+        "PMF"
+      ]
+    },
+    {
+      "id": "prob_144",
+      "question": "اكتب دالة تحسب دالة الاحتمال لتوزيع وايبول (Weibull Distribution)",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "weibull",
+        "distribution"
+      ]
+    },
+    {
+      "id": "prob_145",
+      "question": "اكتب دالة تحسب دالة الاحتمال لتوزيع لوجستي (Logistic Distribution)",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "logistic",
+        "distribution"
+      ]
+    },
+    {
+      "id": "prob_146",
+      "question": "اكتب دالة تحسب دالة الاحتمال لتوزيع كوشي (Cauchy Distribution)",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "cauchy",
+        "distribution"
+      ]
+    },
+    {
+      "id": "prob_147",
+      "question": "اكتب دالة تطبق عملية بواسون (Poisson Process) وتحسب أوقات الوصول",
+      "useDeepSeek": true,
+      "tags": [
+        "probability",
+        "poisson-process",
+        "arrival-times"
+      ]
+    },
+    {
+      "id": "prob_148",
+      "question": "اكتب دالة تحسب معامل الارتباط الذاتي (Autocorrelation) لسلسلة زمنية (Time Series)",
+      "useDeepSeek": true,
+      "tags": [
+        "statistics",
+        "autocorrelation",
+        "time-series"
+      ]
+    },
+    {
+      "id": "prob_149",
+      "question": "اكتب دالة تطبق نموذج المتوسطات المتحركة (Moving Average Model - MA(q))",
+      "useDeepSeek": true,
+      "tags": [
+        "time-series",
+        "moving-average",
+        "MA-model"
+      ]
+    },
+    {
+      "id": "prob_150",
+      "question": "اكتب دالة تطبق نموذج الانحدار الذاتي (Autoregressive Model - AR(p))",
+      "useDeepSeek": true,
+      "tags": [
+        "time-series",
+        "autoregressive",
+        "AR-model"
+      ]
+    },
+    {
+      "id": "opt_151",
+      "question": "اكتب دالة تلقى الحد الأدنى (Minimum) لدالة متعددة المتغيرات باستخدام الانحدار التدريجي (Gradient Descent) مع معدل تعلم متكيف",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "gradient-descent",
+        "adaptive-learning"
+      ]
+    },
+    {
+      "id": "opt_152",
+      "question": "اكتب دالة تلقى الحد الأدنى باستخدام طريقة نيوتن (Newton's Method) متعددة المتغيرات",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "newton-method",
+        "multivariate"
+      ]
+    },
+    {
+      "id": "opt_153",
+      "question": "اكتب دالة تلقى الحد الأدنى باستخدام طريقة BFGS (Broyden-Fletcher-Goldfarb-Shanno)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "BFGS",
+        "quasi-newton"
+      ]
+    },
+    {
+      "id": "opt_154",
+      "question": "اكتب دالة تلقى الحد الأدنى باستخدام التلدين المحاكي (Simulated Annealing) مع جدول تبريد",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "simulated-annealing",
+        "cooling-schedule"
+      ]
+    },
+    {
+      "id": "opt_155",
+      "question": "اكتب دالة تطبق الخوارزمية الجينية (Genetic Algorithm) لتحسين دالة مع قيود",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "genetic-algorithm",
+        "constrained"
+      ]
+    },
+    {
+      "id": "opt_156",
+      "question": "اكتب دالة تطبق تحسين سرب الجسيمات (Particle Swarm Optimization - PSO)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "PSO",
+        "swarm-intelligence"
+      ]
+    },
+    {
+      "id": "opt_157",
+      "question": "اكتب دالة تطبق خوارزمية النمل (Ant Colony Optimization) لمشكلة البائع المتجول (TSP)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "ant-colony",
+        "TSP"
+      ]
+    },
+    {
+      "id": "opt_158",
+      "question": "اكتب دالة تطبق مضاعفات لاغرانج (Lagrange Multipliers) لإيجاد القيم القصوى المقيدة",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "lagrange-multipliers",
+        "constrained"
+      ]
+    },
+    {
+      "id": "opt_159",
+      "question": "اكتب دالة تحل مسائل البرمجة الخطية (Linear Programming) باستخدام طريقة السمبلكس (Simplex Method)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "linear-programming",
+        "simplex"
+      ]
+    },
+    {
+      "id": "opt_160",
+      "question": "اكتب دالة تحل مسائل البرمجة الخطية باستخدام طريقة النقطة الداخلية (Interior Point Method)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "linear-programming",
+        "interior-point"
+      ]
+    },
+    {
+      "id": "opt_161",
+      "question": "اكتب دالة تحل مسائل البرمجة التربيعية (Quadratic Programming)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "quadratic-programming"
+      ]
+    },
+    {
+      "id": "opt_162",
+      "question": "اكتب دالة تحل مسائل البرمجة المحدبة (Convex Programming) باستخدام طريقة الحزمة الفرعية (Subgradient Method)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "convex-programming",
+        "subgradient"
+      ]
+    },
+    {
+      "id": "opt_163",
+      "question": "اكتب دالة تحل مسائل البرمجة غير المحدبة باستخدام خوارزمية التفريع والتحديد (Branch and Bound)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "branch-and-bound",
+        "non-convex"
+      ]
+    },
+    {
+      "id": "opt_164",
+      "question": "اكتب دالة تطبق خوارزمية التحسين العشوائي (Stochastic Optimization) باستخدام طريقة أدام (Adam)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "adam",
+        "stochastic"
+      ]
+    },
+    {
+      "id": "opt_165",
+      "question": "اكتب دالة تطبق تحسين بايزي (Bayesian Optimization) لضبط المعاملات الفائقة (Hyperparameters)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "bayesian-optimization",
+        "hyperparameters"
+      ]
+    },
+    {
+      "id": "opt_166",
+      "question": "اكتب دالة تطبق خوارزمية Expectation-Maximization (EM) لتقدير معاملات نموذج خليط غاوسي (GMM)",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "EM-algorithm",
+        "GMM"
+      ]
+    },
+    {
+      "id": "opt_167",
+      "question": "اكتب دالة تحل مشكلة التخصيص الخطي (Linear Assignment Problem) باستخدام الخوارزمية المجرية (Hungarian Algorithm)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "assignment-problem",
+        "hungarian"
+      ]
+    },
+    {
+      "id": "opt_168",
+      "question": "اكتب دالة تحل مشكلة الحقيبة (Knapsack Problem) باستخدام البرمجة الديناميكية (Dynamic Programming)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "knapsack",
+        "dynamic-programming"
+      ]
+    },
+    {
+      "id": "opt_169",
+      "question": "اكتب دالة تحل مشكلة أقصر طريق (Shortest Path) باستخدام خوارزمية ديكسترا (Dijkstra) مع كومة أولوية",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "shortest-path",
+        "dijkstra"
+      ]
+    },
+    {
+      "id": "opt_170",
+      "question": "اكتب دالة تحل مشكلة البائع المتجول (Travelling Salesman Problem) باستخدام البرمجة الديناميكية (Held-Karp)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "TSP",
+        "held-karp"
+      ]
+    },
+    {
+      "id": "opt_171",
+      "question": "اكتب دالة تحل مشكلة التدفق الأقصى (Max Flow) باستخدام خوارزمية فورد-فولكرسون (Ford-Fulkerson)",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "max-flow",
+        "ford-fulkerson"
+      ]
+    },
+    {
+      "id": "opt_172",
+      "question": "اكتب دالة تحل مشكلة الإسناد (Assignment Problem) باستخدام الخوارزمية المجرية (Hungarian Algorithm)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "assignment",
+        "hungarian"
+      ]
+    },
+    {
+      "id": "opt_173",
+      "question": "اكتب دالة تطبق خوارزمية النزول التدريجي العشوائي (Stochastic Gradient Descent - SGD) مع زخم (Momentum)",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "SGD",
+        "momentum"
+      ]
+    },
+    {
+      "id": "opt_174",
+      "question": "اكتب دالة تطبق خوارزمية RMSprop لتحسين الشبكات العصبية",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "RMSprop",
+        "neural-networks"
+      ]
+    },
+    {
+      "id": "opt_175",
+      "question": "اكتب دالة تطبق خوارزمية آدم (Adam) للتحسين التكيفي",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "adam",
+        "adaptive"
+      ]
+    },
+    {
+      "id": "trans_176",
+      "question": "اكتب دالة تطبق تحويل فورييه السريع (Fast Fourier Transform - FFT) باستخدام خوارزمية الفراشة (Butterfly)",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "FFT",
+        "butterfly"
+      ]
+    },
+    {
+      "id": "trans_177",
+      "question": "اكتب دالة تطبق تحويل فورييه السريع المعكوس (Inverse FFT)",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "IFFT"
+      ]
+    },
+    {
+      "id": "trans_178",
+      "question": "اكتب دالة تطبق تحويل جيب التمام المتقطع (Discrete Cosine Transform - DCT) للضغط",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "DCT",
+        "compression"
+      ]
+    },
+    {
+      "id": "trans_179",
+      "question": "اكتب دالة تطبق تحويل جيب التمام المتقطع المعكوس (Inverse DCT)",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "IDCT"
+      ]
+    },
+    {
+      "id": "trans_180",
+      "question": "اكتب دالة تطبق تحويل المويجات المتقطع (Discrete Wavelet Transform - DWT) باستخدام مرشح دوبيشيه (Daubechies)",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "DWT",
+        "wavelet",
+        "daubechies"
+      ]
+    },
+    {
+      "id": "trans_181",
+      "question": "اكتب دالة تطبق تحويل المويجات المعكوس (Inverse DWT)",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "IDWT"
+      ]
+    },
+    {
+      "id": "trans_182",
+      "question": "اكتب دالة تطبق تحويل هارتلي (Hartley Transform)",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "hartley-transform"
+      ]
+    },
+    {
+      "id": "trans_183",
+      "question": "اكتب دالة تطبق تحويل هادامارد (Hadamard Transform)",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "hadamard-transform"
+      ]
+    },
+    {
+      "id": "trans_184",
+      "question": "اكتب دالة تطبق تحويل رادون (Radon Transform) لاكتشاف الخطوط في الصور",
+      "useDeepSeek": true,
+      "tags": [
+        "image-processing",
+        "radon-transform",
+        "line-detection"
+      ]
+    },
+    {
+      "id": "trans_185",
+      "question": "اكتب دالة تطبق تحويل هاف (Hough Transform) لاكتشاف الدوائر",
+      "useDeepSeek": true,
+      "tags": [
+        "image-processing",
+        "hough-transform",
+        "circle-detection"
+      ]
+    },
+    {
+      "id": "trans_186",
+      "question": "اكتب دالة تطبق تحويل كاي-وين (Kaye-Way Transform) للتحليل الطيفي",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "kaye-way-transform"
+      ]
+    },
+    {
+      "id": "trans_187",
+      "question": "اكتب دالة تطبق تحويل هيلبرت (Hilbert Transform) للحصول على الإشارة التحليلية (Analytic Signal)",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "hilbert-transform",
+        "analytic-signal"
+      ]
+    },
+    {
+      "id": "trans_188",
+      "question": "اكتب دالة تطبق تحويل كاي-لويف (Karhunen-Loève Transform) بناءً على PCA",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "karhunen-loeve",
+        "PCA"
+      ]
+    },
+    {
+      "id": "trans_189",
+      "question": "اكتب دالة تطبق تحويل زد (Z-Transform) عددياً لتحليل الإشارات الرقمية",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "z-transform",
+        "digital-signals"
+      ]
+    },
+    {
+      "id": "trans_190",
+      "question": "اكتب دالة تطبق تحويل المويجات المستمر (Continuous Wavelet Transform - CWT)",
+      "useDeepSeek": true,
+      "tags": [
+        "signal-processing",
+        "CWT",
+        "wavelet"
+      ]
+    },
+    {
+      "id": "nt_191",
+      "question": "اكتب دالة تحلل عدداً صحيحاً إلى عوامله الأولية (Prime Factorization) باستخدام خوارزمية ميلر-رابين (Miller-Rabin) للاختبار",
+      "useDeepSeek": true,
+      "tags": [
+        "number-theory",
+        "prime-factorization",
+        "miller-rabin"
+      ]
+    },
+    {
+      "id": "nt_192",
+      "question": "اكتب دالة تلقى القاسم المشترك الأكبر (GCD) لعددين باستخدام خوارزمية إقليدس الموسعة (Extended Euclidean Algorithm)",
+      "useDeepSeek": true,
+      "tags": [
+        "number-theory",
+        "GCD",
+        "extended-euclidean"
+      ]
+    },
+    {
+      "id": "nt_193",
+      "question": "اكتب دالة تلقى المعكوس الضربي (Modular Inverse) في مجال الأعداد الصحيحة بمعامل m",
+      "useDeepSeek": true,
+      "tags": [
+        "number-theory",
+        "modular-inverse"
+      ]
+    },
+    {
+      "id": "nt_194",
+      "question": "اكتب دالة تحل معادلة ديوفانتية خطية (Linear Diophantine Equation) من الشكل ax + by = c",
+      "useDeepSeek": true,
+      "tags": [
+        "number-theory",
+        "diophantine-equation"
+      ]
+    },
+    {
+      "id": "nt_195",
+      "question": "اكتب دالة تطبق اختبار ميلر-رابين (Miller-Rabin Primality Test) بدقة عالية",
+      "useDeepSeek": true,
+      "tags": [
+        "number-theory",
+        "primality-test",
+        "miller-rabin"
+      ]
+    },
+    {
+      "id": "nt_196",
+      "question": "اكتب دالة تولد عدداً أولياً كبيراً (Large Prime) بطول معين من البتات",
+      "useDeepSeek": true,
+      "tags": [
+        "cryptography",
+        "prime-generation"
+      ]
+    },
+    {
+      "id": "nt_197",
+      "question": "اكتب دالة تطبق تشفير RSA (RSA Encryption) وتوليد المفاتيح",
+      "useDeepSeek": true,
+      "tags": [
+        "cryptography",
+        "RSA",
+        "encryption"
+      ]
+    },
+    {
+      "id": "nt_198",
+      "question": "اكتب دالة تطبق توقيع RSA الرقمي (RSA Digital Signature)",
+      "useDeepSeek": true,
+      "tags": [
+        "cryptography",
+        "RSA",
+        "digital-signature"
+      ]
+    },
+    {
+      "id": "nt_199",
+      "question": "اكتب دالة تطبق خوارزمية ديفي-هيلمان (Diffie-Hellman Key Exchange)",
+      "useDeepSeek": true,
+      "tags": [
+        "cryptography",
+        "diffie-hellman",
+        "key-exchange"
+      ]
+    },
+    {
+      "id": "nt_200",
+      "question": "اكتب دالة تحسب الجذر التربيعي النمطي (Modular Square Root) باستخدام خوارزمية شانكس-تونيلي (Shanks-Tonelli)",
+      "useDeepSeek": true,
+      "tags": [
+        "number-theory",
+        "modular-square-root",
+        "tonelli-shanks"
+      ]
+    },
+    {
+      "id": "nt_201",
+      "question": "اكتب دالة تحسب دالة أويلر (Euler's Totient Function) φ(n)",
+      "useDeepSeek": true,
+      "tags": [
+        "number-theory",
+        "euler-totient"
+      ]
+    },
+    {
+      "id": "nt_202",
+      "question": "اكتب دالة تحقق نظرية فيرما الصغرى (Fermat's Little Theorem)",
+      "useDeepSeek": true,
+      "tags": [
+        "number-theory",
+        "fermat-theorem"
+      ]
+    },
+    {
+      "id": "nt_203",
+      "question": "اكتب دالة تحسب الرمز اليعقوبي (Jacobi Symbol)",
+      "useDeepSeek": true,
+      "tags": [
+        "number-theory",
+        "jacobi-symbol"
+      ]
+    },
+    {
+      "id": "nt_204",
+      "question": "اكتب دالة تطبق خوارزمية بولارد-رو (Pollard's Rho) لتحليل الأعداد",
+      "useDeepSeek": true,
+      "tags": [
+        "number-theory",
+        "pollard-rho",
+        "factorization"
+      ]
+    },
+    {
+      "id": "nt_205",
+      "question": "اكتب دالة تطبق خوارزمية بولارد-بي-1 (Pollard's p-1) لتحليل الأعداد",
+      "useDeepSeek": true,
+      "tags": [
+        "number-theory",
+        "pollard-p-1",
+        "factorization"
+      ]
+    },
+    {
+      "id": "nt_206",
+      "question": "اكتب دالة تطبق خوارزمية ليهمان (Lehmann's Algorithm) لاختبار الأولية",
+      "useDeepSeek": true,
+      "tags": [
+        "number-theory",
+        "lehmann",
+        "primality"
+      ]
+    },
+    {
+      "id": "complex_207",
+      "question": "اكتب دالة تحسب جذور الوحدة (Roots of Unity) في المستوى العقدي (Complex Plane)",
+      "useDeepSeek": true,
+      "tags": [
+        "complex-analysis",
+        "roots-of-unity"
+      ]
+    },
+    {
+      "id": "crypto_208",
+      "question": "اكتب دالة تحسب المنحنى الإهليلجي (Elliptic Curve) وتحقق من قانون تجميع النقاط",
+      "useDeepSeek": true,
+      "tags": [
+        "cryptography",
+        "elliptic-curve",
+        "point-addition"
+      ]
+    },
+    {
+      "id": "crypto_209",
+      "question": "اكتب دالة تطبق تشفير ECC (Elliptic Curve Cryptography) مبسط",
+      "useDeepSeek": true,
+      "tags": [
+        "cryptography",
+        "ECC",
+        "encryption"
+      ]
+    },
+    {
+      "id": "crypto_210",
+      "question": "اكتب دالة تطبق خوارزمية التوقيع الرقمي ECDSA (Elliptic Curve Digital Signature Algorithm)",
+      "useDeepSeek": true,
+      "tags": [
+        "cryptography",
+        "ECDSA",
+        "digital-signature"
+      ]
+    },
+    {
+      "id": "num_211",
+      "question": "اكتب دالة تحل جذر معادلة غير خطية باستخدام طريقة نيوتن-رافسون (Newton-Raphson) مع مشتقة عددية",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "newton-raphson",
+        "root-finding"
+      ]
+    },
+    {
+      "id": "num_212",
+      "question": "اكتب دالة تحل جذر معادلة غير خطية باستخدام طريقة القاطع (Secant Method)",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "secant-method",
+        "root-finding"
+      ]
+    },
+    {
+      "id": "num_213",
+      "question": "اكتب دالة تحل جذر معادلة غير خطية باستخدام طريقة مولر (Muller's Method) للمعادلات المركبة",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "muller-method",
+        "root-finding"
+      ]
+    },
+    {
+      "id": "num_214",
+      "question": "اكتب دالة تحل جذر معادلة باستخدام طريقة برينت (Brent's Method) التي تجمع بين التنصيف والاستيفاء التربيعي",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "brent-method",
+        "root-finding"
+      ]
+    },
+    {
+      "id": "num_215",
+      "question": "اكتب دالة تحسب الفرق المقسم (Divided Differences) لاستيفاء نيوتن (Newton Interpolation)",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "divided-differences",
+        "interpolation"
+      ]
+    },
+    {
+      "id": "num_216",
+      "question": "اكتب دالة تطبق استيفاء لاغرانج (Lagrange Interpolation) متعدد الحدود",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "lagrange-interpolation"
+      ]
+    },
+    {
+      "id": "num_217",
+      "question": "اكتب دالة تطبق استيفاء هرميت (Hermite Interpolation) باستخدام المشتقات",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "hermite-interpolation"
+      ]
+    },
+    {
+      "id": "num_218",
+      "question": "اكتب دالة تطبق استيفاء الخطوط العقدية التكعيبية (Cubic Spline Interpolation) مع شرط عدم الجريان",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "cubic-spline",
+        "interpolation"
+      ]
+    },
+    {
+      "id": "num_219",
+      "question": "اكتب دالة تطبق استيفاء ب-سبلاين (B-Spline) من الدرجة الثالثة",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "b-spline",
+        "interpolation"
+      ]
+    },
+    {
+      "id": "num_220",
+      "question": "اكتب دالة تطبق المربعات الصغرى (Least Squares) لتركيب متعدد حدود من أي درجة",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "least-squares",
+        "curve-fitting"
+      ]
+    },
+    {
+      "id": "num_221",
+      "question": "اكتب دالة تطبق تركيب منحنى (Curve Fitting) باستخدام الدوال الأساسية الشعاعية (Radial Basis Functions - RBF)",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "RBF",
+        "curve-fitting"
+      ]
+    },
+    {
+      "id": "num_222",
+      "question": "اكتب دالة تحسب التكامل العددي باستخدام قاعدة رومبيرغ (Romberg Integration)",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "romberg",
+        "integration"
+      ]
+    },
+    {
+      "id": "num_223",
+      "question": "اكتب دالة تحسب التكامل العددي باستخدام قاعدة غاوس-ليجندر (Gauss-Legendre Quadrature) بعدد نقاط متغير",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "gauss-legendre",
+        "quadrature"
+      ]
+    },
+    {
+      "id": "num_224",
+      "question": "اكتب دالة تحسب التكامل العددي باستخدام قاعدة غاوس-لاغير (Gauss-Laguerre Quadrature) للفترات اللانهائية",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "gauss-laguerre",
+        "quadrature"
+      ]
+    },
+    {
+      "id": "num_225",
+      "question": "اكتب دالة تحسب التكامل العددي باستخدام قاعدة غاوس-هيرميت (Gauss-Hermite Quadrature) من -∞ إلى +∞",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "gauss-hermite",
+        "quadrature"
+      ]
+    },
+    {
+      "id": "ode_226",
+      "question": "اكتب دالة تحل معادلة تفاضلية عادية باستخدام طريقة متعددة الخطوات (Multi-step Method) أدامس-باشفورث (Adams-Bashforth)",
+      "useDeepSeek": true,
+      "tags": [
+        "ode",
+        "adams-bashforth",
+        "multi-step"
+      ]
+    },
+    {
+      "id": "ode_227",
+      "question": "اكتب دالة تحل معادلة تفاضلية عادية باستخدام طريقة التصحيح المتوقع (Predictor-Corrector) أدامس-مولتون (Adams-Moulton)",
+      "useDeepSeek": true,
+      "tags": [
+        "ode",
+        "adams-moulton",
+        "predictor-corrector"
+      ]
+    },
+    {
+      "id": "ode_228",
+      "question": "اكتب دالة تحل معادلة تفاضلية عادية باستخدام طريقة الحدود المتعددة (Boundary Value Problem) باستخدام القيم الحدودية",
+      "useDeepSeek": true,
+      "tags": [
+        "ode",
+        "boundary-value-problem",
+        "BVP"
+      ]
+    },
+    {
+      "id": "num_229",
+      "question": "اكتب دالة تحسب مصفوفة جاكوبي (Jacobian Matrix) عددياً لدالة متجهية",
+      "useDeepSeek": true,
+      "tags": [
+        "numerical-methods",
+        "jacobian",
+        "matrix"
+      ]
+    },
+    {
+      "id": "num_230",
+      "question": "اكتب دالة تطبق خوارزمية ليفينبرغ-ماركوارت (Levenberg-Marquardt) لتركيب البيانات غير الخطية",
+      "useDeepSeek": true,
+      "tags": [
+        "optimization",
+        "levenberg-marquardt",
+        "curve-fitting"
+      ]
+    },
+    {
+      "id": "dg_231",
+      "question": "اكتب دالة تحسب انحناء غاوسي (Gaussian Curvature) لسطح معطى بارامترياً",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "gaussian-curvature",
+        "surface"
+      ]
+    },
+    {
+      "id": "dg_232",
+      "question": "اكتب دالة تحسب انحناء متوسط (Mean Curvature) لسطح",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "mean-curvature",
+        "surface"
+      ]
+    },
+    {
+      "id": "dg_233",
+      "question": "اكتب دالة تحسب الرموز المسيحية (Christoffel Symbols) من النوع الأول والثاني",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "christoffel-symbols"
+      ]
+    },
+    {
+      "id": "dg_234",
+      "question": "اكتب دالة تحسب موتر ريمان (Riemann Curvature Tensor) لسطح ثنائي الأبعاد",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "riemann-tensor",
+        "curvature"
+      ]
+    },
+    {
+      "id": "dg_235",
+      "question": "اكتب دالة تحسب موتر ريتشي (Ricci Tensor) وانحناء قياسي (Scalar Curvature)",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "ricci-tensor",
+        "scalar-curvature"
+      ]
+    },
+    {
+      "id": "dg_236",
+      "question": "اكتب دالة تحسب الجيوديسية (Geodesic) بين نقطتين على سطح كرة",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "geodesic",
+        "sphere"
+      ]
+    },
+    {
+      "id": "dg_237",
+      "question": "اكتب دالة تحقق من معادلات غاوس-كوداتزي (Gauss-Codazzi Equations) للسطح",
+      "useDeepSeek": true,
+      "tags": [
+        "differential-geometry",
+        "gauss-codazzi"
+      ]
+    },
+    {
+      "id": "fractal_238",
+      "question": "اكتب دالة تحسب شكل بسيط لكسير مندلبروت (Mandelbrot Fractal) باستخدام الأعداد العقدية",
+      "useDeepSeek": true,
+      "tags": [
+        "fractals",
+        "mandelbrot",
+        "complex-numbers"
+      ]
+    },
+    {
+      "id": "fractal_239",
+      "question": "اكتب دالة تحسب كسير جوليا (Julia Set) لدالة تربيعية",
+      "useDeepSeek": true,
+      "tags": [
+        "fractals",
+        "julia-set",
+        "complex-dynamics"
+      ]
+    },
+    {
+      "id": "fractal_240",
+      "question": "اكتب دالة تحسب البعد الكسيري (Fractal Dimension) باستخدام طريقة عد الصناديق (Box Counting)",
+      "useDeepSeek": true,
+      "tags": [
+        "fractals",
+        "fractal-dimension",
+        "box-counting"
+      ]
+    },
+    {
+      "id": "fractal_241",
+      "question": "اكتب دالة تولد إسفنجة مينغر (Menger Sponge) بتكرار معين",
+      "useDeepSeek": true,
+      "tags": [
+        "fractals",
+        "menger-sponge",
+        "3d-fractal"
+      ]
+    },
+    {
+      "id": "fractal_242",
+      "question": "اكتب دالة تولد مثلث سيربينسكي (Sierpinski Triangle) باستخدام نظام الدوال المتكررة (IFS)",
+      "useDeepSeek": true,
+      "tags": [
+        "fractals",
+        "sierpinski-triangle",
+        "IFS"
+      ]
+    },
+    {
+      "id": "fractal_243",
+      "question": "اكتب دالة تولد سرخس بارنسلي (Barnsley Fern) باستخدام نظام الدوال المتكررة",
+      "useDeepSeek": true,
+      "tags": [
+        "fractals",
+        "barnsley-fern",
+        "IFS"
+      ]
+    },
+    {
+      "id": "fractal_244",
+      "question": "اكتب دالة تولد كسير سيربينسكي (Sierpinski Carpet)",
+      "useDeepSeek": true,
+      "tags": [
+        "fractals",
+        "sierpinski-carpet"
+      ]
+    },
+    {
+      "id": "fractal_245",
+      "question": "اكتب دالة تولد كسير دراجون (Dragon Curve) باستخدام نظام L (L-system)",
+      "useDeepSeek": true,
+      "tags": [
+        "fractals",
+        "dragon-curve",
+        "L-system"
+      ]
+    },
+    {
+      "id": "graph_246",
+      "question": "اكتب دالة تلقى أقصر طريق (Shortest Path) بين عقدتين في مخطط (Graph) باستخدام خوارزمية ديكسترا (Dijkstra)",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "shortest-path",
+        "dijkstra"
+      ]
+    },
+    {
+      "id": "graph_247",
+      "question": "اكتب دالة تلقى أقصر طريق بين جميع الأزواج باستخدام خوارزمية فلويد-وارشال (Floyd-Warshall)",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "shortest-path",
+        "floyd-warshall"
+      ]
+    },
+    {
+      "id": "graph_248",
+      "question": "اكتب دالة تلقى الشجرة الممتدة الدنيا (Minimum Spanning Tree) باستخدام خوارزمية كروسكال (Kruskal)",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "MST",
+        "kruskal"
+      ]
+    },
+    {
+      "id": "graph_249",
+      "question": "اكتب دالة تلقى الشجرة الممتدة الدنيا باستخدام خوارزمية بريم (Prim)",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "MST",
+        "prim"
+      ]
+    },
+    {
+      "id": "graph_250",
+      "question": "اكتب دالة تتحقق إذا كان المخطط ثنائي الأجزاء (Bipartite Graph)",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "bipartite",
+        "coloring"
+      ]
+    },
+    {
+      "id": "graph_251",
+      "question": "اكتب دالة تلقى التلوين الأمثل للمخطط (Graph Coloring) باستخدام خوارزمية الجشع",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "graph-coloring",
+        "greedy"
+      ]
+    },
+    {
+      "id": "graph_252",
+      "question": "اكتب دالة تتحقق من وجود مسار أويلري (Eulerian Path) في مخطط",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "eulerian-path"
+      ]
+    },
+    {
+      "id": "graph_253",
+      "question": "اكتب دالة تتحقق من وجود مسار هاملتوني (Hamiltonian Path) باستخدام التراجع (Backtracking)",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "hamiltonian-path",
+        "backtracking"
+      ]
+    },
+    {
+      "id": "graph_254",
+      "question": "اكتب دالة تلقى المكونات شديدة الارتباط (Strongly Connected Components) باستخدام خوارزمية كوساراجو (Kosaraju)",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "SCC",
+        "kosaraju"
+      ]
+    },
+    {
+      "id": "graph_255",
+      "question": "اكتب دالة تلقى المكونات شديدة الارتباط باستخدام خوارزمية تارجان (Tarjan)",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "SCC",
+        "tarjan"
+      ]
+    },
+    {
+      "id": "graph_256",
+      "question": "اكتب دالة تلقى الجسور (Bridges) في مخطط باستخدام خوارزمية تارجان",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "bridges",
+        "tarjan"
+      ]
+    },
+    {
+      "id": "graph_257",
+      "question": "اكتب دالة تلقى نقاط القطع (Articulation Points) في مخطط",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "articulation-points"
+      ]
+    },
+    {
+      "id": "graph_258",
+      "question": "اكتب دالة تحسب عدد المخططات (Graphs) المختلفة بعدد معين من العقد",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "graph-counting",
+        "combinatorics"
+      ]
+    },
+    {
+      "id": "graph_259",
+      "question": "اكتب دالة تطبق خوارزمية التدفق الأقصى (Max Flow) باستخدام خوارزمية دينيتش (Dinic's Algorithm)",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "max-flow",
+        "dinic"
+      ]
+    },
+    {
+      "id": "graph_260",
+      "question": "اكتب دالة تحل مشكلة التطابق الأقصى (Maximum Matching) في مخطط ثنائي الأجزاء باستخدام خوارزمية هوبكروفت-كارب (Hopcroft-Karp)",
+      "useDeepSeek": true,
+      "tags": [
+        "graph-theory",
+        "matching",
+        "hopcroft-karp"
+      ]
+    },
+    {
+      "id": "phys_261",
+      "question": "اكتب دالة تحسب مسار قذيفة (Projectile Motion) مع مقاومة هواء خطية وغير خطية",
+      "useDeepSeek": true,
+      "tags": [
+        "physics",
+        "projectile-motion",
+        "air-resistance"
+      ]
+    },
+    {
+      "id": "phys_262",
+      "question": "اكتب دالة تحسب حركة البندول البسيط غير الخطي (Nonlinear Pendulum) باستخدام RK4",
+      "useDeepSeek": true,
+      "tags": [
+        "physics",
+        "pendulum",
+        "nonlinear",
+        "RK4"
+      ]
+    },
+    {
+      "id": "phys_263",
+      "question": "اكتب دالة تحسب حركة البندول المزدوج (Double Pendulum) باستخدام ميكانيكا لاغرانج (Lagrangian Mechanics)",
+      "useDeepSeek": true,
+      "tags": [
+        "physics",
+        "double-pendulum",
+        "lagrangian"
+      ]
+    },
+    {
+      "id": "phys_264",
+      "question": "اكتب دالة تحسب مدار كوكب (Planetary Orbit) باستخدام قانون الجذب العام لنيوتن (Newton's Law of Gravitation)",
+      "useDeepSeek": true,
+      "tags": [
+        "physics",
+        "orbital-mechanics",
+        "newton-gravity"
+      ]
+    },
+    {
+      "id": "phys_265",
+      "question": "اكتب دالة تحسب مدار جسم تحت تأثير قوة الجذب باستخدام خوارزمية فيربلت (Verlet Integration)",
+      "useDeepSeek": true,
+      "tags": [
+        "physics",
+        "verlet-integration",
+        "orbital"
+      ]
+    },
+    {
+      "id": "phys_266",
+      "question": "اكتب دالة تحسب توزيع الحرارة (Heat Distribution) في قضيب معدني ثنائي الأبعاد باستخدام PDE مع شرط حدودي متغير",
+      "useDeepSeek": true,
+      "tags": [
+        "physics",
+        "heat-distribution",
+        "PDE"
+      ]
+    },
+    {
+      "id": "phys_267",
+      "question": "اكتب دالة تحسب الاهتزازات الميكانيكية (Mechanical Vibrations) لنظام مع تخميد (Damping) غير خطي",
+      "useDeepSeek": true,
+      "tags": [
+        "physics",
+        "vibrations",
+        "nonlinear-damping"
+      ]
+    },
+    {
+      "id": "phys_268",
+      "question": "اكتب دالة تحسب تدفق الموائع (Fluid Flow) باستخدام معادلات أويلر (Euler Equations) المبسطة",
+      "useDeepSeek": true,
+      "tags": [
+        "fluid-dynamics",
+        "euler-equations",
+        "flow"
+      ]
+    },
+    {
+      "id": "phys_269",
+      "question": "اكتب دالة تحسب انتشار الملوثات (Pollutant Dispersion) في نهر باستخدام معادلة الانتشار-الحمل (Advection-Diffusion)",
+      "useDeepSeek": true,
+      "tags": [
+        "physics",
+        "pollutant-dispersion",
+        "advection-diffusion"
+      ]
+    },
+    {
+      "id": "phys_270",
+      "question": "اكتب دالة تحسب المجال الكهربائي (Electric Field) لتوزيع شحنات نقطية باستخدام قانون كولوم (Coulomb's Law)",
+      "useDeepSeek": true,
+      "tags": [
+        "electromagnetism",
+        "electric-field",
+        "coulomb"
+      ]
+    },
+    {
+      "id": "phys_271",
+      "question": "اكتب دالة تحسب الجهد الكهربائي (Electric Potential) لتوزيع شحنات مستمر",
+      "useDeepSeek": true,
+      "tags": [
+        "electromagnetism",
+        "electric-potential"
+      ]
+    },
+    {
+      "id": "phys_272",
+      "question": "اكتب دالة تحسب المجال المغناطيسي (Magnetic Field) لسلك مستقيم يحمل تياراً باستخدام قانون بيوت-سافار (Biot-Savart)",
+      "useDeepSeek": true,
+      "tags": [
+        "electromagnetism",
+        "magnetic-field",
+        "biot-savart"
+      ]
+    },
+    {
+      "id": "phys_273",
+      "question": "اكتب دالة تحسب الدارة RLC (RLC Circuit) وتحلل استجابة التيار والجهد مع مرور الزمن",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "RLC-circuit",
+        "transient-response"
+      ]
+    },
+    {
+      "id": "phys_274",
+      "question": "اكتب دالة تحسب معامل الانعكاس (Reflection Coefficient) والموجات الدائمة في خطوط النقل (Transmission Lines)",
+      "useDeepSeek": true,
+      "tags": [
+        "electrical",
+        "transmission-lines",
+        "reflection"
+      ]
+    },
+    {
+      "id": "quantum_275",
+      "question": "اكتب دالة تحسب التوزيع الاحتمالي (Probability Distribution) لجسيم كمي في بئر جهد (Potential Well) باستخدام حل معادلة شريودنغر (Schrödinger)",
+      "useDeepSeek": true,
+      "tags": [
+        "quantum",
+        "schrodinger",
+        "potential-well"
+      ]
+    },
+    {
+      "id": "quantum_276",
+      "question": "اكتب دالة تحسب معامل الانعكاس والنفاذ (Reflection and Transmission Coefficients) لحاجز جهد (Potential Barrier)",
+      "useDeepSeek": true,
+      "tags": [
+        "quantum",
+        "potential-barrier",
+        "tunneling"
+      ]
+    },
+    {
+      "id": "quantum_277",
+      "question": "اكتب دالة تحسب طاقة الحالة الأرضية (Ground State Energy) لهزاز توافقي كمي (Quantum Harmonic Oscillator)",
+      "useDeepSeek": true,
+      "tags": [
+        "quantum",
+        "harmonic-oscillator",
+        "ground-state"
+      ]
+    },
+    {
+      "id": "relativity_278",
+      "question": "اكتب دالة تحسب تحويل لورنتز (Lorentz Transformation) للنسبية الخاصة بين إطارين مرجعيين",
+      "useDeepSeek": true,
+      "tags": [
+        "relativity",
+        "lorentz-transformation",
+        "special-relativity"
+      ]
+    },
+    {
+      "id": "relativity_279",
+      "question": "اكتب دالة تحسب تمدد الزمن (Time Dilation) وانكماش الطول (Length Contraction) في النسبية الخاصة",
+      "useDeepSeek": true,
+      "tags": [
+        "relativity",
+        "time-dilation",
+        "length-contraction"
+      ]
+    },
+    {
+      "id": "phys_280",
+      "question": "اكتب دالة تحسب الزاوية الحرجة (Critical Angle) ومعامل الانكسار (Refractive Index) لوسطين",
+      "useDeepSeek": true,
+      "tags": [
+        "optics",
+        "critical-angle",
+        "refraction"
+      ]
+    },
+    {
+      "id": "ml_281",
+      "question": "اكتب دالة تطبق الانتشار العكسي (Backpropagation) لشبكة عصبية (Neural Network) بطبقة خفية واحدة",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "backpropagation",
+        "neural-network"
+      ]
+    },
+    {
+      "id": "ml_282",
+      "question": "اكتب دالة تطبق خوارزمية k-أقرب جار (K-Nearest Neighbors - KNN) مع مسافة إقليدية (Euclidean Distance)",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "KNN",
+        "classification"
+      ]
+    },
+    {
+      "id": "ml_283",
+      "question": "اكتب دالة تطبق مصنف بايز الساذج (Naive Bayes Classifier) للبيانات المستمرة باستخدام التوزيع الطبيعي",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "naive-bayes",
+        "classification"
+      ]
+    },
+    {
+      "id": "ml_284",
+      "question": "اكتب دالة تطبق آلة المتجهات الداعمة (Support Vector Machine - SVM) باستخدام kernel خطي",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "SVM",
+        "classification"
+      ]
+    },
+    {
+      "id": "ml_285",
+      "question": "اكتب دالة تطبق آلة المتجهات الداعمة مع kernel RBF (Radial Basis Function)",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "SVM",
+        "RBF-kernel"
+      ]
+    },
+    {
+      "id": "ml_286",
+      "question": "اكتب دالة تطبق شجرة القرار (Decision Tree) باستخدام معيار جيني (Gini Impurity) أو إنتروبيا (Entropy)",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "decision-tree",
+        "gini",
+        "entropy"
+      ]
+    },
+    {
+      "id": "ml_287",
+      "question": "اكتب دالة تطبق غابة عشوائية (Random Forest) مع عدة أشجار قرار",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "random-forest",
+        "ensemble"
+      ]
+    },
+    {
+      "id": "ml_288",
+      "question": "اكتب دالة تطبق تعزيز التدرج (Gradient Boosting) المبسط (مثل XGBoost الأساسي)",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "gradient-boosting",
+        "XGBoost"
+      ]
+    },
+    {
+      "id": "ml_289",
+      "question": "اكتب دالة تطبق تحليل المكونات الرئيسية (PCA) لتصغير الأبعاد",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "PCA",
+        "dimensionality-reduction"
+      ]
+    },
+    {
+      "id": "ml_290",
+      "question": "اكتب دالة تطبق مصفوفة الارتباك (Confusion Matrix) وتحسب الدقة (Accuracy) والاستدعاء (Recall) والدقة الإيجابية (Precision) ودرجة F1",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "confusion-matrix",
+        "metrics"
+      ]
+    },
+    {
+      "id": "ml_291",
+      "question": "اكتب دالة تطبق ضبط المعاملات الفائقة (Hyperparameter Tuning) باستخدام البحث الشبكي (Grid Search)",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "hyperparameter-tuning",
+        "grid-search"
+      ]
+    },
+    {
+      "id": "ml_292",
+      "question": "اكتب دالة تطبق التحقق المتقاطع (Cross Validation) من النوع k-fold",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "cross-validation",
+        "k-fold"
+      ]
+    },
+    {
+      "id": "ml_293",
+      "question": "اكتب دالة تطبق دالة الخسارة (Loss Functions) المختلفة: MSE, MAE, Huber, Binary Cross-Entropy, Categorical Cross-Entropy",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "loss-functions",
+        "optimization"
+      ]
+    },
+    {
+      "id": "ml_294",
+      "question": "اكتب دالة تطبق معامل التنظيم (Regularization) L1 (Lasso) و L2 (Ridge) في الانحدار الخطي",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "regularization",
+        "L1",
+        "L2"
+      ]
+    },
+    {
+      "id": "ml_295",
+      "question": "اكتب دالة تطبق الشبكة العصبية الالتفافية (Convolutional Neural Network - CNN) المبسطة مع طبقة Convolution و Pooling",
+      "useDeepSeek": true,
+      "tags": [
+        "deep-learning",
+        "CNN",
+        "convolution",
+        "pooling"
+      ]
+    },
+    {
+      "id": "ml_296",
+      "question": "اكتب دالة تطبق طبقة الانتباه الذاتي (Self-Attention) الأساسية المستخدمة في محولات (Transformers)",
+      "useDeepSeek": true,
+      "tags": [
+        "deep-learning",
+        "self-attention",
+        "transformers"
+      ]
+    },
+    {
+      "id": "ml_297",
+      "question": "اكتب دالة تطبق نموذج المزيج الغاوسي (Gaussian Mixture Model - GMM) باستخدام خوارزمية Expectation-Maximization",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "GMM",
+        "EM-algorithm"
+      ]
+    },
+    {
+      "id": "ml_298",
+      "question": "اكتب دالة تطبق التجميع العنقودي DBSCAN (Density-Based Spatial Clustering)",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "DBSCAN",
+        "clustering"
+      ]
+    },
+    {
+      "id": "ml_299",
+      "question": "اكتب دالة تطبق خوارزمية التجميع العنقودي K-Means++ لتحسين اختيار المراكز الأولية",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "k-means++",
+        "clustering"
+      ]
+    },
+    {
+      "id": "ml_300",
+      "question": "اكتب دالة تطبق معامل الصورة الظلية (Silhouette Score) لتقييم جودة التجميع العنقودي",
+      "useDeepSeek": true,
+      "tags": [
+        "machine-learning",
+        "silhouette-score",
+        "clustering-evaluation"
+      ]
+    }
+  ]
+}
