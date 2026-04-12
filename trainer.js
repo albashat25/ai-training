@@ -1,58 +1,53 @@
 const fs = require('fs');
 
-// قراءة الأسئلة
+// قراءة الأسئلة - تأكد أن ملف questions_batch1.json يبدأ بـ [ وينتهي بـ ]
 const questionsFile = 'questions_batch1.json';
 if (!fs.existsSync(questionsFile)) {
   console.error(`❌ خطأ: الملف ${questionsFile} غير موجود!`);
   process.exit(1);
 }
 
-const questions = JSON.parse(fs.readFileSync(questionsFile, 'utf8'));
-const DEEPSEEK_KEY = process.env.DEEPSEEK_API_KEY;
+let questions;
+try {
+  questions = JSON.parse(fs.readFileSync(questionsFile, 'utf8'));
+  // إذا كان الملف كائن يحتوي على مصفوفة، نأخذ المصفوفة
+  if (!Array.isArray(questions) && questions.questions) {
+    questions = questions.questions;
+  }
+} catch (e) {
+  console.error("❌ خطأ في تنسيق ملف JSON الأسئلة!");
+  process.exit(1);
+}
 
-// بيانات Cloudflare
+const DEEPSEEK_KEY = process.env.DEEPSEEK_API_KEY;
 const CF_ACCOUNT_ID = process.env.CF_ACCOUNT_ID;
 const CF_API_TOKEN = process.env.CF_API_TOKEN;
 const KV_NAMESPACE_ID = process.env.KV_NAMESPACE_ID;
 
-console.log(`🔍 فحص البيانات:`);
-console.log(`DEEPSEEK_KEY: ${DEEPSEEK_KEY ? '✅ موجود' : '❌ مفقود'}`);
-console.log(`CF_ACCOUNT_ID: ${CF_ACCOUNT_ID ? '✅ موجود' : '❌ مفقود'}`);
-console.log(`CF_API_TOKEN: ${CF_API_TOKEN ? '✅ موجود' : '❌ مفقود'}`);
-console.log(`KV_NAMESPACE_ID: ${KV_NAMESPACE_ID ? '✅ موجود' : '❌ مفقود'}`);
-
-if (!DEEPSEEK_KEY) {
-  console.error(`❌ خطأ: DEEPSEEK_API_KEY غير موجود!`);
+console.log(`🔍 فحص البيئة...`);
+if (!DEEPSEEK_KEY || !CF_ACCOUNT_ID || !CF_API_TOKEN || !KV_NAMESPACE_ID) {
+  console.error(`❌ خطأ: بعض مفاتيح الربط (Secrets) مفقودة!`);
   process.exit(1);
 }
 
-if (!CF_ACCOUNT_ID || !CF_API_TOKEN || !KV_NAMESPACE_ID) {
-  console.error(`❌ خطأ: بيانات Cloudflare غير مكتملة!`);
-  process.exit(1);
-}
+console.log(`🚀 بدء معالجة ${questions.length} سؤال لتدريب Nashmi AI`);
 
-console.log(`🚀 بدء معالجة ${questions.length} سؤال`);
-
-// دالة لحفظ الجواب في Cloudflare KV مع طباعة تفاصيل أكثر
 async function saveToKV(key, value) {
   const url = `https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/storage/kv/namespaces/${KV_NAMESPACE_ID}/values/${key}`;
-  console.log(`📤 محاولة حفظ: ${key}`);
   
   const response = await fetch(url, {
     method: 'PUT',
     headers: {
       'Authorization': `Bearer ${CF_API_TOKEN}`,
-      'Content-Type': 'application/json'
+      'Content-Type': 'text/plain' // KV يفضل text/plain للقيم المخزنة
     },
-    body: JSON.stringify(value)
+    body: typeof value === 'string' ? value : JSON.stringify(value)
   });
   
   if (!response.ok) {
-    const errorText = await response.text();
-    console.error(`❌ فشل الحفظ: ${response.status} - ${errorText}`);
-    throw new Error(`فشل الحفظ في KV: ${response.statusText}`);
+    const error = await response.text();
+    throw new Error(`Cloudflare Error: ${response.status} - ${error}`);
   }
-  console.log(`✅ تم الحفظ بنجاح: ${key}`);
   return true;
 }
 
@@ -63,11 +58,9 @@ async function processAll() {
   for (let i = 0; i < questions.length; i++) {
     const q = questions[i];
     const questionId = q.id || `q_${i+1}`;
-    console.log(`\n[${i+1}/${questions.length}] معالجة: ${questionId}`);
+    console.log(`\n[${i+1}/${questions.length}] جاري تدريب: ${questionId}`);
     
     try {
-      // استدعاء DeepSeek API
-      console.log(`🔄 جاري الاتصال بـ DeepSeek API...`);
       const response = await fetch('https://api.deepseek.com/chat/completions', {
         method: 'POST',
         headers: {
@@ -79,53 +72,50 @@ async function processAll() {
           messages: [
             { 
               role: 'system', 
-              content: 'أنت خبير هندسة متقدم جداً. أجب بالعربية مع شرح وافي وكود كامل إن أمكن.' 
+              content: 'أنت خبير هندسي أردني، أجب بلهجة أردنية تقنية مهذبة، قدم شروحات دقيقة وكود برمجياً كاملاً إذا لزم الأمر.' 
             },
             { role: 'user', content: q.question }
           ],
-          temperature: 0.7,
-          max_tokens: 4000
+          temperature: 0.5 // تقليل العشوائية لزيادة دقة التدريب
         })
       });
       
-      if (!response.ok) {
-        const errorText = await response.text();
-        throw new Error(`API Error ${response.status}: ${errorText}`);
-      }
+      if (!response.ok) throw new Error(`DeepSeek API Error: ${response.status}`);
       
       const data = await response.json();
-      const answer = data.choices[0].message.content;
-      console.log(`📝 تم استلام الجواب (${answer.length} حرف)`);
-      
-      // تحضير البيانات
-      const conversationId = `${questionId}_${Date.now()}`;
-      const conversation = {
-        id: conversationId,
-        timestamp: new Date().toISOString(),
-        messages: [
-          { role: 'user', content: q.question },
-          { role: 'assistant', content: answer }
-        ]
+      const aiAnswer = data.choices[0].message.content;
+
+      // التنسيق المخصص للتدريب (Fine-tuning format)
+      const trainingData = {
+        instruction: q.question,
+        input: "",
+        output: aiAnswer,
+        metadata: {
+          source: "Nashmi_Training_v1",
+          tags: q.tags || [],
+          timestamp: new Date().toISOString()
+        }
       };
       
-      // حفظ في Cloudflare KV
-      const kvKey = `training/${conversationId}.json`;
-      await saveToKV(kvKey, conversation);
+      // اسم الملف في الكلاود فلير (نضعه في مجلد training_data ليسهل الوصول إليه)
+      const kvKey = `training_data/${questionId}`;
+      await saveToKV(kvKey, trainingData);
       
-      console.log(`✅ تم حفظ: ${questionId}`);
+      console.log(`✅ تم الحفظ بنجاح في الكلاود فلير`);
       successCount++;
       
     } catch (err) {
-      console.error(`❌ فشل: ${questionId} - ${err.message}`);
+      console.error(`❌ فشل في ${questionId}: ${err.message}`);
       failCount++;
     }
     
-    // انتظر 2 ثانية بين كل سؤال
-    await new Promise(r => setTimeout(r, 2000));
+    // انتظار بسيط لتجنب الـ Rate Limit
+    await new Promise(r => setTimeout(r, 1500));
   }
   
-  console.log(`\n🎉 اكتملت المعالجة!`);
-  console.log(`📊 نجاح: ${successCount}, فشل: ${failCount}`);
+  console.log(`\n--- 📊 ملخص العملية ---`);
+  console.log(`✅ نجاح: ${successCount}`);
+  console.log(`❌ فشل: ${failCount}`);
 }
 
 processAll();
