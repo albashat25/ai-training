@@ -1,7 +1,6 @@
 const fs = require('fs');
 
-// قراءة الأسئلة - تأكد أن ملف questions_batch1.json يبدأ بـ [ وينتهي بـ ]
-const questionsFile = 'questions_batch2.json';
+const questionsFile = 'test.json';
 if (!fs.existsSync(questionsFile)) {
   console.error(`❌ خطأ: الملف ${questionsFile} غير موجود!`);
   process.exit(1);
