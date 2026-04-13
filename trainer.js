@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // قراءة الأسئلة - تأكد أن ملف questions_batch1.json يبدأ بـ [ وينتهي بـ ]
-const questionsFile = 'questions_batch1.json';
+const questionsFile = 'questions_batch2.json';
 if (!fs.existsSync(questionsFile)) {
   console.error(`❌ خطأ: الملف ${questionsFile} غير موجود!`);
   process.exit(1);
@@ -62,23 +62,27 @@ async function processAll() {
     
     try {
       const response = await fetch('https://api.deepseek.com/chat/completions', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${DEEPSEEK_KEY}`
-        },
-        body: JSON.stringify({
-          model: 'deepseek-chat',
-          messages: [
-            { 
-              role: 'system', 
-              content: 'أنت خبير هندسي أردني، أجب بلهجة أردنية تقنية مهذبة، قدم شروحات دقيقة وكود برمجياً كاملاً إذا لزم الأمر.' 
-            },
-            { role: 'user', content: q.question }
-          ],
-          temperature: 0.5 // تقليل العشوائية لزيادة دقة التدريب
-        })
-      });
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'Authorization': `Bearer ${DEEPSEEK_KEY}`
+  },
+  body: JSON.stringify({
+    model: 'deepseek-chat',
+    messages: [
+      { 
+        role: 'system', 
+        content: 'أنت خبير قانوني أردني وخبير إدارة أعمال ومحاسب قانوني. أجب بلهجة أردنية مهنية. قم بتحليل السيناريو المطلوب من وجهة نظر المهنة المذكورة (قاضي، محامي، مدير عام، مدقق حسابات، إلخ). اشرح خطواتك ومنطق تفكيرك بالتفصيل. قدم توصياتك النهائية بوضوح.'
+      },
+      { role: 'user', content: q.question }
+    ],
+    temperature: 0.3,        // أقل من 0.5 لدقة أعلى (قانوني/مالي)
+    max_tokens: 4000,        // للأجوبة الطويلة (زي ما عندك)
+    top_p: 0.9,              // مثل ما عندك، ممتاز
+    frequency_penalty: 0.5,  // يقلل التكرار
+    presence_penalty: 0.4    // يشجع على طرح أفكار جديدة
+  })
+});
       
       if (!response.ok) throw new Error(`DeepSeek API Error: ${response.status}`);
       
@@ -110,7 +114,7 @@ async function processAll() {
     }
     
     // انتظار بسيط لتجنب الـ Rate Limit
-    await new Promise(r => setTimeout(r, 1500));
+    await new Promise(r => setTimeout(r, 3000));
   }
   
   console.log(`\n--- 📊 ملخص العملية ---`);
