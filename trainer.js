@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const questionsFile = 'question_bath2.json';
+const questionsFile = 'questions_batch2.json';
 if (!fs.existsSync(questionsFile)) {
   console.error(`❌ خطأ: الملف ${questionsFile} غير موجود!`);
   process.exit(1);
