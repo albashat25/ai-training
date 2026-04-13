@@ -1,6 +1,12 @@
 [
   {
     "id": "test_1",
-    "scenario": "تجربة قصيرة"
+   "scenario": "تجربة قصيرة",
+    "useDeepSeek": true,
+      "tags": [
+        "civil",
+        "loads",
+        "jordanian-code"
+      ]
   }
 ]
