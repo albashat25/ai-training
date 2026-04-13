@@ -6,7 +6,7 @@ on:
 jobs:
   train:
     runs-on: ubuntu-latest
-    timeout-minutes: 600
+    timeout-minutes: 800
     # 🛠️ هذي هي الإضافة السحرية: تجبر GitHub يستخدم Node.js 24 من الآن
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
