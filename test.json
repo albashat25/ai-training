@@ -1,7 +1,7 @@
 [
   {
     "id": "test_1",
-   "scenario": "تجربة قصيرة",
+   "question": "تجربة قصيرة",
     "useDeepSeek": true,
       "tags": [
         "civil",
