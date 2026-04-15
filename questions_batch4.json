@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "adv_001",
+    "question": "اكتب function تنفذ خوارزمية Quicksort مع اختيار pivot عشوائي و median-of-three، ومعالجة الحالة الأسوأ (worst-case)، وتكون in-place (لا تستخدم مساحة إضافية)، وتدعم فرز الأرقام والسلاسل (strings) والكائنات (objects) بناءً على خاصية محددة، مع تحليل التعقيد الزمني (time complexity) والمكاني (space complexity)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_002",
+    "question": "اكتب function تنفذ خوارزمية Mergesort مع دمج in-place (بدون مساحة إضافية)، مع تحسين الأداء للـ arrays الصغيرة باستخدام Insertion Sort، وتكون stable، وتدعم الفرز على معايير متعددة (multi-key sorting) وتقبل دالة مقارنة (comparator function) مخصصة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_003",
+    "question": "اكتب function تنفذ خوارزمية Heapsort من الصفر، مع تنفيذ بنية البيانات Heap (Max-Heap و Min-Heap) يدوياً (بدون استخدام مكتبات جاهزة)، مع دعم عمليات insert و extract و heapify و heap sort",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_004",
+    "question": "اكتب function تنفذ خوارزمية Counting Sort للتعامل مع الأعداد الصحيحة في نطاق محدد، مع دعم الأرقام السالبة، وتكون stable، وتحليل الوقت المناسب لاستخدامها (متى تكون أفضل من quicksort/mergesort)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_005",
+    "question": "اكتب function تنفذ خوارزمية Radix Sort (فرز أساسي) للأعداد الصحيحة والسلاسل (strings)، مع دعم فرز السلاسل بأطوال مختلفة، واختيار الأساس (base) المناسب، مع تحليل التعقيد الزمني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_006",
+    "question": "اكتب function تنفذ خوارزمية Bucket Sort لتوزيع البيانات في دلاء (buckets) ثم فرز كل دلو باستخدام خوارزمية فرز مناسبة، مع تحليل الحالات المثالية والأسوأ، ودعم توزيعات البيانات المختلفة (uniform, normal, exponential)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_007",
+    "question": "اكتب function تنفذ خوارزمية Timsort (الفرز المستخدم في Python و Java) تجمع بين Merge sort و Insertion sort، مع معالجة الـ runs (التسلسلات المرتبة) وتحسين الأداء للبيانات المرتبة جزئياً (partially sorted data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_008",
+    "question": "اكتب function تنفذ البحث الثنائي (Binary Search) في array مرتب، مع دعم البحث عن أول وآخر occurrence للقيمة المطلوبة (lower bound و upper bound)، والبحث في array دائري (rotated sorted array)، والبحث عن أقرب قيمة (closest element)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_009",
+    "question": "اكتب function تنفذ خوارزمية Exponential Search للبحث في arrays مرتبة طويلة جداً، تجمع بين البحث الثنائي (binary search) وتوسيع النطاق (range expansion)، مع تحليل الوقت المناسب لاستخدامها (متى تكون أفضل من binary search)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_010",
+    "question": "اكتب function تنفذ خوارزمية Interpolation Search للبحث في arrays مرتبة موزعة بشكل موحد (uniformly distributed)، مع دعم الحالات الأسوأ والتحول إلى binary search عند فشل الاستيفاء (interpolation)، وتحليل التعقيد الزمني المتوسط والأسوأ",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_011",
+    "question": "اكتب function تنفذ خوارزمية Ternary Search للبحث عن الحد الأقصى لدالة unimodal (دالة تزيد ثم تنقص أو العكس) في فترة زمنية، مع دقة قابلة للتحديد (precision)، وتحليل عدد التكرارات المطلوبة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_012",
+    "question": "اكتب function تنفذ خوارزمية Jump Search للبحث في arrays مرتبة، مع تحديد حجم القفزة (block size) الأمثل بناءً على حجم الـ array، ومقارنة الأداء مع binary search",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_013",
+    "question": "اكتب implementation كامل لـ Hash Table من الصفر مع معالجة التصادمات (collisions) باستخدام: (أ) Chaining (قوائم مرتبطة)، (ب) Open Addressing (Linear Probing، Quadratic Probing، Double Hashing)، مع دعم dynamic resizing (إعادة التوزيع عند الوصول لـ load factor معين)، مع تحليل التعقيد الزمني المتوسط والأسوأ لكل طريقة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_014",
+    "question": "اكتب implementation كامل لـ Bloom Filter (فلتر بلوم) مع دعم إضافة عناصر والتحقق من وجود عنصر (قد يعطي false positive)، مع حساب عدد دوال الهاش (hash functions) الأمثل وحجم الفلتر (bit array) بناءً على عدد العناصر المتوقع ونسبة الخطأ المقبولة (false positive rate)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_015",
+    "question": "اكتب implementation كامل لـ Count-Min Sketch (هيكل بيانات تقريبي لتقدير تكرار العناصر) مع دعم عمليات update و estimate، مع تحليل دقة التقدير (error bounds) وحساب الأبعاد المثلى (width و depth) بناءً على عدد العناصر ونسبة الخطأ المطلوبة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_016",
+    "question": "اكتب implementation كامل لـ HyperLogLog (هيكل بيانات لتقدير عدد العناصر الفريدة (cardinality)) مع دمج عدة HyperLogLogs (merge) وحساب التقدير (estimate) وتصحيح الخطأ (bias correction)، مع تحليل التعقيد المكاني والزمني ودقة التقدير",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_017",
+    "question": "اكتب implementation كامل لـ Consistent Hashing (هاش ثابت) مع دعم إضافة وإزالة العقد (nodes)، وتوزيع المفاتيح (keys) على العقد، وإعادة توزيع أقل عدد ممكن من المفاتيح عند تغيير العقد، مع دعم virtual nodes لتوزيع متوازن",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_018",
+    "question": "اكتب implementation كامل لـ Skip List (قفز قائمة) مع دعم عمليات insert، delete، search، و range query (إرجاع جميع العناصر بين قيمتين)، مع ضمان تعقيد زمني O(log n) في المتوسط، مع تحليل الأداء والمقارنة مع Balanced BST",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_019",
+    "question": "اكتب implementation كامل لـ Binary Tree (شجرة ثنائية) مع عمليات: insert، delete، search، traversal (inorder، preorder، postorder، level order (BFS))، حساب الارتفاع (height)، حساب عدد العقد (count)، إيجاد القيم القصوى والدنيا (max/min)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_020",
+    "question": "اكتب implementation كامل لـ Binary Search Tree (BST) مع عمليات: insert، delete، search، findMin، findMax، inorder successor/predecessor، range search (إرجاع جميع العناصر بين قيمتين)، مع الحفاظ على خاصية BST (العقد اليسرى أصغر، اليمنى أكبر)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_021",
+    "question": "اكتب implementation كامل لـ AVL Tree (شجرة متوازنة ذاتياً) مع عمليات: insert، delete، وتوازن الشجرة (rotations: left، right، left-right، right-left)، والحفاظ على عامل التوازن (balance factor) عند ±1، مع تحليل التعقيد الزمني O(log n)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_022",
+    "question": "اكتب implementation كامل لـ Red-Black Tree (شجرة حمراء-سوداء) مع عمليات: insert، delete، والحفاظ على خصائص الشجرة الحمراء-سوداء (root black، red nodes children black، black height متساوية)، مع إصلاح الانتهاكات باستخدام rotations و recoloring",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_023",
+    "question": "اكتب implementation كامل لـ Segment Tree (شجرة قطع) مع دعم: range sum query، range min/max query، point update، range update (lazy propagation) لتحديث فترات بكفاءة، مع تحليل التعقيد الزمني والمكاني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_024",
+    "question": "اكتب implementation كامل لـ Fenwick Tree (Binary Indexed Tree - BIT) مع دعم: prefix sum query، range sum query، point update، range update (باستخدام BIT أو multiple BITs)، مع تحليل التعقيد الزمني O(log n) لكل عملية",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_025",
+    "question": "اكتب implementation كامل لـ Sparse Table (جدول متناثر) للاستعلام عن أقل قيمة (RMQ - Range Minimum Query) أو أي عملية ترابطية (associative) idempotent (مثل min، max، gcd) في وقت O(1) بعد معالجة مسبقة O(n log n)، مع دعم الاستعلامات على الفترات (queries on intervals)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_026",
+    "question": "اكتب implementation كامل لـ Trie (شجرة بادئة) مع دعم: insert (إدراج كلمة)، search (بحث عن كلمة)، startsWith (البحث عن بادئة)، delete (حذف كلمة)، autocomplete (اقتراح الكلمات بناءً على بادئة)، مع تحسين استخدام الذاكرة باستخدام (HashMap-based nodes أو Array-based nodes)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_027",
+    "question": "اكتب implementation كامل لـ Compressed Trie (Radix Tree) لتوفير الذاكرة عن طريق دمج العقد ذات الفرع الواحد، مع دعم عمليات insert و search و delete، مع تحليل التعقيد المكاني مقارنة بـ Trie العادية",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_028",
+    "question": "اكتب implementation كامل لـ Suffix Tree (شجرة لواحق) باستخدام خوارزمية Ukkonen (في وقت O(n))، مع دعم البحث عن نمط (pattern search)، وإيجاد أطول سلسلة فرعية متكررة (longest repeated substring)، وأطول سلسلة فرعية مشتركة (longest common substring) بين سلسلتين",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_029",
+    "question": "اكتب implementation كامل لـ Suffix Array و LCP Array (Longest Common Prefix)، مع خوارزمية بناء (O(n log n) باستخدام sorting أو O(n) باستخدام SA-IS)، مع دعم البحث عن نمط (pattern search) باستخدام binary search، وإيجاد أطول سلسلة فرعية متكررة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_030",
+    "question": "اكتب implementation كامل لـ Graph (رسم بياني) باستخدام adjacency list و adjacency matrix، مع دعم: إضافة/إزالة عُقد (nodes) وحواف (edges)، حساب درجة العقد (degree)، traversal (DFS و BFS) مع تجنب إعادة الزيارة (visited set)، والتحقق من وجود مسار (path) بين عقدتين",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_031",
+    "question": "اكتب function تنفذ خوارزمية DFS (Depth-First Search) على Graph مع دعم: traversal (ترتيب الزيارة)، اكتشاف الحلقات (cycle detection) في graph موجه (directed) وغير موجه (undirected)، الترتيب الطوبولوجي (topological sorting) للـ DAG (باستخدام DFS و Kahn's algorithm)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_032",
+    "question": "اكتب function تنفذ خوارزمية BFS (Breadth-First Search) على Graph مع دعم: traversal (ترتيب الزيارة)، أقصر مسار (shortest path) في graph غير موجه (undirected) أو موجه (directed) غير مرجح (unweighted)، وإيجاد جميع المسارات (all paths) بين عقدتين مع حدود للعمق",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_033",
+    "question": "اكتب function تنفذ خوارزمية Dijkstra لأقصر مسار (shortest path) في graph موجه (directed) وغير موجه (undirected) بوزن غير سالب (non-negative weights)، مع استخدام priority queue (min-heap) لتحسين الأداء، ودعم تتبع المسار (path reconstruction)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_034",
+    "question": "اكتب function تنفذ خوارزمية Bellman-Ford لأقصر مسار (shortest path) في graph موجه (directed) مع دعم الأوزان السالبة (negative weights)، واكتشاف الحلقات السالبة (negative cycles)، مع تحليل التعقيد الزمني O(VE)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_035",
+    "question": "اكتب function تنفذ خوارزمية Floyd-Warshall لأقصر مسار بين كل الأزواج (all-pairs shortest paths)، مع دعم الأوزان السالبة (بدون حلقات سالبة)، وتتبع المسار (path reconstruction)، مع تحليل التعقيد الزمني O(V^3)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_036",
+    "question": "اكتب function تنفذ خوارزمية Kruskal لإيجاد Minimum Spanning Tree (MST) في graph غير موجه (undirected) مرجح (weighted)، باستخدام Union-Find (Disjoint Set) للكشف عن الحلقات (cycles)، مع تحليل التعقيد الزمني O(E log E)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_037",
+    "question": "اكتب function تنفذ خوارزمية Prim لإيجاد Minimum Spanning Tree (MST) في graph غير موجه (undirected) مرجح (weighted)، باستخدام priority queue (min-heap) لاختيار الحافة الأقل وزناً، مع تحليل التعقيد الزمني O(E log V)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_038",
+    "question": "اكتب function تنفذ خوارزمية Topological Sorting (ترتيب طوبولوجي) لـ Directed Acyclic Graph (DAG)، باستخدام طريقتين: (أ) DFS-based، (ب) Kahn's algorithm (BFS-based مع حساب indegree)، مع اكتشاف الحلقات (cycle detection)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_039",
+    "question": "اكتب function تكتشف الحلقات (Cycle Detection) في graph موجه (directed) باستخدام DFS مع three states (unvisited, visiting, visited) أو باستخدام coloring algorithm، وفي graph غير موجه (undirected) باستخدام Union-Find أو DFS مع tracking parent",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_040",
+    "question": "اكتب function تنفذ خوارزمية Kosaraju أو Tarjan لإيجاد الـ Strongly Connected Components (SCC) في graph موجه (directed)، مع إعادة المكونات (components) كـ subgraphs، وتحليل التعقيد الزمني O(V+E)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_041",
+    "question": "اكتب function تكتشف الـ Bridges (الجسور) و Articulation Points (نقاط القطع) في graph غير موجه (undirected) باستخدام DFS وخوارزمية Tarjan (low-link values)، مع تصنيف الحواف (tree edges، back edges) وتحليل التعقيد الزمني O(V+E)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_042",
+    "question": "اكتب function تنفذ خوارزمية Dinic's أو Edmonds-Karp لحل مشكلة Maximum Flow (الحد الأقصى للتدفق) في شبكة موجهة (directed flow network) مع سعة للحواف (capacities)، مع حساب الحد الأقصى للتدفق من المصدر (source) إلى الحوض (sink)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_043",
+    "question": "اكتب function تنفذ خوارزمية Hopcroft-Karp لحل مشكلة Maximum Bipartite Matching (الحد الأقصى للتطابق في رسم بياني ثنائي الأجزاء)، مع تحسين الأداء O(E sqrt(V))، ودعم تتبع التطابق (matching edges)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_044",
+    "question": "اكتب function تنفذ خوارزمية Hungarian (Munkres) لحل مشكلة Assignment Problem (تخصيص المهام بتكلفة أقل) في مصفوفة مربعة (n x n)، مع إرجاع التكلفة الدنيا (minimum cost) وتعيين المهام (assignment)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_045",
+    "question": "اكتب function تنفذ خوارزمية A* (A-Star) لإيجاد أقصر مسار (shortest path) في Graph مع دالة إرشادية (heuristic function) مخصصة (مثل المسافة الإقليدية (Euclidean distance)، مسافة مانهاتن (Manhattan distance))، مع ضمان الـ optimality إذا كانت الـ heuristic admissible، مع دعم إعادة بناء المسار",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_046",
+    "question": "اكتب function تنفذ خوارزمية Hill Climbing (صعود التل) للبحث عن الحد الأقصى/الأدنى لدالة معينة، مع دعم إعادة التشغيل العشوائي (random restart) لتجنب الوقوع في القيم القصوى المحلية (local optima)، مع تحليل الأداء والمقارنة مع Gradient Descent",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_047",
+    "question": "اكتب function تنفذ خوارزمية Simulated Annealing (التلدين المحاكي) للتحسين (optimization)، مع دعم جدول التبريد (cooling schedule) (مثل exponential، linear، logarithmic)، وإمكانية قبول حلول أسوأ (accept worse solutions) باحتمالية معينة لتجنب الـ local optima",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_048",
+    "question": "اكتب function تنفذ خوارزمية Genetic Algorithm (الخوارزمية الجينية) للتحسين (optimization)، مع دعم عمليات: الاختيار (selection) (مثل roulette wheel، tournament)، التقاطع (crossover) (مثل single-point، uniform)، الطفرة (mutation)، واستبدال الجيل (replacement)، مع معلمات قابلة للتعديل (حجم السكان (population size)، معدل التقاطع (crossover rate)، معدل الطفرة (mutation rate)، عدد الأجيال (generations))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_049",
+    "question": "اكتب function تنفذ خوارزمية Particle Swarm Optimization (PSO) (تحسين سرب الجسيمات) للبحث عن الحد الأدنى لدالة (function optimization)، مع دعم تحديث سرعة (velocity) وموضع (position) كل جسيم بناءً على أفضل موضع محلي (personal best) وأفضل موضع عالمي (global best)، مع معلمات قابلة للتعديل (عدد الجسيمات، معاملات التسارع (acceleration coefficients)، القصور الذاتي (inertia weight))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_050",
+    "question": "اكتب function تنفذ خوارزمية Ant Colony Optimization (ACO) (تحسين مستعمرة النمل) لحل مشكلة البائع المتجول (Traveling Salesman Problem - TSP) ومشاكل المسارات المثلى الأخرى، مع دعم تحديث الفيرومون (pheromone update)، ومعلمات قابلة للتعديل (عدد النمل، معدل تبخر الفيرومون (evaporation rate)، عامل الرؤية (visibility factor)، عامل الفيرومون (pheromone factor))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_051",
+    "question": "اكتب function تحل مشكلة Knapsack 0/1 (حقيبة الظهر) باستخدام: (أ) Recursion مع memoization (Dynamic Programming - Top Down)، (ب) Tabulation (Dynamic Programming - Bottom Up)، (ج) Space Optimization (تحسين المساحة لـ 1D array)، مع إرجاع أقصى قيمة ممكنة (maximum value) وقائمة العناصر المختارة (selected items)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_052",
+    "question": "اكتب function تحل مشكلة Unbounded Knapsack (حقيبة ظهر غير محدودة) حيث يمكن اختيار كل عنصر عدد غير محدود من المرات، باستخدام Dynamic Programming (1D أو 2D array)، مع إرجاع أقصى قيمة ممكنة وقائمة العناصر المختارة وتكراراتها",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_053",
+    "question": "اكتب function تحل مشكلة Coin Change (تغيير العملة) لإيجاد: (أ) أقل عدد من العملات (minimum coins) لتكوين مبلغ معين، (ب) عدد الطرق (number of ways) لتكوين مبلغ معين، باستخدام Dynamic Programming (Tabulation و Memoization)، مع تحليل التعقيد الزمني والمكاني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_054",
+    "question": "اكتب function تحل مشكلة Longest Common Subsequence (LCS) - أطول تتابع مشترك - بين سلسلتين (strings)، باستخدام Dynamic Programming (Tabulation و Memoization)، مع إرجاع طول LCS والسلسلة نفسها (print LCS)، وتحليل التعقيد الزمني O(m*n)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_055",
+    "question": "اكتب function تحل مشكلة Longest Common Substring (أطول سلسلة فرعية مشتركة) بين سلسلتين، باستخدام Dynamic Programming (جدول ثنائي الأبعاد)، مع إرجاع طول السلسلة المشتركة والسلسلة نفسها، ومقارنة التعقيد مع LCS",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_056",
+    "question": "اكتب function تحل مشكلة Longest Increasing Subsequence (LIS) - أطول تتابع متزايد - في array من الأرقام، باستخدام: (أ) Dynamic Programming O(n^2)، (ب) Patience Sorting O(n log n) باستخدام binary search، مع إرجاع طول LIS وقائمة الأرقام (print LIS)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_057",
+    "question": "اكتب function تحل مشكلة Edit Distance (مسافة ليفنشتاين - Levenshtein Distance) بين سلسلتين (operations: insert، delete، replace)، باستخدام Dynamic Programming مع تحسين المساحة (space optimization) باستخدام صفين فقط (two rows)، مع إرجاع المسافة الدنيا (minimum distance) وسلسلة العمليات (operations sequence)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_058",
+    "question": "اكتب function تحل مشكلة Matrix Chain Multiplication (ضرب المصفوفات المتسلسل) لإيجاد أقل عدد من العمليات الحسابية (minimum scalar multiplications) لضرب سلسلة من المصفوفات، باستخدام Dynamic Programming مع إرجاع ترتيب الأقواس (parenthesization) وأقل عدد من العمليات",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_059",
+    "question": "اكتب function تحل مشكلة Rod Cutting (قص القضيب) لإيجاد أقصى ربح (maximum profit) عن طريق قطع قضيب بطول n إلى قطع أصغر، مع أسعار معينة لكل طول، باستخدام Dynamic Programming (Top-down و Bottom-up) مع إرجاع أقصى ربح وطريقة القطع (cutting pattern)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_060",
+    "question": "اكتب function تحل مشكلة Egg Dropping (إسقاط البيض) لإيجاد أقل عدد من المحاولات (minimum attempts) لتحديد الطابق الحرج (critical floor) باستخدام بيض k ومبنى من طوابق n، باستخدام Dynamic Programming (Tabulation و Memoization) وتحسين الوقت والمساحة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_061",
+    "question": "اكتب function تحل مشكلة Word Break (تقسيم الكلمة) لتحديد ما إذا كان يمكن تقسيم سلسلة (string) إلى كلمات موجودة في قاموس (dictionary) معين، باستخدام Dynamic Programming (Tabulation مع set/hash للقاموس)، مع إرجاع true/false وجميع التقسيمات الممكنة (all possible segmentations)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_062",
+    "question": "اكتب function تحل مشكلة Palindrome Partitioning (تقسيم النصوص المتجانسة) لإيجاد أقل عدد من التقسيمات (minimum cuts) بحيث يكون كل جزء (substring) متماثلاً (palindrome)، باستخدام Dynamic Programming (precompute palindromes ثم DP)، مع إرجاع أقل عدد من التقسيمات وأماكن القطع (cut positions)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_063",
+    "question": "اكتب function تحل مشكلة Maximum Subarray (أكبر مجموع لمصفوفة فرعية) باستخدام خوارزمية Kadane's algorithm (O(n))، مع دعم الأرقام السالبة وإرجاع أكبر مجموع (maximum sum) والمصفوفة الفرعية (subarray) نفسها (start و end indices)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_064",
+    "question": "اكتب function تحل مشكلة Maximum Product Subarray (أكبر حاصل ضرب لمصفوفة فرعية) مع دعم الأرقام السالبة والصفر، باستخدام Dynamic Programming (تتبع الحد الأقصى والحد الأدنى للمنتج حتى كل عنصر)، مع إرجاع أكبر منتج (maximum product) والمصفوفة الفرعية (subarray)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_065",
+    "question": "اكتب function تحل مشكلة House Robber (سارق المنازل) حيث لا يمكن سرقة منزلين متجاورين (non-adjacent houses)، باستخدام Dynamic Programming (مع تحسين المساحة)، مع إرجاع أقصى مبلغ يمكن سرقته (maximum loot) وقائمة المنازل المسروقة (robbed houses indices)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_066",
+    "question": "اكتب function تحل مشكلة House Robber II (سارق المنازل في دائرة) حيث المنازل مرتبة في دائرة (circular array، first and last adjacent)، باستخدام Dynamic Programming (حل حالتين: استبعاد first أو last)، مع إرجاع أقصى مبلغ يمكن سرقته وقائمة المنازل المسروقة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_067",
+    "question": "اكتب function تحل مشكلة Best Time to Buy and Sell Stock (أفضل وقت لشراء وبيع سهم) مع عملية شراء وبيع واحدة فقط (one transaction)، مع إرجاع أقصى ربح (maximum profit) وأيام الشراء والبيع (buy and sell days)، وتحليل الحالات المختلفة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_068",
+    "question": "اكتب function تحل مشكلة Best Time to Buy and Sell Stock II حيث يمكن إجراء عدد غير محدود من المعاملات (multiple transactions)، مع إرجاع أقصى ربح إجمالي (total maximum profit)، مع تحليل الخوارزمية واستخدام peak-valley approach أو DP",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_069",
+    "question": "اكتب function تحل مشكلة Best Time to Buy and Sell Stock III حيث يمكن إجراء معاملتين فقط (at most two transactions)، باستخدام Dynamic Programming مع أربعة حالات (buy1, sell1, buy2, sell2) أو تقسيم الصفيف (divide and conquer)، مع إرجاع أقصى ربح إجمالي",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_070",
+    "question": "اكتب function تحل مشكلة Best Time to Buy and Sell Stock IV حيث يمكن إجراء k معاملات (at most k transactions)، باستخدام Dynamic Programming مع تحسين المساحة والتعقيد O(n*k)، مع إرجاع أقصى ربح إجمالي وتحليل الحالات الخاصة (k >= n/2 تعني معاملات غير محدودة)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_071",
+    "question": "اكتب function تنفذ خوارزمية Boyer-Moore Majority Vote لإيجاد العنصر الذي يظهر أكثر من ⌊n/2⌋ مرة (majority element) في array، في وقت O(n) ومساحة O(1)، مع دعم التحقق من وجود الأغلبية (verification pass) والتعامل مع الحالات التي لا يوجد فيها عنصر أغلبية",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_072",
+    "question": "اكتب function تنفذ خوارزمية Fast Power (Exponentiation) لحساب a^b (a مرفوع للقوة b) باستخدام Exponentiation by Squaring (بيناري إكسبوننت) في وقت O(log b)، مع دعم الأعداد الكبيرة (Big Integers) والمعامل (modular exponentiation) إذا تم توفير معامل (mod)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_073",
+    "question": "اكتب function تنفذ خوارزمية GCD (القاسم المشترك الأكبر) باستخدام Euclidean Algorithm (خوارزمية إقليدس) وخوارزمية Extended Euclidean Algorithm (لحساب معاملات Bézout (معاملات x و y في المعادلة ax + by = gcd(a,b)))، مع دعم الأعداد السالبة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_074",
+    "question": "اكتب function تنفذ اختبار Miller-Rabin Primality Test (اختبار ميلر-رابين لفحص أولية الأعداد) للتحقق مما إذا كان الرقم أولياً (probabilistic)، مع دقة قابلة للتحديد (عدد التكرارات k) والتعامل مع الأعداد الصغيرة (حالات خاصة لـ 2 و 3 و small primes)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_075",
+    "question": "اكتب function تنفذ خوارزمية Sieve of Eratosthenes (غربال إراتوستينس) لتوليد جميع الأعداد الأولية حتى n، مع تحسينات (بدء من i*i، استخدام boolean array فقط للأعداد الفردية، segmented sieve للأعداد الكبيرة جداً)، مع إرجاع قائمة الأعداد الأولية",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_076",
+    "question": "اكتب function تنفذ خوارزمية Pollard's Rho لتحليل الأعداد الكبيرة إلى عواملها الأولية (factorization)، مع دمجها مع Miller-Rabin لفحص الأولية، مع تحسينات (اختيار دالة عشوائية (polynomial)، استخدام Floyd's cycle detection)، مع تحليل التعقيد الزمني المتوقع",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_077",
+    "question": "اكتب function تنفذ خوارزمية Fast Fourier Transform (FFT) (تحويل فورييه السريع) لضرب كثيرات الحدود (polynomial multiplication) في وقت O(n log n)، باستخدام الأعداد المركبة (complex numbers) وتكرارية (iterative) أو عودية (recursive)، مع دعم الأعداد الصحيحة الكبيرة (Big Integers) والتعامل مع دقة الأعداد العشرية",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_078",
+    "question": "اكتب function تنفذ خوارزمية Karatsuba لضرب عددين كبيرين (big integer multiplication) في وقت O(n^log2(3)) ~ O(n^1.585)، باستخدام divide-and-conquer (تقسيم الأعداد إلى نصفين)، مع مقارنة الأداء مع الضرب العادي O(n^2) و FFT O(n log n)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_079",
+    "question": "اكتب function تنفذ خوارزمية Strassen لضرب المصفوفات (matrix multiplication) في وقت O(n^log2(7)) ~ O(n^2.807)، باستخدام divide-and-conquer (تقسيم المصفوفات إلى أربعة أجزاء)، مع مقارنة الأداء مع الضرب العادي O(n^3)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_080",
+    "question": "اكتب function تنفذ خوارزمية Convex Hull (الهيكل المحدب) لنقاط في المستوى (2D points)، باستخدام خوارزميات: (أ) Graham Scan (O(n log n) مع فرز الزوايا القطبية)، (ب) Andrew's Monotone Chain (O(n log n) مع فرز النقاط إحداثياً)، مع إرجاع النقاط على الهيكل المحدب بترتيب اتجاهي (clockwise أو counter-clockwise)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_081",
+    "question": "اكتب function تنفذ خوارزمية Closest Pair of Points (أقرب زوج من النقاط) في المستوى (2D)، باستخدام divide-and-conquer (فرز النقاط حسب x ثم حسب y، دمج (merge) وحساب المسافة في شريط (strip) بعرض d)، مع تعقيد زمني O(n log n)، وإرجاع المسافة الدنيا والزوج (أو الأزواج) من النقاط",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_082",
+    "question": "اكتب function تنفذ خوارزمية Line Sweep (مسح الخط) لعدد من المشاكل الهندسية: (أ) حساب عدد تقاطعات القطع المستقيمة (line segment intersections)، (ب) حساب المساحة المغطاة بمستطيلات متداخلة (union area of rectangles)، (ج) إيجاد أفق المباني (skyline problem)، مع تحليل التعقيد الزمني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_083",
+    "question": "اكتب function تنفذ خوارزمية KMP (Knuth-Morris-Pratt) للبحث عن نمط (pattern) في نص (text) في وقت O(n+m)، مع بناء جدول LPS (Longest Prefix Suffix)، وإرجاع جميع مواقع حدوث النمط (occurrences indices)، مع تحليل ومقارنة مع خوارزميات بحث أخرى (Naive, Rabin-Karp, Boyer-Moore)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_084",
+    "question": "اكتب function تنفذ خوارزمية Rabin-Karp للبحث عن نمط (pattern) في نص (text) باستخدام hashing (rolling hash) (مثل Rabin fingerprint)، مع دعم التعامل مع التصادمات (collisions) باستخدام تأكيد إضافي (double hash أو verification pass)، مع تحليل التعقيد الزمني المتوسط والأسوأ",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_085",
+    "question": "اكتب function تنفذ خوارزمية Boyer-Moore للبحث عن نمط (pattern) في نص (text)، مع بناء جداول Bad Character Rule و Good Suffix Rule، وتحليل أداء الخوارزمية في الحالات المختلفة (best case، worst case)، مع مقارنة مع KMP و Rabin-Karp",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_086",
+    "question": "اكتب function تنفذ خوارزمية Z-function (Z-array) لحساب أطول بادئة مشتركة (LCP) بين السلسلة وكل لاحقة (suffix) من السلسلة، في وقت O(n)، مع تطبيقاتها في البحث عن نمط (pattern search) وإيجاد أطول سلسلة فرعية متكررة (longest repeated substring)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_087",
+    "question": "اكتب function تنفذ خوارزمية Manacher's Algorithm (خوارزمية ماناكر) لإيجاد أطول سلسلة فرعية متناظرة (longest palindromic substring) في وقت O(n)، باستخدام تحويل السلسلة بإضافة فواصل (delimiters) لتوحيد طول المتناظرات الزوجية والفردية، وإرجاع السلسلة المتناظرة وموضعها (center index)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_088",
+    "question": "اكتب function تنفذ خوارزمية Levenshtein Distance (مسافة التحرير) مع دعم العمليات الموزونة (weighted operations) حيث يمكن تعيين تكلفة مختلفة للإدراج (insertion) والحذف (deletion) والاستبدال (substitution)، باستخدام Dynamic Programming مع تحسين المساحة، مع إرجاع المسافة الدنيا وسلسلة العمليات",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_089",
+    "question": "اكتب function تنفذ خوارزمية Needleman-Wunsch (محاذاة التسلسل العالمية - global sequence alignment) المستخدمة في المعلوماتية الحيوية (bioinformatics)، مع دعم مصفوفة scores مخصصة (مثل مصفوفة BLOSUM للبروتينات)، باستخدام Dynamic Programming، مع إرجاع درجة المحاذاة (alignment score) والمحاذاة نفسها (aligned sequences)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_090",
+    "question": "اكتب function تنفذ خوارزمية Smith-Waterman (محاذاة التسلسل المحلية - local sequence alignment) المستخدمة في المعلوماتية الحيوية (bioinformatics)، باستخدام Dynamic Programming، مع إرجاع درجة المحاذاة (alignment score) وأفضل محاذاة محلية (best local alignment)، ومقارنة مع Needleman-Wunsch",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_091",
+    "question": "اكتب function تنفذ خوارزمية Union-Find (Disjoint Set Union - DSU) مع تحسينات: (أ) Union by Rank (دمج حسب الرتبة)، (ب) Union by Size (دمج حسب الحجم)، (ج) Path Compression (ضغط المسار)، مع دعم عمليات makeSet، find، union، وإمكانية تتبع المجموعات (track sets) وحجم كل مجموعة، وتحليل التعقيد الزمني (Ackermann inverse function α(n))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_092",
+    "question": "اكتب function تحل مشكلة Josephus problem (مشكلة جوزيفوس) لإيجاد آخر شخص متبقي (safe position) عند إزالة كل شخص k-th من دائرة من n شخص، باستخدام: (أ) Simulation (محاكاة) O(nk)، (ب) Recurrence relation O(n) (الصيغة الرياضية)، (ج) Bitwise approach لـ k=2، مع إرجاع رقم آخر شخص متبقي (1-indexed أو 0-indexed)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_093",
+    "question": "اكتب function تنفذ خوارزمية N-Queens (مشكلة الملكات) لوضع n ملكة على رقعة شطرنج n×n بحيث لا تهدد بعضها البعض، باستخدام backtracking (عودي أو تكرارية) مع تحسينات (pruning: columns، diagonals tracking)، مع إرجاع عدد الحلول (number of solutions) وتمثيل الحلول (board configurations) أو أول حل (first solution)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_094",
+    "question": "اكتب function تحل مشكلة Sudoku (سودوكو) لحل ألغاز سودوكو (9×9)، باستخدام backtracking مع تحسينات (MRV - Minimum Remaining Values، اختيار الخلية ذات الاحتمالات الأقل)، و forward checking، مع إرجاع الحل (solved board) والتحقق من صحة الحل (isValid)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_095",
+    "question": "اكتب function تحل مشكلة Maze Solving (حل المتاهة) لإيجاد مسار من نقطة البداية (start) إلى نقطة النهاية (end) في متاهة (2D grid) مع جدران (walls)، باستخدام: (أ) DFS (العودي)، (ب) BFS (لأقصر مسار)، (ج) A* (مع heuristic دالة المسافة)، مع إرجاع المسار (path) كقائمة من الإحداثيات (coordinates) أو false إذا لم يوجد مسار",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_096",
+    "question": "اكتب function تحل مشكلة Knight's Tour (جولة الفارس) للعثور على مسار يزور فيه الفارس كل خلية على رقعة شطرنج n×n مرة واحدة بالضبط (tour)، باستخدام backtracking مع تحسينات (Warnsdorff's rule: اختيار الخلية ذات أقل عدد من التحركات المستقبلية)، مع إرجاع المسار (path) أو false إذا لم يوجد حل",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_097",
+    "question": "اكتب function تحل مشكلة Rat in a Maze (الفأر في المتاهة) حيث يمكن للفأر التحرك يميناً (right) أو أسفل (down) فقط في متاهة n×n، مع وجود عوائق (obstacles)، باستخدام backtracking أو dynamic programming (لعدد المسارات)، مع إرجاع المسار (path) أو عدد المسارات (number of paths) أو جميع المسارات",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_098",
+    "question": "اكتب function تحل مشكلة Subset Sum (مجموع المجموعات الجزئية) لتحديد ما إذا كانت هناك مجموعة فرعية (subset) من array تعطي مجموعاً معيناً (target sum)، باستخدام: (أ) Recursion + Memoization، (ب) Dynamic Programming (Tabulation)، (ج) Space Optimization (1D DP)، مع إرجاع true/false وقائمة العناصر (subset) إذا وجد",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_099",
+    "question": "اكتب function تحل مشكلة Partition Equal Subset Sum (تقسيم المصفوفة إلى مجموعتين فرعيتين متساويتي المجموع)، باستخدام Dynamic Programming (knapsack-based approach)، مع إرجاع true/false وقسمة المصفوفة (partition) إلى مجموعتين بمجموع متساوٍ (two subsets with equal sum)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_100",
+    "question": "اكتب function تحل مشكلة Target Sum (المجموع الهدف) حيث يمكن إضافة علامة (+) أو (-) قبل كل رقم في array للوصول إلى مجموع معين (target)، باستخدام: (أ) Recursion + Memoization (DFS)، (ب) Dynamic Programming (تحويل المشكلة إلى Subset Sum)، مع إرجاع عدد الطرق (number of ways) للوصول إلى الهدف (target sum)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_101",
+    "question": "اكتب function تنفذ خوارزمية Dijkstra مع priority queue (min-heap) لإيجاد أقصر مسار (shortest path) من مصدر واحد (single source) في graph موجه (directed) وغير موجه (undirected) بوزن غير سالب (non-negative weights)، مع دعم تتبع المسار (path reconstruction) وإرجاع المسافة والمسار إلى كل عقدة (node)، وتحليل التعقيد الزمني O((V+E) log V)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_102",
+    "question": "اكتب function تنفذ خوارزمية Bellman-Ford لإيجاد أقصر مسار (shortest path) من مصدر واحد (single source) في graph موجه (directed) مع دعم الأوزان السالبة (negative weights)، واكتشاف الحلقات السالبة (negative cycles)، مع إرجاع المسافات والمسارات (paths) إذا لم تكن هناك حلقات سالبة، أو إرجاع تحذير بوجود حلقات سالبة، وتحليل التعقيد الزمني O(VE)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_103",
+    "question": "اكتب function تنفذ خوارزمية Floyd-Warshall لإيجاد أقصر مسار بين كل الأزواج (all-pairs shortest paths) في graph موجه (directed) مع دعم الأوزان السالبة (بدون حلقات سالبة)، مع تتبع المسار (path reconstruction) باستخدام مصفوفة next (next matrix)، وإرجاع مصفوفة المسافات (distance matrix) ومصفوفة المسارات (path matrix)، وتحليل التعقيد الزمني O(V^3)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_104",
+    "question": "اكتب function تنفذ خوارزمية Kruskal لإيجاد Minimum Spanning Tree (MST) في graph غير موجه (undirected) مرجح (weighted)، باستخدام Union-Find (Disjoint Set) مع union by rank و path compression للكشف عن الحلقات (cycles)، مع إرجاع قائمة الحواف (edges) في MST والوزن الإجمالي (total weight)، وتحليل التعقيد الزمني O(E log E)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_105",
+    "question": "اكتب function تنفذ خوارزمية Prim لإيجاد Minimum Spanning Tree (MST) في graph غير موجه (undirected) مرجح (weighted)، باستخدام priority queue (min-heap) لاختيار الحافة الأقل وزناً في كل خطوة، مع دعم الاستخدام مع adjacency list وتحسين الأداء، وإرجاع قائمة الحواف (edges) في MST والوزن الإجمالي (total weight)، وتحليل التعقيد الزمني O(E log V)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_106",
+    "question": "اكتب function تنفذ خوارزمية Tarjan لإيجاد الـ Strongly Connected Components (SCC) في graph موجه (directed)، باستخدام DFS مع مؤشرات low-link (lowest link) ومكدس (stack) لتتبع المكونات، مع إرجاع عدد المكونات (number of SCCs) وقائمة العقد (nodes) في كل مكون، وتحليل التعقيد الزمني O(V+E)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_107",
+    "question": "اكتب function تنفذ خوارزمية Kosaraju لإيجاد الـ Strongly Connected Components (SCC) في graph موجه (directed)، باستخدام مرحلتين: (أ) DFS الأولى لملء المكدس (stack) بترتيب الانتهاء (finishing order)، (ب) DFS الثانية على الرسم البياني العكسي (transpose graph) بترتيب المكدس لتحديد المكونات، مع إرجاع قائمة العقد (nodes) في كل SCC، وتحليل التعقيد الزمني O(V+E)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_108",
+    "question": "اكتب function تكتشف الحلقات (Cycle Detection) في graph موجه (directed) باستخدام DFS مع ثلاث حالات (unvisited، visiting، visited) أو باستخدام coloring algorithm (0: unvisited، 1: visiting، 2: visited)، مع إرجاع true إذا كان هناك حلقة (cycle) و false إذا كان الرسم البياني DAG، وإرجاع الحلقة (cycle nodes) إذا وجدت",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_109",
+    "question": "اكتب function تكتشف الحلقات (Cycle Detection) في graph غير موجه (undirected) باستخدام Union-Find (Disjoint Set) أو DFS مع تتبع العقدة الأصلية (parent node) لتجنب اعتبار الحافة الراجعة (back edge) كحلقة (cycle) عندما تكون تشير إلى العقدة الأصلية فقط، مع إرجاع true إذا كانت هناك حلقة و false إذا كان الرسم البياني شجرة (tree)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_110",
+    "question": "اكتب function تنفذ الترتيب الطوبولوجي (Topological Sorting) لـ Directed Acyclic Graph (DAG) باستخدام Kahn's algorithm (BFS-based) مع حساب indegree لكل عقدة (node)، وإرجاع ترتيب الطوبولوجي (topological order) كقائمة، مع اكتشاف الحلقات (إذا كان الرسم البياني غير DAG يتم إرجاع خطأ)، وتحليل التعقيد الزمني O(V+E)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_111",
+    "question": "اكتب function تنفذ الترتيب الطوبولوجي (Topological Sorting) لـ Directed Acyclic Graph (DAG) باستخدام DFS (العودي) مع مكدس (stack) لتخزين الترتيب، وإرجاع الترتيب الطوبولوجي (topological order) كقائمة، مع اكتشاف الحلقات (cycle detection) أثناء الـ DFS، وتحليل التعقيد الزمني O(V+E)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_112",
+    "question": "اكتب function تكتشف الـ Bridges (الجسور) في graph غير موجه (undirected) باستخدام خوارزمية Tarjan مع DFS وتتبع discovery time و low-link values، مع إرجاع قائمة الحواف (edges) التي تعتبر جسوراً (bridges)، وتحليل التعقيد الزمني O(V+E)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_113",
+    "question": "اكتب function تكتشف الـ Articulation Points (نقاط القطع) في graph غير موجه (undirected) باستخدام خوارزمية Tarjan مع DFS وتتبع discovery time و low-link values وحالة العقدة الجذر (root node) والأطفال (children count)، مع إرجاع قائمة العقد (nodes) التي تعتبر نقاط قطع (articulation points)، وتحليل التعقيد الزمني O(V+E)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_114",
+    "question": "اككتب function تنفذ خوارزمية Edmonds-Karp لحل مشكلة Maximum Flow (الحد الأقصى للتدفق) في شبكة موجهة (directed flow network) باستخدام BFS للعثور على مسار معزز (augmenting path) وتحديث السعة المتبقية (residual capacities)، مع إرجاع قيمة الحد الأقصى للتدفق (max flow value) وشبكة التدفق النهائية (flow network)، وتحليل التعقيد الزمني O(VE^2)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_115",
+    "question": "اكتب function تنفذ خوارزمية Dinic لحل مشكلة Maximum Flow (الحد الأقصى للتدفق) في شبكة موجهة (directed flow network) باستخدام BFS لبناء مستوى الرسم البياني (level graph) و DFS (أو multi-source BFS) لإرسال التدفق المحظور (blocking flow)، مع إرجاع قيمة الحد الأقصى للتدفق (max flow value)، وتحليل التعقيد الزمني O(min(V^(2/3), sqrt(E)) * E) للشبكات العامة و O(E * sqrt(V)) للشبكات الثنائية (bipartite)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_116",
+    "question": "اكتب function تنفذ خوارزمية Hopcroft-Karp لحل مشكلة Maximum Bipartite Matching (الحد الأقصى للتطابق في رسم بياني ثنائي الأجزاء) في وقت O(E sqrt(V))، باستخدام BFS لبناء طبقات (layers) و DFS لإيجاد مسارات معززة (augmenting paths)، مع إرجاع حجم التطابق الأقصى (maximum matching size) وقائمة الأزواج (matching pairs)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_117",
+    "question": "اكتب function تنفذ خوارزمية Hungarian (Munkres) لحل مشكلة Assignment Problem (تخصيص المهام بتكلفة أقل) في مصفوفة n x n، باستخدام عمليات الصفوف والأعمدة (row and column reduction) وإيجاد الحد الأدنى لعدد الخطوط (minimum lines) لتغطية الأصفار (zeros)، مع إرجاع التكلفة الدنيا (minimum cost) ومصفوفة التخصيص (assignment matrix)، وتحليل التعقيد الزمني O(n^3)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_118",
+    "question": "اكتب function تنفذ خوارزمية A* (A-Star) لإيجاد أقصر مسار (shortest path) في Graph مع دالة إرشادية (heuristic function) مخصصة (مثل المسافة الإقليدية (Euclidean distance)، مسافة مانهاتن (Manhattan distance)، مسافة Diagonal)، مع ضمان الـ optimality إذا كانت الـ heuristic admissible، ودعم إعادة بناء المسار (path reconstruction)، وتحليل التعقيد الزمني في أفضل وأسوأ الحالات",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_119",
+    "question": "اكتب function تنفذ خوارزمية Greedy Best-First Search للبحث في Graph باستخدام دالة إرشادية (heuristic function) فقط (بدون تكلفة (cost) من البداية)، مع إرجاع المسار (path) إذا تم الوصول إلى الهدف (goal) أو false إذا لم يتم الوصول، وتحليل الاختلافات والمقارنة مع A* من حيث الـ optimality والأداء",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_120",
+    "question": "اكتب function تنفذ خوارزمية Bidirectional Search (البحث ثنائي الاتجاه) لإيجاد أقصر مسار (shortest path) بين عقدتين (start و goal) في Graph غير مرجح (unweighted)، باستخدام BFS من كلا الطرفين (bidirectional BFS) مع التحقق من التقاطع (intersection)، مع إرجاع أقصر مسار (shortest path) أو طوله (length)، وتحليل التعقيد الزمني O(b^(d/2)) حيث b عامل التفرع (branching factor) و d عمق (depth) أقصر مسار",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_121",
+    "question": "اكتب function تنفذ خوارزمية Floyd-Warshall لإيجاد أقصر مسار بين كل الأزواج (all-pairs shortest paths) في graph موجه (directed) مع دعم الأوزان السالبة (بدون حلقات سالبة)، مع تتبع المسار (path reconstruction) باستخدام مصفوفة next (next matrix)، وإرجاع مصفوفة المسافات (distance matrix) ومصفوفة المسارات (path matrix)، وتحليل التعقيد الزمني O(V^3)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_122",
+    "question": "اكتب function تنفذ خوارزمية Johnson لإيجاد أقصر مسار بين كل الأزواج (all-pairs shortest paths) في graph موجه (directed) مع دعم الأوزان السالبة (بدون حلقات سالبة)، باستخدام Bellman-Ford لإعادة توزيع الوزن (reweighting) ثم Dijkstra من كل عقدة (node)، مع إرجاع مصفوفة المسافات (distance matrix)، وتحليل التعقيد الزمني O(V^2 log V + V E)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_123",
+    "question": "اكتب function تنفذ خوارزمية Brandes لحساب Betweenness Centrality (مركزية الوساطة) لجميع العقد (nodes) في graph غير موجه (undirected) أو موجه (directed)، باستخدام BFS من كل عقدة (node) لحساب عدد أقصر المسارات (number of shortest paths) واعتماد (dependency) العقد، مع إرجاع قيم المركزية (centrality scores) لكل عقدة، وتحليل التعقيد الزمني O(V * (V+E)) للرسوم البيانية غير المرجحة (unweighted)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_124",
+    "question": "اكتب function تنفذ خوارزمية PageRank (خوارزمية بيج رانك) المستخدمة في Google لترتيب صفحات الويب (web pages)، باستخدام نموذج التصفح العشوائي (random surfer model) مع عامل التخميد (damping factor) d (عادة 0.85)، مع دعم التكرار (iteration) حتى التقارب (convergence) أو عدد ثابت من التكرارات، وإرجاع قيم الترتيب (PageRank scores) لكل عقدة (node/page)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_125",
+    "question": "اكتب function تنفذ خوارزمية HITS (Hyperlink-Induced Topic Search) (المعروفة بـ Hubs and Authorities) لتحليل الروابط (link analysis) في شبكة الويب (web graph)، مع حساب قيم الـ hubs (مراكز التجميع) والـ authorities (السلطات) لكل عقدة (node/page)، باستخدام التكرار (iteration) حتى التقارب (convergence)، وإرجاع قيم الـ hubs والـ authorities لكل عقدة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_126",
+    "question": "اكتب function تنفذ خوارزمية Community Detection باستخدام خوارزمية Louvain (الكشف عن المجتمعات في الشبكات)، مع دعم التكرار (iteration) لزيادة Modularity (قياس جودة التقسيم)، مع إرجاع تقسيم العقد (nodes) إلى مجتمعات (communities) وقيمة Modularity المحققة، وتحليل التعقيد الزمني O(n log n)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_127",
+    "question": "اكتب function تنفذ خوارزمية Girvan-Newman للكشف عن المجتمعات (community detection) عن طريق إزالة الحواف ذات الـ Betweenness Centrality الأعلى تدريجياً، مع حساب الـ Betweenness Centrality للحواف (edge betweenness) في كل خطوة، مع إرجاع شجرة التقسيم (dendrogram) للمجتمعات، وتحليل التعقيد الزمني O(E^2 V) (بطيء للرسوم البيانية الكبيرة)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_128",
+    "question": "اكتب function تنفذ خوارزمية Spanning Tree (شجرة ممتدة) عشوائية (random spanning tree) باستخدام خوارزمية Wilson (Random walk with loop erasure) أو خوارزمية Aldous-Broder، مع دعم الرسوم البيانية غير الموجهة (undirected graphs)، مع إرجاع حواف (edges) الشجرة الممتدة العشوائية (random spanning tree)، وتحليل التعقيد الزمني المتوقع",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_129",
+    "question": "اكتب function تنفذ خوارزمية Chinese Postman (Route Inspection) لإيجاد أقصر مسار يمر عبر كل حافة (edge) في graph غير موجه (undirected) مرة واحدة على الأقل (أقصر مسار مغلق أو مفتوح)، باستخدام matching للعقد ذات الدرجة الفردية (odd-degree nodes) وإضافة الحواف المكررة (duplicate edges)، مع إرجاع المسار (route) وطوله (length)، وتحليل التعقيد الزمني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_130",
+    "question": "اكتب function تنفذ خوارزمية Fleury لإيجاد مسار أو دائرة أويلريانية (Eulerian path or circuit) في graph غير موجه (undirected) إذا كان ممكناً (شرط وجود 0 أو 2 عقدة بدرجة فردية (odd degree))، باستخدام DFS لتجنب الجسور (bridges) ما لم يكن هناك بديل، مع إرجاع المسار (path) أو دائرة (circuit) و false إذا كان المسار الأويلرياني غير موجود، وتحليل التعقيد الزمني O(E^2)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_131",
+    "question": "اكتب function تنفذ خوارزمية Hierholzer لإيجاد مسار أو دائرة أويلريانية (Eulerian path or circuit) في graph موجه (directed) وغير موجه (undirected) بكفاءة O(E)، باستخدام مكدس (stack) أو قائمة (list) لتخزين المسار أثناء الـ DFS، مع إرجاع المسار (path) أو دائرة (circuit) و false إذا كان المسار الأويلرياني غير موجود، وتحليل التعقيد الزمني O(E)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_132",
+    "question": "اكتب function تحل مشكلة Traveling Salesman Problem (TSP) - البائع المتجول - لإيجاد أقصر مسار يزور كل مدينة (city) مرة واحدة ويعود إلى نقطة البداية، باستخدام: (أ) Brute Force (n! للتحقق من جميع التباديل (permutations))، (ب) Dynamic Programming (Held-Karp) O(n^2 * 2^n)، (ج) Nearest Neighbor heuristic (تقريبي)، مع إرجاع أقصر مسار (shortest path) وطوله (length)، وتحليل التعقيد الزمني لكل طريقة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_133",
+    "question": "اكتب function تحل مشكلة Vehicle Routing Problem (VRP) - مشكلة توجيه المركبات - لتوزيع الطلبات على مركبات متعددة (capacity constraints)، باستخدام خوارزمية Savings (Clarke-Wright) أو Nearest Neighbor، مع دعم قيود سعة كل مركبة (capacity) والمسافات بين النقاط، مع إرجاع مسارات المركبات (routes) والمسافة الإجمالية (total distance)، وتحليل التعقيد الزمني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_134",
+    "question": "اكتب function تحل مشكلة Minimum Vertex Cover (الحد الأدنى من تغطية الرأس) في graph غير موجه (undirected)، باستخدام: (أ) خوارزمية تقريبية (2-approximation) تعتمد على إيجاد التطابق الأقصى (maximum matching) (خوارزمية الجشع)، (ب) Branch and Bound للدقة المطلقة (exact)، مع إرجاع مجموعة الرؤوس (vertex set) التي تغطي جميع الحواف (edges)، وتحليل التعقيد الزمني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_135",
+    "question": "اكتب function تحل مشكلة Minimum Dominating Set (الحد الأدنى من مجموعة السيادة) في graph غير موجه (undirected)، باستخدام خوارزمية الجشع (greedy) أو Branch and Bound للدقة المطلقة (exact)، مع إرجاع مجموعة الرؤوس (vertex set) حيث كل رأس (vertex) إما في المجموعة أو مجاور (adjacent) لرأس في المجموعة، وتحليل التعقيد الزمني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_136",
+    "question": "اكتب function تحل مشكلة Maximum Clique (أكبر زمرة (clique) - مجموعة كاملة (complete subgraph)) في graph غير موجه (undirected)، باستخدام خوارزمية Branch and Bound مع تحديد الحد الأعلى (upper bound) بناءً على درجة العقد (degree)، مع إرجاع أكبر زمرة (maximum clique) كمجموعة من الرؤوس (vertices)، وتحليل التعقيد الزمني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_137",
+    "question": "اكتب function تحل مشكلة Graph Coloring (تلوين الرسم البياني) بأقل عدد من الألوان (minimum colors) بحيث لا يتشارك أي رأسين متجاورين (adjacent vertices) في نفس اللون، باستخدام خوارزمية الجشع (greedy) مع ترتيب العقد حسب الدرجة (degree) (Welsh-Powell)، أو Branch and Bound للدقة المطلقة، مع إرجعة تلوين الرسم البياني (coloring) وعدد الألوان المستخدمة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_138",
+    "question": "اكتب function تحل مشكلة Maximum Independent Set (أكبر مجموعة مستقلة (independent set)) في graph غير موجه (undirected)، حيث لا توجد حواف (edges) بين الرؤوس (vertices) في المجموعة، باستخدام خوارزمية الجشع أو Branch and Bound أو تحويل المشكلة إلى Maximum Clique في الرسم البياني التكميلي (complement graph)، مع إرجاع المجموعة المستقلة (independent set) وحجمها (size)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_139",
+    "question": "اكتب function تحل مشكلة Minimum Cut (الحد الأدنى من القطع) بين عقدتين (s-t cut) في graph موجه (directed) مرجح (weighted)، باستخدام خوارزمية Stoer-Wagner (لأدنى قطع عالمي (global minimum cut)) أو خوارزمية Max Flow Min Cut (تحويل المشكلة إلى Maximum Flow)، مع إرجاع الحد الأدنى من قيمة القطع (minimum cut value) ومجموعة الرؤوس (vertices) في كل جانب (partition)، وتحليل التعقيد الزمني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_140",
+    "question": "اكتب function تنفذ خوارزمية Stoer-Wagner لإيجاد الحد الأدنى للقطع العالمي (global minimum cut) في graph غير موجه (undirected) مرجح (weighted) (بدون عقد مصدر وحوض محددين)، باستخدام مراحل (phases) لدمج العقد (merging) وتتبع قيمة القطع (cut value)، مع إرجاع الحد الأدنى لقيمة القطع (minimum cut value) ومجموعة الرؤوس (vertices) في القطع، وتحليل التعقيد الزمني O(V^3)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_141",
+    "question": "اكتب function تنفذ خوارزمية Edmonds' Blossom (خوارزمية الزهرة) لحل مشكلة Maximum Matching في الرسوم البيانية العامة (general graphs) (غير ثنائية الأجزاء (non-bipartite))، باستخدام تقلص الزهور (blossom contraction) وتوسيعها (expansion)، مع إرجاع حجم التطابق الأقصى (maximum matching size) وقائمة الأزواج (matching pairs)، وتحليل التعقيد الزمني O(V^3)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_142",
+    "question": "اكتب function تحل مشكلة Graph Isomorphism (تماثل الرسم البياني) للتحقق مما إذا كان الرسمان البيانيان (graphs) G و H متماثلان (isomorphic)، باستخدام خوارزمية Weisfeiler-Lehman (لتمييز الرؤوس (vertex refinement)) أو خوارزمية VF2 (backtracking مع التفرع (branching) والتقليم (pruning))، مع إرجاع true إذا كانا متماثلين (isomorphic) و false وإلا، وإرجاع التماثل (isomorphism mapping) إذا وجد",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_143",
+    "question": "اكتب function تنفذ خوارزمية Christofides لإيجاد حل تقريبي (approximation) لمشكلة Traveling Salesman Problem (TSP) مع ضمان أن الحل لا يزيد عن 1.5 مرة من الحل الأمثل (3/2-approximation)، باستخدام Minimum Spanning Tree (MST) وإيجاد Minimum Weight Perfect Matching على الرؤوس ذات الدرجة الفردية (odd-degree vertices)، مع إرجاع المسار التقريبي (approximate path) وطوله (length)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_144",
+    "question": "اكتب function تنفذ خوارزمية Held-Karp لحل مشكلة Traveling Salesman Problem (TSP) باستخدام Dynamic Programming مع bitmask لتسجيل مجموعات المدن (city subsets) الزائرة، مع إرجاع أقصر مسار (shortest path) وطوله (length)، وتحليل التعقيد الزمني O(n^2 * 2^n) والمكاني O(n * 2^n) (عملي فقط لـ n <= 20)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_145",
+    "question": "اكتب function تنفذ خوارزمية Boruvka لإيجاد Minimum Spanning Tree (MST) في graph غير موجه (undirected) مرجح (weighted) باستخدام مراحل (phases) لإضافة أرخص حافة (cheapest edge) من كل مكون (component) ودمج المكونات (components)، مع إرجاع قائمة الحواف (edges) في MST والوزن الإجمالي (total weight)، وتحليل التعقيد الزمني O(E log V)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_146",
+    "question": "اكتب function تحل مشكلة Minimum Feedback Vertex Set (الحد الأدنى من مجموعة رؤوس التغذية الراجعة) في graph موجه (directed) وغير موجه (undirected) لإيجاد مجموعة رؤوس (vertices) بحيث يؤدي حذفها إلى جعل الرسم البياني خالياً من الحلقات (acyclic)، باستخدام خوارزمية تقريبية (approximation) أو Branch and Bound للدقة المطلقة (exact)، مع إرجاع مجموعة الرؤوس (vertex set) وحجمها (size)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_147",
+    "question": "اكتب function تحل مشكلة Minimum Edge Feedback (Feedback Arc Set) في graph موجه (directed) لإيجاد الحد الأدنى من الحواف (edges) بحيث يؤدي حذفها إلى جعل الرسم البياني خالياً من الحلقات (acyclic)، باستخدام خوارزمية تقريبية (approximation) أو تحويل المشكلة إلى Minimum Feedback Vertex Set، مع إرجاع مجموعة الحواف (edge set) وحجمها (size)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_148",
+    "question": "اكتب function تنفذ خوارزمية Gomory-Hu Tree لبناء شجرة Gomory-Hu (شجرة القطع الدنيا (minimum cut tree)) لجميع أزواج العقد (all pairs) في graph غير موجه (undirected) مرجح (weighted)، باستخدام خوارزمية Stoer-Wagner أو Max Flow بشكل متكرر، مع إرجاع شجرة Gomory-Hu (كـ رسم بياني (graph) أو مصفوفة (matrix)) والقيم الدنيا للقطع (minimum cut values)، وتحليل التعقيد الزمني O(V * MaxFlow)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_149",
+    "question": "اكتب function تحل مشكلة Minimum Cost Flow (التدفق بأقل تكلفة) في شبكة موجهة (directed flow network) مع سعة (capacity) وتكلفة (cost) لكل حافة (edge)، باستخدام خوارزمية Successive Shortest Path (مع Dijkstra أو Bellman-Ford) أو خوارزمية Cost Scaling، مع إرجاع الحد الأقصى للتدفق (max flow value) بأقل تكلفة (minimum cost) وتوزيع التدفق (flow distribution)، وتحليل التعقيد الزمني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_150",
+    "question": "اكتب function تنفذ خوارزمية Min-Cost Max-Flow باستخدام خوارزمية Cycle Canceling (إلغاء الدورة) بعد إيجاد الحد الأقصى للتدفق (Max Flow) بأي طريقة، ثم إيجاد حلقات تكلفة سالبة (negative cost cycles) وإلغائها (cancelling) لتحسين التكلفة، مع إرجاع الحد الأقصى للتدفق (max flow) بأقل تكلفة (minimum cost)، وتحليل التعقيد الزمني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_151",
+    "question": "اكتب function تنفذ خوارزمية Linear Programming (البرمجة الخطية) لحل مشكلة تحسين خطية (linear optimization) مع قيود (constraints) باستخدام خوارزمية Simplex (Two-Phase Simplex أو Revised Simplex)، مع دعم صيغة (form) تعظيم (maximization) أو تقليل (minimization)، وإرجاع الحل الأمثل (optimal solution) وقيمة دالة الهدف (objective value)، أو إرجاع رسالة بعدم وجود حل (infeasible) أو عدم حدود (unbounded)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_152",
+    "question": "اكتب function تنفذ خوارزمية Interior Point (طريقة النقطة الداخلية) لحل مسائل البرمجة الخطية (Linear Programming) باستخدام خوارزمية Barrier Method (Primal-Dual Interior Point)، مع دعم المعالجة المسبقة (preprocessing) للتحجيم (scaling) والتعامل مع القيود غير المساوية (inequality constraints)، وإرجاع الحل الأمثل (optimal solution) وقيمة دالة الهدف (objective value)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_153",
+    "question": "اكتب function تنفذ خوارزمية Quadratic Programming (البرمجة التربيعية) لحل مشكلة تحسين تربيعية (quadratic optimization) مع قيود خطية (linear constraints)، باستخدام خوارزمية Active Set أو Interior Point للبرمجة التربيعية، مع دعم مصفوفة التربيع (quadratic matrix) المتماثلة الموجبة (symmetric positive semidefinite)، وإرجاع الحل الأمثل (optimal solution) وقيمة دالة الهدف (objective value)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_154",
+    "question": "اكتب function تنفذ خوارزمية Convex Optimization (التحسين المحدب) لحل مشكلة تحسين محدبة عامة (general convex optimization) باستخدام خوارزمية Gradient Descent (النزول التدريجي) مع تحسينات (مثل: momentum (Nesterov)، AdaGrad، RMSProp، Adam)، مع دعم التوافقية (convergence) استناداً إلى تدرج صغير (small gradient) أو عدد التكرارات (iterations)، وإرجاع الحل الأمثل (optimal solution) وقيمة دالة الهدف (objective value)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_155",
+    "question": "اكتب function تنفذ خوارزمية Subgradient Method (طريقة الحزمة الفرعية) للتحسين المحدب (convex optimization) حيث الدالة الهدف (objective function) غير قابلة للتفاضل (non-differentiable)، مع دعم تحديث حجم الخطوة (step size) باستخدام قواعد (rules) مختلفة (مثل: Polyak، diminishing، square summable)، وإرجاع الحل الأمثل التقريبي (approximate optimal solution) وقيمة دالة الهدف (objective value)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_156",
+    "question": "اكتب function تنفذ خوارزمية Stochastic Gradient Descent (SGD) (النزول التدريجي العشوائي) للتحسين على مجموعات البيانات الكبيرة (large datasets) (مثل تدريب الشبكات العصبية (neural networks))، مع دعم الدُفعات (mini-batches)، وتحسينات (مثل: momentum، Nesterov، AdaGrad، RMSProp، Adam)، وإرجاع الحل الأمثل (المعاملات (parameters)) وتاريخ قيمة دالة الخسارة (loss history)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_157",
+    "question": "اكتب function تنفذ خوارزمية Coordinate Descent (النزول الإحداثي) للتحسين (optimization) في مشاكل عالية الأبعاد (high-dimensional)، حيث يتم تحسين متغير واحد (variable) في كل مرة مع تثبيت الباقي، مع دعم دورات (cycles) عشوائية (random) أو دائرية (cyclic)، وإرجاع الحل الأمثل (optimal solution) وقيمة دالة الهدف (objective value)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_158",
+    "question": "اكتب function تنفذ خوارزمية Newton's Method (طريقة نيوتن) للتحسين (optimization) للدوال القابلة للتفاضل مرتين (twice differentiable)، باستخدام هيسيان (Hessian matrix) أو تقريبها (approximation) (BFGS، L-BFGS)، مع دعم البحث الخطي (line search) لتحديد حجم الخطوة (step size) (backtracking أو Wolfe conditions)، وإرجاع الحل الأمثل (optimal solution) وقيمة دالة الهدف (objective value)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_159",
+    "question": "اكتب function تنفذ خوارزمية Gradient Descent مع constraints (قيود) باستخدام Projected Gradient Descent (نزول تدريجي مسقط)، حيث بعد كل خطوة يتم إسقاط (project) الحل على مجموعة القيود المحدبة (convex constraint set) (مثل: كرة (ball)، صندوق (box)، بسيط (simplex))، وإرجاع الحل الأمثل (optimal solution) وقيمة دالة الهدف (objective value)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_160",
+    "question": "اكتب function تنفذ خوارزمية Augmented Lagrangian (لاغرانج المعزز) لحل مسائل التحسين المقيدة (constrained optimization) (بما في ذلك قيود المساواة (equality constraints) وعدم المساواة (inequality constraints))، باستخدام مزيج من مضاعفات لاغرانج (Lagrange multipliers) ومصطلح الجزاء (penalty term)، مع التكرار (iteration) لتحديث المضاعفات (multipliers) ومعامل الجزاء (penalty parameter)، وإرجاع الحل الأمثل (optimal solution) وقيمة دالة الهدف (objective value)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_161",
+    "question": "اكتب function تنفذ خوارزمية Alternating Direction Method of Multipliers (ADMM) لحل مسائل التحسين المحدبة (convex optimization) التي يمكن تقسيمها (decomposable) إلى وظائف (functions) متعددة، مع دعم تحديث المتغيرات (variables) والمضاعفات (multipliers) بالتناوب (alternating)، وإرجاع الحل الأمثل (optimal solution) وقيمة دالة الهدف (objective value)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_162",
+    "question": "اكتب function تنفذ خوارزمية Linear Regression (الانحدار الخطي) باستخدام Ordinary Least Squares (OLS) (المربعات الصغرى العادية)، مع دعم حساب المعاملات (coefficients)، مقاييس جودة النموذج (model quality metrics) (R-squared، Adjusted R-squared، MSE، RMSE، MAE)، وتحليل البقايا (residuals analysis) والتنبؤ (prediction) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_163",
+    "question": "اكتب function تنفذ خوارزمية Ridge Regression (انحدار ريدج) (الانحدار الخطي مع تنظيم L2 (L2 regularization))، مع دعم اختيار معامل التنظيم (regularization parameter) λ (lambda) عبر التحقق المتقاطع (cross-validation) (RidgeCV)، وحساب المعاملات (coefficients)، ومقاييس جودة النموذج (model quality metrics)، والتنبؤ (prediction) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_164",
+    "question": "اكتب function تنفذ خوارزمية Lasso Regression (انحدار لاسو) (الانحدار الخطي مع تنظيم L1 (L1 regularization))، مع دعم اختيار معامل التنظيم (regularization parameter) α (alpha) عبر التحقق المتقاطع (cross-validation) (LassoCV)، وحساب المعاملات (coefficients) (مع دعم تناثر الميزات (feature sparsity))، ومقاييس جودة النموذج (model quality metrics)، والتنبؤ (prediction) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_165",
+    "question": "اكتب function تنفذ خوارزمية Elastic Net (انحدار الشبكة المرنة) (الانحدار الخطي مع تنظيم L1 و L2 (L1 و L2 regularization))، مع دعم اختيار نسب المزج (mixing ratios) ومعاملات التنظيم (regularization parameters) عبر التحقق المتقاطع (cross-validation) (ElasticNetCV)، وحساب المعاملات (coefficients)، ومقاييس جودة النموذج (model quality metrics)، والتنبؤ (prediction) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_166",
+    "question": "اكتب function تنفذ خوارزمية Logistic Regression (الانحدار اللوجستي) للتصنيف الثنائي (binary classification)، باستخدام النزول التدريجي (gradient descent) (أو Newton's method) لتحسين دالة الخسارة (log loss)، مع دعم التنظيم (regularization) (L1، L2، Elastic Net)، وحساب الاحتمالات (probabilities) وفئات التنبؤ (predicted classes)، ومقاييس التصنيف (classification metrics) (الدقة (accuracy)، الدقة الإيجابية (precision)، الاستدعاء (recall)، درجة F1 (F1-score)، منحنى ROC (ROC curve) و AUC)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_167",
+    "question": "اكتب function تنفذ خوارزمية Multinomial Logistic Regression (Softmax Regression) للتصنيف متعدد الفئات (multi-class classification)، باستخدام دالة الخسارة (cross-entropy loss) مع النزول التدريجي (gradient descent) (أو Newton's method)، مع دعم التنظيم (regularization) (L1، L2)، وحساب الاحتمالات (probabilities) وفئات التنبؤ (predicted classes)، ومقاييس التصنيف (classification metrics) (مصفوفة الارتباك (confusion matrix)، الدقة الإجمالية (overall accuracy)، تقرير التصنيف (classification report))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_168",
+    "question": "اكتب function تنفذ خوارزمية Support Vector Machine (SVM) (آلة المتجهات الداعمة) للتصنيف الثنائي (binary classification) و الانحدار (regression)، باستخدام kernel (نواة) خطي (linear)، متعدد الحدود (polynomial)، RBF (Gaussian)، وسيجمود (sigmoid)، مع دعم الهامش اللين (soft margin) ومعامل الجزاء (penalty parameter) C، وإرجاع النموذج المدرب (trained model) (المتجهات الداعمة (support vectors)، ومعاملاتها (coefficients))، والتنبؤ (prediction) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_169",
+    "question": "اكتب function تنفذ خوارزمية Kernel SVM (SVM مع النواة) باستخدام خدعة النواة (kernel trick)، مع دعم نوى (kernels) شائعة (linear، polynomial، RBF، sigmoid، custom kernel function)، باستخدام خوارزمية SMO (Sequential Minimal Optimization) لتحسين المشكلة المزدوجة (dual problem)، وإرجاع النموذج المدرب (trained model) والتنبؤ (prediction) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_170",
+    "question": "اكتب function تنفذ خوارزمية K-Nearest Neighbors (KNN) (جيران K الأقرب) للتصنيف (classification) والانحدار (regression)، مع دعم مقاييس المسافة (distance metrics) المختلفة (Euclidean، Manhattan، Minkowski، Hamming، Cosine similarity)، واختيار K الأمثل (optimal K) عبر التحقق المتقاطع (cross-validation)، وإرجاع التنبؤات (predictions) (الفئة (class) أو القيمة (value)) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_171",
+    "question": "اكتب function تنفذ خوارزمية Decision Tree (شجرة القرار) للتصنيف (classification) والانحدار (regression)، باستخدام معايير تقسيم (splitting criteria) (جيني (Gini)، كسب المعلومات (information gain)، نسبة كسب المعلومات (gain ratio)، MSE للانحدار)، مع دعم التقليم (pruning) (التقليم اللاحق (post-pruning) أو التقليم المسبق (pre-pruning) مع عمق أقصى (max depth)، حد أدنى لعينة التقسيم (min samples split)، حد أدنى لعينة الورقة (min samples leaf))، وإرجاع الشجرة (tree) وتنفيذ التنبؤ (prediction) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_172",
+    "question": "اكتب function تنفذ خوارزمية Random Forest (الغابة العشوائية) للتصنيف (classification) والانحدار (regression)، باستخدام التعبئة (bagging) (أخذ عينات bootstrap (bootstrap sampling)) وتجميع (ensemble) العديد من أشجار القرار (decision trees)، مع دعم اختيار عدد الأشجار (n_estimators)، الحد الأقصى للميزات (max features) لكل تقسيم (split)، وإرجاع النموذج المدرب (trained model) والتنبؤ (prediction) على بيانات جديدة (new data) (التصويت (voting) للتصنيف، المتوسط (averaging) للانحدار)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_173",
+    "question": "اكتب function تنفذ خوارزمية Gradient Boosting Machines (GBM) (آلات تعزيز التدرج) للتصنيف (classification) والانحدار (regression)، باستخدام تعزيز (boosting) حيث يتم إضافة نماذج ضعيفة (weak learners) (أشجار القرار) بشكل متسلسل (sequentially) لتصحيح أخطاء النماذج السابقة، مع دعم معلمات (learning rate، n_estimators، max_depth، subsample)، وإرجاع النموذج المدرب (trained model) والتنبؤ (prediction) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_174",
+    "question": "اكتب function تنفذ خوارزمية XGBoost (تطبيق محسن لـ Gradient Boosting)، مع دعم التنظيم (regularization) (L1 و L2)، ومعالجة القيم المفقودة (missing values)، والتوازي (parallelization)، والتوقف المبكر (early stopping)، والتحقق المتقاطع (cross-validation) المدمج، وإرجاع النموذج المدرب (trained model) والتنبؤ (prediction) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_175",
+    "question": "اكتب function تنفذ خوارزمية K-Means Clustering (التجميع العنقودي K-mean) لتقسيم البيانات إلى k مجموعات (clusters)، مع دعم طرق تهيئة المراكز (centroid initialization) المختلفة (عشوائي (random)، K-Means++، Forgy)، ومعايير التقارب (convergence criteria) (تغير المراكز (centroid shift)، عدد التكرارات (iterations))، وإرجاع تسميات المجموعات (cluster labels) ومراكز المجموعات (cluster centers)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_176",
+    "question": "اكتب function تنفذ خوارزمية Hierarchical Clustering (التجميع العنقودي الهرمي) باستخدام طرق الربط (linkage criteria) المختلفة (single-linkage، complete-linkage، average-linkage (UPGMA)، Ward's method)، مع دعم كل من التجمع التجميعي (agglomerative clustering) من الأسفل إلى الأعلى (bottom-up) والتقسيمي (divisive) من الأعلى إلى الأسفل (top-down)، وإرجاع شجرة التجمع (dendrogram) وتسميات المجموعات (cluster labels) عند قطع الشجرة (cut) عند مستوى معين",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_177",
+    "question": "اكتب function تنفذ خوارزمية DBSCAN (Density-Based Spatial Clustering of Applications with Noise) للتجميع العنقودي القائم على الكثافة (density-based clustering)، مع دعم معلمات (epsilon (ε) (نصف القطر (radius)) و minPts (الحد الأدنى لعدد النقاط (minimum points)) لتحديد المناطق الكثيفة (dense regions) والضوضاء (noise)، وإرجاع تسميات المجموعات (cluster labels) حيث يتم تصنيف النقاط الشاذة (outliers) كـ -1",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_178",
+    "question": "اكتب function تنفذ خوارزمية Gaussian Mixture Models (GMM) (نماذج الخليط الغاوسي) للتجميع العنقودي (clustering) باستخدام خوارزمية Expectation-Maximization (EM)، مع دعم عدد المكونات (components) k، ونوع مصفوفة التغاير (covariance type) (كاملة (full)، قطرية (diag)، كروية (spherical)، مقيدة (tied))، وإرجاع احتمالات الانتماء (responsibilities)، وتسميات المجموعات (cluster labels)، ومعلمات النموذج (weights، means، covariances)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_179",
+    "question": "اكتب function تنفذ خوارزمية Principal Component Analysis (PCA) (تحليل المكونات الرئيسية) لتقليل الأبعاد (dimensionality reduction)، باستخدام تحليل القيم الذاتية (eigenvalue decomposition) لمصفوفة التغاير (covariance matrix) (أو SVD لمصفوفة البيانات)، مع دعم التوسيط (centering) والقياس (scaling) للبيانات، وإرجاع المكونات الرئيسية (principal components)، التباين الموضح (explained variance ratio)، والإسقاطات (projections) للبيانات على المكونات (components)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_180",
+    "question": "اكتب function تنفذ خوارزمية t-SNE (t-distributed Stochastic Neighbor Embedding) لتقليل الأبعاد (dimensionality reduction) غير الخطية (non-linear) (خاصة للتصور (visualization) في 2D أو 3D)، باستخدام خوارزمية النزول التدريجي (gradient descent) لتحسين التشابه بين توزيعات الاحتمالات (probability distributions) في الفضاء العالي (high-dimensional) والمنخفض الأبعاد (low-dimensional)، مع دعم معلمات (perplexity، learning rate، عدد التكرارات (iterations))، وإرجاع التضمين (embedding) منخفض الأبعاد (low-dimensional embedding)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_181",
+    "question": "اكتب function تنفذ خوارزمية Naive Bayes (بايز الساذج) للتصنيف (classification) (متعدد الفئات (multi-class))، مع دعم توزيعات البيانات المختلفة (Gaussian Naive Bayes للبيانات المستمرة (continuous data)، Multinomial Naive Bayes للبيانات العددية (count data) (مثل النص (text))، Bernoulli Naive Bayes للبيانات الثنائية (binary data))، وإرجاع الاحتمالات السابقة (prior probabilities)، الاحتمالات الشرطية (likelihoods)، والتنبؤ (prediction) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_182",
+    "question": "اكتب function تنفذ خوارزمية Linear Discriminant Analysis (LDA) (تحليل التمييز الخطي) لتقليل الأبعاد (dimensionality reduction) والتصنيف (classification)، باستخدام تحليل القيم الذاتية (eigenvalue decomposition) لتباين بين الطبقات (between-class scatter) وداخل الطبقات (within-class scatter)، مع دعم معالجة البيانات متعددة الطبقات (multi-class data)، وإرجاع المحاور التمييزية (discriminant axes)، وقابلية التمييز (discriminability)، والتنبؤ (prediction) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_183",
+    "question": "اكتب function تنفذ خوارزمية Q-Learning (تعلم Q) وهي خوارزمية تعلم معزز (reinforcement learning) بدون نموذج (model-free)، لحل مشاكل اتخاذ القرار (decision-making) في بيئة (environment) (Markov Decision Process (MDP))، مع دعم معلمات (معدل التعلم (learning rate) α (alpha)، عامل الخصم (discount factor) γ (gamma)، معامل الاستكشاف (exploration rate) ε (epsilon) (epsilon-greedy))، وتحديث جدول Q (Q-table)، وإرجاع السياسة المثلى (optimal policy) وقيم Q (Q-values)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_184",
+    "question": "اكتب function تنفذ خوارزمية Deep Q-Network (DQN) (شبكة Q العميقة)، وهي خوارزمية تعلم معزز (reinforcement learning) تستخدم شبكة عصبية عميقة (deep neural network) لتقريب دالة قيمة Q (Q-value function)، مع دعم إعادة تشغيل التجربة (experience replay) والشبكة المستهدفة (target network) لتحقيق الاستقرار (stability)، وإرجاع السياسة المثلى (optimal policy) (شبكة Q المدربة (trained Q-network))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_185",
+    "question": "اكتب function تنفذ خوارزمية Policy Gradient (تدرج السياسة) (REINFORCE)، وهي خوارزمية تعلم معزز (reinforcement learning) تقوم بتحسين السياسة (policy) مباشرةً (بدون تقدير قيم Q)، باستخدام النزول التدريجي (gradient descent) لتعظيم المكافأة المتوقعة (expected reward)، مع دعم تحديث السياسة (policy update) بعد كل حلقة (episode) (Monte Carlo policy gradient)، وإرجاع السياسة المثلى (optimal policy) (معاملات السياسة (policy parameters))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_186",
+    "question": "اكتب function تنفذ خوارزمية Actor-Critic (ممثل-ناقد)، وهي خوارزمية تعلم معزز (reinforcement learning) تجمع بين تدرج السياسة (policy gradient) (Actor) وتقدير قيمة الوضع (state-value function) (Critic) لتقليل تباين التدرج (gradient variance)، مع دعم تحديث كل من Actor و Critic في نفس الوقت (باستخدام TD (Temporal Difference) error)، وإرجاع السياسة المثلى (optimal policy) (Actor) ودالة القيمة (value function) (Critic)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_187",
+    "question": "اكتب function تنفذ خوارزمية Proximal Policy Optimization (PPO) (تحسين السياسة القريبة)، وهي خوارزمية تعلم معزز (reinforcement learning) مستقرة (stable) وفعالة (efficient) تحسن السياسة (policy) من خلال تكرار أخذ عينات من البيانات واستخدام أهداف مقطوعة (clipped objectives) لتجنب التغييرات الكبيرة في السياسة (policy change)، وإرجاع السياسة المثلى (optimal policy) (معاملات السياسة (policy parameters))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_188",
+    "question": "اكتب function تنفذ خوارزمية Gaussian Process Regression (انحدار العملية الغاوسية) (GPR) لنمذجة الدوال (function modeling) والتنبؤ (prediction) مع عدم اليقين (uncertainty)، باستخدام دالة النواة (kernel function) (مثل RBF، Matern، Rational Quadratic)، وتحسين المعلمات الفائقة (hyperparameters) عبر تعظيم الاحتمال الهامشي (maximizing marginal likelihood)، وإرجاع القيمة المتوقعة (mean) والتباين (variance) للتنبؤات (predictions)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_189",
+    "question": "اكتب function تنفذ خوارزمية Bayesian Optimization (تحسين بايزي) لتحسين الدوال السوداء (black-box functions) الباهظة التكلفة (expensive-to-evaluate)، باستخدام Gaussian Process (GP) كنموذج بديل (surrogate model) ومعيار الاستحواذ (acquisition function) (مثل Expected Improvement (EI)، Upper Confidence Bound (UCB)، Probability of Improvement (PI)) لتحديد النقطة التالية لتقييم الدالة الهدف (objective function)، وإرجاع الحل الأمثل (optimal solution) وقيمة الدالة (function value)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_190",
+    "question": "اكتب function تنفذ خوارزمية Random Search (بحث عشوائي) للبحث عن المعاملات الفائقة (hyperparameter search) لنماذج التعلم الآلي (machine learning models)، مع دعم توزيعات مختلفة (uniform، log-uniform، discrete)، وتقييم كل مجموعة معاملات (parameter combination) عبر التحقق المتقاطع (cross-validation)، وإرجاع أفضل مجموعة معاملات (best parameters) وأفضل أداء (best score)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_191",
+    "question": "اكتب function تنفذ خوارزمية Grid Search (بحث شبكي) للبحث عن المعاملات الفائقة (hyperparameter search) لنماذج التعلم الآلي (machine learning models)، حيث يتم تقييم جميع مجموعات المعاملات (parameter combinations) الممكنة في شبكة (grid) محددة، مع دعم التحقق المتقاطع (cross-validation)، وإرجاع أفضل مجموعة معاملات (best parameters) وأفضل أداء (best score)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_192",
+    "question": "اكتب function تنفذ خوارزمية Cross-Validation (التحقق المتقاطع) لتقييم أداء نماذج التعلم الآلي (machine learning models)، مع دعم أنواع k-fold (k-fold)، stratified k-fold (للبيانات غير المتوازنة (imbalanced))، leave-one-out (LOO)، shuffle-split، وإرجاع متوسط (mean) والانحراف المعياري (standard deviation) لمقاييس التقييم (evaluation metrics) عبر الطيات (folds)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_193",
+    "question": "اكتب function تنفذ خوارزمية Bootstrap Aggregating (Bagging) (تعبئة) لتقليل تباين النماذج (variance reduction) في التعلم الآلي (machine learning) (مثل التعبئة لأشجار القرار (bagged decision trees))، باستخدام أخذ عينات bootstrap (bootstrap sampling) (مع الاستبدال (with replacement)) لإنشاء مجموعات تدريب متعددة (multiple training sets) وتدريب نموذج على كل منها، ثم تجميع التنبؤات (predictions) (التصويت (voting) للتصنيف، المتوسط (averaging) للانحدار)، وإرجاع النموذج المُعبأ (bagged model)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_194",
+    "question": "اكتب function تنفذ خوارزمية Boosting (تعزيز) (مثل AdaBoost) لتحويل مجموعة من النماذج الضعيفة (weak learners) (عادة أشجار القرار ذات مستوى واحد (stumps)) إلى نموذج قوي (strong learner)، عن طريق تدريب النماذج بشكل متسلسل (sequentially) مع زيادة وزن العينات التي تم تصنيفها بشكل خاطئ (misclassified samples) في كل خطوة (iteration)، وإرجاع النموذج المُعزز (boosted model) وأوزان النماذج (model weights)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_195",
+    "question": "اكتب function تنفذ خوارزمية Stacking (التكديس) (stacked generalization) لتجميع (ensemble) عدة نماذج تعلم آلي (machine learning models) (مستوى الأساس (base level)) باستخدام نموذج مستوى ثان (meta-learner) (المُجمِّع (combiner)) يتعلم كيفية الجمع الأمثل بين تنبؤات النماذج الأساسية (base models)، مع دعم التحقق المتقاطع (cross-validation) لإنشاء ميزات مستوى التكديس (stacking features) لتجنب overfitting، وإرجاع نموذج التكديس (stacking model)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_196",
+    "question": "اكتب function تنفذ خوارزمية Neural Network (شبكة عصبية) متعددة الطبقات (multilayer perceptron (MLP)) للتصنيف (classification) والانحدار (regression)، مع دعم عدد الطبقات المخفية (hidden layers) والخلايا العصبية (neurons) في كل طبقة (layer)، دوال التنشيط (activation functions) (ReLU، sigmoid، tanh، softmax)، النزول التدريجي (gradient descent) مع backpropagation، ومعاملات التنظيم (regularization) (L1، L2، dropout)، وإرجاع الشبكة العصبية المدربة (trained neural network) والتنبؤ (prediction) على بيانات جديدة (new data)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_197",
+    "question": "اكتب function تنفذ خوارزمية Convolutional Neural Network (CNN) (شبكة عصبية التفافية) لمعالجة الصور (image processing) والتعرف على الأنماط (pattern recognition)، مع دعم طبقات الالتفاف (convolutional layers) (حجم النواة (kernel size)، عدد المرشحات (filters)، الخطوة (stride)، الحشو (padding))، طبقات التجميع (pooling layers) (max pooling، average pooling)، الطبقات المتصلة بالكامل (fully connected layers)، وظيفة الخسارة (loss function) (cross-entropy، MSE)، والمحسن (optimizer) (Adam، SGD)، وإرجاع CNN المدربة (trained CNN)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_198",
+    "question": "اكتب function تنفذ خوارزمية Recurrent Neural Network (RNN) (شبكة عصبية متكررة) لمعالجة البيانات المتسلسلة (sequential data) (مثل النصوص (text)، السلاسل الزمنية (time series)، الصوت (audio))، مع دعم خلايا الذاكرة (memory cells) الأساسية (simple RNN، LSTM، GRU)، الانتشار عبر الزمن (backpropagation through time (BPTT))، ومعالجة التلاشي/الانفجار التدريجي (vanishing/exploding gradient) باستخدام تقنيات (gradient clipping، تهيئة الوزن (weight initialization)، تسوية الدفعة (batch normalization))، وإرجاع RNN المدربة (trained RNN) (للتسلسل إلى تسلسل (sequence-to-sequence) أو التسلسل إلى متجه (sequence-to-vector))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_199",
+    "question": "اكتب function تنفذ خوارزمية Transformer (محول) لنمذجة اللغة (language modeling) والترجمة الآلية (machine translation) وغيرها من مهام التسلسل (sequence tasks)، مع دعم آليات الانتباه الذاتي (self-attention)، الترميز الموضعي (positional encoding)، التغذية الأمامية (feed-forward)، الطبقات المتعددة (multi-head attention)، التطبيع المتبقي (residual normalization)، وإرجاع نموذج Transformer المدرب (trained Transformer) (المشفر (encoder)، وحدة فك الترميز (decoder)، أو كليهما)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_200",
+    "question": "اكتب function تنفذ خوارزمية Word Embeddings (تضمينات الكلمات) (مثل Word2Vec (Skip-gram، CBOW) أو GloVe) لتحويل الكلمات (words) إلى متجهات (vectors) في فضاء مستمر (continuous vector space) يحافظ على العلاقات الدلالية (semantic relationships)، باستخدام النزول التدريجي (gradient descent) لتحسين هدف (objective) التنبؤ بالكلمات المجاورة (context words) أو مصفوفة التكرار المتزامن (co-occurrence matrix)، وإرجاع متجهات الكلمات (word vectors) (و قاموس (dictionary))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  }
+]
