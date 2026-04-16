@@ -1,0 +1,1782 @@
+[
+  {
+    "id": "adv_201",
+    "question": "اكتب function تنفذ خوارزمية Encoder-Decoder (مشفر-وحدة فك ترميز) مع Attention (انتباه) لنماذج الترجمة الآلية (machine translation) أو تلخيص النص (text summarization)، حيث يقوم المشفر (encoder) (RNN أو Transformer) بتحويل تسلسل الإدخال (input sequence) إلى تمثيل (representation)، وتقوم آلية الانتباه (attention mechanism) بحساب الأهمية (importance) لكل عنصر في تسلسل الإدخال، وتقوم وحدة فك الترميز (decoder) (RNN أو Transformer) بتوليد تسلسل الإخراج (output sequence) خطوة بخطوة (step-by-step)، مع دعم teacher forcing أثناء التدريب (training)، وإرجاع النموذج المدرب (trained model)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_202",
+    "question": "اكتب function تنفذ خوارزمية BERT (Bidirectional Encoder Representations from Transformers) (تمثيلات المشفر ثنائية الاتجاه من المحولات) لمعالجة اللغة الطبيعية (NLP) (ما قبل التدريب (pre-training) والضبط الدقيق (fine-tuning))، باستخدام بنية Transformer (encoder only) مع تدريب مسبق على مهمتين: نمذجة اللغة المقنعة (Masked Language Modeling (MLM)) والتنبؤ بالجملة التالية (Next Sentence Prediction (NSP))، مع دعم الضبط الدقيق (fine-tuning) لمهام المصب (downstream tasks) (تصنيف النص (text classification)، الإجابة على الأسئلة (question answering)، التعرف على الكيانات المسماة (named entity recognition))، وإرجاع نموذج BERT المدرب (trained BERT model)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_203",
+    "question": "اكتب function تنفذ خوارزمية GPT (Generative Pre-trained Transformer) (المحول التوليدي المدرب مسبقاً) لتوليد النص (text generation) ونمذجة اللغة (language modeling)، باستخدام بنية Transformer (decoder only) مع تدريب مسبق على نمذجة اللغة التلقائية (autoregressive language modeling) (التنبؤ بالرمز التالي (next token prediction))، مع دعم الضبط الدقيق (fine-tuning) لمهام المصب (downstream tasks) (التصنيف (classification)، التلخيص (summarization)، المحادثة (conversation))، وإرجاع نموذج GPT المدرب (trained GPT model)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_204",
+    "question": "اكتب function تنفذ خوارزمية Sequence-to-Sequence (Seq2Seq) (تسلسل إلى تسلسل) مع آلية الانتباه (attention) لمهام مثل الترجمة الآلية (machine translation) أو تلخيص النص (text summarization)، باستخدام مشفر (encoder) RNN (LSTM أو GRU) ووحدة فك ترميز (decoder) RNN (LSTM أو GRU) مع آلية الانتباه (attention) التي تسمح لوحدة فك الترميز (decoder) بالتركيز على أجزاء مختلفة من تسلسل الإدخال (input sequence) في كل خطوة (step) من خطوات فك الترميز (decoding)، وإرجاع نموذج Seq2Seq المدرب (trained Seq2Seq model)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_205",
+    "question": "اكتب function تنفذ خوارزمية Latent Dirichlet Allocation (LDA) (تخصيص ديريكليت الكامن) لنمذجة الموضوع (topic modeling) في مجموعات النصوص (text corpora)، باستخدام نموذج بايزي هرمي (hierarchical Bayesian model) حيث يتم تمثيل كل مستند (document) كخليط (mixture) من الموضوعات (topics) وكل موضوع (topic) كخليط (mixture) من الكلمات (words)، مع دعم تقدير المعاملات (parameter estimation) باستخدام Gibbs Sampling أو Variational Inference، وإرجاع توزيعات الموضوعات لكل مستند (document-topic distributions) وتوزيعات الكلمات لكل موضوع (topic-word distributions)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_206",
+    "question": "اكتب function تنفذ خوارزمية Non-negative Matrix Factorization (NMF) (تحليل المصفوفة غير السالبة) لتقليل الأبعاد (dimensionality reduction) وتحليل البيانات (data analysis)، خاصة لصور (images) والنصوص (text) حيث تكون البيانات غير سالبة (non-negative)، باستخدام خوارزمية تكرارية (iterative algorithm) (مثل قاعدة تحديث الضرب (multiplicative update rule)) لتحليل مصفوفة البيانات V إلى مصفوفتين W (أساس (basis)) و H (معاملات (coefficients)) بحيث V ≈ W H (جميع العناصر غير سالبة)، وإرجاع المصفوفات W و H",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_207",
+    "question": "اكتب function تنفذ خوارزمية Singular Value Decomposition (SVD) (تحليل القيمة المفردة) لتحليل المصفوفات (matrix analysis) وتقليل الأبعاد (dimensionality reduction)، باستخدام تحليل المصفوفة A إلى U Σ V^T حيث U و V مصفوفات متعامدة (orthogonal) و Σ مصفوفة قطرية (diagonal) تحتوي على القيم المفردة (singular values)، مع دعم الـ truncated SVD لتقليل الأبعاد (اختيار أكبر k قيمة مفردة (singular values))، وإرجاع المصفوفات U، Σ، V^T",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_208",
+    "question": "اكتب function تنفذ خوارزمية Independent Component Analysis (ICA) (تحليل المكونات المستقلة) لفصل الإشارات (signal separation) (مشكلة الكوكتيل (cocktail party problem))، وذلك عن طريق تقدير مصفوفة الفصل (separating matrix) التي تجعل المكونات (components) مستقلة إحصائياً (statistically independent) باستخدام معيار غير غاوسي (non-Gaussianity) مثل التفلطح (kurtosis) أو المعلومات المتبادلة (mutual information)، وإرجاع المكونات المستقلة (independent components)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_209",
+    "question": "اكتب function تنفذ خوارزمية t-Distributed Stochastic Neighbor Embedding (t-SNE) (تضمين الجوار العشوائي الموزع ت) لتقليل الأبعاد (dimensionality reduction) غير الخطية (non-linear) (خاصة للتصور (visualization) في 2D أو 3D)، باستخدام خوارزمية النزول التدريجي (gradient descent) لتحسين التشابه بين توزيعات الاحتمالات (probability distributions) في الفضاء العالي (high-dimensional) والمنخفض الأبعاد (low-dimensional)، مع دعم معلمات (perplexity، learning rate، عدد التكرارات (iterations))، وإرجاع التضمين (embedding) منخفض الأبعاد (low-dimensional embedding)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_210",
+    "question": "اكتب function تنفذ خوارزمية Uniform Manifold Approximation and Projection (UMAP) (تقريب وإسقاط المانيفولد المنتظم) لتقليل الأبعاد (dimensionality reduction) غير الخطية (non-linear)، مع الحفاظ على البنية الطوبولوجية (topological structure) للبيانات (local and global structure)، باستخدام نظرية المانيفولد (manifold theory) والهندسة الريمانية (Riemannian geometry)، مع دعم معلمات (n_neighbors، min_dist، n_components)، وإرجاع التضمين (embedding) منخفض الأبعاد (low-dimensional embedding)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_211",
+    "question": "اكتب function تنفذ خوارزمية Isolation Forest (غابة العزل) للكشف عن الحالات الشاذة (anomaly detection)، باستخدام أشجار عشوائية (random trees) لعزل العينات (isolate samples) بدلاً من نمذجة النقاط العادية (normal points)، حيث تكون الحالات الشاذة (anomalies) أسهل في العزل (require fewer splits)، وإرجاع درجة الحالة الشاذة (anomaly score) لكل نقطة (point) (أو تصنيف (label) إذا تم تحديد عتبة (threshold))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_212",
+    "question": "اكتب function تنفذ خوارزمية One-Class SVM (آلة المتجهات الداعمة لفئة واحدة) للكشف عن الحالات الشاذة (anomaly detection) (التعلم غير الخاضع للإشراف (unsupervised learning))، وذلك عن طريق تقديم حدود (boundary) حول البيانات العادية (normal data) في فضاء الميزات (feature space) باستخدام نواة (kernel) (عادة RBF)، وتصنيف النقاط الجديدة (new points) على أنها طبيعية (normal) (داخل الحدود (inside boundary)) أو شاذة (anomaly) (خارج الحدود (outside boundary))، وإرجاع قرار (decision) لكل نقطة (point) (1/-1)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_213",
+    "question": "اكتب function تنفذ خوارزمية Autoencoder (التشفير التلقائي) (شبكة عصبية (neural network)) للتعلم غير الخاضع للإشراف (unsupervised learning)، لضغط (compress) البيانات إلى تمثيل (representation) منخفض الأبعاد (low-dimensional) (المشفر (encoder)) وإعادة بنائها (reconstruct) مرة أخرى (وحدة فك الترميز (decoder))، مع دعم التنظيم (regularization) (مثل التكديس (stacked)، المتفرقة (sparse)، التصحيح (denoising)، الـ variational (VAE))، وإرجاع المشفر (encoder) (للحصول على الميزات (features)) ووحدة فك الترميز (decoder) (لإعادة البناء (reconstruction))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_214",
+    "question": "اكتب function تنفذ خوارزمية Variational Autoencoder (VAE) (التشفير التلقائي المتغير) لتوليد البيانات (data generation) والتعلم غير الخاضع للإشراف (unsupervised learning)، باستخدام نهج بايزي (Bayesian approach) حيث يتعلم المشفر (encoder) توزيعاً (distribution) (الوسط (mean) والتباين (variance)) في الفضاء الكامن (latent space)، ووحدة فك الترميز (decoder) تعيد بناء (reconstruct) البيانات من عينات (samples) من هذا التوزيع (distribution)، مع دعم خسارة الـ ELBO (Evidence Lower Bound) (خسارة إعادة البناء (reconstruction loss) + تباعد كولباك-ليبلر (KL divergence))، وإرجاع نموذج VAE المدرب (trained VAE)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_215",
+    "question": "اكتب function تنفذ خوارزمية Generative Adversarial Network (GAN) (الشبكة الخصومية التوليدية) لتوليد البيانات (data generation)، باستخدام شبكتين (two networks): المولد (generator) (ينشئ بيانات مزيفة (fake data)) والمميز (discriminator) (يميز بين البيانات الحقيقية (real data) والبيانات المزيفة (fake data))، يتنافسان في لعبة محصلتها صفر (zero-sum game) (تدريب عدائي (adversarial training))، مع دعم أنواع مختلفة من GAN (DCGAN، WGAN، CycleGAN، StyleGAN) وتطبيقات (توليد الصور (image generation)، نقل النمط (style transfer)، تحسين الصورة (image enhancement))، وإرجاع المولد (generator) والمميز (discriminator) المدربين (trained)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_216",
+    "question": "اكتب function تنفذ خوارزمية Reinforcement Learning (تعلم معزز) باستخدام Policy Gradient Methods (طرق تدرج السياسة) (مثل REINFORCE، Actor-Critic، PPO، TRPO) لحل مشاكل اتخاذ القرار (decision-making) في بيئات (environments) مع مساحة حالة (state space) ومساحة فعل (action space) مستمرة (continuous) أو منفصلة (discrete)، مع دعم تحديث السياسة (policy update) باستخدام النزول التدريجي (gradient descent) لتعظيم المكافأة المتوقعة (expected reward)، وإرجاع السياسة المثلى (optimal policy) (معاملات السياسة (policy parameters))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_217",
+    "question": "اكتب function تنفذ خوارزمية Value Iteration (تكرار القيمة) لحل Markov Decision Processes (MDPs) (عمليات اتخاذ القرار الماركوفية) مع مساحة حالة (state space) ومساحة فعل (action space) محدودة (finite)، وذلك عن طريق التكرار (iterating) على دالة القيمة (value function) حتى التقارب (convergence) (معادلة بيلمان المثلى (Bellman optimality equation))، وإرجاع دالة القيمة المثلى (optimal value function) والسياسة المثلى (optimal policy)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_218",
+    "question": "اكتب function تنفذ خوارزمية Policy Iteration (تكرار السياسة) لحل Markov Decision Processes (MDPs) (عمليات اتخاذ القرار الماركوفية) مع مساحة حالة (state space) ومساحة فعل (action space) محدودة (finite)، وذلك عن طريق التكرار (iterating) بين تقييم السياسة (policy evaluation) (حساب دالة القيمة (value function) للسياسة الحالية (current policy)) وتحسين السياسة (policy improvement) (تحديث السياسة (policy) لتكون جشعة (greedy) بالنسبة لدالة القيمة (value function)) حتى تتقارب السياسة (policy converges)، وإرجاع السياسة المثلى (optimal policy) ودالة القيمة المثلى (optimal value function)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_219",
+    "question": "اكتب function تنفذ خوارزمية Monte Carlo Tree Search (MCTS) (بحث شجرة مونت كارلو) لاتخاذ القرار (decision-making) في الألعاب (games) ومشاكل البحث (search problems) (مثل AlphaGo)، وذلك عن طريق بناء شجرة بحث (search tree) بشكل غير متماثل (asymmetrically) وتوجيه البحث نحو الفروع الواعدة (promising branches) باستخدام التوازن بين الاستكشاف (exploration) والاستغلال (exploitation) (UCB1 (Upper Confidence Bound))، وإرجاع أفضل إجراء (best action) من الحالة الحالية (current state)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_220",
+    "question": "اكتب function تنفذ خوارزمية Minimax (مينيماكس) مع تقليم ألفا-بيتا (Alpha-Beta Pruning) للألعاب ثنائية اللاعبين (two-player games) (مثل الشطرنج (chess)، تيك تاك تو (tic-tac-toe)) ذات المجموع الصفري (zero-sum) والمعلومات الكاملة (perfect information)، حيث يقلل اللاعب الأول (maximizer) الخسارة (loss) واللاعب الثاني (minimizer) يقلل المكسب (gain)، مع دعم وظيفة التقييم (evaluation function) لتقييم الحالات (states) غير الطرفية (non-terminal)، وإرجاع أفضل حركة (best move) وقيمتها (value)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_221",
+    "question": "اكتب function تنفذ خوارزمية Splay Tree (شجرة الانزلاق) وهي شجرة بحث ثنائية (BST) ذاتية التوازن (self-balancing) مع خاصية الوصول الحديث (recently accessed) حيث يتم إحضار العقد التي تم الوصول إليها إلى الجذر (root) باستخدام عمليات الانزلاق (splay operations)، مع دعم عمليات insert، delete، search، split، merge، وإرجاع الشجرة (tree) وتحليل التعقيد الزمني المطفأ (amortized) O(log n)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_222",
+    "question": "اكتب function تنفذ خوارزمية Treap (شجرة كومة عشوائية) وهي شجرة بحث ثنائية (BST) تجمع بين خاصية الكومة (heap property) (أولوية عشوائية (random priority)) وشجرة البحث الثنائية (BST) (بناءً على المفتاح (key))، مع دعم عمليات insert، delete، search، split، merge، وإرجاع الشجرة (tree) وتحليل التعقيد الزمني المتوقع O(log n)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_223",
+    "question": "اكتب function تنفذ بنية بيانات Binomial Heap (كومة ذات الحدين) وهي كومة (priority queue) تدعم عمليات merge (دمج) في وقت O(log n)، وعمليات insert، extractMin، decreaseKey، delete في وقت O(log n)، مع تمثيل الكومة كمجموعة من الأشجار ذات الحدين (binomial trees)، وإرجاع الكومة (heap) وتحليل التعقيد الزمني",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_224",
+    "question": "اكتب function تنفذ بنية بيانات Fibonacci Heap (كومة فيبوناتشي) وهي كومة (priority queue) تدعم عمليات insert في وقت O(1)، و merge في وقت O(1)، و extractMin في وقت O(log n) amortized، و decreaseKey في وقت O(1) amortized، مع دمج الأشجار (tree merging) والقطع (cutting) وعلامات (marking)، وإرجاع الكومة (heap) وتحليل التعقيد الزمني المطفأ (amortized)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_225",
+    "question": "اكتب function تنفذ خوارزمية Disjoint Set Union (DSU) (Union-Find) مع دعم التراجع (rollback) (DSU with rollback) لحفظ حالة الـ DSU والعودة إليها (undo last operations)، مع دعم عمليات union و find و save checkpoint و rollback، وإرجاع الـ DSU مع إمكانية التراجع (rollback)، وتحليل التعقيد الزمني O(log n) للعمليات مع التراجع",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_226",
+    "question": "اكتب function تنفذ بنية بيانات Persistent Segment Tree (شجرة قطع ثابتة) (Versioned Segment Tree) تدعم الإصدارات (versions) المختلفة من الشجرة (بعد كل تحديث (update))، مع دعم عمليات update (إنشاء إصدار جديد) و query (على أي إصدار سابق (previous version))، وإرجاع جذور (roots) جميع الإصدارات (versions)، وتحليل التعقيد الزمني O(log n) والمكاني O(n log n)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_227",
+    "question": "اكتب function تنفذ بنية بيانات Persistent Array (مصفوفة ثابتة) باستخدام شجرة ثنائية (binary tree) أو Segment Tree، تدعم الإصدارات (versions) المختلفة من المصفوفة (بعد كل تحديث (update))، مع دعم عمليات update (إنشاء إصدار جديد) و get (الوصول إلى عنصر في أي إصدار سابق (previous version))، وإرجاع المصفوفات (arrays) (الجذور (roots)) لجميع الإصدارات (versions)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_228",
+    "question": "اكتب function تنفذ خوارزمية Link/Cut Tree (LCT) (شجرة الوصل/القطع) وهي بنية بيانات للغابات الديناميكية (dynamic forests) (الرسوم البيانية المتغيرة (changing graphs)) تدعم عمليات link (توصيل شجرتين (connect two trees))، cut (قطع حافة (cut edge))، path query (استعلام على المسار بين عقدتين (path between two nodes)) (مثل مجموع (sum)، الحد الأدنى (min)، الحد الأقصى (max)، دالة ترابطية (associative function))، وإرجاع نتائج الاستعلامات (query results) بعد كل تحديث (update)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_229",
+    "question": "اكتب function تنفذ خوارزمية Heavy Light Decomposition (HLD) (تحليل الضوء الثقيل) لتقسيم الشجرة (tree) إلى سلاسل (chains) (ثقيلة (heavy) وخفيفة (light))، مما يسمح بإجراء استعلامات (queries) وتحديثات (updates) على المسار بين عقدتين (path between two nodes) (مثل مجموع (sum)، الحد الأدنى (min)، الحد الأقصى (max)) في وقت O(log^2 n) باستخدام Segment Tree أو Fenwick Tree على السلاسل (chains)، وإرجاع بنية الـ HLD",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_230",
+    "question": "اكتب function تنفذ خوارزمية Centroid Decomposition (تحليل النقط الوسطى) لمعالجة الاستعلامات (queries) على الشجرة (tree) (مثل المسافات (distances)، أزواج النقاط (point pairs)) في وقت O(log n) لكل استعلام (query)، وذلك عن طريق تقسيم الشجرة (tree) بشكل متكرر (recursively) إلى أجزاء (subtree) حول النقط الوسطى (centroids)، وإرجاع بنية الـ Centroid Decomposition",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_231",
+    "question": "اكتب function تنفذ خوارزمية Mo's Algorithm (خوارزمية مو) لمعالجة استعلامات النطاق (range queries) دون اتصال (offline) (على مصفوفة (array)) حيث يمكن تحديث الإجابات (answers) بسهولة عند إضافة (adding) أو إزالة (removing) عنصر (element)، وذلك عن طريق تقسيم الاستعلامات (queries) إلى كتل (blocks) وفرزها (sorting) (ترتيب (order)) لتقليل حركة المؤشرات (pointer moves) إلى O((n+q) * sqrt(n))، وإرجاع إجابات (answers) لجميع الاستعلامات (queries)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_232",
+    "question": "اكتب function تنفذ خوارزمية Mo's Algorithm on Trees (خوارزمية مو على الأشجار) لمعالجة استعلامات النطاق (range queries) على مسار (path) في شجرة (tree) (بين عقدتين (nodes)) دون اتصال (offline)، وذلك عن طريق تحويل الشجرة (tree) إلى مصفوفة (array) باستخدام Euler Tour Technique وتطبيق خوارزمية مو (Mo's algorithm) العادية مع معالجة LCA (Lowest Common Ancestor) للحالات الخاصة (special cases)، وإرجاع إجابات (answers) لجميع الاستعلامات (queries)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_233",
+    "question": "اكتب function تنفذ خوارزمية SQRT Decomposition (تحليل الجذر التربيعي) على مصفوفة (array) لتقسيمها إلى كتل (blocks) بحجم √n، مما يسمح بإجراء تحديثات النطاق (range updates) واستعلامات النطاق (range queries) (مثل مجموع (sum)، الحد الأدنى (min)، الحد الأقصى (max)) في وقت O(√n) لكل عملية (operation)، وإرجاع بنية التحليل (decomposition structure)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_234",
+    "question": "اكتب function تنفذ خوارزمية Sparse Table (جدول متناثر) للاستعلام عن أقل قيمة (RMQ - Range Minimum Query) أو أي عملية ترابطية (associative) idempotent (مثل min، max، gcd) في وقت O(1) بعد معالجة مسبقة O(n log n)، مع دعم الاستعلامات على الفترات (queries on intervals)، وإرجاع الجدول المتناثر (sparse table) وإجابات الاستعلامات (query answers)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_235",
+    "question": "اكتب function تنفذ خوارزمية Binary Indexed Tree (Fenwick Tree) ثنائية الأبعاد (2D BIT) للاستعلام عن مجموع (sum) على مصفوفة ثنائية الأبعاد (2D array) وتحديث النقاط (point updates) في وقت O(log n * log m)، مع دعم استعلامات النطاق (range queries) (المجموع (sum) من (1,1) إلى (x,y)) واستعلامات المستطيل (rectangle queries) (باستخدام مبدأ التضمين والإقصاء (inclusion-exclusion principle))، وإرجاع شجرة فينويك (Fenwick tree)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_236",
+    "question": "اكتب function تنفذ خوارزمية Segment Tree مع Lazy Propagation (شجرة قطع مع انتشار كسول) للتحديثات الفاصلة (range updates) والاستعلامات الفاصلة (range queries) (مثل إضافة قيمة (add value) إلى نطاق (range)، تعيين قيمة (assign value) لنطاق (range)) في وقت O(log n)، مع دعم أنواع مختلفة من التحديثات (updates) والاستعلامات (queries)، وإرجاع شجرة القطع (segment tree) وإجابات الاستعلامات (query answers)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_237",
+    "question": "اكتب function تنفذ خوارزمية Segment Tree Beats (شجرة القطع التي تتغلب) (Segment Tree with Range Chmin، Range Chmax، Range Add، Range Sum Queries) لمعالجة العمليات (operations) مثل تحديث chmin (تعيين الحد الأدنى (apply min)) و chmax (تعيين الحد الأقصى (apply max)) على نطاق (range) في وقت O(n log n) amortized، وإرجاع شجرة القطع (segment tree) وإجابات الاستعلامات (query answers)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_238",
+    "question": "اكتب function تنفذ خوارزمية Li Chao Tree (شجرة لي تشاو) لإدراج الخطوط (lines) (y = m x + b) والاستعلام عن الحد الأدنى (min) (أو الحد الأقصى (max)) لقيمة الخطوط (lines) عند نقطة x معينة (given x) في وقت O(log C) (حيث C هو نطاق x (range of x))، مع دعم إضافة خطوط (adding lines) ديناميكياً (dynamically) وإرجاع الحد الأدنى للقيمة (minimum value) عند أي x",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_239",
+    "question": "اكتب function تنفذ خوارزمية Convex Hull Trick (CHT) (خدعة الهيكل المحدب) (Line Container) لمعالجة الاستعلامات (queries) للحد الأدنى (min) (أو الحد الأقصى (max)) لمجموعة من الخطوط (lines) (y = m x + b) عند نقاط x (x queries) بترتيب رتيب (monotonic order) (للميل (slope) أو لـ x)، مع دعم إضافة خطوط (adding lines) والحفاظ على الهيكل المحدب السفلي (lower convex hull) أو العلوي (upper convex hull)، وإرجاع الحد الأدنى (minimum) (أو الأقصى (maximum)) للقيمة",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_240",
+    "question": "اكتب function تنفذ خوارزمية Small-to-Large Merging (دمج الصغير إلى الكبير) (DSU on tree) لمعالجة الاستعلامات (queries) على الشجرة (tree) في وقت O(n log n)، وذلك عن طريق دمج خرائط (maps) أو مجموعات (sets) للأطفال (children) الأصغر (smaller) في الأكبر (larger) لتجنب النسخ المكلف (expensive copying)، وإرجاع إجابات (answers) للاستعلامات (queries) (مثل تكرار الألوان (color frequencies) في الشجرة الفرعية (subtree))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_241",
+    "question": "اكتب function تنفذ خوارزمية Chinese Remainder Theorem (CRT) (النظرية الصينية للفواضل) لحل نظام من المعادلات الخطية (system of linear congruences) (x ≡ a1 (mod n1)، x ≡ a2 (mod n2)، ...، x ≡ ak (mod nk)) حيث n1، n2، ...، nk هي أعداد أولية نسبياً (pairwise coprime)، وإرجاع الحل (solution) x (mod N) حيث N = n1 * n2 * ... * nk، وإرجاع خطأ (error) إذا لم تكن n1...nk أولية نسبياً (not coprime)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_242",
+    "question": "اكتب function تنفذ خوارزمية Garner's Algorithm (خوارزمية غارنر) لحل نظام المعادلات الخطية (system of linear congruences) (x ≡ a1 (mod n1)، x ≡ a2 (mod n2)، ...، x ≡ ak (mod nk)) دون اشتراط أن n1، n2، ...، nk أعداد أولية نسبياً (pairwise coprime)، وإرجاع الحل (solution) x (mod M) حيث M = lcm(n1، n2، ...، nk) وأيضاً إرجاع قابلية الحل (solvability) (إذا كان الحل غير ممكن (no solution) إرجاع خطأ (error))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_243",
+    "question": "اكتب function تنفذ خوارزمية Modular Arithmetic (الحسابيات النمطية) المتقدمة: (أ) معكوس ضربي (Modular Inverse) باستخدام نظرية فيرما الصغرى (Fermat's Little Theorem) (إذا كان المعامل (mod) أولي (prime)) أو Extended Euclidean Algorithm (لأي معامل (mod) (coprime))، (ب) قوة نمطية سريعة (Fast Modular Exponentiation) (a^b mod m)، (ج) الجذر النمطي (Modular Square Root) باستخدام خوارزمية تونيلي-شانكس (Tonelli-Shanks) (عندما يكون المعامل (mod) أولي (prime))، وإرجاع النتائج (results) المحسوبة (computed)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_244",
+    "question": "اكتب function تنفذ خوارزمية Baby-step Giant-step (خوارزمية الخطوة الصغيرة والخطوة الكبيرة) لحل مشكلة اللوغاريتم المنفصل (discrete logarithm problem) (إيجاد x بحيث a^x ≡ b (mod p) حيث p أولي (prime)) في وقت O(√p)، وذلك عن طريق تخزين قيم (baby steps) a^j لـ j من 0 إلى m-1 والبحث عن قيم (giant steps) b * a^(-i m) في جدول التجزئة (hash table)، وإرجاع أصغر x (smallest x) (إذا وجد (found)) وإلا إرجاع -1",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_245",
+    "question": "اكتب function تنفذ خوارزمية Pohlig-Hellman لحل مشكلة اللوغاريتم المنفصل (discrete logarithm problem) عندما يكون p-1 له عوامل أولية صغيرة (small prime factors)، وذلك عن طريق تقسيم المشكلة إلى مشاكل فرعية (subproblems) في حقول أصغر (smaller fields) باستخدام نظرية الباقي الصيني (Chinese Remainder Theorem) (CRT)، وإرجاع الحل (solution) x (إذا وجد (found))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_246",
+    "question": "اكتب function تنفذ خوارزمية Lucas Theorem (نظرية لوكاس) لحساب معامل ذي الحدين (binomial coefficient) C(n, k) mod p حيث p عدد أولي (prime) (و n، k يمكن أن تكون كبيرة (large))، وذلك عن طريق تحليل n و k إلى قواعد (digits) في الأساس p (base p) (تمثيل p-ary) وحساب حاصل ضرب (product) معاملات ذات الحدين (binomial coefficients) للأرقام (digits) المقابلة (corresponding) (mod p)، وإرجاع C(n, k) mod p",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_247",
+    "question": "اكتب function تنفذ خوارزمية Modular Multiplicative Inverse (المعكوس الضربي النمطي) لجميع الأعداد (all numbers) من 1 إلى n (mod p) حيث p أولي (prime) (أكبر من n) في وقت O(n)، وذلك باستخدام علاقة التعاود (recurrence) inv[i] = p - (p/i) * inv[p % i] % p، وإرجاع مصفوفة (array) المعكوسات (inverses) (inv[1..n])",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_248",
+    "question": "اكتب function تنفذ خوارزمية Linear Sieve (غربال خطي) (غربال أويلر (Euler's sieve)) لتوليد الأعداد الأولية (primes) ودالة أويلر (Euler's totient function) (φ) وقائمة العوامل الأولية (smallest prime factor (SPF)) لجميع الأعداد (numbers) حتى n في وقت O(n)، وإرجاع قائمة الأعداد الأولية (primes list)، مصفوفة (array) φ (phi)، ومصفوفة (array) SPF",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_249",
+    "question": "اكتب function تنفذ خوارزمية Pollard's p-1 (بولارد p-1) لتحليل الأعداد الصحيحة (integer factorization)، وذلك عن طريق حساب a^(M) - 1 حيث M هو المضاعف المشترك الأصغر (LCM) للأعداد (numbers) حتى حد معين (bound) B، والأمل في أن (p-1) يقسم M (p-1 divides M) للعامل الأولي p (prime factor p)، وإرجاع عامل غير بديهي (non-trivial factor) (إذا وجد (found)) أو فشل (failure)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_250",
+    "question": "اكتب function تنفذ خوارزمية Dixon's Factorization Method (طريقة ديكسون للتحليل) لتحليل الأعداد الصحيحة (integer factorization)، وذلك عن طريق إيجاد علاقات تربيعية (quadratic relations) (x^2 ≡ y^2 (mod n)) باستخدام قاعدة العوامل (factor base) من الأعداد الأولية الصغيرة (small primes)، وإرجاع عامل غير بديهي (non-trivial factor) (إذا وجد (found)) أو فشل (failure)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_251",
+    "question": "اكتب function تنفذ خوارزمية Aho-Corasick للبحث عن عدة أنماط (multiple patterns) في نص (text) في وقت O(n + m + z) حيث n طول النص (text length)، m إجمالي طول جميع الأنماط (total length of all patterns)، z عدد التطابقات (number of matches)، وذلك عن طريق بناء آلة الحالات المحدودة (finite state machine) (Trie مع روابط فشل (failure links)) ومعالجة النص (text) في تمريرة واحدة (single pass)، وإرجاع جميع مواقع التطابق (match positions) لكل نمط (pattern)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_252",
+    "question": "اكتب function تنفذ خوارزمية Suffix Automaton (آلة اللواحق) لمعالجة الأسئلة المتعلقة بالسلاسل (string queries) مثل عدد مرات ظهور نمط (occurrences of a pattern) في سلسلة (string)، وأطول سلسلة فرعية مشتركة (longest common substring) بين سلسلتين (two strings)، وأصغر سلسلة غير موجودة (smallest missing string)، وذلك عن طريق بناء آلة الحالات المحدودة (DFA) لجميع لواحق (suffixes) السلسلة (string) في وقت O(n)، وإرجاع آلة اللواحق (suffix automaton)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_253",
+    "question": "اكتب function تنفذ خوارزمية Suffix Array و LCP Array (Longest Common Prefix) باستخدام خوارزمية SA-IS (Suffix Array Induced Sorting) في وقت O(n) (خطي) لبناء مصفوفة اللواحق (suffix array)، و خوارزمية Kasai لحساب مصفوفة LCP (LCP array) في وقت O(n)، مع دعم البحث عن نمط (pattern search) باستخدام binary search على Suffix Array، وإيجاد أطول سلسلة فرعية متكررة (longest repeated substring) وأطول سلسلة فرعية مشتركة (longest common substring) بين سلسلتين (two strings)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_254",
+    "question": "اكتب function تنفذ خوارزمية Burrows-Wheeler Transform (BWT) (تحويل باروز-ويلر) وتحويله العكسي (inverse BWT) لضغط البيانات (data compression) وإعادة ترتيب السلسلة (string) لتجميع الأحرف المتشابهة (similar characters) معاً، وذلك عن طريق بناء مصفوفة الدوران (rotation matrix) وفرزها (sorting) (BWT) وإعادة البناء (reconstruction) باستخدام counting sort (inverse BWT)، وإرجاع التحويل (transformed string) والتحويل العكسي (inverse transformed string)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_255",
+    "question": "اكتب function تنفذ خوارزمية Manber-Myers لبناء مصفوفة اللواحق (Suffix Array) في وقت O(n log n) باستخدام نهج الفرز بالمفاتيح المزدوجة (doubling algorithm) (فرز (sort) حسب أول 2^k حرف (characters) في كل خطوة (iteration))، مع دعم تحسينات (optimizations) (مثل استخدام فرز الأعداد الصحيحة (integer sort) والترميز (coding))، وإرجاع مصفوفة اللواحق (suffix array) ومصفوفة الترتيب (rank array)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_256",
+    "question": "اكتب function تنفذ خوارزمية Rolling Hash (هاش متداول) متعددة (multiple) لتقليل احتمالية التصادم (collision probability) (باستخدام قاعدتين (two bases) ومعاملين (two moduli) أو أكثر (more))، مع دعم حساب هاش (hash) لأي سلسلة فرعية (substring) في وقت O(1) بعد معالجة مسبقة (preprocessing) O(n)، ودعم عمليات (concatenation)، وإرجاع قيم الهاش (hash values) ومقارنة السلاسل (string comparison) في وقت O(1) (مع احتمال ضئيل جداً للخطأ (negligible error probability))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_257",
+    "question": "اكتب function تنفذ خوارزمية Z-algorithm على شجرة (Z-algorithm on tree) لحساب Z-values على الشجرة (tree) (أطول مسار يبدأ من عقدة (node) ويتطابق مع مسار يبدأ من الجذر (root)) في وقت O(n)، وذلك عن طريق تحويل الشجرة (tree) إلى مصفوفة (array) باستخدام Euler Tour وتطبيق Z-algorithm القياسي (standard) على المصفوفة (array)، وإرجاع Z-values لكل عقدة (node)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_258",
+    "question": "اكتب function تنفذ خوارزمية Lyndon Factorization (تحليل ليندون) لتحليل السلسلة (string) إلى سلسلة من الكلمات (words) غير القابلة للاختزال (Lyndon words) (كل كلمة (word) أصغر معجمياً (lexicographically smaller) من جميع التناوبات (rotations) الخاصة بها)، باستخدام خوارزمية Duval (O(n))، وإرجاع قائمة ببدايات (start indices) ونهايات (end indices) عوامل ليندون (Lyndon factors)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_259",
+    "question": "اكتب function تنفذ خوارزمية Minimum String Rotation (أصغر دوران للسلسلة) (Booth's algorithm) للعثور على أصغر تمثيل معجمي (lexicographically smallest rotation) لسلسلة (string) في وقت O(n)، وذلك عن طريق استخدام مؤشرين (two pointers) والحفاظ على أصغر بداية (smallest start) أثناء مقارنة التناوبات (rotations) وتجنب إعادة الفحص (re-scanning)، وإرجاع مؤشر البداية (start index) لأصغر دوران (smallest rotation) والسلسلة (string) نفسها",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_282",
+    "question": "اكتب function تنفذ خوارزمية Longest Increasing Subsequence (LIS) (أطول تتابع متزايد) في وقت O(n log n) مع إعادة بناء (reconstruction) للتتابع (sequence) نفسه (print LIS)، باستخدام خوارزمية patience sorting مع حفظ السلائف (predecessors) (مصفوفة (array) من المؤشرات (pointers)) بالإضافة إلى مصفوفة (array) الـ piles، وإرجاع طول (length) أطول تتابع متزايد (LIS length) وقائمة الأرقام (list of numbers) للتتابع (LIS)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_283",
+    "question": "اكتب function تنفذ خوارزمية Longest Common Subsequence (LCS) (أطول تتابع مشترك) لأكثر من سلسلتين (more than two strings) (LCS for multiple strings) باستخدام Dynamic Programming (جدول بأبعاد متعددة (multi-dimensional table) أو تقنيات أخرى (other techniques) لـ n سلاسل (strings))، وذلك عن طريق تقليل (reducing) المساحة (space) أو باستخدام خوارزمية تقريبية (approximation) إذا كان عدد السلاسل (number of strings) كبيراً (large)، وإرجاع طول (length) أطول تتابع مشترك (LCS length) والتتابع (sequence) نفسه (إذا كان ممكناً (feasible))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_284",
+    "question": "اكتب function تنفذ خوارزمية Longest Common Substring (أطول سلسلة فرعية مشتركة) لأكثر من سلسلتين (more than two strings) باستخدام لاحقة تري (suffix trie) أو شجرة اللواحق (suffix tree) أو مصفوفة اللواحق (suffix array) مع LCP (أطول بادئة مشتركة (longest common prefix)) و binary search على طول (length) السلسلة الفرعية المشتركة (common substring length) (باستخدام sliding window على LCP array)، وإرجاع طول (length) أطول سلسلة فرعية مشتركة (longest common substring length) والسلسلة (string) نفسها",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_285",
+    "question": "اكتب function تنفذ خوارزمية Boyer-Moore Majority Vote (تصويت الأغلبية بوير-مور) للعثور على العناصر (elements) التي تظهر أكثر من ⌊n/3⌋ مرة (majority elements) (بدلاً من ⌊n/2⌋) (العناصر التي تظهر أكثر من n/3 مرة (more than n/3 times))، وذلك باستخدام خوارزمية امتداد (extension) من Boyer-Moore (صيانة اثنين من المرشحين (maintaining two candidates) والعدادات (counters))، وإرجاع قائمة العناصر (list of elements) التي تظهر أكثر من n/3 مرة (more than n/3 times)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_286",
+    "question": "اكتب function تنفذ خوارزمية Maximum Subarray Sum (أكبر مجموع لمصفوفة فرعية) في مصفوفة ثنائية الأبعاد (2D array) (مستطيل (rectangle)) في وقت O(n^3) (أو O(n^2 * min(n, m)) باستخدام Kadane's algorithm على الأبعاد (dimensions))، وذلك عن طريق تحديد الصفوف العلوية (top) والسفلية (bottom) وحساب مجموع الأعمدة (column sums) في كل نطاق صف (row range) ثم تطبيق Kadane's algorithm أحادي البعد (1D)، وإرجاع أقصى مجموع (maximum sum) والمستطيل (rectangle) (الإحداثيات (coordinates))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_287",
+    "question": "اكتب function تنفذ خوارزمية Maximum Subarray Sum (أكبر مجموع لمصفوفة فرعية) باستخدام خوارزمية Divide and Conquer (فرق تسد) لمصفوفة ثنائية الأبعاد (2D array) في وقت O(n^2 log n) (أو O(n^3) عن طريق تحويل (reduction) إلى 1D)، وذلك عن طريق تقسيم المصفوفة (array) إلى أربعة أرباع (four quadrants) وحل (solving) كل ربع (quadrant) بشكل متكرر (recursively)، وحساب أكبر مجموع (maximum sum) للمستطيلات (rectangles) التي تعبر (cross) خط التقسيم (dividing line)، وإرجاع أقصى مجموع (maximum sum) والمستطيل (rectangle)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_288",
+    "question": "اكتب function تنفذ خوارزمية Convex Hull (الهيكل المحدب) لنقاط في المستوى (2D points) باستخدام خوارزمية QuickHull (هيكل سريع) في وقت O(n log n) في المتوسط (average) و O(n^2) في أسوأ الحالات (worst-case)، وذلك عن طريق تقسيم النقاط (points) بناءً على أبعد نقطة (farthest point) عن الخط (line) بين أقصى اليسار (leftmost) وأقصى اليمين (rightmost) بشكل متكرر (recursively)، وإرجاع النقاط (points) على الهيكل المحدب (convex hull) بترتيب اتجاهي (clockwise أو counter-clockwise)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_289",
+    "question": "اكتب function تنفذ خوارزمية Closest Pair of Points (أقرب زوج من النقاط) في المستوى (2D) باستخدام خوارزمية Divide and Conquer (فرق تسد) في وقت O(n log n) (مع تحسين (optimization) باستخدام الفرز المسبق (pre-sorting) وتقنيات الشريط (strip techniques))، وذلك عن طريق تقسيم النقاط (points) إلى نصفين (halves) بناءً على الإحداثي x (x-coordinate)، وحساب الحد الأدنى للمسافة (minimum distance) بشكل متكرر (recursively) في كل نصف (half)، ثم فحص (checking) النقاط (points) في الشريط (strip) بعرض d (width d) حول خط التقسيم (dividing line)، وإرجاع الحد الأدنى للمسافة (minimum distance) والزوج (pair) من النقاط (points)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_290",
+    "question": "اكتب function تنفذ خوارزمية Point in Polygon (نقطة في مضلع) للتحقق مما إذا كانت نقطة (point) داخل (inside) مضلع (polygon) محدب (convex) أو غير محدب (non-convex) (معقد (complex)) باستخدام خوارزمية Ray Casting (إسقاط الشعاع) (عدد التقاطعات (intersection count) مع شعاع أفقي (horizontal ray) إلى اليمين (right)) في وقت O(n) (حيث n هو عدد رؤوس المضلع (number of vertices))، مع معالجة الحالات الخاصة (special cases) (النقطة على حافة (on edge) أو على رأس (on vertex))، وإرجاع true إذا كانت النقطة داخل (inside) المضلع (polygon) أو على حافته (on edge) وإلا false",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_291",
+    "question": "اكتب function تنفذ خوارزمية Line Segment Intersection (تقاطع قطع مستقيمة) للتحقق مما إذا كان مقطعان مستقيمان (two line segments) يتقاطعان (intersect) (أو يتلامسان (touch)) في المستوى (2D) (بما في ذلك التقاطع عند نقاط النهاية (endpoints))، باستخدام حسابات الاتجاه (orientation) واختبار الحالة العامة (general case) والحالات الخاصة (collinear cases)، وإرجاع true إذا كان هناك تقاطع (intersection) ونقطة التقاطع (intersection point) (إذا كانت فريدة (unique)) وإلا false",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_292",
+    "question": "اكتب function تنفذ خوارزمية Area of Polygon (مساحة مضلع) لحساب مساحة (area) مضلع (polygon) محدب (convex) أو غير محدب (non-convex) في المستوى (2D) باستخدام صيغة الحذاء (Shoelace formula) (مساحة شبه المنحرف (trapezoid area)) في وقت O(n) (حيث n عدد الرؤوس (number of vertices))، مع معالجة الاتجاه (orientation) (ترتيب الرؤوس (vertex order) في اتجاه عقارب الساعة (clockwise) أو عكس عقارب الساعة (counter-clockwise))، وإرجاع المساحة (area) (قيمة مطلقة (absolute value))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_293",
+    "question": "اكتب function تنفذ خوارزمية Graham Scan (مسح غراهام) للهيكل المحدب (convex hull) لنقاط في المستوى (2D points) في وقت O(n log n)، وذلك عن طريق العثور على النقطة ذات أقل إحداثي y (lowest y-coordinate) (أقصى اليسار إذا كان هناك تعادل (leftmost if tie))، وفرز النقاط (sorting points) حسب الزاوية القطبية (polar angle) (أو حسب المقارنة (comparison) باستخدام اختبار الاتجاه (orientation test))، ثم مسح (scanning) النقاط (points) بالترتيب (order) والحفاظ على مكدس (stack) لإزالة الانعطافات غير اليسارية (non-left turns)، وإرجاع النقاط (points) على الهيكل المحدب (convex hull) بترتيب اتجاهي (counter-clockwise)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_294",
+    "question": "اكتب function تنفذ خوارزمية Rotating Calipers (الفرجار الدوار) لحساب أقطار (diameter) الهيكل المحدب (convex hull) (أقصى مسافة بين نقطتين (maximum distance between two points)) (أو عرض (width) الهيكل المحدب (convex hull)) في وقت O(n) بعد بناء الهيكل المحدب (convex hull) (باستخدام Graham Scan أو Andrew's Monotone Chain)، وذلك عن طريق تدوير (rotating) خطين متوازيين (two parallel lines) حول الهيكل المحدب (convex hull) والحفاظ على مؤشرين (two pointers) (antipodal pairs)، وإرجاع أقصى مسافة (maximum distance) (مربع المسافة (squared distance)) والزوج (pair) من النقاط (points)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_295",
+    "question": "اكتب function تنفذ خوارزمية Minimum Enclosing Circle (أصغر دائرة محيطة) لمجموعة من النقاط (set of points) في المستوى (2D) باستخدام خوارزمية Welzl (الخوارزمية العشوائية (randomized algorithm)) في وقت O(n) المتوقع (expected) (و O(n^3) في أسوأ الحالات (worst-case) (نادر (rare))، وذلك عن طريق المعالجة المتكررة (recursive processing) وإضافة النقاط (points) بشكل عشوائي (random) والحفاظ على دائرة (circle) تحوي (encloses) النقاط (points) المعالجة (processed)، وإرجاع مركز (center) الدائرة (circle) ونصف قطرها (radius)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_296",
+    "question": "اكتب function تنفذ خوارزمية Line Sweep (مسح الخط) لحساب مساحة اتحاد المستطيلات (union area of rectangles) في وقت O(n log n) (حيث n عدد المستطيلات (number of rectangles))، وذلك عن طريق فرز (sorting) حواف (edges) المستطيلات (rectangles) (أحداث (events)) ومعالجتها (processing) بالترتيب (order) (مسح (sweeping)) والحفاظ على طول الفاصل النشط (active interval length) باستخدام شجرة قطع (segment tree) أو تقنية الفاصل (interval technique)، وإرجاع المساحة الإجمالية (total area)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_297",
+    "question": "اكتب function تنفذ خوارزمية Fortune (خط المسح) لإنشاء مخطط فورونوي (Voronoi diagram) لمجموعة من النقاط (set of points) في المستوى (2D) في وقت O(n log n) (حيث n عدد النقاط (number of points))، وذلك عن طريق مسح خط (line sweep) من أعلى إلى أسفل (top to bottom) والحفاظ على شجرة حالة الشاطئ (beach line state) (parabolic arcs) باستخدام شجرة بحث ثنائية (binary search tree) (BST)، ومعالجة الأحداث (events) (site events و circle events)، وإرجاع مخطط فورونوي (Voronoi diagram) (المواقع (sites)، القمم (vertices)، الحواف (edges)، الخلايا (cells))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_298",
+    "question": "اكتب function تنفذ خوارزمية Quickhull (هيكل محدب سريع) لنقاط في المستوى (2D points) في وقت O(n log n) في المتوسط (average) و O(n^2) في أسوأ الحالات (worst-case)، وذلك عن طريق اختيار أبعد نقطة (farthest point) عن الخط (line) بين نقطتين متطرفتين (extreme points) بشكل متكرر (recursively) وتقسيم النقاط (points) إلى مجموعتين (two sets) (على يسار (left) ويمين (right) الخط (line))، وإرجاع النقاط (points) على الهيكل المحدب (convex hull) بترتيب اتجاهي (counter-clockwise)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_299",
+    "question": "اكتب function تنفذ خوارزمية Catmull-Rom Spline (شريحة كاتمول-روم) لتوليد منحنى (curve) يمر عبر سلسلة من نقاط التحكم (control points) (interpolating spline) مع معلمات (parameters) التوتر (tension)، وذلك باستخدام معادلات (equations) حدودية (parametric) (متعددة الحدود (cubic polynomials)) لكل جزء (segment) بين نقطتي تحكم (control points)، مع دعم الحساب المسبق (precomputation) لأي نقطة (any point) على المنحنى (curve) (مع معلمة t (parameter t) بين 0 و 1)، وإرجاع إحداثيات (coordinates) النقطة (point) على المنحنى (curve)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_300",
+    "question": "اكتب function تنفذ خوارزمية Bezier Curve (منحنى بيزير) (بيزير تكعيبي (cubic Bezier) أو من الدرجة n (Bezier of degree n)) لتوليد منحنى (curve) يتم تعريفه بواسطة نقاط التحكم (control points) (لا يمر بالضرورة عبر نقاط التحكم (not necessarily passing through control points) (approximating spline))، باستخدام خوارزمية دي كاستلجاو (De Casteljau's algorithm) (عودة (recursive) أو تكرارية (iterative)) في وقت O(n^2) (حيث n هي درجة (degree) منحنى بيزير (Bezier curve))، أو باستخدام متعددات حدود بيرنشتاين (Bernstein polynomials)، وإرجاع إحداثيات (coordinates) النقطة (point) على المنحنى (curve) للمعلمة t (parameter t) بين 0 و 1",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_301",
+    "question": "اكتب function تحل مشكلة Tree DP (برمجة ديناميكية على الأشجار) لحساب قطر الشجرة (Diameter of Tree) (أطول مسار بين عقدتين في شجرة غير موجهة)، باستخدام DFS مرتين (أول DFS لإيجاد أبعد عقدة من أي عقدة، ثم DFS من تلك العقدة لإيجاد أبعد عقدة أخرى، والمسافة بينهما هي القطر)، وإرجاع قيمة القطر (طول المسار) والمسار نفسه (قائمة العقد من البداية إلى النهاية)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_302",
+    "question": "اكتب function تحل مشكلة Tree DP (برمجة ديناميكية على الأشجار) لإيجاد أكبر مجموعة مستقلة (Maximum Independent Set) في شجرة (مجموعة من العقد بحيث لا توجد حافة بين أي عقدتين في المجموعة)، باستخدام DFS مع DP على الشجرة (حالتين: dp[node][0] = الحد الأقصى للحجم إذا لم نأخذ العقدة، dp[node][1] = الحد الأقصى للحجم إذا أخذنا العقدة)، مع إرجاع حجم المجموعة المستقلة (size) وقائمة العقد (nodes)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_303",
+    "question": "اكتب function تحل مشكلة Tree DP (برمجة ديناميكية على الأشجار) لحساب عدد المسارات (paths) في شجرة ذات مجموع أوزان (weights sum) يساوي قيمة معينة (target) (أو عدد المسارات التي تحقق شرطاً معيناً)، باستخدام DFS مع مبدأ المساهمة (contribution) وفرق تسد (Divide and Conquer) (مثل DSU on tree (Small-to-Large merging) أو centroid decomposition)، وإرجاع عدد المسارات (number of paths)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_304",
+    "question": "اكتب function تحل مشكلة Tree DP (برمجة ديناميكية على الأشجار) لحساب المسافة بين جميع أزواج العقد (sum of distances between all pairs of nodes) في شجرة (أو مجموع المسافات الموزونة (weighted distances))، باستخدام DFS و DP (حساب حجم الشجرة الفرعية (subtree size) ومجموع المسافات من الجذر (root) إلى جميع العقد، ثم نقل DP (re-rooting DP) لحساب مجموع المسافات لكل عقدة كجذر (root)، وإرجاع مجموع المسافات (total sum) والمسافة بين كل زوج (pair) (إذا لزم الأمر)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_305",
+    "question": "اكتب function تحل مشكلة Tree DP (برمجة ديناميكية على الأشجار) لحساب عدد المسارات (paths) التي تمر عبر مركز الشجرة (centroid) (باستخدام centroid decomposition)، حيث يتم تقسيم الشجرة بشكل متكرر عن طريق اختيار centroid (العقدة التي يكون حجم أكبر شجرة فرعية (subtree) بعد إزالتها أقل من n/2)، وحساب المساهمات (contributions) التي تمر عبر centroid لكل مستوى (level)، وإرجاع عدد المسارات (number of paths) التي تحقق شرطاً معيناً (مثل sum = target أو length <= k)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_306",
+    "question": "اكتب function تنفذ خوارزمية Centroid Decomposition (تحليل النقط الوسطى) على شجرة لمعالجة استعلامات (queries) مثل المسافة بين عقدتين (distance between nodes) (مع تحديثات (updates) على أوزان العقد (node weights))، أو عدد العقد ذات المسافة <= k (nodes within distance k)، وذلك عن طريق بناء شجرة centroid (centroid tree) وتخزين المعلومات اللازمة (مثل أقرب مسافة (closest distance) من centroid إلى العقد في الشجرة الفرعية (subtree))، وإرجاع إجابات الاستعلامات (query answers) في وقت O(log n) لكل استعلام (query) (بعد المعالجة المسبقة (preprocessing))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_307",
+    "question": "اكتب function تنفذ خوارزمية Heavy Light Decomposition (HLD) (تحليل الضوء الثقيل) على شجرة لتقسيمها إلى سلاسل (chains)، مما يسمح بإجراء استعلامات (queries) وتحديثات (updates) على المسار بين عقدتين (path between two nodes) (مثل مجموع (sum)، الحد الأدنى (min)، الحد الأقصى (max)، تحديث إضافة (add update)) في وقت O(log^2 n) باستخدام Segment Tree أو Fenwick Tree على السلاسل (chains)، وإرجاع استعلامات المسار (path query results) وتحديثات المسار (path updates)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_308",
+    "question": "اكتب function تنفذ خوارزمية Binary Lifting (رفع ثنائي) (أو جدول الأسلاف (ancestor table)) لحساب Lowest Common Ancestor (LCA) (أدنى سلف مشترك) في شجرة في وقت O(log n) بعد معالجة مسبقة O(n log n)، مع دعم حساب المسافة بين عقدتين (distance between nodes) (باستخدام العمق (depth))، والقفز (jumping) إلى سلف (ancestor) على بعد k (k-th ancestor)، وإرجاع LCA والمسافة (distance) والسلف (ancestor) المطلوب",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_309",
+    "question": "اكتب function تنفذ خوارزمية Tarjan's LCA (أدنى سلف مشترك لتارجان) دون اتصال (offline) باستخدام Union-Find (DSU) لمعالجة استعلامات LCA (queries) المتعددة في وقت O(n α(n) + q) (تقريباً خطي)، وذلك عن طريق DFS على الشجرة ودمج المجموعات (union sets) بعد معالجة الأطفال (children)، وإرجاع إجابات LCA (LCA answers) لجميع الاستعلامات (queries)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_310",
+    "question": "اكتب function تحل مشكلة Euler Tour (جولة أويلر) على شجرة لتحويلها إلى مصفوفة (array) بحيث تصبح الشجرة الفرعية (subtree) لكل عقدة (node) فاصلاً متصلاً (contiguous segment) في المصفوفة (array) (باستخدام وقت الدخول (entry time) ووقت الخروج (exit time))، مما يسمح بمعالجة استعلامات الشجرة الفرعية (subtree queries) (مثل sum، min، max، update) باستخدام هياكل البيانات العادية (arrays، Segment Tree، Fenwick Tree)، وإرجاع تمثيل جولة أويلر (Euler tour representation) (timestamps) ومعالجة الاستعلامات (queries)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_311",
+    "question": "اكتب function تحل مشكلة Tree Flattening (تسطيح الشجرة) باستخدام طريقتين: (أ) Euler Tour (للشجرة الفرعية (subtree queries))، (ب) Heavy Light Decomposition (للمسار (path queries))، مع دعم كلا النوعين من الاستعلامات (queries) والتحديثات (updates)، وإرجاع بنية البيانات (data structure) (مثل Segment Tree) التي تدعم عمليات (operations) مثل تحديث نقطة (point update)، تحديث نطاق (range update)، استعلام نطاق (range query)، استعلام مسار (path query)، استعلام شجرة فرعية (subtree query)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_312",
+    "question": "اكتب function تحل مشكلة 2-SAT (نظام الرضا ثنائي) لإيجاد إرضاء (satisfying assignment) لمتغيرات (variables) منطقية (boolean) (x1, x2, ..., xn) مع شروط (clauses) على شكل (a OR b)، وذلك عن طريق بناء رسم بياني للتضمين (implication graph) (2 nodes لكل متغير (variable) (x_i و ¬x_i)) وحساب المكونات شديدة الارتباط (Strongly Connected Components (SCC)) (باستخدام Kosaraju أو Tarjan)، وإرجاع true إذا كان النظام قابلاً للإرضاء (satisfiable) وإلا false، وإرجاع تعيين القيم (assignment) إذا كان قابلاً للإرضاء (satisfiable)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_313",
+    "question": "اكتب function تحل مشكلة 3-SAT (نظام الرضا الثلاثي) (NP-complete) باستخدام خوارزمية DPLL (Davis-Putnam-Logemann-Loveland) (مع التراجع (backtracking) والتكرار (recursion)) أو خوارزمية WalkSAT (عشوائية (randomized) محلية (local search)) للعثور على إرضاء (satisfying assignment) لمتغيرات (variables) منطقية (boolean) مع شروط (clauses) على شكل (a OR b OR c)، مع دعم تحسينات (optimizations) مثل انتشار الوحدة (unit propagation) والاختيار الحر (pure literal elimination)، وإرجاع true إذا كان النظام قابلاً للإرضاء (satisfiable) وإلا false، وإرجاع تعيين القيم (assignment) إذا كان قابلاً للإرضاء (satisfiable)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_314",
+    "question": "اكتب function تحل مشكلة Exact Cover (تغطية دقيقة) (NP-complete) باستخدام خوارزمية Knuth's Algorithm X (خوارزمية إكس) مع تطبيق Dancing Links (DLX) (تقنية الروابط الراقصة) لتمثيل مصفوفة التغطية (cover matrix) بشكل فعال، مع إرجاع جميع الحلول (solutions) (قائمة الصفوف (rows) التي تغطي جميع الأعمدة (columns) مرة واحدة بالضبط) أو الحل الأول (first solution)، وتطبيق على مشاكل مثل حل سودوكو (Sudoku solver) أو متعددات المربعات (polyomino tiling)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_315",
+    "question": "اكتب function تحل مشكلة Hamiltonian Path (مسار هاملتوني) (NP-complete) في رسم بياني غير موجه (undirected graph) أو موجه (directed graph) (مسار يزور كل عقدة (node) مرة واحدة بالضبط) باستخدام خوارزمية DP with Bitmask (برمجة ديناميكية مع قناع بت) (DP[mask][last]) في وقت O(n^2 * 2^n) (حيث n هو عدد العقد (nodes) (عملي فقط لـ n <= 20))، مع إرجاع true إذا كان المسار موجوداً (exists) وإلا false، وإرجاع المسار (path) (ترتيب العقد (nodes)) إذا كان موجوداً (exists)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_316",
+    "question": "اكتب function تحل مشكلة Minimum Steiner Tree (شجرة شتاينر الدنيا) في رسم بياني (graph) لإيجاد شجرة (tree) ذات وزن أدنى (minimum weight) تربط مجموعة من العقد الطرفية (terminal nodes) (وليس بالضرورة جميع العقد (nodes))، باستخدام خوارزمية DP with Bitmask (برمجة ديناميكية مع قناع بت) على العقد الطرفية (terminals) (DP[mask][v]) وخوارزمية Dijkstra لحساب أقصر المسارات (shortest paths)، وإرجاع وزن (weight) شجرة شتاينر الدنيا (minimum Steiner tree) (والشجرة (tree) نفسها إذا أمكن (if possible))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_317",
+    "question": "اكتب function تحل مشكلة Traveling Salesman Problem (TSP) (مشكلة البائع المتجول) في رسم بياني كامل (complete graph) مع عدم مساواة المثلث (triangle inequality) (metric TSP) باستخدام خوارزمية Christofides (خوارزمية كريستوفيدس) التقريبية (approximation) (3/2-approximation)، وذلك عن طريق إيجاد Minimum Spanning Tree (MST)، ثم إيجاد Minimum Weight Perfect Matching على الرؤوس ذات الدرجة الفردية (odd-degree vertices) في MST، ثم إيجاد مسار أويلرياني (Eulerian tour) في الرسم البياني المدمج (MST + matching) وتحويله إلى مسار هاملتوني (Hamiltonian path) (بإزالة الرؤوس المكررة (duplicate vertices))، وإرجاع المسار التقريبي (approximate path) وطوله (length)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_318",
+    "question": "اكتب function تحل مشكلة Maximum Clique (أكبر زمرة) (NP-complete) في رسم بياني غير موجه (undirected graph) باستخدام خوارزمية Branch and Bound (فرع وحد) مع التراجع (backtracking) (خوارزمية توميتا (Tomita algorithm) (أو خوارزمية برونز-كيربوش (Bron–Kerbosch algorithm) مع التقليم (pruning)))، مع دعم ترتيب الرؤوس (vertex ordering) (color ordering) لتقليل شجرة البحث (search tree)، وإرجاع أكبر زمرة (maximum clique) كمجموعة من الرؤوس (vertices) وحجمها (size)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_319",
+    "question": "اكتب function تحل مشكلة Graph Coloring (تلوين الرسم البياني) بأقل عدد من الألوان (minimum colors) (NP-hard) باستخدام خوارزمية Branch and Bound (فرع وحد) مع التراجع (backtracking) (خوارزمية DSATUR (Degree of Saturation))، مع دعم ترتيب الرؤوس (vertex ordering) (أكبر درجة (highest degree) أولاً، أو درجة التشبع (saturation degree) أولاً) وتقليم (pruning) (الحد الأدنى (lower bound) والحد الأقصى (upper bound))، وإرجاع تلوين الرسم البياني (coloring) (تعيين اللون (color assignment) لكل رأس (vertex)) وعدد الألوان المستخدمة (number of colors used)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_320",
+    "question": "اكتب function تحل مشكلة Maximum Cut (القطع الأقصى) (NP-hard) في رسم بياني غير موجه (undirected graph) (تقسيم الرؤوس (vertices) إلى مجموعتين (two sets) لتعظيم عدد الحواف (edges) بين المجموعتين (crossing edges)) باستخدام خوارزمية تقريبية (approximation) (0.878-approximation باستخدام Semidefinite Programming (SDP) (Goemans-Williamson algorithm)) أو باستخدام خوارزمية محلية (local search) أو عشوائية (randomized) (مثل التلدين المحاكي (simulated annealing))، وإرجاع حجم القطع الأقصى (maximum cut size) (عدد الحواف (edges)) وتقسيم الرؤوس (partition) (مجموعتين (two sets))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_321",
+    "question": "اكتب function تحل مشكلة Graph Isomorphism (تماثل الرسم البياني) (GI) للتحقق مما إذا كان الرسمان البيانيان (graphs) G و H متماثلان (isomorphic) باستخدام خوارزمية Weisfeiler-Lehman (WL) (طريقة تمييز الرؤوس (vertex refinement) متعددة الخطوات (multiple iterations) مع التجزئة (hashing)) (اختبار احتمالي (probabilistic test) للتماثل (isomorphism) (قد يعطي false positive))، مع دعم الرسوم البيانية الموصوفة (labeled graphs) وغير الموصوفة (unlabeled)، وإرجاع true إذا كانا متماثلين (isomorphic) و false وإلا، وإرجاع التماثل (isomorphism mapping) إذا وجد (found) (إذا كان ممكناً (feasible))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_322",
+    "question": "اكتب function تحل مشكلة Minimum Vertex Cover (الحد الأدنى من تغطية الرأس) في رسم بياني ثنائي الأجزاء (bipartite graph) (يمكن حلها في وقت متعدد الحدود (polynomial time) باستخدام نظرية كونيغ (König's theorem) التي تربط التغطية الدنيا للرأس (minimum vertex cover) بالحد الأقصى للتطابق (maximum matching) (في الرسم البياني الثنائي الأجزاء (bipartite graph)))، وذلك عن طريق إيجاد الحد الأقصى للتطابق (maximum matching) (باستخدام Hopcroft-Karp) ثم بناء التغطية الدنيا للرأس (minimum vertex cover) من التطابق الأقصى (maximum matching)، وإرجاع مجموعة الرؤوس (vertex set) التي تشكل تغطية الرأس (vertex cover) وحجمها (size)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_323",
+    "question": "اكتب function تحل مشكلة Minimum Path Cover (الحد الأدنى من تغطية المسار) في رسم بياني لا دوري موجه (Directed Acyclic Graph (DAG)) (أقل عدد من المسارات (paths) بحيث تغطي جميع الرؤوس (vertices)) باستخدام تحويل المشكلة إلى الحد الأقصى للتطابق (maximum matching) في رسم بياني ثنائي الأجزاء (bipartite graph) (تقسيم (splitting) كل رأس (vertex) إلى v_in و v_out)، وإرجاع الحد الأدنى لعدد المسارات (minimum number of paths) وتغطية المسار (path cover) (المسارات (paths) نفسها)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_324",
+    "question": "اكتب function تحل مشكلة Maximum Weight Matching (التطابق الأقصى الموزون) في رسم بياني عام (general graph) (غير ثنائي الأجزاء (non-bipartite)) باستخدام خوارزمية Blossom (Edmonds' Blossom algorithm) للتطابق الأقصى (maximum matching) في الرسوم البيانية العامة (general graphs)، مع دعم الأوزان (weights) (للتطابق الأقصى الموزون (maximum weight matching)) (باستخدام خوارزمية Blossom المعدلة (modified Blossom algorithm) (Kolpakov–Kucherov أو خوارزمية Minimum Cost Maximum Flow))، وإرجاع التطابق الأقصى (maximum matching) كمجموعة من الحواف (edges) وقيمته (وزنه (weight))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_325",
+    "question": "اكتب function تحل مشكلة Minimum Cost Flow (التدفق بأقل تكلفة) مع دعم الطلب (demand) والعرض (supply) في العقد (nodes) (circulation with demands) (بدلاً من مصدر واحد (single source) وحوض واحد (single sink))، وذلك عن طريق تحويل المشكلة إلى شبكة تدفق (flow network) عادية مع إضافة مصدر فائق (super source) وحوض فائق (super sink) لموازنة العرض والطلب (balancing supply and demand)، ثم تطبيق خوارزمية Min Cost Max Flow (مثل Successive Shortest Path مع potentials (Johnson's) أو Cost Scaling)، وإرجاع التدفق (flow) بأقل تكلفة (minimum cost) (إذا كان ممكناً (feasible)) وإلا إرجاع خطأ (error) (إذا كان الطلب (demand) لا يمكن تلبيته (cannot be satisfied))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_326",
+    "question": "اكتب function تنفذ خوارزمية Dinic مع تحسينات (Dinic's algorithm with optimizations) للحد الأقصى للتدفق (Max Flow) في الشبكات الكبيرة (large networks)، بما في ذلك: (أ) Scaling (توسيع نطاق السعة (capacity scaling))، (ب) Dynamic tree (شجرة ديناميكية) (Sleator-Tarjan) لتحسين الـ blocking flow، (ج) BFS level graph و DFS (أو multi-source BFS) مع التقليم (pruning)، وإرجاع قيمة الحد الأقصى للتدفق (max flow value) وشبكة التدفق (flow network) (تدفق (flow) على كل حافة (edge))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_327",
+    "question": "اكتب function تنفذ خوارزمية Push-Relabel (دفع-تسمية) للحد الأقصى للتدفق (Max Flow) مع تحسينات (Global Relabeling، Gap Relabeling، FIFO (First-In-First-Out) أو Highest Label selection)، وذلك عن طريق الحفاظ على التسميات (labels) (ارتفاعات (heights)) للعقد (nodes) والتدفق الزائد (excess flow) ودفع (pushing) التدفق (flow) من العقد (nodes) ذات التسمية الأعلى (higher label) إلى التسمية الأدنى (lower label) وإعادة التسمية (relabeling) عند الحاجة، وإرجاع قيمة الحد الأقصى للتدفق (max flow value) (وتوزيع التدفق (flow distribution))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_328",
+    "question": "اكتب function تنفذ خوارزمية Gomory-Hu Tree لبناء شجرة Gomory-Hu (شجرة القطع الدنيا (minimum cut tree)) لجميع أزواج العقد (all pairs) في رسم بياني غير موجه (undirected graph) مرجح (weighted) باستخدام خوارزمية Stoer-Wagner أو Max Flow بشكل متكرر (recursively)، حيث تمثل كل حافة (edge) في الشجرة (tree) الحد الأدنى للقطع (minimum cut) بين المجموعتين (partitions) التي تفصل بينها (separates)، وإرجاع شجرة Gomory-Hu (كـ رسم بياني (graph) أو مصفوفة (matrix)) والقيم الدنيا للقطع (minimum cut values) بين أي عقدتين (any two nodes) (يمكن استرجاعها (retrieved) في وقت O(1) بعد البناء (construction))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_329",
+    "question": "اكتب function تنفذ خوارزمية Minimum Cut (الحد الأدنى من القطع) بين عقدتين (s-t cut) باستخدام خوارزمية Max Flow Min Cut (نظرية التدفق الأقصى والقطع الأدنى) (باستخدام أي خوارزمية Max Flow مثل Dinic أو Push-Relabel)، وإرجاع قيمة القطع الأدنى (minimum cut value) ومجموعة الرؤوس (vertices) في جانب المصدر (source side) (S) (بعد إجراء BFS/DFS على شبكة السعة المتبقية (residual capacity network))، ويمكن استخدامها لحل مشكلات مثل تجزئة الصورة (image segmentation) (Graph Cut) وتخصيص المهام (task assignment)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_330",
+    "question": "اكتب function تنفذ خوارزمية Global Minimum Cut (الحد الأدنى للقطع العالمي) في رسم بياني غير موجه (undirected graph) مرجح (weighted) باستخدام خوارزمية Stoer-Wagner (خوارزمية شتاير-فاغنر) في وقت O(V^3) (أو O(VE log V) مع تحسينات (optimizations))، وذلك عن طريق تكرار (repeating) مراحل (phases) من دمج العقد (merging) (Minimum Cut Phase) باستخدام minimum cut phase (أقرب جار (nearest neighbor) مشابه لـ Prim's algorithm) وتتبع الحد الأدنى للقطع (minimum cut) عبر جميع المراحل (phases)، وإرجاع قيمة الحد الأدنى للقطع (global minimum cut value) ومجموعة الرؤوس (vertices) في أحد جانبي القطع (one side of the cut)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_331",
+    "question": "اكتب function تنفذ خوارزمية Hungarian (Munkres) لحل مشكلة Assignment Problem (تخصيص المهام بتكلفة أقل) في مصفوفة مستطيلة (rectangular matrix) (حيث عدد المهام (tasks) لا يساوي عدد العمال (workers))، وذلك عن طريق إضافة أعمدة (columns) أو صفوف (rows) وهمية (dummy) بتكلفة صفر (zero cost) لجعل المصفوفة مربعة (square)، ثم تطبيق الخوارزمية المجرية (Hungarian algorithm) القياسية (standard)، وإرجاع التكلفة الدنيا (minimum cost) وتعيين المهام (assignment) (للصفوف (rows) الفعلية فقط (actual rows))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_332",
+    "question": "اكتب function تنفذ خوارزمية Assignment Problem (مشكلة التخصيص) (تخصيص المهام بتكلفة أقل) باستخدام خوارزمية Min Cost Max Flow (التدفق بأقل تكلفة) (ببناء شبكة تدفق (flow network) مع مصدر (source) متصل بالعمال (workers) وحوض (sink) متصل بالمهام (tasks)، بسعة 1 (capacity 1) وتكلفة (cost) مساوية لتكلفة التخصيص (assignment cost)، وإيجاد الحد الأقصى للتدفق (max flow) بأقل تكلفة (minimum cost) (بقيمة تدفق (flow value) = min(#workers, #tasks))، وإرجاع التكلفة الدنيا (minimum cost) وتعيين المهام (assignment) (الحواف (edges) ذات التدفق (flow) = 1)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_333",
+    "question": "اكتب function تنفذ خوارزمية Edit Distance (مسافة التحرير) مع دعم العمليات الموزونة (weighted operations) والتبديل (transposition) (Damerau-Levenshtein distance) باستخدام Dynamic Programming مع مصفوفة ثنائية الأبعاد (2D array) (أو مع تحسين المساحة (space optimization) باستخدام صفين (two rows))، مع إرجاع المسافة الدنيا (minimum distance) وسلسلة العمليات (operations sequence) (الإدراج (insertion)، الحذف (deletion)، الاستبدال (substitution)، التبديل (transposition))، وتحليل التعقيد الزمني O(m*n) والمكاني O(min(m, n))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_334",
+    "question": "اكتب function تنفذ خوارزمية Longest Common Subsequence (LCS) (أطول تتابع مشترك) لأكثر من سلسلتين (more than two strings) باستخدام خوارزمية تقريبية (approximation) أو خوارزمية DP متعددة الأبعاد (multi-dimensional DP) (إذا كان عدد السلاسل (number of strings) صغيراً (small) وأطوال السلاسل (string lengths) صغيرة (small))، أو باستخدام تحويل المشكلة إلى LCS ثنائي (pairwise LCS) ودمج النتائج (merging results)، وإرجاع طول (length) أطول تتابع مشترك (LCS length) (والتتابع (sequence) نفسه إذا كان ممكناً (feasible))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_335",
+    "question": "اكتب function تنفذ خوارزمية Longest Palindromic Subsequence (LP S) (أطول تتابع متناظر) في سلسلة (string) باستخدام Dynamic Programming (Tabulation أو Memoization) في وقت O(n^2) ومساحة O(n^2) (أو O(n) مع تحسين المساحة (space optimization) باستخدام صفين (two rows))، وذلك عن طريق تعريف dp[i][j] = طول أطول تتابع متناظر (longest palindromic subsequence length) في السلسلة الفرعية (substring) s[i..j]، مع معادلات التحويل (transition) بناءً على تساوي (equality) s[i] و s[j]، وإرجاع طول LP S (LP S length) والتتابع (sequence) نفسه (إذا أمكن (if possible))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_336",
+    "question": "اكتب function تنفذ خوارزمية Count Distinct Subsequences (عدد التتابعات الفرعية المميزة) في سلسلة (string) (عدد التتابعات الفرعية المختلفة (distinct subsequences)) (بما في ذلك التتابع الفارغ (empty subsequence)) باستخدام Dynamic Programming مع آخر تكرار (last occurrence) لتجنب العد الزائد (overcounting)، وذلك عن طريق dp[i] = 2 * dp[i-1] - dp[last[s[i]]-1] (إذا كان s[i] قد ظهر من قبل (has appeared before))، وإرجاع عدد التتابعات الفرعية المميزة (number of distinct subsequences) (mod M (إذا لزم الأمر (if needed)))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_337",
+    "question": "اكتب function تنفذ خوارزمية Minimum Insertions to Form Palindrome (أقل عدد من الإدراجات لتكوين متناظر) في سلسلة (string) باستخدام Longest Palindromic Subsequence (LP S) (أطول تتابع متناظر) (الإدراجات المطلوبة (insertions needed) = n - L PS length)، مع إرجاع أقل عدد من الإدراجات (minimum insertions) والسلسلة المتناظرة الناتجة (resulting palindrome) (عن طريق إدراج الأحرف (characters) في المواضع المناسبة (appropriate positions))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_338",
+    "question": "اكتب function تنفذ خوارزمية Regular Expression Matching (مطابقة التعبير العادي) لدعم الرموز (wildcards) '.' (أي حرف (any character)) و '*' (صفر أو أكثر من الحرف السابق (zero or more of the preceding character)) باستخدام خوارزمية NFA (Non-deterministic Finite Automaton) (Thomson's construction) أو خوارزمية Thompson (محاكاة NFA (NFA simulation)) في وقت O(n * m) (حيث n طول السلسلة (string length)، m حجم التعبير العادي (regex size))، مع دعم تحويل التعبير العادي (regex) إلى NFA ثم محاكاة (simulating) NFA على السلسلة (string)، وإرجاع true إذا تطابق (match) النمط (pattern) مع السلسلة (string) بالكامل (entire string) وإلا false",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_339",
+    "question": "اكتب function تنفذ خوارزمية Aho-Corasick (آهو-كوراسيك) مع دعم البحث عن أنماط (patterns) متعددة (multiple) في وقت O(n + m + z) (حيث n طول النص (text length)، m إجمالي طول جميع الأنماط (total length of all patterns)، z عدد التطابقات (number of matches))، مع دعم الوظائف الإضافية (additional features) مثل: (أ) البحث عن أطول نمط (longest pattern) ينتهي في كل موضع (position) (output links)، (ب) البحث عن التكرارات (occurrences) وتحديث عدد التطابقات (match count) بكفاءة، (ج) التعامل مع أنماط (patterns) متداخلة (overlapping)، وإرجاع جميع مواقع التطابق (match positions) لكل نمط (pattern)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_340",
+    "question": "اكتب function تنفذ خوارزمية Suffix Automaton (آلة اللواحق) لمعالجة استعلامات (queries) متعددة مثل عدد مرات ظهور نمط (occurrences of a pattern) في سلسلة (string) (في وقت O(|pattern|))، وأطول سلسلة فرعية مشتركة (longest common substring) بين سلسلتين (two strings)، وأصغر سلسلة غير موجودة (smallest missing string)، ومجموع أطوال جميع اللواحق (suffixes) المختلفة (distinct) (باستخدام الروابط (links) وطوبولوجيا (topological order) لـ DAG)، وإرجاع آلة اللواحق (suffix automaton) (الحالات (states)، التحويلات (transitions)، الروابط (links)، الطول (length)) ومعالجة الاستعلامات (queries)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_341",
+    "question": "اكتب function تنفذ خوارزمية Palindrome Tree (شجرة المتناظرات) (Eertree) لمعالجة السلاسل (strings) وتخزين جميع المتناظرات الفرعية المميزة (distinct palindromic substrings) في سلسلة (string) في وقت O(n)، مع دعم إضافة أحرف (characters) في نهاية السلسلة (appending) ديناميكياً (dynamically) والعثور على أطول متناظر لاحقة (longest palindromic suffix) بعد كل إضافة (addition)، وإرجاع شجرة المتناظرات (palindrome tree) (العقد (nodes)، الروابط (links) (suffix links)، الطول (length)، العدد (count)) وعدد المتناظرات الفرعية المميزة (number of distinct palindromic substrings)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_342",
+    "question": "اكتب function تنفذ خوارزمية Lyndon Factorization (تحليل ليندون) لتقسيم السلسلة (string) إلى كلمات ليندون (Lyndon words) (كل كلمة (word) أصغر معجمياً (lexicographically smaller) من جميع التناوبات (rotations) الخاصة بها) باستخدام خوارزمية Duval (خوارزمية دوفال) في وقت O(n)، مع إرجاع قائمة ببدايات (start indices) ونهايات (end indices) عوامل ليندون (Lyndon factors)، ويمكن استخدامها في خوارزميات (algorithms) مثل معالجة السلاسل (string processing)، الفرز (sorting)، والضغط (compression)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_343",
+    "question": "اكتب function تنفذ خوارزمية Minimum String Rotation (أصغر دوران للسلسلة) (Booth's algorithm) للعثور على أصغر تمثيل معجمي (lexicographically smallest rotation) لسلسلة (string) (أو أكبر تمثيل (largest rotation)) في وقت O(n)، وذلك عن طريق استخدام مؤشرين (two pointers) (i, j, k) ومقارنة الأحرف (characters) دون الحاجة إلى بناء سلاسل (strings) إضافية (additional)، وإرجاع مؤشر البداية (start index) لأصغر دوران (smallest rotation) (أو أكبر دوران (largest rotation)) والسلسلة (string) نفسها (الدوران (rotation))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_344",
+    "question": "اكتب function تنفذ خوارزمية Z-algorithm على سلسلة (string) لحساب Z-array (Z-array) (أطول بادئة مشتركة (longest common prefix) بين السلسلة (string) وكل لاحقة (suffix) من السلسلة (string)) في وقت O(n)، وذلك عن طريق الحفاظ على نافذة (window) [l, r] حيث s[l..r] تطابق بادئة (prefix) السلسلة (string)، واستخدام القيم (values) المحسوبة مسبقاً (previously computed) لتجنب إعادة المقارنة (re-compare)، وإرجاع Z-array (قائمة (list) من الأعداد الصحيحة (integers))، وتطبيقاته (applications) مثل البحث عن نمط (pattern search) (دمج (concatenate) النمط (pattern) + '$' + النص (text)) وإيجاد أطول سلسلة فرعية متكررة (longest repeated substring)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_345",
+    "question": "اكتب function تنفذ خوارزمية Knuth-Morris-Pratt (KMP) مع دعم البحث عن نمط (pattern) في نص (text) وإرجاع جميع مواقع حدوث النمط (occurrences indices)، مع بناء جدول LPS (Longest Proper Prefix which is also Suffix) (أطول بادئة صحيحة هي أيضاً لاحقة) في وقت O(m) (حيث m طول النمط (pattern length))، ثم البحث (searching) في وقت O(n) (حيث n طول النص (text length))، مع إرجاع قائمة (list) بمواقع التطابق (match positions)، ودعم البحث عن أنماط (patterns) متعددة (multiple) (بتعديل (modifying) KMP أو باستخدام Aho-Corasick)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_346",
+    "question": "اكتب function تنفذ خوارزمية Rabin-Karp للبحث عن نمط (pattern) في نص (text) باستخدام rolling hash (هاش متداول) مع دعم القواعد (bases) المتعددة (multiple) والمعاملات (moduli) المتعددة (multiple) لتقليل احتمالية التصادم (collision probability) إلى أدنى حد (negligible)، مع دعم التعامل مع التصادمات (collisions) (باستخدام تأكيد إضافي (verification pass) عند تساوي قيم الهاش (hash values))، وإرجاع قائمة (list) بمواقع التطابق (match positions)، وتحليل التعقيد الزمني المتوسط (average) O(n+m) والأسوأ (worst) O(n*m)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_347",
+    "question": "اكتب function تنفذ خوارزمية Boyer-Moore للبحث عن نمط (pattern) في نص (text) مع بناء جداول (tables): (أ) Bad Character Rule (قاعدة الحرف السيئ) (جدول التحول (shift table) لكل حرف (character))، (ب) Good Suffix Rule (قاعدة اللاحقة الجيدة) (جدول التحول (shift table) لكل لاحقة (suffix))، وتحليل أداء الخوارزمية في الحالات المختلفة (best case، average case، worst case)، وإرجاع قائمة (list) بمواقع التطابق (match positions)، ومقارنة مع KMP و Rabin-Karp من حيث السرعة (speed) والذاكرة (memory)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_348",
+    "question": "اكتب function تنفذ خوارزمية Suffix Array و LCP Array (Longest Common Prefix) باستخدام خوارزمية SA-IS (Suffix Array Induced Sorting) في وقت O(n) (خطي) لبناء مصفوفة اللواحق (suffix array)، و خوارزمية Kasai لحساب مصفوفة LCP (LCP array) في وقت O(n)، مع دعم البحث عن نمط (pattern search) باستخدام binary search على Suffix Array (في وقت O(m log n) حيث m طول النمط (pattern length))، وإيجاد أطول سلسلة فرعية متكررة (longest repeated substring) (بإيجاد أقصى قيمة (maximum value) في LCP array)، وأطول سلسلة فرعية مشتركة (longest common substring) بين سلسلتين (two strings) (ببناء Suffix Array على السلسلتين (both strings) مع فاصل (separator) وتحليل LCP)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_349",
+    "question": "اكتب function تنفذ خوارزمية Burrows-Wheeler Transform (BWT) (تحويل باروز-ويلر) وتحويله العكسي (inverse BWT) لضغط البيانات (data compression) وإعادة ترتيب السلسلة (string) لتجميع الأحرف المتشابهة (similar characters) معاً، وذلك عن طريق بناء مصفوفة الدوران (rotation matrix) وفرزها (sorting) (BWT) وإعادة البناء (reconstruction) باستخدام counting sort (inverse BWT) (أو باستخدام أول مرة (first-last) property و LF mapping)، وإرجاع التحويل (transformed string) والتحويل العكسي (inverse transformed string)، وتطبيقاته في ضغط البيانات (data compression) (مثل bzip2) وفي فهرسة النص (text indexing) (مثل FM-index)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_350",
+    "question": "اكتب function تنفذ خوارزمية FM-index (فهرس FM) للبحث عن نمط (pattern) في نص (text) مضغوط (compressed) باستخدام BWT (Burrows-Wheeler Transform) و LF mapping و C-array (جدول عدد تكرارات الأحرف (character occurrence counts)) و Occ-array (جدول الرتب (rank) (للبت (bit) أو الحرف (character) باستخدام wavelet tree أو bitvector مع تقنيات الضغط (compression techniques))، مع دعم البحث (search) في وقت O(m) (حيث m طول النمط (pattern length)) وإرجاع عدد التكرارات (occurrence count) ومواقع التكرارات (occurrence positions) (إذا لزم الأمر (if needed))، مع تحليل التعقيد المكاني (space complexity) والزمني (time complexity)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_351",
+    "question": "اكتب function تنفذ خوارزمية Wavelet Tree (شجرة المويجات) لمعالجة الاستعلامات (queries) على مصفوفة (array) من الأعداد الصحيحة (integers) (أو الأحرف (characters)) مثل: (أ) k-th أصغر عنصر (k-th smallest element) في نطاق (range) [l, r]، (ب) عدد مرات ظهور عنصر (frequency of element) في نطاق (range) [l, r]، (ج) أصغر عنصر أكبر من x (minimum element > x) في نطاق (range)، في وقت O(log σ) (حيث σ هو حجم الأبجدية (alphabet size)) لكل استعلام (query) بعد معالجة مسبقة (preprocessing) O(n log σ)، وإرجاع شجرة المويجات (wavelet tree) وإجابات الاستعلامات (query answers)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_352",
+    "question": "اكتب function تنفذ بنية بيانات Merge Sort Tree (شجرة فرز الدمج) لمعالجة الاستعلامات (queries) على مصفوفة (array) مثل: (أ) عدد العناصر (count of elements) في نطاق (range) [l, r] التي تزيد عن x (greater than x) (أو أقل من x (less than x))، (ب) k-th أصغر عنصر (k-th smallest element) في نطاق (range) (باستخدام binary search على Merge Sort Tree)، في وقت O(log^2 n) لكل استعلام (query) (حيث n حجم المصفوفة (array size))، وذلك عن طريق بناء شجرة قطعة (segment tree) حيث تقوم كل عقدة (node) بتخزين مصفوفة (array) مرتبة (sorted) من العناصر (elements) في النطاق (range) الخاص بها، وإرجاع شجرة فرز الدمج (merge sort tree) وإجابات الاستعلامات (query answers)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_353",
+    "question": "اكتب function تنفذ بنية بيانات Persistent Segment Tree (شجرة قطع ثابتة) (Versioned Segment Tree) تدعم الإصدارات (versions) المختلفة من الشجرة (بعد كل تحديث (update))، مع دعم عمليات update (إنشاء إصدار جديد) و query (على أي إصدار سابق (previous version)) (مثل استعلام مجموع (sum query) على نطاق (range) [l, r])، وإرجاع جذور (roots) جميع الإصدارات (versions)، وتحليل التعقيد الزمني O(log n) لكل عملية (operation) والمكاني O(n log n) (لـ n تحديثات (updates))، مع تطبيقات (applications) مثل: استعلامات النطاق (range queries) على مصفوفة (array) مع تحديثات (updates) (استعلامات على إصدارات سابقة (queries on previous versions))، والخوارزميات (algorithms) مثل: Parallel Binary Search",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_354",
+    "question": "اكتب function تنفذ بنية بيانات Persistent Array (مصفوفة ثابتة) باستخدام شجرة ثنائية (binary tree) (أو Persistent Segment Tree مع حجم ثابت (fixed size)) تدعم الإصدارات (versions) المختلفة من المصفوفة (بعد كل تحديث (update))، مع دعم عمليات update (إنشاء إصدار جديد) و get (الوصول إلى عنصر في أي إصدار سابق (previous version)) في وقت O(log n) لكل عملية (operation)، وإرجاع المصفوفات (arrays) (الجذور (roots)) لجميع الإصدارات (versions)، وتطبيقات (applications) مثل: المصفوفات غير القابلة للتغيير (immutable arrays) في البرمجة الوظيفية (functional programming)، والخوارزميات (algorithms) مثل: الاستعلامات (queries) على إصدارات سابقة (previous versions) في مسائل (problems) المسابقات (competitions)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_355",
+    "question": "اكتب function تنفذ بنية بيانات Persistent Union-Find (DSU ثابت) (Persistent Disjoint Set Union) تدعم الإصدارات (versions) المختلفة من الـ DSU (بعد كل عملية union)، مع دعم عمليات union (إنشاء إصدار جديد) و find (الوصول إلى جذر (root) العقدة (node) في أي إصدار سابق (previous version)) و connected (التحقق مما إذا كانت عقدتان (two nodes) متصلتان (connected) في أي إصدار سابق (previous version)) في وقت O(log n) لكل عملية (operation) (أو O(α(n)) amortized مع التراجع (rollback) لكن الثبات (persistence) يجعلها O(log n))، وإرجاع إصدارات (versions) الـ DSU (جذور (roots) لشجرة ثابتة (persistent tree))، وتطبيقات (applications) مثل: الاستعلامات (queries) على الاتصال (connectivity) في الرسوم البيانية (graphs) عبر الزمن (over time)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_356",
+    "question": "اكتب function تنفذ بنية بيانات Persistent Queue (طابور ثابت) (قائمة انتظار ثابتة (persistent queue)) باستخدام قائمتين (two lists) (front و back) (أو باستخدام شجرة ثنائية (binary tree))، تدعم العمليات (operations) enqueue (إضافة عنصر (element) إلى نهاية (end) الطابور (queue)) و dequeue (إزالة عنصر (element) من بداية (front) الطابور (queue))، مع إنشاء إصدار جديد (new version) لكل عملية (operation)، والوصول (access) إلى الإصدارات (versions) السابقة (previous) (بما في ذلك إصدار الطابور (queue) قبل عملية dequeue)، وإرجاع الإصدارات (versions) (الجذور (roots))، وتحليل التعقيد الزمني O(1) لكل عملية (operation) (amortized) والمكاني O(n) لـ n عمليات (operations)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_357",
+    "question": "اكتب function تنفذ خوارزمية Implicit Treap (Treap ضمني) (Treap كـ مصفوفة ديناميكية (dynamic array)) تدعم العمليات (operations) على المصفوفة (array) مثل: (أ) إدراج (insert) عنصر (element) في أي موضع (position)، (ب) حذف (delete) عنصر (element) من أي موضع (position)، (ج) تحديث (update) نطاق (range) (إضافة (add)، تعيين (assign))، (د) استعلام (query) نطاق (range) (مثل مجموع (sum)، الحد الأدنى (min)، الحد الأقصى (max))، (هـ) تقسيم (split) المصفوفة (array) إلى جزأين (two parts)، (و) دمج (merge) مصفوفتين (two arrays)، (ز) إزاحة (shift) دورية (cyclic shift) لنطاق (range) (قطع (cut) ولصق (paste))، في وقت O(log n) لكل عملية (operation) (باستخدام أولويات عشوائية (random priorities))، وإرجاع العمليات (operations) وتطبيقها (applying) على المصفوفة (array) (مع دعم lazy propagation للعمليات (operations) على النطاق (range))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_358",
+    "question": "اكتب function تنفذ بنية بيانات Link/Cut Tree (LCT) (شجرة الوصل/القطع) مع دعم العمليات (operations) على الغابات الديناميكية (dynamic forests) (الرسوم البيانية المتغيرة (changing graphs)) مثل: (أ) link (توصيل شجرتين (connect two trees))، (ب) cut (قطع حافة (cut edge))، (ج) path query (استعلام على المسار بين عقدتين (path between two nodes)) (مثل مجموع (sum)، الحد الأدنى (min)، الحد الأقصى (max)، عملية ترابطية (associative function))، (د) path update (تحديث على المسار بين عقدتين (path update)) (مثل إضافة قيمة (add value)، تعيين قيمة (assign value))، (هـ) makeroot (جعل عقدة (node) جذراً (root) للشجرة (tree) (أي قلب المسار (reverse path))، في وقت O(log n) لكل عملية (operation) (amortized)، وإرجاع بنية LCT وإجابات الاستعلامات (query answers) وتحديثات المسار (path updates)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_359",
+    "question": "اكتب function تنفذ خوارزمية Euler Tour Tree (ETT) (شجرة جولة أويلر) لتمثيل الغابات الديناميكية (dynamic forests) باستخدام تسلسل (sequence) (جولة أويلر (Euler tour)) المخزنة في شجرة متوازنة (balanced tree) (مثل Treap أو Splay Tree)، مع دعم العمليات (operations): (أ) link (توصيل شجرتين (connect two trees))، (ب) cut (قطع حافة (cut edge))، (ج) connected (التحقق مما إذا كانت عقدتان (two nodes) في نفس الشجرة (same tree))، (د) subtree query (استعلام على الشجرة الفرعية (subtree) (إذا كانت الشجرة (tree) ذات جذر (rooted)))، في وقت O(log n) لكل عملية (operation)، وإرجاع بنية ETT وإجابات الاستعلامات (query answers)، ومقارنة مع Link/Cut Tree (LCT) من حيث الأداء (performance) وسهولة الاستخدام (ease of use)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_360",
+    "question": "اكتب function تنفذ بنية بيانات Binary Heap (كومة ثنائية) مع دعم عمليات decreaseKey (تقليل المفتاح) (عملية أساسية (essential) في خوارزميات مثل Dijkstra) في وقت O(log n)، وذلك عن طريق تخزين مواضع (positions) العناصر (elements) في كومة (heap) (مصفوفة (array) من المؤشرات (pointers)) وتحديثها (updating) أثناء عمليات التبادل (swaps)، مع دعم عمليات insert (إدراج)، extractMin (استخراج الحد الأدنى)، و delete (حذف) في وقت O(log n)، وإرجاع الكومة (heap) (مع دعم decreaseKey) وتحليل التعقيد الزمني (time complexity)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_361",
+    "question": "اكتب function تنفذ بنية بيانات Binomial Heap (كومة ذات الحدين) مع دمج (merge) في وقت O(log n)، مع دعم عمليات insert (إدراج) (O(log n))، extractMin (استخراج الحد الأدنى) (O(log n))، decreaseKey (تقليل المفتاح) (O(log n))، delete (حذف) (O(log n))، union (دمج كومتين (merge two heaps)) (O(log n))، وإرجاع الكومة (heap) وتحليل التعقيد الزمني (time complexity)، ومقارنة مع Fibonacci Heap (كومة فيبوناتشي) من حيث الأداء (performance) والتعقيد (complexity)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_362",
+    "question": "اكتب function تنفذ بنية بيانات Fibonacci Heap (كومة فيبوناتشي) مع عمليات insert (إدراج) في وقت O(1)، و merge (دمج) في وقت O(1)، و extractMin (استخراج الحد الأدنى) في وقت O(log n) amortized، و decreaseKey (تقليل المفتاح) في وقت O(1) amortized، و delete (حذف) في وقت O(log n) amortized، مع الحفاظ على هيكل الشجرة (tree structure) (الأشجار (trees)) وتنفيذ عمليات القطع (cutting) والدمج (merging) ووضع العلامات (marking)، وإرجاع الكومة (heap) وتحليل التعقيد الزمني المطفأ (amortized time complexity)، وتطبيقاته (applications) في خوارزميات (algorithms) مثل Dijkstra و Prim",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_363",
+    "question": "اكتب function تنفذ خوارزمية Dijkstra باستخدام Fibonacci Heap (كومة فيبوناتشي) لتحسين التعقيد الزمني إلى O(E + V log V) (بدلاً من O((V+E) log V) مع Binary Heap)، مع دعم إيجاد أقصر مسار (shortest path) من مصدر واحد (single source) في رسم بياني موجه (directed graph) أو غير موجه (undirected graph) بوزن غير سالب (non-negative weights)، مع دعم تتبع المسار (path reconstruction) وإرجاع المسافة والمسار (distance and path) إلى كل عقدة (node)، وتحليل التعقيد الزمني (time complexity) والمقارنة مع Dijkstra باستخدام Binary Heap",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_364",
+    "question": "اكتب function تنفذ خوارزمية Prim باستخدام Fibonacci Heap (كومة فيبوناتشي) لتحسين التعقيد الزمني إلى O(E + V log V) لإيجاد Minimum Spanning Tree (MST) في رسم بياني غير موجه (undirected graph) مرجح (weighted)، مع إرجاع قائمة الحواف (edges) في MST والوزن الإجمالي (total weight)، وتحليل التعقيد الزمني (time complexity) والمقارنة مع Prim باستخدام Binary Heap (O((V+E) log V))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_365",
+    "question": "اكتب function تنفذ خوارزمية Boruvka لإيجاد Minimum Spanning Tree (MST) في رسم بياني غير موجه (undirected graph) مرجح (weighted) في وقت O(E log V) (في الحالة العامة (general case))، وذلك عن طريق تكرار (iterating) مراحل (phases) من إضافة أرخص حافة (cheapest edge) لكل مكون (component) (باستخدام Union-Find (DSU)) ودمج المكونات (components)، مع إرجاع قائمة الحواف (edges) في MST والوزن الإجمالي (total weight)، وتحليل التعقيد الزمني (time complexity) والمقارنة مع Kruskal و Prim",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_366",
+    "question": "اكتب function تنفذ خوارزمية Kruskal لإيجاد Minimum Spanning Tree (MST) في رسم بياني غير موجه (undirected graph) مرجح (weighted) في وقت O(E log E) (أو O(E log V))، وذلك عن طريق فرز الحواف (edges) حسب الوزن (weight) واستخدام Union-Find (DSU) مع union by rank و path compression لتجنب الحلقات (cycles)، مع إرجاع قائمة الحواف (edges) في MST والوزن الإجمالي (total weight)، وتحليل التعقيد الزمني (time complexity) والمكاني (space complexity)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_367",
+    "question": "اكتب function تنفذ خوارزمية Prim لإيجاد Minimum Spanning Tree (MST) في رسم بياني غير موجه (undirected graph) مرجح (weighted) في وقت O(E log V) باستخدام priority queue (Binary Heap) (min-heap)، وذلك عن طريق البدء من عقدة (node) أولية (initial) وتوسيع (expanding) الشجرة (tree) بإضافة الحافة (edge) الأقل وزناً التي تربط (connects) شجرة (tree) بعقدة (node) خارجها (outside)، مع إرجاع قائمة الحواف (edges) في MST والوزن الإجمالي (total weight)، وتحليل التعقيد الزمني (time complexity) والمقارنة مع Kruskal",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_368",
+    "question": "اكتب function تنفذ خوارزمية Reverse Delete (حذف عكسي) لإيجاد Minimum Spanning Tree (MST) في رسم بياني غير موجه (undirected graph) مرجح (weighted) في وقت O(E log V (log log V)^3) (باستخدام Union-Find وفرز (sorting) الحواف (edges) تنازلياً (descending) وإزالة (removing) الحواف (edges) إذا كانت لا تزال (still) تربط (connect) الرسم البياني (graph) (أي الحذف (deletion) لا يؤدي إلى قطع الاتصال (disconnection)))، مع إرجاع قائمة الحواف (edges) في MST والوزن الإجمالي (total weight)، وتحليل التعقيد الزمني (time complexity) والمقارنة مع Kruskal و Prim",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_369",
+    "question": "اكتب function تنفذ خوارزمية Minimum Spanning Tree (MST) في رسم بياني كثيف (dense graph) (حيث E ≈ V^2) باستخدام خوارزمية Prim المحسنة (optimized) مع مصفوفة مسافات (distance array) وتحديث (updating) دون استخدام priority queue، مما يعطي تعقيداً زمنياً O(V^2)، وهو أسرع (faster) من O(E log V) عندما يكون الرسم البياني كثيفاً (graph is dense)، مع إرجاع قائمة الحواف (edges) في MST والوزن الإجمالي (total weight)، وتحليل التعقيد الزمني (time complexity) والمقارنة مع Prim مع priority queue",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_370",
+    "question": "اكتب function تنفذ خوارزمية Kruskal مع تحسين Union-Find (DSU) باستخدام union by size (أو union by rank) و path compression لتحقيق تعقيد زمني شبه ثابت (almost constant) (O(α(n))) لكل عملية (operation) (union و find)، مع إرجاع Union-Find (DSU) (مصفوفات (arrays) الوالد (parent)، الحجم (size)، أو الرتبة (rank))، وتطبيقات (applications) مثل: (أ) إيجاد المكونات المتصلة (connected components) في الرسم البياني (graph)، (ب) كشف الحلقات (cycle detection) في الرسوم البيانية غير الموجهة (undirected graphs)، (ج) خوارزمية Kruskal لـ MST",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_371",
+    "question": "اكتب function تنفذ خوارزمية Tarjan's LCA (أدنى سلف مشترك لتارجان) دون اتصال (offline) باستخدام Union-Find (DSU) لمعالجة استعلامات LCA (queries) المتعددة في وقت O(n α(n) + q) (تقريباً خطي)، وذلك عن طريق DFS على الشجرة ودمج المجموعات (union sets) بعد معالجة الأطفال (children)، وإرجاع إجابات LCA (LCA answers) لجميع الاستعلامات (queries)، وتطبيقاته (applications) في المسائل (problems) التي تتطلب استعلامات LCA متعددة (multiple LCA queries) مع شجرة ثابتة (static tree)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_372",
+    "question": "اكتب function تنفذ خوارزمية Binary Lifting (رفع ثنائي) (أو جدول الأسلاف (ancestor table)) لحساب Lowest Common Ancestor (LCA) (أدنى سلف مشترك) في شجرة في وقت O(log n) بعد معالجة مسبقة O(n log n)، مع دعم حساب المسافة بين عقدتين (distance between nodes) (باستخدام العمق (depth))، والقفز (jumping) إلى سلف (ancestor) على بعد k (k-th ancestor)، وإرجاع LCA والمسافة (distance) والسلف (ancestor) المطلوب، وتطبيقاته (applications) في المسائل (problems) التي تتطلب استعلامات LCA متعددة (multiple LCA queries) مع شجرة ثابتة (static tree) (دون اتصال (offline) أو عبر الإنترنت (online))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_373",
+    "question": "اكتب function تنفذ خوارزمية Euler Tour + RMQ (جولة أويلر + استعلام الحد الأدنى للنطاق) لحساب LCA (أدنى سلف مشترك) في شجرة في وقت O(1) بعد معالجة مسبقة O(n log n)، وذلك عن طريق حساب جولة أويلر (Euler tour) (قائمة العقد (node list) في ترتيب الزيارة (visit order) وعمق (depth) كل عقدة (node) في الجولة (tour) وأول ظهور (first occurrence) لكل عقدة (node))، ثم بناء Sparse Table لاستعلام RMQ (الحد الأدنى للعمق (minimum depth)) على مصفوفة (array) جولة أويلر (Euler tour)، وإرجاع LCA (LCA) لكل استعلام (query) في وقت O(1)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_374",
+    "question": "اكتب function تنفذ خوارزمية Heavy Light Decomposition (HLD) (تحليل الضوء الثقيل) مع دعم استعلامات (queries) وتحديثات (updates) على المسار بين عقدتين (path between two nodes) (مثل مجموع (sum)، الحد الأدنى (min)، الحد الأقصى (max)، تحديث إضافة (add update)، تحديث تعيين (assign update)) في وقت O(log^2 n) باستخدام Segment Tree أو Fenwick Tree على السلاسل (chains)، وإرجاع استعلامات المسار (path query results) وتحديثات المسار (path updates)، مع دعم العمليات (operations) على الشجرة الفرعية (subtree) أيضاً (باستخدام Euler Tour بالإضافة إلى HLD)، وتطبيقاته (applications) في مسائل (problems) الأشجار الديناميكية (dynamic tree problems) (مع تحديثات (updates))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_375",
+    "question": "اكتب function تنفذ خوارزمية Centroid Decomposition (تحليل النقط الوسطى) على شجرة لمعالجة استعلامات (queries) مثل عدد أزواج العقد (number of node pairs) بمسافة <= k (distance <= k) أو مجموع المسافات (sum of distances) أو تحديث (update) وزن العقدة (node weight) واستعلام (query) عن أقرب عقدة (closest node) بوزن معين (certain weight)، وذلك عن طريق بناء شجرة centroid (centroid tree) وتخزين المعلومات اللازمة (مثل أقرب مسافة (closest distance) من centroid إلى العقد في الشجرة الفرعية (subtree))، وإرجاع إجابات الاستعلامات (query answers) في وقت O(log n) لكل استعلام (query) (بعد المعالجة المسبقة (preprocessing))، وتطبيقاته (applications) في مسائل (problems) الأشجار الديناميكية (dynamic tree problems) (مع تحديثات (updates))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_376",
+    "question": "اكتب function تنفذ خوارزمية Small-to-Large Merging (دمج الصغير إلى الكبير) (DSU on tree) لمعالجة الاستعلامات (queries) على الشجرة (tree) في وقت O(n log n)، وذلك عن طريق دمج خرائط (maps) أو مجموعات (sets) للأطفال (children) الأصغر (smaller) في الأكبر (larger) لتجنب النسخ المكلف (expensive copying)، وإرجاع إجابات (answers) للاستعلامات (queries) (مثل تكرار الألوان (color frequencies) في الشجرة الفرعية (subtree)، أو عدد الألوان المميزة (distinct colors) في الشجرة الفرعية (subtree))، وتطبيقاته (applications) في مسائل (problems) الأشجار (tree problems) دون اتصال (offline) (مع تحديثات (updates) على الشجرة (tree) (إذا كانت الشجرة ثابتة (static)))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_377",
+    "question": "اكتب function تنفذ خوارزمية Tree Flattening (تسطيح الشجرة) باستخدام Euler Tour (جولة أويلر) لتحويل الشجرة (tree) إلى مصفوفة (array) بحيث تصبح الشجرة الفرعية (subtree) لكل عقدة (node) فاصلاً متصلاً (contiguous segment) في المصفوفة (array) (باستخدام وقت الدخول (entry time) ووقت الخروج (exit time))، مما يسمح بمعالجة استعلامات الشجرة الفرعية (subtree queries) (مثل sum، min، max، update) باستخدام هياكل البيانات العادية (arrays، Segment Tree، Fenwick Tree)، وإرجاع تمثيل جولة أويلر (Euler tour representation) (timestamps) ومعالجة الاستعلامات (queries) وتطبيقاته (applications) في مسائل (problems) الأشجار (tree problems) (مع تحديثات (updates) على الشجرة الفرعية (subtree))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_378",
+    "question": "اكتب function تنفذ خوارزمية Tree Isomorphism (تماثل الأشجار) (للأشجار غير الموجهة (unrooted trees)) باستخدام تمثيل الشجرة (tree encoding) (AHU algorithm (Aho, Hopcroft, Ullman)): إيجاد مركز (center) (مركز واحد (1 center) أو مركزين (2 centers)) للأشجار، وبناء تمثيل (representation) للشجرة (tree) (AHU encoding) (تشفير (encoding) يعتمد على الفرز (sorting) ودمج (merging) رموز (codes) الأطفال (children))، ومقارنة التمثيلات (representations) لتحديد ما إذا كانت الشجرتان (two trees) متماثلتين (isomorphic)، وإرجاع true إذا كانت الشجرتان (trees) متماثلتين (isomorphic) و false وإلا، وإرجاع التماثل (isomorphism mapping) إذا أمكن (if possible)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_379",
+    "question": "اكتب function تنفذ خوارزمية Tree Diameter (قطر الشجرة) (أطول مسار بين عقدتين (longest path between two nodes)) في شجرة غير موجهة (undirected tree) باستخدام DFS مرتين (أول DFS لإيجاد أبعد عقدة (farthest node) من أي عقدة (any node)، ثم DFS من تلك العقدة (that node) لإيجاد أبعد عقدة أخرى (another farthest node)، والمسافة بينهما هي القطر (diameter))، وإرجاع قيمة القطر (diameter length) والمسار (path) (قائمة العقد (node list) من البداية (start) إلى النهاية (end))، وتحليل التعقيد الزمني O(n)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_380",
+    "question": "اكتب function تنفذ خوارزمية Tree Centroid (مركز ثقل الشجرة) (العقدة (node) التي يكون حجم أكبر شجرة فرعية (largest subtree size) بعد إزالتها أقل من n/2)، باستخدام DFS لحساب حجم الشجرة الفرعية (subtree size) لكل عقدة (node) وإيجاد centroid (centroid) (أو centroidين (two centroids) للشجرة (tree) ذات الحجم الزوجي (even size))، وإرجاع centroid (centroid) (أو centroids) للشجرة (tree)، وتطبيقاته (applications) في خوارزميات (algorithms) مثل Centroid Decomposition و Tree DP",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_381",
+    "question": "اكتب function تنفذ خوارزمية Tree Rerooting DP (نقل DP على الأشجار) (Re-rooting DP) لحساب قيمة (value) ما (مثل مجموع المسافات (sum of distances)، حجم الشجرة الفرعية (subtree size)، DP للشجرة (tree DP)) لجميع العقد (nodes) كجذور (roots) (بدلاً من جذر واحد (single root))، وذلك عن طريق حساب DP أولاً لجذر واحد (single root) (DFS1)، ثم نقل (propagating) DP إلى الجيران (neighbors) باستخدام علاقة (relation) reroot (DFS2) لتحديث DP لكل عقدة (node) كجذر جديد (new root)، وإرجاع قيم (values) DP لجميع العقد (nodes) (كجذور (roots))، وتطبيقاته (applications) في مسائل (problems) الأشجار (tree problems) التي تتطلب إجابات (answers) لكل عقدة (node) كجذر (root)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_382",
+    "question": "اكتب function تنفذ خوارزمية Tree DP (برمجة ديناميكية على الأشجار) لحساب الحد الأقصى للمسار (maximum path sum) في شجرة (tree) (أكبر مجموع لأوزان العقد (maximum sum of node weights) على أي مسار (any path) في الشجرة (tree))، باستخدام DFS حيث يتم إرجاع الحد الأقصى للمسار من العقدة (node) إلى أسفل (downward) (max path starting at node and going down)، وتحديث الإجابة (answer) بأفضل مسار (best path) يمر عبر العقدة (node) (دمج (combining) أفضل مسارين (two best paths) من الأطفال (children))، وإرجاع الحد الأقصى للمسار (maximum path sum) والمسار (path) (إذا أمكن (if possible))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_383",
+    "question": "اكتب function تنفذ خوارزمية Tree DP (برمجة ديناميكية على الأشجار) لحساب الحد الأقصى للمجموعة المستقلة (maximum independent set) في شجرة (tree) (مجموعة من العقد (nodes) بحيث لا توجد حافة (edge) بين أي عقدتين (any two nodes) في المجموعة (set))، باستخدام DFS مع DP (حالتين: dp[node][0] = الحد الأقصى للحجم (maximum size) إذا لم نأخذ (not take) العقدة (node)، dp[node][1] = الحد الأقصى للحجم (maximum size) إذا أخذنا (take) العقدة (node))، وإرجاع حجم (size) الحد الأقصى للمجموعة المستقلة (maximum independent set size) وقائمة العقد (node list) في المجموعة (set) (إذا أمكن (if possible))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_384",
+    "question": "اكتب function تنفذ خوارزمية Tree DP (برمجة ديناميكية على الأشجار) لحساب الحد الأدنى من تغطية الرأس (minimum vertex cover) في شجرة (tree) (أصغر مجموعة من العقد (nodes) بحيث تغطي (cover) جميع الحواف (edges) (كل حافة (edge) لها عقدة نهاية (endpoint) واحدة على الأقل في المجموعة (set)))، باستخدام DFS مع DP (حالتين: dp[node][0] = الحد الأدنى للحجم (minimum size) إذا لم نأخذ (not take) العقدة (node)، dp[node][1] = الحد الأدنى للحجم (minimum size) إذا أخذنا (take) العقدة (node))، وإرجاع حجم (size) الحد الأدنى لتغطية الرأس (minimum vertex cover size) وقائمة العقد (node list) في التغطية (cover) (إذا أمكن (if possible))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_385",
+    "question": "اكتب function تنفذ خوارزمية Tree DP (برمجة ديناميكية على الأشجار) لحساب الحد الأدنى من تغطية الحواف (minimum edge cover) في شجرة (tree) (أصغر مجموعة من الحواف (edges) بحيث تغطي (cover) جميع العقد (nodes) (كل عقدة (node) لها حافة (edge) واحدة على الأقل في المجموعة (set)))، باستخدام DFS مع DP (حالتين: dp[node][0] = الحد الأدنى لحجم تغطية الحواف (minimum edge cover size) للشجرة الفرعية (subtree) إذا لم تكن العقدة (node) مغطاة (not covered) بحافة (edge) من والدها (parent)، dp[node][1] = إذا كانت العقدة (node) مغطاة (covered) بالفعل (already) بحافة (edge) من والدها (parent))، وإرجاع حجم (size) الحد الأدنى لتغطية الحواف (minimum edge cover size) وقائمة الحواف (edge list) في التغطية (cover) (إذا أمكن (if possible))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_386",
+    "question": "اكتب function تنفذ خوارزمية Tree DP (برمجة ديناميكية على الأشجار) لحساب الحد الأقصى لمطابقة (maximum matching) في شجرة (tree) (أكبر مجموعة من الحواف (edges) بحيث لا تشترك أي حافتين (no two edges) في عقدة (node) مشتركة (common))، باستخدام DFS مع DP (حالتين: dp[node][0] = الحد الأقصى لحجم المطابقة (maximum matching size) في الشجرة الفرعية (subtree) إذا لم تكن العقدة (node) متطابقة (matched) مع والدها (parent)، dp[node][1] = إذا كانت العقدة (node) متطابقة (matched) مع والدها (parent))، وإرجاع حجم (size) الحد الأقصى للمطابقة (maximum matching size) وقائمة الحواف (edge list) في المطابقة (matching) (إذا أمكن (if possible))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_387",
+    "question": "اكتب function تنفذ خوارزمية Tree DP (برمجة ديناميكية على الأشجار) لحساب عدد المسارات (number of paths) في شجرة (tree) ذات مجموع أوزان (weights sum) يساوي قيمة معينة (target) (أو عدد المسارات (number of paths) التي تحقق شرطاً معيناً (certain condition))، باستخدام DFS مع مبدأ المساهمة (contribution) وخريطة التردد (frequency map) (باستخدام DSU on tree (Small-to-Large merging) أو centroid decomposition لتحسين التعقيد (complexity) إلى O(n log n))، وإرجاع عدد المسارات (number of paths) التي تحقق الشرط (condition) (وقائمة المسارات (list of paths) إذا لزم الأمر (if needed))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_388",
+    "question": "اكتب function تنفذ خوارزمية Tree DP (برمجة ديناميكية على الأشجار) لحساب مجموع المسافات (sum of distances) بين جميع أزواج العقد (all pairs of nodes) في شجرة (tree) (باستخدام حجم الشجرة الفرعية (subtree size) والمسافات (distances))، وذلك عن طريق حساب عدد العقد (nodes) في كل شجرة فرعية (subtree) ومجموع المسافات (sum of distances) من الجذر (root) إلى جميع العقد (nodes)، ثم استخدام نقل DP (DP rerooting) لحساب مجموع المسافات (sum of distances) لكل عقدة (node) كجذر (root)، وإرجاع مجموع المسافات (sum of distances) لجميع الأزواج (all pairs) (أو مصفوفة (array) من مجموع المسافات (sum of distances) لكل عقدة (node) كجذر (root))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_389",
+    "question": "اكتب function تنفذ خوارزمية Tree DP (برمجة ديناميكية على الأشجار) لحساب أصغر عدد من الحواف (minimum number of edges) المراد حذفها (to remove) لتقسيم الشجرة (tree) إلى مكونات (components) بحيث لا يتجاوز حجم أي مكون (any component size) K (باستخدام DFS وجشع (greedy) مع حجم الشجرة الفرعية (subtree size) والقطع (cutting) عندما يتجاوز الحجم (size) K)، وإرجاع الحد الأدنى لعدد الحواف المحذوفة (minimum number of edges to remove) (وقائمة الحواف (list of edges) المحذوفة (removed) إذا لزم الأمر (if needed))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_390",
+    "question": "اكتب function تنفذ خوارزمية Tree DP (برمجة ديناميكية على الأشجار) لحساب الحد الأقصى لعدد العقد (maximum number of nodes) التي يمكن اختيارها (select) في شجرة (tree) بحيث لا تكون العقد المختارة (selected nodes) متجاورة (adjacent) (أي الحد الأقصى للمجموعة المستقلة (maximum independent set) مع أوزان (weights) على العقد (nodes))، باستخدام DFS مع DP (حالتين: dp[node][0] = الحد الأقصى للوزن (maximum weight) إذا لم نأخذ (not take) العقدة (node)، dp[node][1] = إذا أخذنا (take) العقدة (node))، وإرجاع الحد الأقصى للوزن (maximum weight) (وقائمة العقد (node list) المختارة (selected) إذا أمكن (if possible))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_391",
+    "question": "اكتب function تنفذ خوارزمية Digit DP (برمجة ديناميكية على الأرقام) لحساب عدد الأرقام (numbers) في نطاق [0, n] (أو [l, r]) التي تحقق شرطاً معيناً (certain condition) (مثل: عدد الأرقام التي تحتوي على رقم معين (contain a certain digit)، مجموع أرقام (digit sum) يساوي قيمة معينة (target)، أو عدد الأرقام التي هي متناظرة (palindromic))، وذلك عن طريق معالجة (processing) الأرقام (digits) من اليسار إلى اليمين (left to right) مع الحفاظ على حالة (state) (مثل: pos (الموضع (position)), tight (ما إذا كان البادئة (prefix) تساوي بادئة n (prefix equals prefix of n) أو أقل (less)), started (ما إذا كنا قد بدأنا (started) في وضع أرقام غير الصفر (non-zero digits)), lastDigit (آخر رقم (last digit)), sum (مجموع الأرقام (digit sum))، إلخ)، وإرجاع عدد الأرقام (count of numbers) التي تحقق الشرط (condition)، وتحليل التعقيد الزمني (time complexity) والمكاني (space complexity)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_392",
+    "question": "اكتب function تنفذ خوارزمية Digit DP (برمجة ديناميكية على الأرقام) لحساب مجموع الأرقام (sum of digits) لجميع الأرقام (numbers) في نطاق [0, n] (أو [l, r]) (أو مجموع مربعات الأرقام (sum of squares of digits)، أو مجموع الأرقام (sum of numbers) نفسها (the numbers themselves))، وذلك عن طريق إرجاع زوج (pair) (count, sum) من DP (عدد الأرقام (count of numbers) ومجموع الأرقام (sum of digits) (أو مجموع الأرقام (sum of numbers))) لكل حالة (state)، ودمج (combining) النتائج (results) من المكالمات المتكررة (recursive calls)، وإرجاع مجموع الأرقام (sum of digits) (أو مجموع الأرقام (sum of numbers)) لجميع الأرقام (all numbers) في النطاق (range)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_393",
+    "question": "اكتب function تنفذ خوارزمية SOS DP (Sum Over Subsets DP) (برمجة ديناميكية على المجموعات الفرعية) لحساب مجموع (sum) قيم (values) جميع المجموعات الفرعية (subsets) لكل قناع بت (bitmask) (أو عدد المجموعات الفرعية (number of subsets) التي تحقق شرطاً معيناً (certain condition)) في وقت O(n * 2^n) (حيث n هو عدد البتات (number of bits))، وذلك عن طريق تكرار (iterating) على البتات (bits) وتحديث (updating) DP[mask] = sum of F[submask] لـ submask ⊆ mask، وإرجاع مصفوفة (array) DP (حيث DP[mask] = مجموع (sum) قيم (values) جميع المجموعات الفرعية (subsets) من mask (subsets of mask))، وتطبيقاته (applications) في مسائل (problems) المجموعات (sets) والقناع (bitmask)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_394",
+    "question": "اكتب function تنفذ خوارزمية Fast Zeta Transform (تحويل زيتا السريع) (لحساب مجموع (sum) على المجموعات الفائقة (supersets) (أو المجموعات الفرعية (subsets))) في وقت O(n * 2^n) (حيث n هو عدد البتات (number of bits))، وذلك عن طريق تكرار (iterating) على البتات (bits) وتحديث (updating) F[mask] = sum of F[mask | (1 << i)] لـ i من 0 إلى n-1 (للمجموعات الفائقة (supersets))، أو العكس (inverse) للمجموعات الفرعية (subsets)، وإرجاع مصفوفة (array) المحولة (transformed)، وتطبيقاته (applications) في مسائل (problems) الجمع (convolution) على المجموعات (sets) (subset convolution)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_395",
+    "question": "اكتب function تنفذ خوارزمية Subset Convolution (التفاف المجموعات الفرعية) (حساب C[k] = sum_{i | j = k, i & j = 0} A[i] * B[j]) في وقت O(n^2 * 2^n) (أو O(n * 2^n) مع تحسينات (optimizations) باستخدام SOS DP و Fast Zeta Transform)، وذلك عن طريق تمثيل (representing) كل قناع (mask) مع حجم (size) (عدد البتات (number of bits)) وتطبيق تحويل زيتا (zeta transform) على بعدين (two dimensions) (mask و size)، وإرجاع مصفوفة (array) الالتفاف (convolution) C (حيث C[k] = sum_{i | j = k, i & j = 0} A[i] * B[j])",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_396",
+    "question": "اكتب function تنفذ خوارزمية Divide and Conquer DP Optimization (تحسين DP باستخدام فرق تسد) لتحسين معادلات DP من النمط dp[i] = min_{j < i} (dp[j] + C(j, i)) (حيث C(j, i) هي دالة التكلفة (cost function) التي تحقق شرك Quadrangle Inequality (Monge property) وشرك monotonicity of opt (قرار (decision) opt[i] هو رتيب (monotonic) غير متناقص (non-decreasing)))، وذلك عن طريق تقسيم (dividing) الفاصل (range) [l, r] بشكل متكرر (recursively) وحساب (computing) dp[i] للـ i في منتصف (mid) الفاصل (range) مع تجربة (trying) opt في الفاصل (range) [optL, optR]، وإرجاع مصفوفة (array) dp المحسنة (optimized) في وقت O(n log n) (بدلاً من O(n^2))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_397",
+    "question": "اكتب function تنفذ خوارزمية Knuth Optimization (تحسين كنوث) لتحسين معادلات DP من النمط dp[i][j] = min_{i < k < j} (dp[i][k] + dp[k][j] + C[i][j]) (حيث C[i][j] تحقق شرك Quadrangle Inequality (Monge property) وشرك monotonicity of opt (قرار (decision) opt[i][j] يقع بين opt[i][j-1] و opt[i+1][j]))، وذلك عن طريق قصر (restricting) نطاق البحث (search range) لـ k بين opt[i][j-1] و opt[i+1][j]، مما يقلل (reduces) التعقيد الزمني (time complexity) من O(n^3) إلى O(n^2)، وإرجاع مصفوفة (array) dp (مثل dp[1][n])",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_398",
+    "question": "اكتب function تنفذ خوارزمية Alien's Trick (خدعة الفضائي) (Lagrange Multiplier for DP) (أو DP with Convex Hull Trick) لتحسين معادلات DP التي تتضمن (involve) حداً (term) lambda * g(x) (حيث g(x) هي دالة (function) عددية (count) مثل عدد المجموعات (number of groups) أو عدد التقسيمات (number of partitions))، وذلك عن طريق معالجة (treating) lambda كمعامل (parameter) وتحسين (optimizing) DP (على سبيل المثال، إيجاد الحد الأدنى لـ f(x) + lambda * g(x))، واستخدام البحث الثنائي (binary search) على lambda (أو تقنية أخرى (another technique)) للعثور على lambda الذي يحقق (satisfies) قيداً (constraint) على g(x) (مثل g(x) = k)، وإرجاع القيمة المثلى (optimal value) لـ DP (f(x) + lambda * g(x)) والحل (solution) (على سبيل المثال، الحد الأدنى لـ f(x) مع قيد (constraint) g(x) = k)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_399",
+    "question": "اكتب function تنفذ خوارزمية Convex Hull Trick (CHT) (خدعة الهيكل المحدب) للاستعلام عن الحد الأدنى (min) (أو الحد الأقصى (max)) لمجموعة من الخطوط (lines) (y = m x + b) عند نقاط x (x queries) مع ترتيب رتيب (monotonic order) للميل (slope) وترتيب رتيب (monotonic order) لـ x (إذا كان ممكناً (if possible))، باستخدام Deque (قائمة انتظار مزدوجة) للحفاظ على الهيكل المحدب السفلي (lower convex hull) (أو العلوي (upper convex hull))، وإرجاع الحد الأدنى (minimum) (أو الأقصى (maximum)) للقيمة (value) لكل استعلام (query) في وقت O(1) لكل استعلام (query) (بعد إضافة جميع الخطوط (lines) في وقت O(n))",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  },
+  {
+    "id": "adv_400",
+    "question": "اكتب function تنفذ خوارزمية Li Chao Tree (شجرة لي تشاو) للاستعلام عن الحد الأدنى (min) (أو الحد الأقصى (max)) لمجموعة من الخطوط (lines) (y = m x + b) عند أي نقاط x (x queries) (حتى لو لم تكن x رتيبة (not monotonic) أو كانت الخطوط (lines) غير رتيبة (not monotonic)) في وقت O(log C) (حيث C هو نطاق x (range of x))، وذلك عن طريق إدراج (inserting) الخطوط (lines) بشكل متكرر (recursively) في شجرة قطع (segment tree) على نطاق x (x-range) (أو على إحداثيات x (x-coordinates) المضغوطة (compressed))، وإرجاع الحد الأدنى (minimum) (أو الأقصى (maximum)) للقيمة (value) لكل استعلام (query) في وقت O(log C)",
+    "useDeepSeek": true,
+    "tags": [
+      "civil",
+      "loads",
+      "jordanian-code"
+    ]
+  }
+]
