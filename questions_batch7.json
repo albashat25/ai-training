@@ -1,0 +1,2050 @@
+[
+    {
+        "id": "civil_000",
+        "question": "كيف يتم حساب تسارع جسم يتحرك على مستوى مائل بزاوية 30 درجة مع وجود احتكاك معامل احتكاكه 0.2؟ وما هي المعادلات المستخدمة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب أقصى ارتفاع تصل إليه قذيفة أطلقت بسرعة 50 م/ث بزاوية 60 درجة؟ ثم كم تبلغ المسافة الأفقية التي تقطعها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو مركز الكتلة (Center of Mass) لنظام من ثلاث كتل مختلفة في الفراغ؟ وكيف تحسب إحداثياته؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب عزم القصور الذاتي (Moment of Inertia) لكرة مصمتة تدور حول محور يمر بمركزها؟ وماذا لو كان محور الدوران على السطح؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة دوران الأرض حول نفسها عند خط الاستواء؟ ثم كيف تحسب السرعة الزاوية للأرض حول الشمس؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب قوة الطرد المركزي (Centrifugal Force) المؤثرة على إنسان كتلته 70 كجم عند خط الاستواء نتيجة دوران الأرض؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب طاقة وضع الجاذبية (Gravitational Potential Energy) لجسم كتلته 10 كجم على ارتفاع 100 متر من سطح الأرض؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كفاءة آلة رفع تستهلك 5000 جول لرفع جسم كتلته 100 كجم إلى ارتفاع 4 أمتار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة دوران عجلة دراجة قطرها 0.7 متر عندما تتحرك الدراجة بسرعة 10 م/ث؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب قوة الشد في حبل يرفع مصعداً كتلته 500 كجم بتسارع 2 م/ث^2 إلى أعلى؟ وماذا لو كان المصعد يهبط؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الضغط المؤثر على سطح مكعب طول ضلعه 0.5 متر عندما تؤثر عليه قوة 1000 نيوتن موزعة بالتساوي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كثافة جسم يزن في الهواء 50 نيوتن ويزن مغموراً في الماء 30 نيوتن؟ وما هي مادة هذا الجسم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب معامل اللزوجة (Viscosity) لسائل باستخدام كرة تسقط فيه بسرعة ثابتة؟ وما هي معادلة ستوكس؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب التردد الطبيعي (Natural Frequency) لنظام كتلة-زنبرك حيث الكتلة 2 كجم وثابت الزنبرك 800 نيوتن/م؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب زمن الدورة الكاملة (Period) لبندول بسيط طوله 2 متر على سطح الأرض؟ وعلى سطح القمر حيث الجاذبية 1.6 م/ث^2؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة الصوت في الهواء عند درجة حرارة 40 درجة مئوية؟ ثم عند 0 درجة مئوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب تردد الصوت الذي تسمعه إذا تحرك مصدر صوت بتردد 500 هرتز نحوك بسرعة 30 م/ث وأنت ساكن؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب زاوية الانكسار عندما يسقط شعاع ضوئي من الهواء (n=1) إلى الماء (n=1.33) بزاوية سقوط 45 درجة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب البعد البؤري لعدسة محدبة قطرها 10 سم ونصف قطر تكور وجهها 20 سم ومعامل انكسارها 1.5؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب قوة تكبير المجهر عندما تكون العدسة الشيئية ذات بعد بؤري 0.5 سم والعدسة العينية ذات بعد بؤري 2 سم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب شدة المجال الكهربائي (Electric Field) الناتج عن شحنة نقطية مقدارها 5 ميكروكولوم على بعد 10 سم منها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب فرق الجهد بين نقطتين في مجال كهربائي منتظم شدته 1000 نيوتن/كولوم والمسافة بينهما 0.2 متر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سعة مكثف مكون من لوحين مساحة كل منهما 0.1 متر مربع والمسافة بينهما 1 مم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الطاقة المخزنة في مكثف سعته 10 ميكروفاراد مشحون بفرق جهد 100 فولت؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب شدة التيار في دائرة كهربائية بسيطة تحتوي على بطارية جهدها 12 فولت ومقاومة 4 أوم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المقاومة المكافئة لثلاث مقاومات: 2 أوم، 3 أوم، 6 أوم موصلة على التوالي؟ ثم على التوازي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب القدرة المستهلكة في مصباح كهربائي مقاومته 100 أوم ويمر به تيار 0.5 أمبير؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب شدة المجال المغناطيسي الناتج عن سلك مستقيم طويل يمر به تيار 10 أمبير على بعد 5 سم منه؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب القوة الدافعة الكهربائية المستحثة (EMF) في ملف من 100 لفة يتغير فيه المجال المغناطيسي بمعدل 0.5 تسلا/ثانية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب التيار الثانوي لمحول مثالي جهد ابتدائي 220 فولت، تيار ابتدائي 2 أمبير، وجهد ثانوي 12 فولت؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الطول الموجي (Wavelength) لموجة كهرومغناطيسية ترددها 100 ميجاهرتز (موجة راديوية FM)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب طاقة الفوتون (Photon Energy) لضوء طوله الموجي 500 نانومتر (ضوء أخضر) باستخدام معادلة بلانك؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية الحرارة اللازمة لرفع درجة حرارة 2 كجم من النحاس (سعته الحرارية 385 جول/كجم.ك) من 20 إلى 200 درجة مئوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية الحرارة اللازمة لصهر 0.5 كجم من الجليد عند 0 درجة مئوية إذا كانت الحرارة الكامنة للانصهار 334 كيلوجول/كجم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كفاءة محرك حراري يعمل بين درجة حرارة 500 كلفن و300 كلفن حسب دورة كارنو؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب التغير في الإنتروبيا (ΔS) عند صهر 0.5 كجم من الجليد عند 0 درجة مئوية (درجة حرارة ثابتة)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب ضغط 2 مول من غاز مثالي محصور في وعاء حجمه 10 لترات عند درجة حرارة 27 درجة مئوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة جذر متوسط المربعات (RMS Speed) لجزيئات الأكسجين (وزن جزيئي 32 جم/مول) عند 27 درجة مئوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب عدد المولات في 22 جراماً من ثاني أكسيد الكربون (CO2) إذا كان الوزن الجزيئي 44 جم/مول؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب النسبة المئوية لعنصر الكربون في جزيء الجلوكوز (C6H12O6)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب عدد الذرات في 18 جراماً من الماء (H2O) (عدد أفوجادرو = 6.022 × 10^23)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب تركيز محلول هيدروكسيد الصوديوم (NaOH) إذا كان الرقم الهيدروجيني (pH) له يساوي 13؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الرقم الهيدروجيني (pH) لمحلول حمض الهيدروكلوريك (HCl) تركيزه 0.001 مول/لتر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب ثابت الاتزان (Kc) للتفاعل N2 + 3H2 ⇌ 2NH3 إذا كانت التراكيز عند الاتزان: [N2]=0.5M, [H2]=0.3M, [NH3]=0.2M؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة التفاعل (Rate) من الدرجة الأولى إذا كان ثابت السرعة (k) = 0.1 ثانية^-1 والتركيز الابتدائي = 0.5 مول/لتر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب نصف العمر (Half-life) لتفاعل من الدرجة الأولى إذا كان ثابت السرعة k = 0.05 ثانية^-1؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية الكهرباء (بالكولوم) اللازمة لترسيب 63.5 جراماً من النحاس (الوزن المكافئ 31.75) في خلية تحليل كهربائي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الجهد القياسي (E°) للخلية Zn|Zn^2+||Cu^2+|Cu إذا كانت جهود الاختزال القياسية: Zn^2+/Zn = -0.76V، Cu^2+/Cu = +0.34V؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب التركيز الأسموزي (Osmolarity) لمحلول كلوريد الصوديوم (NaCl) تركيزه 0.1 مول/لتر إذا تفكك بالكامل؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب درجة تجمد محلول السكر (C6H12O6) تركيزه 0.2 مول/لتر في الماء (ثابت التجمد للماء 1.86 كجم.درجة/مول)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كفاءة خلية الوقود الهيدروجينية إذا كانت طاقة الرابطة لـ H2 هي 436 كيلوجول/مول والطاقة الناتجة 237 كيلوجول/مول؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية غاز الأكسجين الناتج عن تحليل كهربائي للماء لمدة ساعة بتيار 2 أمبير؟ (1 فاراداي = 96500 كولوم)",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب درجة عدم التشبع (Degree of Unsaturation) لمركب عضوي صيغته C6H10؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب قيمة Rf (Retardation Factor) في كروماتوغرافيا الطبقة الرقيقة إذا تحرك المذيب 10 سم وتحرفت المادة 6 سم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب النشاط الإشعاعي (Activity) لعينة تحتوي على 1 جرام من الراديوم-226 (عمر النصف 1600 سنة) بوحدة البيكريل؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب عمر عينة عضوية إذا كان نشاط الكربون-14 فيها 8 تفكك/دقيقة/جرام والنشاط الأصلي 16 تفكك/دقيقة/جرام (عمر النصف 5730 سنة)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المسافة إلى نجم باستخدام اختلاف المنظر (Parallax) إذا كانت زاوية المنطار 0.5 ثانية قوسية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كتلة المشتري إذا كان قمره آيو يدور على مسافة 421,800 كم بزمن مداري 1.77 يوم؟ (G = 6.67 × 10^-11)",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب درجة حرارة سطح النجم إذا كان أقصى طول موجي لإشعاعه هو 500 نانومتر (قانون فين)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب لمعان (Luminosity) نجم إذا كان تدفقه على الأرض 2 × 10^-11 وات/م^2 والمسافة إليه 10 فرسخ فلكي (32.6 سنة ضوئية)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة هروب (Escape Velocity) من سطح كوكب المريخ (كتلته 6.39 × 10^23 كجم، نصف قطره 3.39 × 10^6 متر)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المسافة إلى مجرة تبعد عنا بمقدار انزياح أحمر (Redshift) z = 0.1 باستخدام قانون هابل (H0 = 70 كم/ث/ميغافرستك)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كتلة الثقب الأسود في مركز مجرتنا إذا كان نجم يدور حوله على مسافة 1000 وحدة فلكية بسرعة 5000 كم/ث؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كثافة الكون الحرج (Critical Density) المطلوبة لتوقفه عن التوسع إذا كان ثابت هابل 70 كم/ث/ميغافرستك؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب العمر التقريبي للكون باستخدام مقلوب ثابت هابل (1/H0) بعد تحويله إلى وحدات زمنية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب حجم المجموعة الشمسية إذا كان نصف قطر مدار نبتون 30 وحدة فلكية (1 AU = 1.5 × 10^11 متر)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الزمن الذي يستغرقه ضوء الشمس للوصول إلى الأرض (المسافة 1 AU)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب قوة الجاذبية بين الأرض والقمر (كتلة الأرض 6 × 10^24 كجم، كتلة القمر 7.4 × 10^22 كجم، المسافة 3.84 × 10^8 متر)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة دوران الأرض حول الشمس (المسافة 1 AU، الزمن 365.25 يوم)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب عدد المجرات في الكون القابل للملاحظة إذا كان متوسط عدد المجرات 0.01 مجرة لكل مليون سنة ضوئية مكعبة ونصف قطر الكون القابل للملاحظة 46 مليار سنة ضوئية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كثافة المادة المظلمة في مجرة إذا كانت سرعة دوران نجم على حافة المجرة 200 كم/ث والمسافة من المركز 10 كيلو فرسخ فلكي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الطاقة الإجمالية المنبعثة من مستعر أعظم (Supernova) إذا كان سطوعه يعادل 10 مليار مرة سطوع الشمس (سطوع الشمس 3.8 × 10^26 وات) ليوم واحد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كتلة سحابة جزيئية عملاقة قطرها 50 سنة ضوئية وكثافتها 1000 جزيء هيدروجين/سم^3 (كتلة الهيدروجين 1.67 × 10^-27 كجم)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب زمن حياة نجم كتلته 10 أضعاف كتلة الشمس إذا كان زمن حياة الشمس 10 مليار سنة والعلاقة (العمر ∝ 1/الكتلة^2.5)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية الطاقة الناتجة عن اندماج الهيدروجين في قلب الشمس كل ثانية إذا كانت تفقد 4 ملايين طن من كتلتها كل ثانية (E=mc^2)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب درجة حرارة قلب الشمس إذا كان الضغط 2.5 × 10^16 باسكال والكثافة 150 جم/سم^3 باستخدام قانون الغاز المثالي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب قوة الإشعاع الشمسي (Solar Constant) على سطح الأرض إذا كانت درجة حرارة سطح الشمس 5778 كلفن ونصف قطر الشمس 696,000 كم والمسافة 1 AU؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب عدد ذرات الهيدروجين في الكون القابل للملاحظة إذا كانت كثافة الباريونات 0.25 ذرة/م^3 وحجم الكون 4 × 10^80 م^3؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب نسبة الهيليوم إلى الهيدروجين في الكون البدائي من خلال نسبة النيوترونات إلى البروتونات بعد الدقائق الأولى من الانفجار العظيم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المسافة إلى العنقود المجري الهائل (Supercluster) إذا كان انزياحه الأحمر z = 0.5 باستخدام قانون هابل غير الخطي للانزياحات الكبيرة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كتلة مجموعة محلية من المجرات (Local Group) من خلال حركة مجرة المرأة المسلسلة (Andromeda) نحو درب التبانة بسرعة 110 كم/ث والمسافة 2.5 مليون سنة ضوئية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب زمن استقرار النظام الشمسي بعد تكونه إذا كان زمن تشكل الكواكب 100 مليون سنة وعمر النظام الشمسي 4.6 مليار سنة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب عدد التوائم الأرضية (Earth-like planets) في مجرة درب التبانة باستخدام معادلة دريك إذا كان 20% من النجوم لها كواكب صخرية في المنطقة الصالحة للحياة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية الطاقة المظلمة في الكون إذا كانت تشكل 68% من كثافة الكون الحرجة (9.9 × 10^-27 كجم/م^3) وحجم الكون؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب زمن تبخر ثقب أسود كتلته 10^12 كجم (كتلة جبل) عن طريق إشعاع هوكنغ إذا كان زمن التبخر ∝ الكتلة^3؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب قوة الشد في الحبل عند طرفي بكرة (Atwood Machine) كتلتي الثقلين 5 كجم و 3 كجم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب العزم (Torque) الناتج عن قوة مقدارها 20 نيوتن تؤثر عمودياً على ذراع طوله 0.5 متر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كفاءة مضخة حرارية (Heat Pump) تنقل 3000 جول من الحرارة من مصدر بارد إلى ساخن باستهلاك 1000 جول من الشغل؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الطاقة الحركية (Kinetic Energy) لجسم كتلته 2 كجم يتحرك بسرعة 10 م/ث؟ ثم إذا تضاعفت السرعة كم تتضاعف الطاقة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب القدرة (Power) اللازمة لرفع جسم كتلته 50 كجم إلى ارتفاع 10 أمتار خلال 5 ثوان؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب زخم (Momentum) سيارة كتلتها 1000 كجم تتحرك بسرعة 20 م/ث؟ ثم قوة الصدم إذا توقفت خلال 0.1 ثانية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب التردد الزاوي (Angular Frequency) لعجلة تدور 300 دورة في الدقيقة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب التسارع الزاوي (Angular Acceleration) لعجلة تزيد سرعتها من 0 إلى 100 دورة/دقيقة خلال 10 ثوان؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المسافة التي تقطعها سيارة تتباطأ من 30 م/ث إلى التوقف بمعدل تباطؤ 5 م/ث^2؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة قذيفة عند أعلى نقطة في مسارها إذا قذفت بسرعة 100 م/ث بزاوية 30 درجة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب زمن التحليق الكلي (Total Time of Flight) لقذيفة قذفت بسرعة 100 م/ث بزاوية 45 درجة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المدى الأفقي (Range) لقذيفة قذفت بسرعة 100 م/ث بزاوية 45 درجة (مقاومة الهواء مهملة)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الشغل (Work) المبذول لسحب جسم كتلته 10 كجم لمسافة 5 أمتار على سطح خشن بمعامل احتكاك 0.3 بقوة أفقية 50 نيوتن؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب طاقة الوضع المرونية (Elastic Potential Energy) لزنبرك ثابته 200 نيوتن/م مضغوط بمقدار 0.1 متر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب معامل الاحتكاك الساكن (Static Friction Coefficient) إذا احتاج جسم كتلته 10 كجم إلى قوة 40 نيوتن لبدء الحركة على سطح أفقي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب التسارع الناتج عن الجاذبية على ارتفاع 1000 كم فوق سطح الأرض (نصف قطر الأرض 6371 كم، g على السطح 9.8 م/ث^2)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب السرعة المدارية (Orbital Velocity) لمحطة الفضاء الدولية على ارتفاع 400 كم عن سطح الأرض؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كفاءة تحويل الطاقة الشمسية إلى كهرباء في خلية شمسية إذا استقبلت 1000 وات/م^2 وأخرجت 200 وات/م^2؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب عدد الإلكترونات التي تمر في سلك يمر به تيار 1 أمبير خلال ثانية واحدة (شحنة الإلكترون 1.6 × 10^-19 كولوم)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب شدة الإضاءة (Illuminance) على سطح إذا كان مصدر ضوء شدته 1000 كاندلا على بعد 2 متر منه؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب معامل الانكسار النسبي (Relative Refractive Index) بين الماء (1.33) والزجاج (1.5)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الزاوية الحرجة (Critical Angle) لانتقال الضوء من الزجاج (n=1.5) إلى الهواء (n=1)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب قوة العدسة (Lens Power) بالديوبتر إذا كان بعدها البؤري 0.5 متر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المسافة بين أهداب التداخل (Interference Fringes) في تجربة يونغ إذا كان طول الموجة 600 نانومتر، المسافة بين الشقين 0.5 مم، والمسافة إلى الشاشة 2 متر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب زاوية الحيود (Diffraction Angle) للضوء الأحمر (700 نانومتر) على شق مفرد عرضه 0.01 مم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب دقة المجهر (Resolution) إذا كان الطول الموجي للضوء 550 نانومتر وفتحة العدسة 1.2 (Abbe's limit)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة الإلكترون في ذرة الهيدروجين في المدار الأول (نصف القطر 5.3 × 10^-11 متر) حسب نموذج بور؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الطول الموجي لدوبري (de Broglie) لإلكترون يتحرك بسرعة 10^6 م/ث (كتلة الإلكترون 9.1 × 10^-31 كجم)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب فرق الجهد الذي يحتاجه إلكترون للتسارع إلى نصف سرعة الضوء (مع مراعاة النسبية)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب التمدد الزمني (Time Dilation) لساعة في قمر اصطناعي يتحرك بسرعة 8 كم/ث بالنسبة للأرض خلال سنة واحدة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب تقلص الطول (Length Contraction) لجسم طوله 10 أمتار يتحرك بسرعة 0.8c بالنسبة لمراقب ساكن؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كتلة الإلكترون النسبية (Relativistic Mass) عندما يتحرك بسرعة 0.9c (كتلة السكون 9.1 × 10^-31 كجم)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب طاقة السكون (Rest Energy) لإلكترون بوحدة الإلكترون فولت (eV) باستخدام E=mc^2؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الزيادة في كتلة نواة اليورانيوم عندما تمتص نيوتروناً (سرعة النيوترون 2 × 10^4 م/ث)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الطاقة الناتجة عن اندماج 1 كجم من الهيدروجين إلى هيليوم إذا كان النقص في الكتلة 0.007 كجم لكل كجم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب نصف قطر نواة الذرة إذا كان نصف القطر = r0 × A^(1/3) حيث r0 = 1.2 فيمتومتر و A=56 (حديد)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب طاقة الربط النووية (Binding Energy) لنواة الهيليوم-4 (الكتلة 4.002603 وحدة كتلة ذرية، كتلة البروتون 1.007276، النيوترون 1.008665)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب زمن نصف العمر لعينة من اليورانيوم-238 إذا كان ثابت الانحلال (λ) = 1.55 × 10^-10 سنة^-1؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب النشاط الإشعاعي (Activity) لعينة من الراديوم-226 كتلتها 1 جرام (ثابت أفوجادرو 6.022 × 10^23، عمر النصف 1600 سنة)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب عمر عينة من الخشب إذا كان تركيز الكربون-14 فيها 25% من التركيز الأصلي (عمر النصف 5730 سنة)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الطاقة المنبعثة من اضمحلال ألفا لنواة الراديوم-226 إلى الرادون-222 إذا كان الفرق في الكتلة 0.005 وحدة كتلة ذرية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب النسبة المئوية للباقي من مادة مشعة بعد 3 فترات نصف عمر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المسافة بين مستوى بلوري (d-spacing) باستخدام حيود الأشعة السينية إذا كانت زاوية براج 20 درجة والطول الموجي 0.15 نانومتر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب حجم خلية الوحدة (Unit Cell) للحديد المكعب متمركز الجسم (BCC) إذا كان نصف قطر ذرة الحديد 0.124 نانومتر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كثافة النحاس المكعب متمركز الوجه (FCC) إذا كان نصف قطر ذرة النحاس 0.128 نانومتر ووزنه الذري 63.5 جم/مول؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب معامل التمدد الحراري (Thermal Expansion Coefficient) لقضيب طوله 1 متر عند 20 درجة مئوية يصبح 1.001 متر عند 100 درجة مئوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المقاومة الكهربائية (Resistance) لسلك نحاس طوله 100 متر وقطره 1 مم (مقاومية النحاس 1.68 × 10^-8 أوم.م)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب معامل الحث الذاتي (Self-Inductance) لملف لولبي طوله 0.5 متر، عدد لفاته 1000 لفة، ومساحة مقطعه 0.01 متر مربع؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المعاوقة (Impedance) لدائرة RLC توالي إذا كانت R=10 أوم، XL=20 أوم، XC=10 أوم عند تردد معين؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب تردد الرنين (Resonant Frequency) لدائرة RLC توالي فيها L=0.1 هنري و C=10 ميكروفاراد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب معامل جودة (Q Factor) لدائرة رنين عند تردد الرنين إذا كانت R=5 أوم، L=0.1 هنري؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب التيار المار في دائرة التيار المتردد (AC) إذا كان الجهد 220 فولت والمقاومة 100 أوم والتردد 50 هرتز؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب القدرة المتوسطة (Average Power) في دائرة تيار متردد تحتوي على مكثف فقط (سعة 100 ميكروفاراد، جهد 220 فولت، تردد 50 هرتز)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية الحرارة (Heat) الناتجة عن مرور تيار 10 أمبير في مقاومة 5 أوم لمدة 5 ثوان؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب التيار اللحظي في دائرة RC توالي عند لحظة توصيلها بمصدر جهد مستمر 12 فولت (R=1000 أوم، C=100 ميكروفاراد)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب زمن الشحن (Time Constant) لدائرة RC حيث R=1000 أوم وC=100 ميكروفاراد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الجهد على طرفي المكثف بعد زمن يساوي ثابت الزمن (RC) عند شحنه من بطارية 12 فولت؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب شدة المجال الكهربائي بين لوحي مكثف متوازيين المسافة بينهما 0.01 متر وفرق الجهد 100 فولت؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة انجراف الإلكترونات (Drift Velocity) في سلك نحاس مساحة مقطعه 1 مم^2 يمر به تيار 1 أمبير (كثافة الإلكترونات 8.5 × 10^28 م^-3)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المقاومة النوعية (Resistivity) لمادة مجهولة إذا كانت مقاومة سلك طوله 2 متر ومساحة مقطعه 0.5 مم^2 تساوي 10 أوم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب القوة الدافعة الكهربائية (EMF) للخلية إذا كان الجهد الطرفي 1.5 فولت والتيار 0.5 أمبير والمقاومة الداخلية 0.1 أوم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب القدرة القصوى (Maximum Power) التي يمكن الحصول عليها من بطارية جهدها 12 فولت ومقاومتها الداخلية 1 أوم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المجال المغناطيسي داخل ملف لولبي طويل (Solenoid) عدد لفاته 1000 لفة لكل متر ويمر به تيار 2 أمبير؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب القوة المغناطيسية (Magnetic Force) على سلك طوله 0.5 متر يمر به تيار 10 أمبير عمودياً على مجال مغناطيسي شدته 0.5 تسلا؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب نصف قطر مسار جسيم مشحون (بروتون) يدخل عمودياً على مجال مغناطيسي شدته 0.1 تسلا بسرعة 10^6 م/ث (كتلة البروتون 1.67 × 10^-27 كجم، شحنته 1.6 × 10^-19 كولوم)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب التردد الدوري (Cyclotron Frequency) للبروتون في مجال مغناطيسي شدته 0.5 تسلا؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الحث المتبادل (Mutual Inductance) بين ملفين إذا كان التغير في تيار الملف الأول بمقدار 2 أمبير/ثانية يولد قوة دافعة كهربائية 0.5 فولت في الملف الثاني؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كثافة الطاقة (Energy Density) للمجال المغناطيسي في الفراغ إذا كانت شدة المجال 1 تسلا (μ0 = 4π × 10^-7)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كثافة الطاقة للمجال الكهربائي في الفراغ إذا كانت شدة المجال 10^6 فولت/متر (ε0 = 8.85 × 10^-12)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة الموجة الكهرومغناطيسية في مادة معامل انكسارها 1.5 (سرعة الضوء في الفراغ 3 × 10^8 م/ث)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب معامل انكسار مادة إذا كانت سرعة الضوء فيها 2 × 10^8 م/ث؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب زاوية الاستقطاب (Brewster's Angle) عندما يسقط ضوء على سطح زجاج معامل انكساره 1.5 من الهواء (n=1)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الشحنة الكهربائية الكلية لأيون الكالسيوم (Ca^2+) بوحدة الكولوم إذا كانت شحنة الإلكترون 1.6 × 10^-19 كولوم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب عدد أفوجادرو (Avogadro's Number) إذا كانت كتلة ذرة الكربون-12 1.99 × 10^-26 كجم والكتلة المولية 0.012 كجم/مول؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب طاقة التأين (Ionization Energy) لذرة الهيدروجين بوحدة الإلكترون فولت (ثابت بلانك 6.626 × 10^-34 جول.ث، سرعة الضوء 3 × 10^8 م/ث، ثابت ريدبرج 1.097 × 10^7 م^-1)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب نصف قطر مدار بور الأول لذرة الهيدروجين (ثابت بلانك المخفض ħ = 1.055 × 10^-34، كتلة الإلكترون 9.11 × 10^-31 كجم، شحنة الإلكترون 1.6 × 10^-19، ε0 = 8.85 × 10^-12)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة الإلكترون في مدار بور الأول لذرة الهيدروجين؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب فرق الطاقة بين مستوى الطاقة الأول والثاني في ذرة الهيدروجين (E_n = -13.6/n^2 eV)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الطول الموجي للفوتون المنبعث عندما ينتقل إلكترون في ذرة الهيدروجين من المستوى n=3 إلى n=2؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب أقصى عدد من الإلكترونات يمكن أن يستوعبه مستوى الطاقة الرئيسي n=3؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب عدد أوربيتالات (Orbitals) في مستوى الطاقة الفرعي d؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب العزم المغناطيسي (Magnetic Moment) للإلكترون في مداره (المغنطون البوري 9.27 × 10^-24 جول/تسلا)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية التبخر من سطح بحيرة مساحتها 1000 متر مربع إذا كان معدل التبخر 2 مم/يوم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية الأمطار المتساقطة على الأردن (مساحته 89,000 كم^2) إذا كان معدل الهطول 100 مم/سنة بوحدة المتر المكعب؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة جريان النهر إذا كان التدفق (Discharge) 100 م^3/ث ومساحة المقطع 20 م^2؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب زمن وصول ملوث إلى بئر يبعد 100 متر عن مصدر التلوث إذا كانت سرعة المياه الجوفية 0.1 م/يوم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الضغط عند قاع خزان ماء ارتفاع الماء فيه 10 أمتار (كثافة الماء 1000 كجم/م^3، g=9.8 م/ث^2)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية الأوكسجين الذائب (Dissolved Oxygen) في الماء عند درجة حرارة 25 درجة مئوية وضغط 1 ضغط جوي (ثابت هنري 1.3 × 10^-3 مول/لتر.ضغط جوي)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية الطاقة الشمسية الساقطة على سطح الأرض في اليوم إذا كان معدل الإشعاع 1000 وات/م^2 لمدة 12 ساعة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية ثاني أكسيد الكربون التي تمتصها شجرة واحدة في السنة إذا كانت تمتص 22 كجم من CO2 سنوياً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية الأكسجين الناتجة عن شجرة واحدة في السنة (نسبة الأكسجين في CO2 )",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب التوازن الحمضي القاعدي (Acid-Base Balance) في الدم باستخدام معادلة هندرسون-هاسيلبالخ؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف تعمل إنزيمات الكبد على استقلاب الأدوية من خلال نظام سيتوكروم P450 (Cytochrome P450)؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب معدل الترشيح الكبيبي (GFR) في الكلى باستخدام تركيز الكرياتينين في الدم والعمر والوزن؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف تؤثر الأدوية المدرة للبول (Diuretics) على إعادة امتصاص أيونات الصوديوم والبوتاسيوم في أنيبيبات الكلية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يعمل الأنسولين على تحفيز ناقلات الجلوكوز (GLUT4) لإدخال السكر إلى الخلايا على المستوى الجزيئي؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يسبب نقص إنزيم G6PD (التفول) تكسر خلايا الدم الحمراء عند التعرض لمواد مؤكسدة؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الفجوة الأيونية (Anion Gap) لتشخيص أسباب الحماض الأيضي (Metabolic Acidosis)؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يعمل الهيبارين كمضاد للتخثر من خلال تنشيط الأنتيثيرومبين III؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب جرعة الدواء بناءً على مساحة سطح الجسم (BSA) بدلاً من الوزن فقط؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف تتفاعل المضادات الحيوية من عائلة البنسلين مع جدار الخلية البكتيرية لتثبيط بناء الببتيدوجليكان؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب التناضح العكسي (Reverse Osmosis) المستخدم في محطات تحلية المياه؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم استخلاص البوتاس من أملاح البحر الميت باستخدام طريقة التبلور التجزيئي؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب تركيز حمض الفوسفوريك الناتج من تفاعل صخر الفوسفات مع حمض الكبريتيك؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب نفاذية الصخور (Permeability) في طبقات المياه الجوفية باستخدام قانون دارسي (Darcy's Law)؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم تحديد جودة خامات اليورانيوم في منطقة وسط الأردن باستخدام مسح أشعة غاما؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب معامل الانتشار (Diffusion Coefficient) للغازات داخل الرئة البشرية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يعمل مبدأ عدم اليقين لهايزنبرج (Heisenberg Uncertainty Principle) على تقييد دقة قياس موقع وزخم الإلكترون؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الدالة الموجية (Wave Function) للإلكترون في ذرة الهيدروجين باستخدام معادلة شرودنجر؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يفسر التشابك الكمي (Quantum Entanglement) ارتباط الجسيمات ببعضها مهما كانت المسافة بينها؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يعمل النفق الكمي (Quantum Tunneling) في تحلل جسيمات ألفا داخل النواة؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب طاقة الربط لكل نوية (Binding Energy per Nucleon) لتحديد استقرار العناصر؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب العمر الزمني للصخور النارية باستخدام نسبة نظائر الأرجون-أرجون (Ar-Ar)؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الضغط الاسموزي للدم ومنع انفجار خلايا الدم الحمراء عند إعطاء المحاليل الوريدية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب معدل سريان الدم (Blood Flow Rate) باستخدام قانون بوازيه (Poiseuille's Law)؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب القوة الناتجة عن انقباض عضلة القلب باستخدام قانون فرانك-ستارلينغ؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب كمية غاز الرادون المنبعث من التربة وتراكمه داخل المباني السكنية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب كفاءة الألواح الشمسية الكهروضوئية بناءً على فجوة الطاقة (Band Gap) للسيليكون؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الانزياح نحو الأحمر الجذبي (Gravitational Redshift) للضوء الهارب من نجم مكثف؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب نصف قطر شوارزشيلد (Schwarzschild Radius) الذي يحدد أفق الحدث للثقب الأسود؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب طاقة الفوتونات المنبعثة من اضمحلال البوزيترونات في فحص الـ PET Scan؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب معامل التوهين (Attenuation Coefficient) للأشعة السينية عند مرورها عبر أنسجة الجسم المختلفة؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الشغل المبذول بواسطة الحجاب الحاجز أثناء عملية التنفس العميق؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب تركيز الأوكسجين في الهيموغلوبين باستخدام منحنى تفكك الأكسجين (Oxygen Dissociation Curve)؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب القوة الكهربائية بين بروتينين مشحونين داخل الخلية باستخدام قانون كولوم في وسط مائي؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب معامل لزوجة الدم وتأثير زيادة عدد كريات الدم الحمراء عليه؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الطاقة الكلية المنبعثة من اندماج ذرتي ديوتيريوم لتكوين الهيليوم؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب معدل التحلل الإشعاعي للسترونتيوم-90 وتراكمه في العظام البشرية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب شدة المجال المغناطيسي اللازم لجهاز الرنين المغناطيسي (MRI) لتوجيه بروتونات الهيدروجين؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب تردد الرنين لبروتونات الهيدروجين (Larmor Frequency) داخل مجال مغناطيسي معين؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب كمية الطاقة المفقودة نتيجة الاحتكاك في المفاصل الصناعية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الضغط الجوي عند قمة جبل نيبو باستخدام المعادلة البارومترية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب معدل النتح (Transpiration Rate) في النباتات بناءً على رطوبة الجو وفتحات الثغور؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب التحلل المائي لثاني أكسيد الكربون في مياه الأمطار وتكون حمض الكربونيك؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب سرعة الموجات الصوتية في الأنسجة البشرية أثناء الفحص بالموجات فوق الصوتية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب تأثير دوبلر لتدفق الدم (Doppler Ultrasound) لقياس سرعة سريان الدم في الشرايين؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الطاقة الحركية للإلكترونات المنبعثة في الظاهرة الكهروضوئية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب طول موجة دي برولي (de Broglie) لنيوترون حراري يستخدم في البحوث النووية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب التكبير الزاوي للتلسكوبات الفلكية المستخدمة في مرصد الشومري؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب كمية الإشعاع الكوني الخلفي (CMB) ودرجة حرارته الحالية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب كثافة الشحنة السطحية على غشاء الخلية العصبية أثناء جهد الراحة؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب سرعة انتقال السيال العصبي عبر الألياف العصبية الميالينية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الثابت الحراري لامتصاص غازات الدفيئة في الغلاف الجوي؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب معامل تمدد المحيطات نتيجة ارتفاع درجات الحرارة العالمية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب القوة الطاردة المركزية في أجهزة الطرد المركزي الطبية لفصل البلازما عن الدم؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب ضغط البخار للمحلول باستخدام قانون راؤول؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب عدد الصفائح النظرية في أعمدة الفصل الكروماتوغرافي لزيادة دقة التحليل؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب طاقة الرنين للجزيئات العضوية الحلقية مثل البنزين؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب تأثير الحجب الإلكتروني (Shielding Effect) على طاقة التأين للعناصر؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الزاوية الحرجة للانعكاس الكلي الداخلي في الألياف البصرية الطبية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب معامل الامتصاص النوعي (SAR) للهواتف المحمولة وتأثيره الحراري على أنسجة الرأس؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الكتلة المفقودة وتحويلها إلى طاقة عند انشطار نواة اليورانيوم-235؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب تدفق النيوترونات داخل قلب المفاعل النووي للتحكم في التفاعل المتسلسل؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب نصف قطر نواة الذرة بناءً على عدد الكتلة؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الشحنة النووية الفعالة (Z-effective) التي تؤثر على إلكترونات التكافؤ؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب التغير في المحتوى الحراري (Enthalpy) للتفاعلات الكيميائية باستخدام طاقات الروابط؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب طاقة جيبس الحرة (Gibbs Free Energy) للتنبؤ بتلقائية التفاعلات البيولوجية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب ثابت ميكائيلس-مينتن (Km) لسرعة التفاعلات الإنزيمية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب درجة الحرارة المطلقة باستخدام توزيع ماكسويل-بولتزمان لسرعات الجزيئات؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الموصلية الكهربائية للمحاليل الإلكتروليتية وربطها بتركيز الأيونات؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب القوة الدافعة الكهربائية الكيميائية عبر غشاء الخلية باستخدام معادلة نيرنست؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب معامل انكسار الغلاف الجوي وتأثيره على رؤية النجوم عند الأفق؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب شدة الإشعاع الشمسي خارج الغلاف الجوي (الثابت الشمسي)؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب العمر المتبقي للشمس بناءً على معدل استهلاك الهيدروجين في قلبها؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب كثافة المادة في القزم الأبيض مقارنة بكثافة الأرض؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب الضغط الانحلالي للإلكترونات (Electron Degeneracy Pressure) الذي يمنع انهيار النجوم؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب معدل فقدان الكتلة في النجوم العملاقة عن طريق الرياح النجمية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب مساحة المقطع العرضي (Cross-section) للتفاعلات النووية؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب زمن الاسترخاء (Relaxation Time) في تصوير الرنين المغناطيسي T1 و T2؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب كمية الحرارة المفقودة من الجسم عن طريق الإشعاع والحمل والتبخر؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        },
+        {
+            "id": "civil_000",
+            "question": "كيف يتم حساب معامل كفاءة الامتصاص الضوئي لليخضور (Chlorophyll) في عملية التمثيل الضوئي؟",
+            "tags": [
+                "human-sciences",
+                "advanced-sciences"
+            ]
+        }
+    ]         
