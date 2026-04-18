@@ -1,0 +1,2874 @@
+[
+    {
+        "id": "civil_000",
+        "question": "سقوط حجر من ارتفاع 100 متر. كيف تحسب سرعته عند وصوله للأرض مع إهمال مقاومة الهواء؟ ثم كيف يتغير الحساب إذا أخذت مقاومة الهواء بعين الاعتبار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "قذفت كرة بزاوية 45 درجة بسرعة 20 م/ث. كيف تحسب أقصى ارتفاع تصل إليه والمسافة الأفقية التي تقطعها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو شرط الاتزان في نظام من ثلاث قوى تؤثر في نقطة مادية واحدة؟ وكيف تحل هذه المسألة بيانياً وجبرياً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب عزم القصور الذاتي (Moment of Inertia) لقضيب منتظم الكتلة يدور حول أحد طرفيه؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هي معادلات الحركة الثلاثة لنيوتن؟ وكيف تطبقها لتحليل حركة صاروخ ينطلق من سطح الأرض؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الشغل المبذول لرفع جسم كتلته 10 كجم إلى ارتفاع 5 أمتار؟ ثم كيف تحسب القدرة اللازمة إذا تم الرفع خلال 3 ثوان؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو قانون حفظ الطاقة الميكانيكية؟ وفي أي الظروف ينطبق وفي أي الظروف لا ينطبق؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كفاءة آلة بسيطة مثل الرافعة أو البكرة؟ وما هي مصادر فقدان الطاقة في الآلات الحقيقية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو الفرق بين الدفع (Impulse) والزخم (Momentum)؟ وكيف تحسب قوة الصدم عندما تصطدم سيارة بجدار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة رصاصة باستخدام بندول بالستي (Ballistic Pendulum)؟ وما هي معادلة الحفاظ على الزخم والطاقة هنا؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الزمن الدوري لبندول بسيط طوله 1 متر؟ وكيف يتغير هذا الزمن على سطح القمر حيث الجاذبية أقل؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو قانون هوك (Hooke's Law) للزنبركات؟ وكيف تحسب الطاقة المخزنة في زنبرك مضغوط بمقدار معين؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب تردد الاهتزاز لنظام كتلة-زنبرك؟ وما هي العلاقة بين الكتلة والثباتية (Stiffness) والتردد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو قانون الجذب العام لنيوتن؟ وكيف تحسب قوة الجذب بين الأرض والقمر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة الإفلات (Escape Velocity) من سطح الأرض؟ وما هي العلاقة بينها وبين كتلة الكوكب ونصف قطره؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب مدار قمر اصطناعي حول الأرض؟ وما هي السرعة المطلوبة لمدار دائري على ارتفاع 500 كم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو الفرق بين الوزن والكتلة؟ وكيف يتغير وزن جسم عند نقله من الأرض إلى المريخ؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب ضغط السائل عند عمق معين؟ وما هي معادلة الضغط الهيدروستاتيكي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو مبدأ باسكال (Pascal's Principle) في السوائل؟ وكيف تطبقه في تصميم المكابس الهيدروليكية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب قوة الطفو (Buoyant Force) المؤثرة على جسم مغمور في سائل؟ وما هو مبدأ أرخميدس؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب معدل تدفق السائل عبر أنبوب؟ وما هي معادلة الاستمرارية (Continuity Equation)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو قانون برنولي (Bernoulli's Principle)؟ وكيف يفسر رفع جناح الطائرة ورش الماء في المبيدات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب لزوجة سائل باستخدام أنبوب شعري؟ وما هي معادلة هاجن-بوازوي (Hagen-Poiseuille)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة الصوت في الهواء عند درجة حرارة معينة؟ وما هي العلاقة بين السرعة ودرجة الحرارة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو تأثير دوبلر (Doppler Effect) للصوت؟ وكيف تحسب التغير في التردد عندما يتحرك مصدر الصوت نحو مستمع ساكن؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب شدة الصوت بالديسيبل؟ وما هو الفرق بين شدة الصوت وارتفاع الصوت (Pitch)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سرعة الضوء في مادة ذات معامل انكسار معين؟ وما هي علاقة سرعة الضوء بمعامل الانكسار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو قانون سنيل (Snell's Law) للانكسار؟ وكيف تحسب زاوية الانكسار عندما يمر الضوء من الهواء إلى الماء؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب البعد البؤري لعدسة محدبة؟ وما هي معادلة العدسات (Lens Maker's Equation)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هي ظاهرة الحيود (Diffraction)؟ وكيف تحسب زاوية الحيود عند مرور الضوء عبر شق مفرد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب قوة تكبير المجهر الضوئي المركب؟ وما هو الفرق بين التكبير والقوة التحليلية (Resolution)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو قانون كولوم (Coulomb's Law) للقوى الكهربائية؟ وكيف تحسب القوة بين شحنتين نقطيتين؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب المجال الكهربائي الناتج عن شحنة نقطية؟ وما هي وحدة قياس المجال الكهربائي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو قانون غاوس (Gauss's Law)؟ وكيف تستخدمه لحساب المجال الكهربائي لكرة مشحونة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب فرق الجهد الكهربائي بين نقطتين في مجال كهربائي منتظم؟ وما العلاقة بين الجهد والمجال؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب سعة مكثف ذي لوحين متوازيين؟ وما هي العوامل التي تؤثر على السعة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الطاقة المخزنة في مكثف مشحون؟ وما هي تطبيقات المكثفات في الدوائر الإلكترونية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو قانون أوم (Ohm's Law)؟ وكيف تحسب المقاومة المكافئة لمقاومتين على التوالي وعلى التوازي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب القدرة الكهربائية المستهلكة في جهاز منزلي؟ وما هي العلاقة بين القدرة والجهد والتيار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هما قانونا كيرشوف (Kirchhoff's Laws) للدوائر الكهربائية؟ وكيف تطبقهما لحل دائرة معقدة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يعمل الأميتر والفولتميتر؟ وكيف توصل كل منهما في الدائرة لقياس التيار والجهد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب شدة المجال المغناطيسي الناتج عن سلك طويل يمر به تيار كهربائي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو قانون فاراداي (Faraday's Law) للحث الكهرومغناطيسي؟ وكيف تحسب القوة الدافعة الكهربائية المستحثة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يعمل المحول الكهربائي (Transformer)؟ وكيف تحسب الجهد والتيار في الملفين الابتدائي والثانوي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب معامل الحث الذاتي (Self-Inductance) لملف لولبي (Solenoid)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب طاقة المجال المغناطيسي المخزنة في ملف يمر به تيار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هي معادلات ماكسويل الأربع؟ وماذا تصف كل واحدة منها في الكهرومغناطيسية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنتشر الموجات الكهرومغناطيسية في الفراغ؟ وما هي سرعتها وعلاقتها بثابتي الكهرباء والمغناطيسية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الطول الموجي والتردد لموجة كهرومغناطيسية من طاقتها؟ وما هي معادلة بلانك (E = hf)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو الطيف الكهرومغناطيسي؟ وما هي استخدامات كل منطقة فيه (راديوي، ميكروويف، تحت أحمر، ضوئي، فوق بنفسجي، أشعة سينية، أشعة غاما)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية الحرارة اللازمة لرفع درجة حرارة جسم كتلته 2 كجم من 20 إلى 80 درجة مئوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هي السعة الحرارية النوعية (Specific Heat Capacity) للماء؟ ولماذا تعتبر عالية مقارنة بمعظم المواد الأخرى؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كمية الحرارة اللازمة لتحويل 1 كجم من الجليد عند -10 درجة إلى بخار عند 110 درجة مئوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هي الحرارة الكامنة للانصهار والتبخر؟ وكيف تختلف كمياً للماء؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب كفاءة محرك حراري يعمل بين مصدر ساخن عند 500 كلفن ومصدر بارد عند 300 كلفن؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هو القانون الثاني للثيرموديناميكا؟ وكيف تحدد اتجاه سريان الحرارة تلقائياً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب التغير في الإنتروبيا (Entropy) عند صهر مكعب ثلج في كوب ماء دافئ؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هي دورة كارنو (Carnot Cycle) النظرية؟ ولماذا تعتبر الحد الأقصى لكفاءة أي محرك حراري؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب الشغل الناتج عن غاز مثالي يتمدد عند درجة حرارة ثابتة (تساوي درجة الحرارة)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هي معادلة الغاز المثالي (PV = nRT)؟ وكيف تحسب حجم مول واحد من الغاز عند STP؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب ضغط غاز محصور في وعاء حجمه 2 لتر عند درجة حرارة 27 درجة مئوية إذا كان عدد المولات 0.5 مول؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هي الفرضيات التي يقوم عليها نموذج الغاز المثالي؟ ومتى ينحرف الغاز الحقيقي عن هذا النموذج؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحسب جذر متوسط مربع السرعة (RMS Velocity) لجزيئات الغاز عند درجة حرارة معينة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد التركيب الجزيئي لمركب عضوي غير معروف باستخدام التحليل الطيفي للأشعة تحت الحمراء (IR)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل تقنية الرنين المغناطيسي النووي (NMR) في تحديد التركيب الجزيئي؟ وما الذي تخبرنا به إزاحة القمم الكيميائية (Chemical Shift)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام كروماتوغرافيا الغاز (GC) لفصل مزيج من المركبات المتطايرة؟ وما هو أساس آلية الفصل بين الأعمدة المختلفة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام مطياف الكتلة (Mass Spectrometry) لتحديد الوزن الجزيئي والتركيب؟ وكيف تقرأ طيف الكتلة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم حساب كمية مادة غير معروفة في عينة باستخدام المعايرة الحمضية-القاعدية؟ وما هي شروط دقة المعايرة واختيار الكاشف المناسب؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل المحاليل المنظمة (Buffers) على مقاومة تغير الرقم الهيدروجيني؟ وما هي معادلة هندرسون-هاسلبالخ التي تحكم عملها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم حساب الرقم الهيدروجيني (pH) لمحلول حمض ضعيف دون استخدام المعادلة التربيعية الكاملة؟ ومتى يجوز التقريب ومتى لا يجوز؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تؤثر الإلكتروليتات (Electrolytes) على درجة تجمد الماء وغليانه؟ وما هي التطبيقات العملية لهذه الظاهرة في المناطق الباردة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس التركيز الأسموزي (Osmolality) للمحاليل البيولوجية مثل الدم والبول؟ وما هي وحدات القياس المستخدمة وأهميتها السريرية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل الإنزيمات كمحفزات حيوية؟ وكيف تحقق سرعات تفوق الملايين من المرات مقارنة بالتفاعل غير المحفز؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم حساب طاقة التنشيط (Activation Energy) لأي تفاعل كيميائي باستخدام معادلة أرينيوس وقياسات سرعة التفاعل عند درجات حرارة مختلفة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تؤثر العوامل البيئية مثل الأس الهيدروجيني ودرجة الحرارة ووجود المثبطات على نشاط الإنزيمات في الجسم الحي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تصميم دواء يثبت على موقع نشط (Active Site) لأنزيم معين دون التأثير على أنزيمات أخرى مشابهة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل مضادات الأكسدة (Antioxidants) مثل فيتامين C وفيتامين E على حماية الخلايا من التلف التأكسدي؟ وما هي كيميائيتها الجزيئية على مستوى الجذور الحرة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد التركيب الفراغي (Stereochemistry) لجزيء عضوي باستخدام الاستقطاب الضوئي فقط؟ وما هي العلاقة بين زاوية الدوران والتركيز وطول الخلية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تؤثر الكيرالية (Chirality) على النشاط البيولوجي للأدوية؟ ولماذا قد يكون أحد المتماكبين الضوئيين دواءً فعالاً والآخر ساماً أو غير فعال؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم حساب درجة عدم التشبع (Degree of Unsaturation) لجزيء عضوي من صيغته الجزيئية فقط؟ وكيف يساعد ذلك في اقتراح بنى محتملة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل تفاعلات البلمرة (Polymerization)؟ وما الفرق بين البلمرة بالإضافة (Addition) والبلمرة بالتكثيف (Condensation) مع أمثلة لكل منهما؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تصميم بوليمر قابل للتحلل بيولوجياً يستخدم في الخيوط الجراحية الذائبة في الجسم بعد شفاء الجرح؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تؤثر المجموعات الوظيفية (Functional Groups) مثل الهيدروكسيل والكربوكسيل والأمين على الخواص الفيزيائية والكيميائية للمركبات العضوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد موقع المجموعة الوظيفية في سلسلة كربونية باستخدام التحليل الطيفي تحت الأحمر (IR) من خلال ترددات الامتصاص المميزة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل تفاعلات الاستبدال العطري المحب للإلكترونات (Electrophilic Aromatic Substitution) على حلقة البنزين؟ وما الذي يحدد موقع الاستبدال (أورثو، ميتا، بارا)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم توجيه المجموعات البديلة (Directing Groups) في الحلقة العطرية؟ وما الفرق بين الموجه أورثو-بارا والموجه ميتا من حيث التأثير الإلكتروني؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتكون الكربونات والهيدروكربونات؟ وكيف يتشكل النفط والغاز الطبيعي على مدى ملايين السنين من بقايا الكائنات الحية تحت تأثير الضغط والحرارة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد عمر حفريات الديناصورات باستخدام نظائر الكربون المشع (الكربون-14)؟ وما هي حدود هذه الطريقة وأقصى عمر يمكن قياسه بدقة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحويل النفط الخام إلى بنزين وديزل وكيروسين في مصافي التكرير؟ وما هي كيمياء كل عملية من التقطير التجزيئي والتكسير الحفزي والإصلاح؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم إنتاج الأمونيا صناعياً عبر عملية هابر-بوش (Haber-Bosch)؟ وما هي الظروف المثلى من ضغط ودرجة حرارة ومحفز لزيادة الإنتاجية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تصنيع حمض الكبريتيك بكميات هائلة عبر عملية التلامس (Contact Process)؟ وما هي استخداماته الصناعية المتعددة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم إنتاج الأسمنت في الأردن؟ وما هي التفاعلات الكيميائية التي تحدث في أفرانه عند درجة حرارة 1450 درجة مئوية والتي تؤدي إلى تكوين الكلنكر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم معالجة المياه العادمة في محطات التنقية؟ وما هي مراحل المعالجة الكيميائية والفيزيائية والبيولوجية التي تمر بها حتى تصبح صالحة لإعادة الاستخدام؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحلية مياه البحر في محطات التحلية مثل محطة العقبة؟ وما هي كيمياء أغشية التناضح العكسي (Reverse Osmosis) وكيف تمنع مرور الأملاح؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم الكشف عن المعادن الثقيلة مثل الرصاص والزئبق والكادميوم في عينات المياه؟ وما هي حدود الكشف الدنيا لكل طريقة من الطرق الطيفية والكهروكيميائية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تقدير جودة زيت الزيتون الأردني باستخدام التحليل الكيميائي؟ وما هي المعايير مثل رقم الحموضة ورقم البيروكسيد التي تحدد درجة نقاوته وجودته؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحليل التربة الزراعية لتحديد محتواها من العناصر الغذائية الرئيسية (النيتروجين، الفوسفور، البوتاسيوم)؟ وما هي طرق الاستخلاص المستخدمة لكل عنصر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام الأسمدة الكيميائية لتعويض نقص العناصر الغذائية في التربة الأردنية الفقيرة؟ وما هي كيمياء تحولات النيتروجين في التربة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس نسبة الدهون المشبعة وغير المشبعة والدهون المتحولة في الزيوت النباتية والزبدة باستخدام التحليل الكيميائي والكروماتوغرافي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم الكشف عن الغش الغذائي في العسل (بإضافة السكر) أو في الحليب (بإضافة الماء أو إزالة الدهن) باستخدام تقنيات كيميائية بسيطة ومتقدمة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحليل عينات الهواء لتحديد تركيز الغازات الضارة مثل أول أكسيد الكربون وثاني أكسيد النيتروجين وثاني أكسيد الكبريت؟ وما هي الطرق المعتمدة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم إعادة تدوير البلاستيك؟ وما هي التحديات الكيميائية في فصل البوليمرات المختلفة (PET، PVC، PE، PP، PS) عن بعضها البعض؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد تركيز الجلوكوز في الدم باستخدام أجهزة قياس السكر المنزلية؟ وما هي كيمياء التفاعل الأنزيمي الذي يحدث على الشريحة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحضير الأسبرين (حمض أسيتيل الساليسيليك) في المختبر؟ وما هي خطوات التخليق والتنقية واختبار النقاوة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتكون الصخر الرسوبي؟ وما هي الفروق بين الحجر الرملي والحجر الجيري والصخر الزيتي من حيث التركيب وطريقة التكون؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحدد عمر طبقة صخرية تحتوي على حفريات من عصور مختلفة؟ وما هي طرق حل هذا التناقض الطبقي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هي نظرية الصفائح التكتونية؟ وكيف تفسر حدوث الزلازل والبراكين وتكوين الجبال؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنشأ الزلازل على حدود الصفائح؟ وما هي أنواع الموجات الزلزالية وكيف تنتشر عبر باطن الأرض؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحدد مركز الزلزال وبؤره باستخدام بيانات ثلاث محطات رصد زلزالي على الأقل؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتكون الصخور النارية؟ وما الفرق بين الصخور النارية الجوفية (مثل الجرانيت) والسطحية (مثل البازلت)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتكون الصخور المتحولة؟ وما الفرق بين التحول التماسي والتحول الإقليمي؟ أعط مثالاً على كل نوع في الأردن؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل المعادن في الطبيعة؟ وما هي الخواص الفيزيائية التي تستخدم للتعرف على المعادن مجهولة الهوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "ما هي دورة الصخور (Rock Cycle)؟ كيف تتحول الصخور النارية إلى رسوبية إلى متولة ثم تعود إلى نارية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الوديان النهرية؟ وما الفرق بين الوادي المتعرج (Meandering) والوادي المعلق (Hanging)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الكهوف الجيرية في المناطق الكارستية مثل كهوف الأردن؟ وما هي كيمياء المياه التي تؤدي إلى إذابة الصخور الجيرية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الينابيع الساخنة في الأردن مثل حمامات ماعين؟ وما هي المصادر الحرارية الأرضية التي تسخن المياه؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل البراكين؟ وما الفرق بين البراكين الدرعية (Shield) والبراكين المركبة (Composite) والبراكين المخروطية (Cinder Cone)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يمكن التنبؤ بالانفجارات البركانية قبل حدوثها؟ وما هي العلامات المبكرة التي ترصدها محطات المراقبة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الجبال؟ وما الفرق بين الجبال الطياتية (Folded) مثل جبال الألب والجبال التصدعية (Fault-Block) مثل جبال الأردن؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الأودية الجليدية (Glacial Valleys)؟ وما الفرق بين الشكل U للوادي الجليدي والشكل V للوادي النهري؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الكثبان الرملية في صحراء وادي رم؟ وما هي أنواع الكثبان حسب شكلها واتجاه الرياح؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الواحات في الصحراء؟ وما هي المصادر الجوفية للمياه التي تغذيها وتحافظ عليها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الدلتا عند مصبات الأنهار مثل دلتا النيل؟ وما هي العمليات الرسوبية التي تبني هذه الأراضي الخصبة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الشواطئ الرملية والصخرية؟ وما هي عوامل المد والجزر والأمواج والتيارات التي تحدد شكل الساحل؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الجزر المرجانية (Atolls)؟ وما هي علاقتها بالبراكين المندثرة وارتفاع مستوى سطح البحر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخراج المعادن من باطن الأرض؟ وما الفرق بين التعدين السطحي (Open-pit) والتعدين تحت السطحي (Underground)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم التنقيب عن النفط والغاز الطبيعي؟ وما هي الطرق الجيوفيزيائية المستخدمة لتحديد مواقع المكامن؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل خزانات المياه الجوفية (Aquifers) في باطن الأرض؟ وما هي أنواع الصخور التي تخزن وتنقل المياه؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد اتجاه وسرعة حركة المياه الجوفية في حوض الديسي بالأردن؟ وما هي طرق التتبع والتلوين المستخدمة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الانهيارات الأرضية (Landslides)؟ وما هي العوامل الجيولوجية والمناخية التي تؤدي إلى انزلاق التربة والصخور؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتغير تضاريس سطح الأرض بفعل عوامل التعرية (Erosion) المختلفة: الرياح، الماء، الجليد، والتغيرات الحرارية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تكوين التربة الزراعية من الصخور الأم؟ وما هي العوامل التي تحدد سمك التربة وخصوبتها ونوعها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الحفريات (Fossils)؟ وما هي شروط التحجر النادرة التي تحافظ على الكائنات الحية لملايين السنين؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام الحفريات الدليلية (Index Fossils) لتحديد العمر النسبي للطبقات الصخرية في مواقع مختلفة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتكون السحب؟ وما هي الأنواع الرئيسية للسحب (الركامية، الطبقية، الريشية) وكيف ترتبط كل منها بحالة الطقس؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الأمطار بأنواعها المختلفة (مطر، ثلج، برد، رذاذ)؟ وما هي الظروف الجوية الدقيقة لكل نوع؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل العواصف الرعدية؟ وما هي مراحل تطورها من سحابة ركامية إلى عاصفة مكتملة مع برق ورعد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتكون البرق؟ وما الفرق بين البرق داخل السحابة وبين السحابة والأرض من حيث الآلية الفيزيائية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم حساب المسافة بين موقع الراصد وموقع سقوط الصاعقة باستخدام فارق الزمن بين رؤية البرق وسماع الرعد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الأعاصير الحلزونية (Cyclones/Hurricanes) فوق المحيطات الاستوائية؟ وما هي درجة حرارة الماء الدنيا اللازمة لنشوئها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الأعاصير القمعية (Tornadoes) فوق اليابسة؟ ولماذا تكون أكثر تدميراً وتحدياً في التنبؤ من الأعاصير الحلزونية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل ظاهرة النينو (El Niño) في المحيط الهادئ؟ وكيف تؤثر على مناخ العالم وليس فقط على منطقة المحيط؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل ظاهرة النينا (La Niña) المعاكسة؟ وكيف تختلف آثارها المناخية عن ظاهرة النينو؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس سرعة الرياح على ارتفاعات مختلفة باستخدام الرادار والبالونات المزودة بمحطات راديو (Radiosonde)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس كمية الأمطار المتساقطة على منطقة بأكملها دون قياسها نقطياً في محطة واحدة؟ وما هي طرق الاستيفاء المكاني؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم رسم خرائط الطقس؟ وما هي خطوط الضغط المتساوي (Isobars) وخطوط الحرارة المتساوية (Isotherms) وكيف تقرأها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم التنبؤ بحالة الطقس للأيام القادمة باستخدام نماذج رياضية حاسوبية؟ وما هي حدود دقة التنبؤ؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تؤثر الغيوم على التوازن الحراري للأرض؟ هل تبرد الكوكب أم تسخنه؟ ولماذا الإجابة ليست بسيطة وتعتمد على نوع الغيوم وارتفاعها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تؤثر التغيرات في الإشعاع الشمسي (دورة البقع الشمسية التي تستمر 11 عاماً) على مناخ الأرض؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تؤثر الانفجارات البركانية الضخمة على مناخ العالم لعدة سنوات؟ وما هو مثال ثوران جبل تامبورا عام 1815 الذي أدى إلى عام بلا صيف؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تؤثر التيارات النفاثة (Jet Streams) على الطقس في منطقة الشرق المتوسط والأردن تحديداً في فصلي الشتاء والصيف؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل العواصف الغبارية والرملية في بادية الشام والأردن؟ وما هي الظروف الجوية الدقيقة التي تولدها وترفع الغبار لآلاف الأمتار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس مستوى ثاني أكسيد الكربون في الغلاف الجوي تاريخياً من خلال تحليل فقاعات الهواء المحصورة في الجليد القطبي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس درجة حرارة الأرض عبر ملايين السنين باستخدام نظائر الأكسجين في أصداف الكائنات البحرية المتحجرة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل تيارات المحيط العميقة (Thermohaline Circulation)؟ وما الذي يحرك هذه التيارات الضخمة التي تنقل الحرارة حول الكوكب؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل المد والجزر (Tides) في المحيطات؟ وما هي قوى جاذبية القمر والشمس التي تسبب ارتفاع وانخفاض مستوى سطح البحر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الأمواج البحرية (Waves)؟ وما الفرق بين الأمواج العادية وأمواج التسونامي المدمرة من حيث السرعة والطول الموجي والسلوك في المياه العميقة والضحلة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل تيارات المحيط السطحية (Surface Currents) بفعل الرياح العالمية وتأثير كوريوليس (Coriolis Effect)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الشعب المرجانية (Coral Reefs)؟ وما هي الظروف البيئية الدقيقة (درجة حرارة، ملوحة، ضوء) التي تحتاجها لتنمو وتزدهر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس ملوحة مياه البحر؟ وما هي الأجهزة المستخدمة لهذا القياس (مقياس الانكسار، مقياس التوصيلية)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس درجة حرارة المياه في أعماق المحيطات؟ وما هي الأدوات التي تتحمل الضغط الهائل في قاع المحيط؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الرواسب في قاع المحيط؟ وما الفرق بين الرواسب الطينية (Pelagic) والرواسب القريبة من الشاطئ (Neritic)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل التيارات الصاعدة (Upwelling) على سواحل بعض المحيطات؟ ولماذا تعتبر هذه المناطق من أغنى مناطق الصيد في العالم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل المناطق الميتة (Dead Zones) في قيعان بعض البحار والمحيطات بسبب نقص الأكسجين؟ وما هي الأسباب البشرية والطبيعية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس عمق المحيطات دون استخدام السونار؟ وما هي الطرق البديلة المستخدمة في المناطق الضحلة والعميقة جداً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتكيف الكائنات الحية في أعماق المحيطات السحيقة حيث لا ضوء وضغط هائل ودرجات حرارة متجمدة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تؤثر تيارات المحيط على نقل الحرارة من خط الاستواء نحو القطبين؟ وماذا يحدث لو توقفت هذه التيارات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل جبال وسط المحيط (Mid-Ocean Ridges) عند حدود الصفائح المتباعدة؟ وما هي الصخور النارية الجديدة التي تتكون هناك؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخراج المعادن الثمينة من قاع المحيط مثل المنغنيز والكوبالت والنيكل والبلاتين؟ وما هي التحديات التقنية والبيئية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تتبع حركة التيارات البحرية باستخدام عوامات مزودة بأجهزة GPS ترسل إشاراتها عبر الأقمار الصناعية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل المخلوقات البحرية الفوسفورية (Bioluminescence)؟ وما هي كيمياء التفاعل الذي ينتج الضوء البارد في أجسامها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم نسخ الحمض النووي (DNA Replication) بدقة متناهية داخل نواة الخلية؟ وما هي الإنزيمات المشاركة في كل خطوة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم ترجمة الشفرة الوراثية من الحمض النووي الريبوزي الرسول (mRNA) إلى بروتين داخل الريبوسوم؟ وما هو دور الحمض النووي الريبوزي الناقل (tRNA)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تحدث الطفرات الجينية (Mutations)؟ وما الفرق بين الطفرات النقطية (Point) والطفرات الكروموسومية (Chromosomal) من حيث الآلية والحجم والأثر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تنظيم التعبير الجيني (Gene Expression) في الخلية؟ وما هي آليات التثبيط والتشغيل التي تتحكم في أي جين يعمل وأي جين يصمت؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم توريث الصفات الوراثية حسب قوانين مندل؟ وما الفرق بين السيادة الكاملة والسيادة غير الكاملة والسيادة المشتركة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد جنس الجنين عند البشر؟ وما هو دور الكروموسومين X و Y في تحديد التطور الجنسي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنتقل الأمراض الوراثية المرتبطة بالجنس (مثل الهيموفيليا وعمى الألوان) من الأمهات الحاملات إلى الأبناء الذكور؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام تقنية كريسبر (CRISPR-Cas9) لتحرير الجينات بدقة؟ وما هي آلية عمل هذا النظام الثوري؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم عمل اختبار الأبوة باستخدام الحمض النووي؟ وما هو مبدأ المقارنة بين البصمات الوراثية للطفل والأم والأب المفترض؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استنساخ (Cloning) كائن حي مثل النعجة دوللي؟ وما هي مراحل نقل النواة من خلية جسدية إلى بويضة منزوعة النواة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تسلسل الحمض النووي (DNA Sequencing) بتقنية سانجر التقليدية وتقنيات الجيل القادم (Next Generation) الحديثة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشابه الجينومات بين الكائنات الحية المختلفة؟ ما هي نسبة التشابه الجيني بين الإنسان والقرد والشامة والفأر والموزة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد عدد الكروموسومات في خلية الإنسان الطبيعية؟ وما هي متلازمة داون التي تنتج عن كروموسوم زائد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم إنتاج البروتين داخل الخلية بدءاً من الجين على الحمض النووي وصولاً إلى البروتين المطوي بشكل صحيح؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطوى البروتينات (Protein Folding) إلى شكلها الثلاثي الأبعاد الوظيفي؟ وما يحدث عندما يحدث خطأ في الطي (مثل أمراض البريون)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل الإنزيمات (Enzymes) كمحفزات حيوية داخل الخلية؟ وما هو مفهوم الطاقة المنشطة والموقع النشط وجزيء الركيزة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم نقل الإشارات داخل الخلية (Signal Transduction) من مستقبل على غشاء الخلية إلى النواة لتغيير التعبير الجيني؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تموت الخلية مبرمجاً (Apoptosis)؟ وما الفرق بين هذا الموت المبرمج والموت الناتج عن الإصابة أو الالتهاب (Necrosis)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنقسم الخلية انقساماً متساوياً (Mitosis)؟ وما هي مراحل الانقسام الخمس (الطور البيني، التمهيدي، الاستوائي، الانفصالي، النهائي)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنقسم الخلية انقساماً منصفاً (Meiosis) لتكوين الأمشاج (الحيوانات المنوية والبويضات)؟ وما أهمية الاختزال في عدد الكروموسومات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل الميتوكوندريا (Mitochondria) كمحطة طاقة للخلية؟ وما هي مراحل التنفس الخلوي التي تحدث داخلها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل البلاستيدات الخضراء (Chloroplasts) في النباتات؟ وما هي مراحل عملية التمثيل الضوئي (Photosynthesis) من ضوء إلى طاقة كيميائية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل الأغشية الخلوية (Cell Membranes) كحواجز انتقائية؟ وما هو نموذج الفسيفساء السائل الذي يصف تركيبها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم نقل المواد عبر الغشاء الخلوي؟ وما الفرق بين الانتشار البسيط، الانتشار المدعوم، النقل النشط، والبلعمة (Endocytosis)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتواصل الخلايا مع بعضها البعض؟ وما هي أنواع الإشارات (الهرمونية، العصبية، الباراكراين، الأوتوكراين) وآليات عملها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتمايز الخلايا الجذعية (Stem Cells) إلى أنواع مختلفة من الخلايا المتخصصة؟ وما هي العوامل التي تحدد مصير الخلية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم إنتاج الطاقة داخل الخلية من جزيء الجلوكوز؟ وما هو ناتج كل مرحلة من مراحل تحلل السكر (Glycolysis) ودورة كريبس وسلسلة نقل الإلكترون؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يعمل الهيكل الخلوي (Cytoskeleton) في الحفاظ على شكل الخلية وحركتها وانقسامها؟ وما هي أنواع الألياف المكونة له؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل الريبوسومات (Ribosomes) على ترجمة الشفرة الوراثية إلى بروتين؟ وما هو الفرق بين الريبوسومات الحرة والمرتبطة بالشبكة الإندوبلازمية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل الشبكة الإندوبلازمية (Endoplasmic Reticulum) وجهاز غولجي (Golgi Apparatus) في تصنيع البروتينات وتعديلها وتعبئتها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل الليزوسومات (Lysosomes) كجهاز هضمي للخلية؟ وما هي الأمراض الناتجة عن خلل في إنزيمات الليزوسوم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تصنيع الحمض النووي (DNA) والحمض النووي الريبوزي (RNA) داخل النواة؟ وما هو دور بوليميراز الحمض النووي الريبوزي (RNA Polymerase)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم إصلاح الضرر الذي يلحق بالحمض النووي يومياً (مثل كسر الخيوط أو إضافة مجموعات كيميائية خاطئة)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم نقل الحمض النووي الريبوزي الرسول (mRNA) من النواة إلى السيتوبلازم بعد عملية الربط (Splicing) التي تزيل الإنترونات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنتقل الخلايا من مكان لآخر (Cell Migration) في الجسم أثناء التطور الجنيني أو في الاستجابة المناعية أو في السرطان؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تصطاد الأسود في البرية؟ وما هي استراتيجيات الصيد الجماعي التي تستخدمها لزيادة فرص نجاحها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطير الطيور؟ وما هي تكيفات الهيكل العظمي والعضلات والريش التي تجعل الطيران ممكناً بأنواعه المختلفة (الرفرفة، الانزلاق، التحليق)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعيش الجمال في الصحراء الأردنية؟ وما هي التكيفات الفسيولوجية والتركيبية التي تمكنها من تحمل العطش والحرارة لأسابيع؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتنفس الحيتان والدلافين وهي ثدييات بحرية؟ وما هي التكيفات التي تسمح لها بالغوص لعمق كبير والبقاء تحت الماء لفترات طويلة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تبني النمل مستعمراته الضخمة؟ وما هو نظام التواصل الكيميائي (الفيرومونات) الذي ينظم تقسيم العمل بين آلاف الأفراد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تبني النحل خلايا الشمع السداسية المثالية؟ وما هي الرقصة التي يستخدمها لتوصيل موقع الطعام إلى باقي أفراد الخلية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتكيف الحيوانات القطبية (مثل الدب القطبي والفقمة) للعيش في درجات حرارة متجمدة تحت الصفر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تمتلك بعض الأسماك القدرة على إنتاج تيار كهربائي (مثل السمكة الكهربائية والرعاد)؟ وما هو التركيب التشريحي الذي يولد هذا التيار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطير الحشرات (مثل الذبابة والنحلة) بأجنحتها الصغيرة؟ وما هو تردد رفرفة الجناح الذي يختلف بين الحشرات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتكاثر البرمائيات (مثل الضفادع) التي تضع بيضها في الماء وتعيش يرقاتها (الشرغوف) في الماء ثم تتحول إلى بالغات تعيش على اليابسة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتحول اليرقة (الكاتربلر) إلى فراشة في عملية التحول الكامل (Metamorphosis) داخل الشرنقة؟ وما هي التغيرات الجذرية التي تحدث على المستوى الخلوي والجيني؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تبني الطيور أعشاشها بأنواعها المختلفة (من عش بسيط على الأرض إلى عش معقد معلق على أغصان عالية)؟ وما هي المواد المستخدمة في كل نوع؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تهاجر الطيور لمسافات آلاف الكيلومترات مرتين في السنة؟ وما هي آليات التوجيه (البوصلة المغناطيسية، النجوم، المعالم الجغرافية) التي تستخدمها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنمو النباتات باتجاه الضوء (الانتحاء الضوئي)؟ وما هو الهرمون النباتي (أوكسين) الذي ينظم هذه الاستجابة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنمو جذور النباتات باتجاه الجاذبية (الانتحاء الأرضي) بعيداً عن الضوء وبحثاً عن الماء والمواد الغذائية في التربة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تقوم النباتات بعملية البناء الضوئي (Photosynthesis)؟ وما هي مراحل التفاعلات الضوئية (في الثايلاكويد) وتفاعلات الظلام (دورة كالفين)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتنفس النباتات ليلاً ونهاراً بشكل معاكس لعملية البناء الضوئي؟ وما هو تبادل الغازات عبر الثغور (Stomata) في الأوراق؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنقل النباتات الماء والمعادن من الجذور إلى الأوراق عبر الخشب (Xylem)؟ وما هي نظرية تماسك-شد-تبخر (Cohesion-Tension Theory) التي تفسر ذلك؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنقل النباتات السكريات (غذاء النبات) من الأوراق (حيث تصنع) إلى باقي أجزاء النبات عبر اللحاء (Phloem)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتكاثر النباتات الزهرية؟ وما هي أجزاء الزهرة (السداة الذكرية، الكربلة الأنثوية) ودور الحشرات أو الرياح في التلقيح؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتكيف النباتات الصحراوية (مثل الصبار والعشار) للعيش في ظروف الجفاف القاسية في صحراء الأردن ووادي رم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنبت البذرة وتتحول إلى نبتة صغيرة؟ وما هي العوامل البيئية (الماء، الأكسجين، درجة الحرارة) التي تحفز الإنبات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تصنع النباتات الثمار من المبايض بعد عملية الإخصاب؟ وما هو دور الهرمونات النباتية في نضج الثمار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تسقط أوراق الأشجار في الخريف؟ وما هي التغيرات الهرمونية والفسيولوجية التي تؤدي إلى تكون طبقة الانفصال عند قاعدة الورقة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتعايش النباتات مع الفطريات في علاقة تكافلية (المايكورايزا) تفيد الطرفين؟ وما هو دور الفطر في امتصاص الماء والمعادن مقابل السكريات من النبات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تدافع النباتات عن نفسها ضد الحشرات والحيوانات العاشبة؟ وما هي المواد الكيميائية الدفاعية (مثل القلويدات والتانينات) التي تنتجها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنمو النباتات المائية (Hydroponics) بدون تربة؟ وما هي المحاليل المغذية التي تحتوي على كل العناصر الضرورية لنمو النبات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تنمو النباتات المتسلقة (مثل الكرمة والياسمين) على الجدران والأشجار؟ وما هي التراكيب المتخصصة (المحاليق، الجذور الهوائية) التي تستخدمها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتطور الأنواع الجديدة (Speciation) من سلف مشترك؟ وما هي آليات العزل الجغرافي والجيني والسلوكي التي تؤدي إلى انفصال الأنواع؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل آلية الانتقاء الطبيعي (Natural Selection) التي اقترحها داروين؟ وما هي شروط حدوثها في أي مجموعة من الكائنات الحية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تظهر الطفرات الجينية العشوائية؟ ولماذا تعتبر المادة الخام للتطور رغم أنها غالباً ما تكون ضارة أو محايدة وليس مفيدة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطورت عين الإنسان وعين الحبار بشكل مستقل ومختلف رغم أنهما يؤديان نفس الوظيفة؟ وما الذي يقوله هذا عن التطور المتقارب (Convergent Evolution)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطورت مقاومة البكتيريا للمضادات الحيوية؟ وما هو المثال الحي لآلية الانتقاء الطبيعي التي تحدث أمام أعيننا خلال سنوات قليلة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطورت أجنحة الطيور من أطراف الزواحف؟ وما هي الحفريات الانتقالية (مثل الأركيوبتركس) التي تظهر مراحل هذا التحول التدريجي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطورت الثدييات من الزواحف الشبيهة بالثدييات؟ وما هي السمات المميزة التي ظهرت تدريجياً (الدم الحار، الشعر، إرضاع الصغار)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطور الإنسان العاقل (Homo Sapiens) من أسلافنا القردة الجنوبية (Australopithecus) على مدى ملايين السنين في أفريقيا؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطورت اللغة والقدرة على الكلام عند الإنسان؟ وما هو الجين FOXP2 الذي يرتبط بتطور القدرات اللغوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف انتشر الإنسان العاقل من أفريقيا إلى بقاع العالم؟ وما هي الأدلة الجينية والأثرية التي ترسم مسارات هذه الهجرات الكبرى؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطورت المقاومة للملاريا (مرض يسببه طفيل ينقله البعوض) في بعض السكان البشر الذين يعيشون في المناطق الموبوءة؟ وما هي طفرة الخلايا المنجلية المرتبطة بذلك؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطور التعاون والسلوك الاجتماعي في المجموعات الحيوانية (مثل النحل والنمل والذئاب والبشر) رغم أن الانتقاء الطبيعي يفترض التنافس الفردي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطورت ألوان التمويه (Camouflage) في الحشرات والزواحف والطيور والثدييات؟ وكيف تجعل الكائن الحي غير مرئي تقريباً في بيئته الطبيعية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطورت ألوان التحذير (Aposematism) في الكائنات السامة (مثل الضفادع السامة وبعض الحشرات) لتنبيه المفترسات بأنها غير صالحة للأكل؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطور التقليد (Mimicry) حيث يقلد نوع غير سام (مثل ذبابة) مظهر نوع سام (مثل دبور) ليحمي نفسه من المفترسات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطورت أجنحة الحشرات من امتدادات بسيطة لجدار الجسم إلى أعضاء طيران معقدة؟ وما هي الحفريات التي توثق هذا التطور؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تطورت أزهار النباتات لجذب الحشرات والطيور لتلقيحها؟ وما هي العلاقة التطورية المتكافئة (Co-evolution) بين الأزهار وملقحاتها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد عمر الحفريات باستخدام نظائر اليورانيوم والرصاص في الصخور النارية المحيطة بها؟ وما هي دقة هذه الطريقة للعصور الجيولوجية القديمة جداً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تمتلئ الحفريات بالمعادن (Per-mineralization) لتصبح نسخة حجرية طبق الأصل من العظم أو الخشب الأصلي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخراج الحمض النووي القديم (Ancient DNA) من حفريات النياندرتال والماموث الصوفي التي يصل عمرها إلى مئات الآلاف من السنين؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد عمر الصخور باستخدام نظائر البوتاسيوم والأرجون (K-Ar) للصخور البركانية القديمة جداً (ملايين إلى مليارات السنين)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام الحفريات الدليلية (Index Fossils) مثل الأمونيت (Ammonite) لتحديد العمر النسبي للطبقات الصخرية عبر القارات المختلفة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد العمر المطلق للصخور باستخدام نظائر الروبيديوم والسترونتيوم (Rb-Sr)؟ وما هي المعادلة المستخدمة في حساب العمر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس سرعة الموجات الزلزالية (P-waves و S-waves) في باطن الأرض؟ وماذا تخبرنا سرعات هذه الموجات عن تركيب طبقات الأرض الداخلية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الصخور النارية الجوفية مثل الجرانيت؟ وما هي المعادن الرئيسية التي تتكون منها (الكوارتز، الفلسبار، الميكا)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الصخور النارية السطحية مثل البازلت في المناطق البركانية مثل اليمن والحبشة؟ وما الفرق في الحبيبات بين الجرانيت والبازلت؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس شدة الزلزال بمقياس العزم الزلزالي (Moment Magnitude Scale) بدلاً من مقياس ريختر القديم؟ وما هي مزايا المقياس الجديد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد موقع منجم ذهب محتمل باستخدام الطرق الجيوفيزيائية (المقاومية الكهربائية، المغناطيسية، الجاذبية) قبل البدء بالحفر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل الأحافير في الصخور الرسوبية؟ وما هي أنواع التحجر المختلفة (القالب، الصب، التحجر بالمعادن، البصمات)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام الأقمار الصناعية لرصد التغيرات في سطح الأرض مثل التصحر، زحف الرمال، وارتفاع مستوى سطح البحر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس حركة الصفائح التكتونية بدقة متناهية باستخدام نظام تحديد المواقع العالمي (GPS) عالي الدقة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم التنبؤ بالزلازل؟ وهل يمكن علمياً التنبؤ بزمان ومكان وقوة الزلزال بدقة تسمح بإخلاء المدن قبل حدوثه؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تتشكل العيون الكبريتية (الينابيع الحارة الغنية بالكبريت) مثل حمامات ماعين في الأردن؟ وما هي كيمياء الماء في هذه العيون؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس عمر المياه الجوفية في حوض الديسي باستخدام نظائر التريتيوم (Tritium) والكربون-14؟ ماذا يخبرنا العمر عن مدى تجدد هذه المياه؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس سمك طبقات الجليد في القطبين باستخدام الرادار المخترق للجليد (Ice-penetrating Radar)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس كتلة الأنهار الجليدية المفقودة سنوياً بسبب الاحتباس الحراري؟ وما هي الأدوات المستخدمة في هذا القياس؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس مستوى سطح البحر بدقة متناهية (مليمترات) باستخدام الأقمار الصناعية (Satellite Altimetry) وليس فقط محطات المد والجزر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس كمية المياه المخزنة في طبقات المياه الجوفية باستخدام الجاذبية الدقيقة (Microgravity) من الأقمار الصناعية (مهمة GRACE)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس سرعة ذوبان التربة الصقيعية (Permafrost) في سيبيريا وكندا؟ وما هي الغازات الدفيئة المنبعثة من هذا الذوبان؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم التنبؤ بالفيضانات المفاجئة في الأودية الجافة مثل وادي الأردن باستخدام النماذج الهيدرولوجية والرادار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس تركيز الغبار الصحراوي في الغلاف الجوي باستخدام الليدار (LIDAR) من الأرض ومن الأقمار الصناعية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس درجة حرارة سطح البحر باستخدام الأقمار الصناعية (الأشعة تحت الحمراء) بدقة 0.1 درجة مئوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس تركيز الكلوروفيل في المحيطات باستخدام الأقمار الصناعية (اللون المحيطي) لمراقبة ازدهار الطحالب وتغيرات النظم البيئية البحرية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس الرقم الهيدروجيني (pH) للمحيطات باستخدام الأقمار الصناعية؟ وما هي العلاقة بين حموضة المحيطات وتركيز ثاني أكسيد الكربون في الغلاف الجوي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس الأملاح الذائبة في مياه البحر (الملوحة) باستخدام الأقمار الصناعية (أجهزة قياس الإشعاع بالميكروويف)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام التصوير بالرادار ذي الفتحة الاصطناعية (SAR) لرصد تسربات النفط في البحر وحركة السفن ليلاً ونهاراً وفي ظل الغيوم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس الأعاصير من الفضاء؟ وما هي الأدوات التي ترصد درجة حرارة قمة السحب وسرعة الرياح وهطول الأمطار من الأقمار الصناعية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام أقمار المراقبة الجوية (Geostationary Operational Environmental Satellites) لمراقبة تطور العواصف الرعدية والأعاصير كل 5 دقائق؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس كمية الأشعة الشمسية الواصلة إلى سطح الأرض وتلك المنعكسة إلى الفضاء باستخدام أقمار صناعية مثل CERES؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس تركيز الأوزون في طبقة الستراتوسفير باستخدام الأقمار الصناعية (مثل مهمة Aura) وما هو حجم ثقب الأوزون فوق أنتاركتيكا حالياً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس تركيز الميثان في الغلاف الجوي باستخدام الأقمار الصناعية (مثل مهمة Sentinel-5P)؟ وما هي أكبر المصادر الطبيعية والبشرية للميثان؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس كتلة الغطاء الجليدي في جرينلاند وأنتاركتيكا باستخدام الأقمار الصناعية (GRACE) وخسارته السنوية بمليارات الأطنان؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تكاثر البكتيريا عن طريق الانشطار الثنائي (Binary Fission)؟ وما هو الزمن اللازم لبكتيريا واحدة لتكوين ملايين البكتيريا في ظروف مثالية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل البكتيريا المقاومة للمضادات الحيوية (Superbugs) مثل MRSA؟ وكيف تكتسب هذه المقاومة عن طريق الطفرات أو نقل البلازميدات بين البكتيريا؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يعمل الجهاز المناعي في الجسم البشري؟ وما الفرق بين المناعة الفطرية (الطبيعية) والمناعة المكتسبة (التكيفية)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل الخلايا البائية (B Cells) على إنتاج الأجسام المضادة (Antibodies) التي ترتبط بمستضدات محددة وتحييدها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل الخلايا التائية القاتلة (Cytotoxic T Cells) على التعرف على الخلايا المصابة بالفيروسات أو الخلايا السرطانية وقتلها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل اللقاحات (Vaccines) على تدريب الجهاز المناعي للتعرف على مسببات الأمراض قبل مواجهتها بشكل حقيقي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل الخلايا التائية الذاكرة (Memory T Cells) والخلايا البائية الذاكرة (Memory B Cells) على توفير مناعة طويلة الأمد بعد التطعيم أو العدوى؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تشخيص الأمراض الوراثية قبل الولادة باستخدام بزل السلى (Amniocentesis) أو أخذ عينة من الزغابات المشيمية (CVS)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام تقنية التهجين الموضعي المتألق (FISH) لتحديد مواقع جينات محددة على الكروموسومات أو للكشف عن تشوهات كروموسومية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام تفاعل البوليميراز المتسلسل (PCR) لتضخيم كميات ضئيلة من الحمض النووي إلى ملايين النسخ في ساعات قليلة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام تفاعل البوليميراز المتسلسل في الوقت الحقيقي (Real-time PCR) لقياس كمية الحمض النووي أو الحمض النووي الريبوزي في العينة بدقة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام تقنية التهجين الجزيئي (Southern Blot للحمض النووي، Northern Blot للحمض النووي الريبوزي، Western Blot للبروتين) في التحليل الجزيئي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم عمل الفحص الجيني لتحديد مدى خطورة إصابة شخص بمرض وراثي (مثل سرطان الثدي المرتبط بجينات BRCA1 وBRCA2)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام العلاج الجيني (Gene Therapy) لعلاج الأمراض الوراثية؟ وما هي التحديات والمخاطر الأخلاقية لهذه التقنية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام الخلايا الجذعية (Stem Cells) في الطب التجديدي لعلاج أمراض مثل الشلل النخاعي ومرض باركنسون والسكري؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تصنيع الأنسولين البشري باستخدام بكتيريا الإي.كولاي المعدلة وراثياً؟ وما هي خطوات إدخال الجين البشري إلى البكتيريا؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم إنتاج محاصيل معدلة وراثياً (GMOs) مقاومة للحشرات (مثل القطن Bt) أو مقاومة لمبيدات الأعشاب (مثل فول الصويا Roundup Ready)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استنساخ (Cloning) الحيوانات باستخدام تقنية نقل نواة الخلية الجسدية (SCNT) مثل النعجة دوللي؟ وما هي نسبة نجاح هذه التقنية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام تقنية كريسبر (CRISPR) لعلاج الأمراض الوراثية في الأجنة البشرية؟ وما هي المحاذير الأخلاقية والعلمية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام علم الوراثة السكانية (Population Genetics) لتتبع هجرات البشر القديمة من أفريقيا إلى بقاع العالم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحليل الميتوكوندريا DNA (mtDNA) لتتبع النسب الأنثوي (الأم إلى الأم إلى الأم) عبر آلاف السنين؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحليل الكروموسوم Y (Y-DNA) لتتبع النسب الذكوري (الأب إلى الأب إلى الأب) عبر آلاف السنين؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد أن الإنسان العاقل (Homo Sapiens) تزاوج مع إنسان النياندرتال (Neanderthal) قبل انقراض الأخير منذ 40,000 سنة؟ وما هي نسبة جينات النياندرتال في البشر غير الأفارقة اليوم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد أن جنساً بشرياً منقرضاً هو دينيسوفان (Denisovan) عاش في آسيا وتزاوج مع البشر العاقل استناداً إلى عينة أصبع صغيرة فقط؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام علم الوراثة العرقي (Phylogenetics) لبناء شجرة تطور تجمع جميع الكائنات الحية من البكتيريا إلى الإنسان؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام الساعة الجزيئية (Molecular Clock) لتقدير موعد انفصال نوعين عن سلف مشترك باستخدام معدل تراكم الطفرات في الحمض النووي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد تسلسل الجينوم البشري الكامل (Human Genome Project)؟ كم كلف المشروع وكم استغرق من الوقت؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام تحليل الميتاجينوم (Metagenomics) لدراسة جميع الكائنات الحية الدقيقة في عينة بيئية (تربة، ماء، أمعاء إنسان) دون الحاجة لزراعتها في المختبر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام تقنية تسلسل الحمض النووي من خلية واحدة (Single-cell Sequencing) لدراسة الاختلافات الجينية بين الخلايا في نفس النسيج؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تصميم دواء بيولوجي (مثل الأجسام المضادة وحيدة النسيلة) لعلاج مرض مثل السرطان أو أمراض المناعة الذاتية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام الأجسام المضادة وحيدة النسيلة (Monoclonal Antibodies) في اختبارات الحمل المنزلية وفي تشخيص الأمراض المعدية مثل كوفيد-19؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام تقنية ELISA (Enzyme-Linked Immunosorbent Assay) للكشف عن وجود فيروس أو هرمون أو بروتين معين في عينة الدم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تصنيع اللقاحات باستخدام تقنية الحمض النووي الريبوزي الرسول (mRNA Vaccines) مثل لقاحات فايزر وموديرنا لكوفيد-19؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف تعمل لقاحات mRNA على توجيه خلايا الجسم لإنتاج بروتين فيروس كورونا (بروتين سبايك) وتحفيز الجهاز المناعي ضده؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تخزين لقاحات mRNA في درجات حرارة منخفضة جداً (-70 درجة مئوية) بينما اللقاحات التقليدية تخزن في الثلاجة العادية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس فعالية اللقاح (Vaccine Efficacy) في التجارب السريرية؟ وما الفرق بين الفعالية والفعالية الواقعية بعد التوزيع؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تطوير لقاح جديد بسرعة قياسية (مثل لقاحات كوفيد-19 في أقل من عام) بينما كانت اللقاحات السابقة تحتاج 5-10 سنوات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام تقنية كريسبر (CRISPR) كأداة تشخيصية سريعة للكشف عن الحمض النووي للفيروسات والبكتيريا (مثل اختبار SHERLOCK)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تصميم بروتين من الصفر (De Novo Protein Design) باستخدام الحاسوب؟ وما هي تطبيقات هذه التقنية في صناعة أدوية ولقاحات جديدة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم إنتاج البروتينات المؤتلفة (Recombinant Proteins) باستخدام خلايا الخميرة أو خلايا الثدييات المعدلة وراثياً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تنقية البروتين من خليط معقد باستخدام كروماتوغرافيا التقارب (Affinity Chromatography) التي تعتمد على ارتباطه بجزيء معين؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحديد البنية الثلاثية الأبعاد للبروتين باستخدام البلورات بالأشعة السينية (X-ray Crystallography) أو الرنين المغناطيسي النووي (NMR) أو المجهر الإلكتروني فائق البرودة (Cryo-EM)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام المجهر الإلكتروني فائق البرودة (Cryo-EM) لتصوير البروتينات والجزيئات الحيوية في حالتها الطبيعية المتجمدة دون تبلورها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام تقنية التصوير بالرنين المغناطيسي الوظيفي (fMRI) لرصد نشاط مناطق الدماغ أثناء قيام الشخص بمهام معينة (تفكير، تذكر، شعور)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس النشاط الكهربائي للدماغ باستخدام تخطيط الدماغ الكهربائي (EEG)؟ وما هي استخداماته في تشخيص الصرع واضطرابات النوم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس النبضات الكهربائية للقلب باستخدام تخطيط القلب الكهربائي (ECG)؟ وما هي العلامات التي تشير إلى نوبة قلبية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس ضغط الدم؟ وما هي وحدات القياس المستخدمة؟ وما هو الضغط الطبيعي والمرتفع والمنخفض؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس نسبة الأكسجين في الدم (Oxygen Saturation) باستخدام جهاز Pulse Oximeter الذي يوضع على الإصبع؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس كثافة العظام (Bone Density) لتشخيص هشاشة العظام باستخدام تقنية الأشعة السينية ثنائية الطاقة (DEXA)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس معدل الأيض الأساسي (Basal Metabolic Rate) للإنسان؟ وما هي العوامل التي تؤثر عليه (العمر، الجنس، الكتلة العضلية)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس السعرات الحرارية في الطعام باستخدام المسعر القنبلة (Bomb Calorimeter)؟ وما الفرق بين السعرات الحرارية في المختبر وسعرات الهضم في الجسم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحليل البول لتشخيص الأمراض (مثل السكري، التهابات المسالك البولية، أمراض الكلى)؟ وما هي المؤشرات التي يبحث عنها الأطباء في تحليل البول؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم تحليل الدم الكامل (CBC) لتشخيص فقر الدم، العدوى، واضطرابات تخثر الدم؟ وما هي كل مكون من مكونات تحليل CBC؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس نسبة الكوليسترول والدهون الثلاثية في الدم لتقييم خطر الإصابة بأمراض القلب والشرايين؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس نسبة الهيموغلوبين السكري (HbA1c) في الدم لتشخيص ومتابعة مرض السكري على مدى الأشهر الثلاثة الماضية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس مستويات الهرمونات في الدم (مثل هرمون الغدة الدرقية، الكورتيزول، هرمون النمو، هرمونات التكاثر) لتشخيص الاضطرابات الهرمونية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس وظائف الكلى باستخدام الكرياتينين واليوريا في الدم؟ وما هي مراحل الفشل الكلوي بناءً على هذه القياسات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس وظائف الكبد باستخدام إنزيمات الكبد (ALT، AST، ALP، GGT) والبيليروبين والألبومين في الدم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم قياس مستويات الإلكتروليتات (الصوديوم، البوتاسيوم، الكالسيوم، الكلوريد، المغنيسيوم) في الدم وما هي المخاطر المرتبطة باختلالها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام التصوير بالأشعة السينية (X-ray) لتصوير العظام والكشف عن الكسور والتهابات الرئة والسرطانات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام التصوير المقطعي المحوسب (CT Scan) للحصول على شرائح ثلاثية الأبعاد للجسم بدقة عالية جداً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام التصوير بالرنين المغناطيسي (MRI) لتصوير الأنسجة الرخوة (الدماغ، العضلات، الأربطة، الأورام) بدقة تفوق الأشعة المقطعية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام التصوير بالموجات فوق الصوتية (Ultrasound) لتصوير الجنين في الرحم والأعضاء الداخلية (الكبد، الكلى، القلب) دون تعريض المريض لأشعة ضارة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام التصوير المقطعي بالإصدار البوزيتروني (PET Scan) للكشف عن الخلايا السرطانية النشطة أو متابعة نشاط الدماغ الوظيفي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم الجمع بين PET و CT (PET-CT) للحصول على معلومات وظيفية (من PET) وتشريحية دقيقة (من CT) في نفس الجلسة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام التنظير الداخلي (Endoscopy) لرؤية داخل المعدة والأمعاء والمفاصل والشعب الهوائية باستخدام كاميرا صغيرة على أنبوب مرن؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام الخزعة (Biopsy) لأخذ عينة صغيرة من نسيج مشبوه (مثل ورم) وتحليلها تحت المجهر لتشخيص السرطان؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام المجهر الإلكتروني الماسح (SEM) لرؤية التفاصيل فائقة الدقة لأسطح الخلايا والبكتيريا والفيروسات بتكبير يصل إلى ملايين المرات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام المجهر الإلكتروني النافذ (TEM) لرؤية التفاصيل الداخلية للخلية (العضيات الخلوية والفيروسات والجزيئات) بتكبير يصل إلى ملايين المرات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام تقنية زرع الأعضاء (Organ Transplantation) لاستبدال عضو فاشل (كلى، كبد، قلب) بعضو سليم من متبرع حي أو متوفى؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم التغلب على مشكلة رفض الجسم للعضو المزروع باستخدام الأدوية المثبطة للمناعة (Immunosuppressants)؟ وما هي مخاطر هذه الأدوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام غسيل الكلى (Dialysis) لتنقية الدم من الفضلات والسوائل الزائدة عندما تفشل الكلى في القيام بوظيفتها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_000",
+        "question": "كيف يتم استخدام جهاز التنفس الاصطناعي (Ventilator) لمساعدة مرضى فشل الجهاز التنفسي (مثل مرضى كوفيد-19 الحاد) على التنفس؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    }
+]
