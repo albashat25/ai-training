@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي بدون جمجمة، مع كسر ملتئم في عظم الفخذ الأيسر وتآكل غير طبيعي في مفصل الركبة اليمنى. ماذا تستنتج عن جنسه، عمره، مهنته، وظروف موته؟ وما حدود استنتاجاتك؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد جنس هيكل عظمي من عظم الحوض فقط؟ ما هي العلامات الدقيقة التي تبحث عنها؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "هل يمكن تحديد عمر شخص بالغ بدقة سنة واحدة من عظامه؟ لماذا؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما الفرق بين كسر حدث قبل الموت وكسر حدث بعد الموت على العظم؟ كيف تفرق بينهما؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي بآثار قطع دقيقة على الأضلاع. هل هذا دليل قتل أم تشريح أم شيء آخر؟ كيف تحقق؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد الطول التقريبي لإنسان من عظم الفخذ فقط؟ ما هي معادلات القياس الأكثر دقة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في الجمجمة لتحديد الأصل الجغرافي (العرق) لصاحبها؟ وما هي حدود هذه الطريقة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "هل يمكن تحديد عدد مرات الحمل التي مرت بها امرأة من هيكلها العظمي؟ كيف؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي لطفل مع أسنان لبنية متساقطة جزئياً. كيف تحدد عمره بدقة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الفرق بين تحليل العظام وتحليل الأسنان في تحديد عمر الإنسان؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يمارس رياضة معينة بانتظام من هيكله العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على جمجمة بثقب دائري نظيف في العظم. هل هو طلق ناري أم عملية جراحية قديمة أم آلة حادة؟ كيف تفرق؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي علامات الإعدام شنقاً على عظم الرقبة (الفقرات)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان أعسراً من هيكله العظمي فقط؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع فقدان عدة أسنان قبل الموت وتآكل غير طبيعي للأسنان المتبقية. ماذا يستنتج عن نظامه الغذائي ومهنته؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي حدود علم الأنثروبولوجيا الجنائية في تحديد الهوية؟ متى يفشل؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن بقايا عظمية تعود لإنسان أم حيوان؟ ما هي العلامة القاطعة الوحيدة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكلين عظميين متشابكين في قبر واحد. هل هما قتيلان دفنا معاً أم دفن ثانوي؟ كيف تحقق؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض مزمن (مثل السل أو الزهري) من هيكله العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام اليد لتحديد مهنة الخياط أو الحداد أو الكاتب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي في منطقة حرب قديمة. كيف تفرق بين موت في معركة وإعدام بعد الأسر؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "هل يمكن تحديد الديانة أو المعتقدات من الهيكل العظمي فقط؟ كيف؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً تعرض للحرق قبل الموت أم بعد الموت من عظامه؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع سيف صدئ بجانبه. كيف تحدد إن كان السيف هو سبب الوفاة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي أهم ثلاث قضايا تاريخية حُلت باستخدام الأنثروبولوجيا الجنائية؟ وماذا علمتك كل منها؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يغير الهاتف الذكي من شكل ووظيفة دماغ الإنسان على المدى الطويل؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإدمان الرقمي وكيف تقيسه سريرياً؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "هل وسائل التواصل الاجتماعي تجعلنا أكثر وحدة أم أكثر تواصلاً؟ وما الدليل العلمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر التمرير السريع (Scrolling) على مدى الانتباه لدى الأطفال والمراهقين؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو تشوه الإدراك الذاتي (Self-perception distortion) الناتج عن الفلاتر والصور المعدلة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت آليات التعلم والذاكرة بعد ظهور محركات البحث السريعة مثل Google؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي متلازمة الإشعارات وكيف تؤثر على هرمون الكورتيزول في الجسم؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "هل يمكن تشخيص الاكتئاب الرقمي بمقياس موحد؟ وما هي أعراضه؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر الضوء الأزرق المنبعث من الشاشات على إيقاع الساعة البيولوجية (Circadian rhythm)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو القلق من فقدان الفرصة (FOMO) وكيف يختلف عن القلق التقليدي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت العلاقات العاطفية مع ظهور تطبيقات المواعدة مثل Tinder؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو التنمر الإلكتروني وكيف يختلف عن التنمر التقليدي في آثاره النفسية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر الألعاب الإلكترونية العنيفة على التعاطف لدى المراهقين؟ ماذا تقول الدراسات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإرهاق الرقمي (Digital burnout) وكيف تفرقه عن الإرهاق الوظيفي التقليدي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير مفهوم الخصوصية في عصر السوشال ميديا مقارنة بجيل الثمانينات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو تأثير الفلتر على صورة الجسد لدى الفتيات المراهقات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر الإشعار الفوري (Instant notification) على قدرة الدماغ على التركيز العميق؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "هل يمكن اعتبار الإعجاب (Like) مكافأة رقمية تعمل مثل المكافآت الحقيقية في الدماغ؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الانتحار الرقمي (حذف كل حسابات السوشال ميديا) وما دوافعه النفسية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت طريقة قراءة الكتب بعد انتشار القراءة الرقمية على الشاشات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو اضطراب الألعاب الإلكترونية (Gaming disorder) وكيف يشخص؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر المقارنة الاجتماعية الرقمية على تقدير الذات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإنهاك من التعاطف (Compassion fatigue) الناتج عن مشاهدة مآسي الآخرين يومياً؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر امتلاك هويتين (رقمية وحقيقية) على الصحة النفسية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الخوف من تفويت الحدث (FOMO) في بيئة العمل الرقمية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت قدرة الأطفال على تحمل الملل بعد توفر الترفيه الرقمي اللحظي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو تأثير دوامة الصمت (Spiral of silence) في بيئة السوشال ميديا؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر التعرض المستمر للأخبار السيئة (Doomscrolling) على القلق والاكتئاب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "هل يمكن اعتبار الفلتر (Filter) كذباً بصرياً له آثار نفسية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت طرق التعبير عن الحب والعاطفة مع ظهور الرموز التعبيرية (Emojis)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإدمان على الإشعارات وكيف يتكون في الدماغ؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر النوم بجانب الهاتف على جودة النوم والأحلام؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب النرجسي الرقمي وكيف يختلف عن النرجسية التقليدية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير مفهوم الصديق مع وجود 1000 صديق على فيسبوك؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو التحقق الرقمي للواقع (Digital reality check) وكيف يختلف عن التحقق التقليدي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر مشاهدة حياة الآخرين المثالية على الرضا عن الحياة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإنهاك من الاختيار (Choice overload) في عصر التطبيقات والمنصات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت آليات اتخاذ القرار بعد توفر المراجعات والتقييمات الفورية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو العمى الرقمي (Digital blindness) تجاه المعلومات المهمة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر استخدام عدة شاشات في نفس الوقت (Multitasking) على كفاءة الدماغ؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو القلق من عدم الرد (Message anxiety) وكيف يؤثر على العلاقات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير مفهوم الانتظار في عصر الإشباع الفوري؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الذاكرة الرقمية الخارجية وكيف تغيرت علاقتنا بذكرياتنا؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر الإعلانات المستهدفة على الرغبات والاحتياجات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو تأثير غرفة الصدى (Echo chamber) وكيف يشكل المعتقدات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تبدأ في تتبع نسب عائلة أردنية تعود إلى 300 سنة؟ ما هي أول ثلاث خطوات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي الوثائق الأكثر موثوقية في علم الأنساب العربي؟ وما هي درجة موثوقية كل منها؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتحقق من صحة رواية شفهية عن نسب عشيرة ما؟ ما هي قرائن الصحة والضعف؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما الفرق بين القبيلة والعشيرة والفخذ والجد في المصطلح العربي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع فجوة نسب (غياب اسم جيل كامل) في سلسلة النسب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "هل يمكن الاعتماد على الحمض النووي (DNA) وحده لإثبات النسب في الثقافة العربية؟ لماذا؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتتبع أصول عائلة تعود إلى قبيلة بني صخر أو العجارمة في الأردن؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو علم الأنساب المقارن؟ وكيف تقارن بين روايتين متناقضتين لنفس النسب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحقق في نسب شخص يدّعي أنه من نسل آل البيت؟ ما هي الأدلة المقبولة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي أشهر ثلاث مشاكل في علم الأنساب العربي القديم وكيف حلها المؤرخون؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين النسب الحقيقي والنسب السياسي (التحالف الذي تحول إلى نسب)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي قيمة الألقاب (مثل أبو فلان، آل فلان) في تتبع الأنساب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع حالات التبني في علم الأنساب العربي التقليدي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو علم الأنساب الجيني (Genetic genealogy) وكيف يختلف عن التقليدي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد ما إذا كانت عائلتان تنتميان إلى نفس الجد الخامس باستخدام الحمض النووي فقط؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي حدود الحمض النووي في تحديد النسب؟ متى لا يفيد؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تبحث عن أصول عائلة في سجلات الدولة العثمانية (سجلات النفوس)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي شجرة العائلة العلمية وكيف تبنيها بشكل صحيح؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع أسماء متكررة (محمد، علي، أحمد) في نفس السلسلة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو التدليس في الأنساب؟ وما هي أشهر علاماته؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحقق في نسب عائلة غير معروفة تستخدم اسماً قبلية عاماً مثل العزيزات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي أهمية الديوان أو القصيدة في حفظ الأنساب العربية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين النسب بالدم والنسب بالحلف في الثقافة العربية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو علم الأنساب النسائي (تتبع النسب عبر الأمهات)؟ وهل له وجود في الثقافة العربية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع أخطاء النسخ في المخطوطات القديمة عند تتبع الأنساب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تربط بين نسب عائلة أردنية اليوم وقبيلة تاريخية معروفة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي أشهر ثلاث عشائر أردنية ذات أصول تاريخية موثقة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتحقق من صحة نسب عائلة إلى قبيلة عنزة أو بني حسن؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي أهمية اللقب الجغرافي (الكركي، الحوراني، الفلسطيني) في تتبع الأنساب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع حالة نسب معلق (لا يعرف اسم الجد الثالث مثلاً)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد عمر هيكل عظمي لشخص بالغ باستخدام عظم الترقوة فقط؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام الجمجمة لتحديد أن الشخص كان يعاني من سوء تغذية حاد في الطفولة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع كسر في عظم الكعبرة (Radius) التئم بشكل مائل. ماذا تستنتج عن نوع العلاج الطبي المتوفر؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يركب الخيل بانتظام من هيكله العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات الدقيقة على عظام الفقرات التي تشير إلى أن الشخص كان يعمل في حمل الأثقال؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين كسر ناتج عن سقوط من ارتفاع وكسر ناتج عن ضربة بأداة حادة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع أسنان مهترئة بشكل غير طبيعي من جهة واحدة فقط. ماذا يستنتج عن مهنته أو عاداته؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من التهاب المفاصل الروماتويدي من هيكله العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام الأنف لتحديد أن الشخص تعرض لكسر فيها قبل الموت؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يمشي حافياً معظم حياته من عظام قدميه؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي لامرأة مع عظام جنين في منطقة الحوض. ماذا تستنتج عن ظروف وفاتها؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من الكساح (Rickets) في طفولته من هيكله العظمي بعد أن كبر؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات في عظام الساق التي تشير إلى أن الشخص كان يعاني من مرض الزهري؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً تعرض لعملية بتر قبل الموت من هيكله العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع عدة كسور التئمت بشكل سيء. ماذا يستنتج عن مستوى الرعاية الطبية في زمنه؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين هيكل عظمي لشخص غرق وهيكل عظمي لشخص دفن بعد الموت مباشرة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام الأصابع لتحديد أن الشخص كان يعزف على آلة موسيقية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من فقر الدم المنجلي (Sickle cell) من هيكله العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع تغير لون العظام إلى الأخضر. ماذا يعني ذلك؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً تعرض للتسمم بالزرنيخ أو الرصاص من هيكله العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر الشاشات الصغيرة (الهواتف) على وضعية الرقبة والعمود الفقري على المدى الطويل؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو تأثير دوامة المعلومات (Information vortex) وكيف يسبب القلق؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت آليات حل المشكلات بعد توفر الإجابة الفورية من جوجل؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإدمان على الصور الذاتية (Selfie addiction) وكيف يشخص؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر البث المباشر (Live streaming) على السلوك والاندفاع؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب ثنائي القطب الرقمي (تقلب المزاج بين منصات مختلفة)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير مفهوم الخصوصية لدى جيل الألفية مقارنة بجيل الثمانينات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإرهاق من التفاعل الاجتماعي الرقمي؟ وكيف يختلف عن الإرهاق الحقيقي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر المرشح الخوارزمي (Algorithmic filter) على تنوع الأفكار والمعتقدات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو العمى الانتقائي الرقمي (رؤية ما تريد رؤيته فقط)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر الإشعارات الليلية على إفراز هرمون الميلاتونين؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب في الإحساس بالوقت الناتج عن التمرير اللانهائي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت طريقة تعاطفنا مع الآخرين بعد رؤية مآسيهم على الشاشة فقط؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الخوف من الغموض الرقمي (عدم معرفة ما يحدث خارج السوشال ميديا)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر التنقل السريع بين التطبيقات (Switching) على قدرة الدماغ على التركيز؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو متلازمة الإشعار الصامت (القلق عندما لا يرن الهاتف)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير مفهوم الصداقة مع وجود أصدقاء لا تراهم أبداً في الواقع؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب في الهوية الرقمية (عدم معرفة من أنت حقاً على الإنترنت)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر التوصيات الخوارزمية (Next video, Recommended) على إرادة المشاهدة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإرهاق من المقارنة الناتج عن رؤية إنجازات الآخرين المصنعة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت قدرة الأطفال على قراءة المشاعر الوجهية بعد كثرة التفاعل الرقمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو القلق من الرد المتأخر (Delayed reply anxiety)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر التعود على الإشباع الفوري على الصبر وتحمل المشقة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو تأثير الملف الشخصي المثالي (Perfect profile) على احترام الذات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير مفهوم الحقيقة في عصر الأخبار الزائفة والفلاتر؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإدمان على التحقق (Verification addiction) من خلال الإعجابات والمشاركات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر المجموعات المغلقة (Closed groups) على تكوين التطرف الفكري؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الخوف من أن تكون غير مهم (Fear of being irrelevant) في الفضاء الرقمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت طريقة تعلم اللغات بعد تطبيقات الترجمة الفورية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب في الذاكرة المكانية (عدم القدرة على تذكر الطرق) بسبب الاعتماد على الخرائط الرقمية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً تعرض للخنق من عظام الرقبة فقط؟ ما هي العلامات الدقيقة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع أسنان مصفرة ومتآكلة بشكل غير عادي. ماذا تستنتج عن نظامه الغذائي ومهنته؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض السكري من هيكله العظمي (إن أمكن)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات في عظام الحوض التي تشير إلى أن امرأة أنجبت عدة أطفال؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع كسر في الجمجمة التئم جزئياً ثم تعرض لكسر آخر مميت. كيف ترتب الأحداث زمنياً؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من ورم خبيث في العظام من هيكله العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام الكتف لتحديد أن الشخص كان يمارس الرماية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين هيكل عظمي لشخص مات غرقاً وهيكل عظمي لشخص مات ثم ألقي في الماء؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع آثار حروق على نصف الجسم فقط. ماذا يستنتج عن وضعية الجثة عند الحرق؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من نقص فيتامين (د) من هيكله العظمي بعد البلوغ؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات في عظام الأذن الوسطى (العظيمات) التي تشير إلى أن الشخص كان يعاني من التهابات مزمنة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض العظام الزجاجية (Osteogenesis imperfecta) من هيكله؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع أسنان متساقطة قبل الموت واندمال كامل للجيب السني. كم سنة تقريباً عاش بعد سقوط آخر سن؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من داء باجيت (Paget's disease) من عظامه؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام القدم لتحديد أن الشخص كان يمشي حافياً على أرض وعرة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من التهاب السحايا (Meningitis) من هيكله العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي لطفل مع عظام جمجمة غير ملتحمة بالكامل. كم عمره تقريباً؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض اللثة المفرطة (Hypercementosis) من أسنانه؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام العمود الفقري لتحديد أن الشخص كان يعاني من الحداب (انحناء الظهر)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين كسر ناتج عن حادث سيارة وكسر ناتج عن سقوط من ارتفاع؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر المحتوى القصير (Reels, Shorts, TikTok) على مدى الانتباه العميق؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو القلق من عدم الظهور (Invisibility anxiety) في عصر السوشال ميديا؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت طريقة تعبيرنا عن الحزن بعد تحوله إلى بوست أو ستوري؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإدمان على الانتظار (انتظار الرد، الإعجاب، المشاهدة) وكيف يؤثر على الدوبامين؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر التعليق المجهول (Anonymous commenting) على السلوك العدواني؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب في الإحساس بالجسد بعد قضاء ساعات طويلة في العالم الافتراضي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير مفهوم الخصوصية العائلية مع مشاركة كل تفاصيل الأطفال على السوشال ميديا؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الخوف من أن تكون طبيعياً (Fear of being ordinary) في عصر المميزين؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر اللحظات المصورة (Photographed moments) على العيش في اللحظة الحالية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإرهاق من الإبداع الرقمي (الضغط لنشر محتوى مميز دائماً)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت طريقة تذكر الرحلات والسفر بعد تصوير كل لحظة ونشرها؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب في النوم الناتج عن مشاهدة محتوى مقلق قبل النوم مباشرة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر التحقق القهري (Compulsive checking) من الهاتف على الإنتاجية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الخوف من أن تكون خارج الترند (Fear of being outdated)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير مفهوم الجمال مع انتشار الفلاتر والجراحات التجميلية المستوحاة منها؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإدمان على الأخبار السيئة (Doomscrolling) وكيف يوقف؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر اللقاءات الافتراضية (Zoom meetings) على التواصل غير اللفظي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب في الذاكرة الوجهية (عدم تذكر وجوه الناس لأنك تراها فقط على الشاشة)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت طريقة تعلم المهارات الجديدة (من كتب إلى يوتيوب إلى تيك توك)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الخوف من أن تكون مملاً (Fear of being boring) في عصر الترفيه المستمر؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر الإشعار العشوائي (Random notification) على تدفق العمل والإبداع؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإرهاق من التعاطف الرقمي (التفاعل مع مآسي لا تعد ولا تحصى)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير مفهوم الانتقام مع ظهور الانتقام الرقمي (نشر فضائح، تغريدات مسيئة)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب في الهوية المهنية (من أنا عندما لا أنظر إلى حسابي العملي)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر الإعلانات المستهدفة على تشكيل الرغبات والاحتياجات الحقيقية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الخوف من أن تكون متأخراً (Fear of being late) على الأخبار والأحداث؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت طريقة القراءة العميقة (للكتب) بعد اعتياد القراءة السريعة (للتغريدات)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإدمان على القياس الرقمي (خطواتي، ساعات نومي، نبضات قلبي)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر التنمر الإلكتروني على تطور الدماغ عند المراهقين مقارنة بالتنمر التقليدي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب في العلاقات الأسرية بسبب انشغال كل فرد بشاشته الخاصة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتتبع نسب عائلة تعود إلى قبيلة بني عبس أو بني كلب في الأردن؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي الطرق النسائية في حفظ الأنساب (الأمهات والجدات) وكيف تختلف عن الطرق الرجالية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحقق في نسب عائلة تستخدم لقب الدكتور أو المهندس كجزء من اسم العائلة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي شبه الجزيرة العربية كمرجع للأنساب؟ كيف تتعامل مع نسب خارجها؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين النسب الحقيقي والنسب بالولاء (شخص ينتمي لقبيلة بالولاء وليس بالدم)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو علم الأنساب المقارن بين المخطوطات؟ كيف توثق نسب موجود في ثلاث مخطوطات مختلفة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع أسماء قبلية انقرضت (لم يعد لها وجود اليوم) عند تتبع النسب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي قيمة الكتب الأنسابية الكبرى مثل جمهرة الأنساب والأنساب للسمعاني؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن عائلتين تلتقيان في جد سابع باستخدام مزيج من الوثائق والحمض النووي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو النسب المعاصر (تتبع النسب في الزمن الحالي لأغراض قانونية أو اجتماعية)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع حالة نسب متقطع (فجوات كبيرة بين الأسماء الموثقة)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي أهمية الأوقاف والوصايا القديمة في تتبع الأنساب العربية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين النسب الجغرافي (نسبة إلى مكان) والنسب القبلي (نسبة إلى قبيلة)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو علم الأنساب الرقمي (استخدام قواعد البيانات والبرامج لتتبع الأنساب)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحقق في نسب عائلة أردنية فلسطينية الأصل تعود إلى ما قبل النكبة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي أشهر ثلاث أخطاء يقع فيها الباحثون المبتدئون في علم الأنساب العربي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع تعدد الأسماء (شخص واحد له عدة أسماء في مصادر مختلفة)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي قيمة اللقب العائلي الموحد (مثل آل أو أبو) في تتبع الأنساب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين النسب القحطاني والنسب العدناني في المصادر القديمة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو علم الأنساب الوراثي للسكان (دراسة هجرة القبائل عبر الحمض النووي)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن عائلة تنتسب خطأً إلى قبيلة معينة لأسباب سياسية أو اجتماعية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي أهمية سجلات المحاكم الشرعية في تتبع الأنساب في العصر العثماني؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع الأسماء المستعارة (تسمية شخص باسم غير اسمه الحقيقي في المصادر)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو النسب الأمازيغي وكيف يختلف عن النسب العربي في المنهجية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تبحث عن أصول عائلة أردنية في سجلات التعداد العثماني (1870-1920)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي قيمة الشعر الأنسابي (قصيد تذكر أنساب القبائل) كمصدر تاريخي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين النسب التاريخي والنسب الأسطوري (الذي يصل إلى شخصيات خيالية أو شبه خيالية)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو علم الأنساب القانوني (إثبات النسب لأغراض الميراث والجنسية)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع حالة نسب معلق بشرط (فلان ابن فلان إن كان فلان هو فلان)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحقق في نسب عائلة إلى قبيلة بني هاشم (آل البيت) وما هي درجات الأدلة المطلوبة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً تعرض للحرق في فرن (مثل محرقة نازية) من عظامه؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات في عظام الجمجمة التي تشير إلى أن الشخص كان يعاني من استسقاء الرأس (Hydrocephalus)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع أسنان متطابقة الحجم (بدون تمايز بين الأنياب والضواحك). ماذا يعني ذلك؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض تلين العظام (Osteomalacia) عند البالغين؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام الأضلاع لتحديد أن الشخص كان يعاني من مرض السل العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين هيكل عظمي لشخص مات صعقاً بالكهرباء وهيكل عظمي لشخص مات بحرق؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع أسنان متحجرة بالكامل (بدون جذور). ماذا يعني ذلك؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض العملقة (Gigantism) من عظامه؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام الكتف لتحديد أن الشخص كان يمارس السباحة الاحترافية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض ضمور العضلات (Muscular dystrophy) من هيكله العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع كسر في عظم الأنف التئم بشكل مائل والتصاق في الجمجمة. ماذا تستنتج عن نوع الحادث؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض البورفيريا (Porphyria) من هيكله العظمي (إن أمكن)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام الأصابع لتحديد أن الشخص كان يعاني من مرض التهاب المفاصل الصدفي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين هيكل عظمي لشخص مات بتسمم أول أكسيد الكربون وهيكل عظمي لشخص مات طبيعياً؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع عظام وردية اللون. ماذا يعني ذلك؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض فرط التعرق (Hyperhidrosis) من عظامه (غير مباشر)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام الحوض لتحديد أن شخصاً كان يعاني من انفصال الارتفاق العاني أثناء الولادة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض داء ترسب الأصبغة الدموية (Hemochromatosis) من عظامه؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع أسنان خضراء اللون. ماذا يعني ذلك؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض الجلد الماسي (Scleroderma) من هيكله العظمي (تأثير على العظام)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر الواقع المعزز (AR) على إدراكنا للعالم الحقيقي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب في العلاقة بالجسد بعد استخدام أفلامار (Filters) التي تغير شكلك؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت طريقة التعبير عن الغضب مع ظهور التغريدة الغاضبة بدلاً من المواجهة المباشرة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإدمان على التحديث (Refresh addiction) وكيف يؤثر على القلق؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر الخوارزميات التوصية على تشكيل الهوية الموسيقية والثقافية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الخوف من أن تكون عادياً (Fear of being average) في عصر المؤثرين؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير مفهوم الحب مع ظهور العلاقات الافتراضية (حب بدون لقاء)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإرهاق من التعددية الرقمية (استخدام 10 تطبيقات تواصل في نفس الوقت)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر التعلم الآلي (Machine Learning) الذي يعرف كل شيء عنك على إحساسك بالخصوصية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب في الإحساس بالواقع (لا أعرف ما هو حقيقي وما هو رقمي)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت طريقة اتخاذ القرارات الشرائية بعد قراءة آلاف المراجعات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الخوف من أن تكون آخر من يعرف (Fear of being the last to know) الخبر؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر المقارنة الأفقية (مع أقرانك) والمقارنة العمودية (مع المشاهير) على تقدير الذات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإدمان على البث المباشر (Live streaming addiction) وكيف يشخص؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير مفهوم الصبر في عصر التحميل الفوري والإجابة الفورية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب في النوم الناتج عن التمرير الليلي (Night scrolling)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر الأخبار المخصصة (News tailored to you) على انغلاق الرؤية للعالم؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الخوف من أن تكون غير متصل (Fear of being offline) ولو لدقيقة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغيرت طريقة معالجة الحزن بعد تحوله إلى بوست حزين يتلقى تفاعلات؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإرهاق من الوجود الرقمي (إدارة 5 حسابات على 5 منصات مختلفة)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع نسب متداخل (زواج الأقارب يسبب تشابكاً في سلسلة النسب)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي قيمة اللقب المهني (النجار، الحداد، الحلاق) في تتبع الأنساب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين النسب الصريح (فلان ابن فلان ابن فلان) والنسب الكنائي (أبو فلان)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحقق في نسب عائلة تنتسب إلى الصحابة أو التابعين؟ ما هي درجات الأدلة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو علم الأنساب النقدي (نقد روايات الأنساب وتفنيدها)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع النسب المعاصر المزيف (شخص يدعي نسباً كاذباً لأغراض انتخابية أو اجتماعية)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي أهمية سجلات القبائل العثمانية (Defter-i Caba) في تتبع الأنساب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين النسب العربي الشمالي والنسب العربي الجنوبي في المصادر؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو علم الأنساب المقارن بين الأديان (كيف تتعامل المسيحية واليهودية والإسلام مع الأنساب)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تبحث عن أصول عائلة أردنية في سجلات الكنائس (للمسيحيين الأردنيين)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي قيمة المجالس العشائرية (جلسات كبار العشيرة) في حفظ وتوثيق الأنساب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع النسب بالهجرة (عائلة هاجرت من مكان لآخر وتغير نسبها)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو علم الأنساب القانوني المقارن بين القانون الأردني والقانون السعودي مثلاً؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين النسب التاريخي الثابت والنسب الافتراضي (يعني ربما أو يحتمل)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحقق في نسب عائلة أردنية من أصول شركسية أو شيشانية (غير عربية)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي أشهر ثلاث قضايا أنساب أردنية معاصرة وكيف حلت؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع النسب الأنثوي المقطوع (تعرف الأم ولكن لا تعرف جدها)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو علم الأنساب الرقمي العربي (قواعد البيانات العربية للأنساب)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين النسب الحقيقي والنسب المصطنع لأغراض سياسية في التاريخ الإسلامي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي قيمة الوثائق العائلية الخاصة (رسائل، عقود زواج، شهادات ميلاد قديمة)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً تعرض للغرق في الماء المالح بدلاً من الماء العذب من عظامه؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام الجمجمة لتحديد أن الشخص كان يعاني من صغر الرأس (Microcephaly)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع أسنان سوداء بالكامل. ماذا يعني ذلك؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض الشوك العظمي (Osteopetrosis) من عظامه؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام اليد لتحديد أن الشخص كان يعاني من مرض دوبويتران (انكماش اليد)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين هيكل عظمي لشخص مات بالبرد الشديد وهيكل عظمي لشخص مات بحرق؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "عُثر على هيكل عظمي مع أسنان كاملة العدد (32 سناً) بما في ذلك أسنان العقل غير منبثقة. كم عمره تقريباً؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من مرض الفيلة (Elephantiasis) من عظامه (تأثير على العظام)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات التي تبحث عنها في عظام القدم لتحديد أن الشخص كان يعاني من مرض شاركو (تفكك مفاصل القدم)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً كان يعاني من متلازمة داون (Down syndrome) من هيكله العظمي (العلامات العظمية المميزة)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد أن شخصاً تعرض للحرق في فرن (مثل محرقة نازية) من عظامه؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات في عظام الجمجمة التي تشير إلى استسقاء الرأس (Hydrocephalus)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ماذا يعني وجود أسنان متطابقة الحجم (بدون تمايز بين الأنياب والضواحك) في الهيكل العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد مرض تلين العظام (Osteomalacia) عند البالغين من هيكله العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات في عظام الأضلاع التي تشير إلى الإصابة بالسل العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين الموت بصعقة كهربائية والموت بحرق من خلال العظام؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ماذا تدل الأسنان المتحجرة بالكامل (بدون جذور) في الهيكل العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد مرض العملقة (Gigantism) من العظام؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي علامات السباحة الاحترافية على عظام الكتف؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد مرض ضمور العضلات (Muscular dystrophy) من الهيكل العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تستنتج نوع الحادث من كسر الأنف المائل والتصاقه بالجمجمة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "هل يمكن تحديد مرض البورفيريا (Porphyria) من العظام؟ وكيف؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي علامات التهاب المفاصل الصدفي في عظام الأصابع؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين التسمم بأول أكسيد الكربون والموت الطبيعي من خلال الهيكل العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ماذا تدل العظام وردية اللون؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يمكن تحديد مرض فرط التعرق (Hyperhidrosis) بطرق غير مباشرة من العظام؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي علامات انفصال الارتفاق العاني أثناء الولادة في عظام الحوض؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد مرض داء ترسب الأصبغة الدموية (Hemochromatosis) من الهيكل العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ماذا تدل الأسنان خضراء اللون؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر مرض الجلد الماسي (Scleroderma) على الهيكل العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين الغرق في الماء المالح والغرق في الماء العذب من خلال العظام؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي علامات صغر الرأس (Microcephaly) في الجمجمة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ماذا تدل الأسنان سوداء بالكامل؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد مرض الشوك العظمي (Osteopetrosis) من الهيكل العظمي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي علامات مرض دوبويتران (انكماش اليد) في عظام اليد؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تفرق بين الموت بالبرد الشديد والموت بحرق من خلال العظام؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تحدد العمر التقريبي من وجود أسنان العقل غير المنبثقة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر مرض الفيلة (Elephantiasis) على العظام؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي علامات مرض شاركو (تفكك مفاصل القدم) في عظام القدم؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي العلامات العظمية المميزة لمتلازمة داون (Down syndrome)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر الواقع المعزز (AR) على إدراك العالم الحقيقي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو اضطراب العلاقة بالجسد الناتج عن استخدام الفلاتر؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير التعبير عن الغضب من المواجهة المباشرة إلى التغريدة الغاضبة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإدمان على التحديث (Refresh addiction) وكيف يرتبط بالقلق؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تؤثر خوارزميات التوصية على تشكيل الهوية الموسيقية والثقافية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الخوف من أن تكون عادياً (Fear of being average) في عصر المؤثرين؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تغير مفهوم الحب مع ظهور العلاقات الافتراضية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الإرهاق من التعددية الرقمية الناتج عن استخدام تطبيقات متعددة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف يؤثر التعلم الآلي الذي يعرف كل شيء عنك على الإحساس بالخصوصية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو الاضطراب في الإحساس بالواقع الناتج عن الخلط بين العالم الرقمي والحقيقي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع النسب المتداخل الناتج عن زواج الأقارب في علم الأنساب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي قيمة اللقب المهني (مثل النجار، الحداد، الحلاق) في تتبع الأنساب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما الفرق بين النسب الصريح (فلان ابن فلان) والنسب الكنائي (أبو فلان)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتحقق من صحة النسب إلى الصحابة أو التابعين؟ وما درجات الأدلة المطلوبة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو مفهوم علم الأنساب النقدي؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تتعامل مع حالات النسب المعاصر المزيف لأغراض سياسية أو انتخابية؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هي أهمية سجلات القبائل العثمانية (Defter-i Caba) في تتبع الأنساب؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما الفرق بين النسب العربي الشمالي والنسب العربي الجنوبي في المصادر القديمة؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "ما هو علم الأنساب المقارن بين الأديان (الإسلام، المسيحية، اليهودية)؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  },
+  {
+    "id": "civil_00",
+    "question": "كيف تبحث عن أصول عائلة أردنية مسيحية في سجلات الكنائس؟",
+    "tags": [
+      "human-sciences",
+      "advanced-sciences"
+    ]
+  }
+]
