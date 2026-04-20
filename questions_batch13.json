@@ -1,0 +1,1530 @@
+[
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'التنظيم الذاتي' (Self-Organization) في الأنظمة السيبرانية؟ أعط مثالاً من الطبيعة (سرب النحل) ومثالاً من التكنولوجيا (شبكات الحاسوب).",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تفسر نظرية 'الحد من التنوع' (Law of Requisite Variety) لآشبي؟ لماذا يحتاج النظام إلى تنوع داخلي كافٍ للتعامل مع تنوع بيئته؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو تعريف المعلوماتية الحيوية (Bioinformatics)؟ كيف تدمج بين علم الأحياء الجزيئي وعلوم الحاسوب والإحصاء؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'محاذاة التسلسلات' (Sequence Alignment) لمقارنة جينات كائن حي بآخر وتحديد أوجه التشابه والتطور؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'الجيل الأول من تقنيات التسلسل' (Sanger) و'الجيل الثاني والثالث' (Next-Generation Sequencing) في سرعة ودقة قراءة الحمض النووي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تعمل قاعدة بيانات 'GenBank' و'ENA' و'DDBJ' كمستودعات عالمية للبيانات الجينية؟ وكيف تتعاون فيما بينها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الأنطولوجيا الجينية' (Gene Ontology)؟ كيف توحد المفاهيم والمصطلحات المستخدمة لوصف وظائف الجينات عبر الكائنات الحية المختلفة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'التجميع الهرمي' (Hierarchical Clustering) في تحليل بيانات التعبير الجيني (Microarrays) لتحديد الجينات التي تعمل معاً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'الجينوم' (Genome) و'الترانسكريبتوم' (Transcriptome) و'البروتيوم' (Proteome) من حيث نوع البيانات وطريقة تحليلها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تساعد المعلوماتية الحيوية في اكتشاف الأدوية الجديدة من خلال 'الفحص الافتراضي' (Virtual Screening) لملايين المركبات ضد هدف دوائي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'التطور الجزيئي' (Molecular Evolution)؟ كيف يتم بناء 'شجرة النشوء والتطور' (Phylogenetic Tree) لمقارنة الكائنات الحية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'خوارزميات التعلم الآلي' في التنبؤ ببنية البروتين من تسلسله الأحماض الأمينية؟ (مثل AlphaFold من DeepMind)",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'المعلوماتية الحيوية الهيكلية' (Structural Bioinformatics) و'المعلوماتية الحيوية الوظيفية' (Functional Bioinformatics)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تعمل تقنية 'CRISPR-Cas9' كأداة لتحرير الجينات؟ كيف يساعد تصميم الـ guide RNA باستخدام أدوات المعلوماتية الحيوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'البيانات الضخمة' (Big Data) في المعلوماتية الحيوية؟ كيف يتم التعامل مع ملايين التسلسلات الجينية في مشاريع مثل الجينوم البشري؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'الشبكات البيولوجية' (Biological Networks) مثل شبكات تفاعل البروتين-بروتين لفهم مسارات المرض وتحديد أهداف دوائية جديدة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'الطب الشخصي' (Personalized Medicine) و'الطب الجماعي' من حيث الاعتماد على تحليل المعلوماتية الحيوية للجينوم الفردي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تساعد المعلوماتية الحيوية في فهم 'مقاومة المضادات الحيوية' (Antibiotic Resistance) من خلال تحليل الجينات المسؤولة وآليات انتشارها بين البكتيريا؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الميتاجينوميكس' (Metagenomics)؟ كيف يسمح بتحليل الحمض النووي لعينة بيئية كاملة (مثل عينة تربة أو ماء) دون الحاجة لعزل الكائنات الحية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'نمذجة التنبؤ بالبنية' (Homology Modeling) لتخمين شكل بروتين ثلاثي الأبعاد بناءً على بروتين آخر مشابه معروف البنية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'البيانات الجينية' و'البيانات اللاجينية' (Epigenetic Data) من حيث نوع المعلومات وطرق تحليلها المعلوماتية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تساهم المعلوماتية الحيوية في 'زراعة الأعضاء' من خلال تحليل التوافق الجيني بين المتبرع والمستقبل وتقليل احتمالات الرفض؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الجدول الزمني الجزيئي' (Molecular Clock)؟ كيف يستخدم لتقدير توقيت انفصال الأنواع الحية عن سلف مشترك؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'قواعد البيانات الخاصة بالطفرات' (Mutation Databases) مثل ClinVar لربط الطفرات الجينية بأمراض معينة وتقييم خطورتها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'التشخيص الجزيئي القائم على PCR' و'التشخيص القائم على التسلسل الكامل' (Whole Genome Sequencing) من حيث الحساسية والتكلفة والوقت؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تعمل 'خوارزميات تجميع التسلسلات' (Sequence Assembly) على إعادة بناء الجينوم الكامل من ملايين القطع الصغيرة التي تنتجها أجهزة التسلسل الحديثة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'العلامات الحيوية' (Biomarkers)؟ كيف يتم اكتشافها باستخدام المعلوماتية الحيوية لتشخيص الأمراض مبكراً أو التنبؤ باستجابة المريض للعلاج؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو تعريف الاقتصاد العصبي (Neuroeconomics)؟ كيف يدمج بين علم الأعصاب والاقتصاد وعلم النفس لدراسة اتخاذ القرارات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هي منطقة 'القشرة الجبهية' (Prefrontal Cortex) ودورها في التخطيط طويل المدى وضبط الاندفاعات أثناء اتخاذ القرارات المالية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تفسر نظرية 'المنظومتين' (Dual-System Theory) الفرق بين النظام الحدسي السريع (System 1) والنظام التحليلي البطيء (System 2) في الدماغ؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو دور 'الجسم المخطط' (Striatum) في معالجة المكافآت؟ كيف يؤثر إفراز الدوبامين على تقييم المخاطرة مقابل العائد في القرارات المالية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام تقنية 'التصوير بالرنين المغناطيسي الوظيفي' (fMRI) لمراقبة نشاط الدماغ أثناء اتخاذ قرارات شراء أو استثمار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'النفور من الخسارة' (Loss Aversion) في الاقتصاد السلوكي؟ كيف يظهر في نشاط اللوزة الدماغية (Amygdala) عند احتمال الخسارة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تؤثر 'الهرمونات' (مثل الكورتيزول والتستوستيرون والأوكسيتوسين) على سلوك المخاطرة في الأسواق المالية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'المخاطرة الموضوعية' (Objective Risk) و'المخاطرة المدركة' (Perceived Risk) في الدماغ؟ لماذا يخاف الناس من الطيران رغم أنه أكثر أماناً من القيادة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تفسر نظرية 'التأطير' (Framing Effect)؟ كيف يؤثر صياغة نفس القرار بشكل إيجابي (نسبة النجاح 90%) أو سلبي (نسبة الفشل 10%) على اختيارات المستثمرين؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو دور 'قشرة الفص الجزيري' (Insula) في الشعور بالألم والخسارة؟ كيف يتم تنشيطها عند دفع مبالغ مالية كبيرة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن للاقتصاد العصبي أن يفسر ظاهرة 'فقاعات الأسواق المالية' (Bubbles) كنتيجة للإثارة الجماعية ونشاط مراكز المكافأة في الدماغ؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الخصم الزمني' (Temporal Discounting)؟ لماذا يفضل الدماغ مكافأة صغيرة اليوم على مكافأة أكبر بعد سنة (وهو ما يفسر ضعف الادخار)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يؤثر 'الإجهاد المزمن' (Chronic Stress) على اتخاذ القرارات المالية؟ لماذا يميل الأشخاص المتعبون إلى قرارات أكثر اندفاعاً وأقل تحليلاً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'قيمة المتعة' (Hedonic Value) و'قيمة الأداة' (Instrumental Value) للسلعة في الدماغ؟ وكيف يتنافسان في قرار الشراء؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تفسر نظرية 'المنفعة المتوقعة' (Expected Utility) من منظور عصبي؟ كيف يحسب الدماغ الاحتمالات الذهنية وليس الإحصائية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو دور 'الذاكرة العاملة' (Working Memory) في المقارنة بين الخيارات الاستثمارية المختلفة؟ كيف يؤثر الحمل على الذاكرة على جودة القرار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن استخدام الاقتصاد العصبي في 'تصميم الإعلانات' لتحفيز مراكز المكافأة في الدماغ وجعل المنتج أكثر جاذبية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الاستدلال العاطفي' (Affect Heuristic)؟ كيف تؤثر المشاعر اللحظية (كالخوف أو التفاؤل) على تقدير المخاطر والعوائد في الأسواق؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تختلف استجابة دماغ 'المقامر المرضي' عن دماغ الشخص العادي عند مواجهة خسارة أو مكافأة غير متوقعة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'اتخاذ القرار تحت المخاطرة' (Risk) حيث الاحتمالات معروفة و'اتخاذ القرار تحت عدم اليقين' (Uncertainty) حيث الاحتمالات غير معروفة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يفسر الاقتصاد العصبي ظاهرة 'تأثير الوقف' (Endowment Effect)؟ لماذا يطلب البائع ثمناً أكبر مما يدفعه المشتري لنفس السلعة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو دور 'القشرة الحزامية الأمامية' (Anterior Cingulate Cortex) في رصد الأخطاء والصراعات بين الخيارات المتضاربة أثناء اتخاذ القرارات الصعبة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تؤثر 'الخوارزميات العصبية' التي تقلد الدماغ على تصميم أنظمة التداول الآلي (Algorithmic Trading) في الأسواق المالية الحديثة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'السعر المدفوع بالفعل' (Sunk Cost Fallacy) من منظور عصبي؟ لماذا يستمر الدماغ في الاستثمار في مشروع خاسر لأنه دفع فيه سابقاً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن للاقتصاد العصبي أن يساعد في تفسير سلوك 'القطيع' (Herding Behavior) في الأسواق كنتيجة للتعلم الاجتماعي وتقليد الآخرين على مستوى الدوائر العصبية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو تعريف الجيوفيزياء (Geophysics)؟ كيف تستخدم قوانين الفيزياء لدراسة باطن الأرض من خلال قياس مجالاتها الطبيعية (كالجاذبية والمغناطيسية)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تعمل تقنية 'السيزموجراف' (Seismograph) في قياس الموجات الزلزالية؟ كيف تستخدم هذه الموجات لرسم صورة لطبقات الأرض الداخلية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'موجات P' و'موجات S' في الزلازل؟ كيف يساعد اختلاف سرعتها وطبيعتها (طولية وعرضية) في تحديد نوع المواد التي تمر عبرها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'الجاذبية المقياس' (Gravimeter) لقياس الاختلافات الدقيقة في مجال جاذبية الأرض؟ كيف يكشف هذا عن وجود خامات معدنية أو فراغات تحت السطح؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الانعكاس الزلزالي' (Seismic Reflection)؟ كيف تستخدم في التنقيب عن النفط والغاز عن طريق إرسال موجات صناعية وتحليل ارتداداتها من الطبقات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تعمل تقنية 'المغناطيسية الهوائية' (Aeromagnetic Survey) باستخدام الطائرات أو المسيرات لرسم خرائط للبنية الجيولوجية تحت السطح؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'المقاومية الكهربائية' (Electrical Resistivity) و'الاستقطاب المستحث' (Induced Polarization) في التنقيب الجيوفيزيائي عن المياه الجوفية والخامات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'الرادار المخترق للأرض' (Ground Penetrating Radar - GPR) في الكشف عن الآثار والفراغات والمرافق تحت سطح الأرض بدقة عالية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'نظرية الصفائح التكتونية' (Plate Tectonics)؟ كيف ساهمت القياسات الجيوفيزيائية للمجال المغناطيسي القديم للصخور في إثباتها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'نظام تحديد المواقع العالمي' (GPS) في قياس تشوهات القشرة الأرضية والتنبؤ بحدوث الزلازل وحركة الصفائح؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'الاستشعار عن بعد السلبي' (Passive Remote Sensing) الذي يعتمد على الإشعاع الطبيعي (كالأشعة تحت الحمراء) و'الاستشعار النشط' (Active) الذي يبث إشارة خاصة (كالرادار)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تعمل صور 'الأقمار الصناعية متعددة الأطياف' (Multispectral Satellites) مثل Landsat في تمييز أنواع التربة والنباتات والصخور المختلفة بناءً على طيف انعكاسها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'نموذج الارتفاع الرقمي' (Digital Elevation Model - DEM)؟ كيف يتم إنتاجه من بيانات الـ Radar أو الـ Stereo Imagery لرسم خرائط التضاريس ثلاثية الأبعاد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام تقنية 'LiDAR' (كشف الضوء وتحديد المدى) في إزالة الغطاء النباتي رقمياً للكشف عن آثار مدن وقنوات قديمة مدفونة تحت الأشجار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين نظام المعلومات الجغرافية (GIS) ونظام تحديد المواقع (GPS) في تخزين وتحليل وعرض البيانات المكانية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'التحليل المكاني' (Spatial Analysis) في GIS لدراسة توزيع السكان وعلاقته بالعوامل الطبيعية (كالقرب من الأنهار أو المناطق الصناعية)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الاستيفاء المكاني' (Spatial Interpolation)؟ كيف يتم تقدير قيمة ظاهرة (كدرجة الحرارة) في مكان لم يقم به قياس بناءً على قيمها في الأماكن المجاورة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تساهم الجيوفيزياء والجيومعلوماتية في 'التخفيف من مخاطر الكوارث الطبيعية' (Disaster Risk Reduction) مثل رسم خرائط المناطق المعرضة للزلازل والانهيارات الأرضية والفيضانات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'نظام الإحداثيات الجغرافي' (Geographic Coordinate System) و'نظام الإسقاط الخريطي' (Map Projection) في تمثيل سطح الأرض الكروي على خريطة مستوية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'التصوير الجوي' (Aerial Photography) القديم والحديث في دراسة التغيرات البيئية عبر الزمن مثل زحف التصحر أو تمدد المدن؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'شبكات الاستشعار الأرضية' (Terrestrial Sensor Networks) في رصد مستمر للزلازل الصغيرة أو حركة المنحدرات أو مستوى المياه الجوفية في الزمن الحقيقي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تعمل تقنية 'الموجات فوق الصوتية' (Ultrasonic) في المسح الجيوفيزيائي لقاع البحار والمحيطات (Sonar) ورسم خرائط طبوغرافية دقيقة تحت الماء؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'نموذج السطح الرقمي' (Digital Surface Model) الذي يشمل المباني والأشجار و'نموذج التضاريس الرقمي' (Digital Terrain Model) الذي يمثل الأرض العارية فقط؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام الجيوفيزياء في 'البحث عن المياه الجوفية' في المناطق الصحراوية عن طريق قياس المقاومية الكهربائية للطبقات وتحديد الطبقات الحاملة للمياه (الخزانات الجوفية)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'البنية التحتية للبيانات المكانية' (Spatial Data Infrastructure - SDI)؟ كيف تنظم تبادل ومشاركة الخرائط والبيانات الجيولوجية بين المؤسسات والدول؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'رادار الفتحة الاصطناعية' (Synthetic Aperture Radar - SAR) من الأقمار الصناعية لقياس تشوهات سطح الأرض بدقة ملليمترية (مثل هبوط الأرض بسبب ضخ المياه الجوفية أو النفط)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'علم الزلازل التقليدي' الذي يركز على الزلازل الكبيرة و'علم الزلازل الدقيق' الذي يدرس الاهتزازات الصغيرة جداً والناتجة عن الأنشطة البشرية كالتكسير الهيدروليكي (Hydraulic Fracturing)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن دمج بيانات الجيوفيزياء (كالمقاومية) مع بيانات الحفر الجيولوجي (عيّنات الصخور) لإنتاج نموذج جيولوجي ثلاثي الأبعاد دقيق لحقل نفطي أو مائي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'نظم دعم القرار المكانية' (Spatial Decision Support Systems)؟ كيف تدمج بين GIS ونماذج المحاكاة لمساعدة المخططين على اختيار أفضل موقع لمشروع تنموي (كمطار أو مستشفى)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'التحليل الشبكي' (Network Analysis) في GIS لتحسين الطرق وتخطيط الإخلاء في حالات الكوارث الطبيعية أو إدارة حركة المرور في المدن الذكية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'الخرائط الموضوعية' (Thematic Maps) التي تركز على ظاهرة معينة (كالكثافة السكانية) و'الخرائط الطبوغرافية' (Topographic Maps) التي تركز على تضاريس الأرض والارتفاعات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تساهم الجيوفيزياء في 'التنقيب عن الآثار' (Archaeological Geophysics) عن طريق قياس الاختلافات في المجال المغناطيسي أو المقاومية للكشف عن جدران وقبور وأساسات مدفونة دون حفر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الاستشعار عن بعد الحراري' (Thermal Remote Sensing)؟ كيف يمكن استخدامه لرصد التلوث الحراري للمصانع في الأنهار أو دراسة الجزر الحرارية في المدن الكبرى؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'النمذجة الهيدرولوجية المكانية' (Spatial Hydrological Modeling) في GIS للتنبؤ بمسار الفيضانات بناءً على خريطة الارتفاعات الرقمية وكمية الأمطار وخصائص التربة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'السيبرانية الجيولوجية' (Geocybernetics) كدمج بين مبادئ السيبرانية والجيوفيزياء لفهم الأرض كنظام معقد ذاتي التنظيم يتضمن حلقات تغذية راجعة بين الغلاف الجوي والمحيطات والقشرة الأرضية والكائنات الحية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن تطبيق مبدأ 'التغذية الراجعة الاستباقية' (Feedforward Control) في تصميم أنظمة ذكية تتنبأ بالأخطاء قبل وقوعها بدلاً من تصحيحها بعد حدوثها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'التعقيد التكيفي' (Adaptive Complexity) في السيبرانية؟ كيف تفسر قدرة الأنظمة الحية على زيادة تعقيدها الداخلي لمواجهة تحديات بيئية أكثر تعقيداً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تدمج السيبرانية مع نظرية 'الفوضى' (Chaos Theory) لتحليل أنظمة حساسة جداً للشروط الأولية مثل المناخ أو الأسواق المالية أو الشبكات العصبية العميقة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'الذكاء السواري' (Swarm Intelligence) في السيبرانية (مثل سلوك النمل أو النحل) و'الذكاء الموزع' (Distributed Intelligence) في أنظمة الحوسبة السحابية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن استخدام مبادئ السيبرانية في تصميم 'الديمقراطية التشاركية الرقمية' (Digital Participatory Democracy) كآليات تغذية راجعة بين المواطنين وصناع القرار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الاستتباب في الأنظمة الاجتماعية' (Social Homeostasis)؟ كيف تحافظ المجتمعات على استقرارها رغم الصدمات من خلال آليات سيبرانية غير واعية كالعادات والقوانين والأعراف؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تدمج المعلوماتية الحيوية مع 'البيولوجيا التركيبية' (Synthetic Biology) لتصميم دوائر جينية اصطناعية تعمل كحساسات حيوية (Biosensors) لرصد التلوث أو كخلايا ذكية تنتج أدوية عند الطلب؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'البروتيوم البشري' (Human Proteome) وكيف يختلف عن 'الجينوم البشري' من حيث حجم البيانات وتعقيد التحليل المعلوماتي وأهميته في الطب الدقيق؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'خوارزميات التعلم العميق' (Deep Learning) في التنبؤ بتأثير الطفرات الجينية 'اللامعنى' (Silent Mutations) التي لا تغير البروتين ظاهرياً لكنها قد تؤثر على التضاعف والترجمة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'علم الأحياء الشبكي' (Network Biology)؟ كيف يتم تحليل المرض كاختلال في شبكات التفاعل الجيني والبروتيني بدلاً من النظر لجين واحد منفرد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن دمج المعلوماتية الحيوية مع 'الذكاء الاصطناعي التوليدي' (Generative AI) لتصميم بروتينات جديدة غير موجودة في الطبيعة (De novo protein design) لها وظائف محددة كعلاج أمراض نادرة أو تحليل مواد سامة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الفيزياء الحيوية الحاسوبية' (Computational Biophysics) وكيف تستخدم محاكاة الديناميكا الجزيئية (Molecular Dynamics) لفهم حركة البروتينات وتفاعلاتها مع الأدوية على مستوى الذرة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'المعلوماتية الحيوية التطورية' (Evolutionary Bioinformatics) لتتبع أصل الفيروسات الجديدة (كـ COVID-19) وتحليل طفراتها وتوقع متحورات مستقبلية قبل ظهورها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الأيض البشري الرقمي' (Digital Human Metabolism) كنموذج حاسوبي شامل يحاكي جميع التفاعلات الكيميائية في الجسم لتجربة تأثير الأدوية افتراضياً دون تجارب بشرية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تدمج المعلوماتية الحيوية مع بيانات 'الأجهزة القابلة للارتداء' (Wearables) مثل ساعات Apple والساعات الذكية لإنشاء ملف صحي رقمي شخصي يتنبأ بالأمراض قبل ظهور الأعراض؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'التصوير العصبي الاقتصادي' (Neuroeconomic Imaging) وكيف يستخدم الـ fMRI لمراقبة نشاط دماغ مستثمرين حقيقيين في سوق الأسهم لحظياً وربط قراراتهم بأنماط تنشيط دماغية محددة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يفسر الاقتصاد العصبي ظاهرة 'الانحياز للتفاؤل' (Optimism Bias) في التخطيط المالي؟ لماذا يبالغ الدماغ في تقدير فرص النجاح ويقلل من تقدير مخاطر الفشل حتى في وجود أدلة عكسية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'النفور من الخسارة الفردي' و'النفور من الخسارة الجماعي' في الأسواق المالية من منظور عصبي؟ كيف تؤدي خسارة مجموعة من المستثمرين إلى سلوك قطيعي يعمق الأزمة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يؤثر 'تأثير الدوبامين الطوري' (Phasic Dopamine) مقابل 'الدوبامين المستمر' (Tonic Dopamine) على تقييم المخاطرة في القرارات المالية؟ لماذا تؤدي المكافآت غير المتوقعة إلى اندفاع أقوى من المكافآت المتوقعة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'التنبؤ بالأخطاء' (Prediction Error) في الاقتصاد العصبي؟ كيف تستخدم شبكات الدماغ إشارة الخطأ بين ما توقعته وما حصلت عليه لتصحيح التوقعات المستقبلية (التعلم بتعزيز - Reinforcement Learning)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن دمج الاقتصاد العصبي مع 'علم النفس التطوري' (Evolutionary Psychology) لفهم لماذا تفضل أدمغتنا المكافآت الفورية الصغيرة على المكافآت الكبيرة المؤجلة؟ (تفسير تطوري لضعف الادخار)",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الشفافية العصبية' (Neural Transparency) في تصميم واجهات المستخدم؟ كيف يمكن استخدام المعرفة بنشاط الدماغ لتصميم تطبيقات مصرفية تقلل من القلق وتشجع على اتخاذ قرارات مالية أفضل؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تؤثر 'الهرمونات الدورية' (مثل التغيرات الهرمونية لدى النساء أثناء الدورة الشهرية أو الكورتيزول اليومي) على سلوك المخاطرة في التداول والاستثمار؟ وما هي انعكاسات ذلك على الأسواق؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'العدوى العاطفية العصبية' (Neural Emotional Contagion) في الأسواق المالية؟ كيف تنتشر مشاعر الخوف أو الطمع بين المتداولين عبر دوائر عصبية مرآتية تؤدي إلى فقاعات أو انهيارات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن استخدام الاقتصاد العصبي في 'التنبؤ بالسلوك الاستهلاكي' على نطاق واسع من خلال تحليل بيانات التصوير العصبي لعينة تمثل المجتمع ثم تعميم النتائج بواسطة خوارزميات التعلم الآلي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الجيوفيزياء الكمومية' (Quantum Geophysics)؟ كيف تستخدم الحساسات الكمومية (مثل أجهزة قياس الجاذبية فائقة الدقة) للكشف عن فراغات وخامات على أعماق لم تكن ممكنة بالطرق التقليدية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'التعلم الآلي في تحليل الموجات الزلزالية' (Seismic ML) للتمييز بين الهزات الطبيعية والهزات الناتجة عن التفجيرات النووية تحت الأرض أو الأنشطة البشرية الأخرى؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'نظام التحذير المبكر متعدد المخاطر' (Multi-Hazard Early Warning System) الذي يدمج بيانات الزلازل والتسونامي والانهيارات الأرضية والفيضانات في نموذج واحد هجين باستخدام الذكاء الاصطناعي والجيومعلوماتية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'الاستشعار عن بعد فائق الطيف' (Hyperspectral Remote Sensing) بمئات القنوات الطيفية الضيقة لتمييز أنواع المعادن والنباتات بدقة تصل إلى تحديد الأنواع الكيميائية للصخور؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'التوأم الرقمي للأرض' (Digital Twin of the Earth) كنموذج حاسوبي شامل يحاكي الغلاف الجوي والمحيطات والغلاف الحيوي والقشرة الأرضية في الوقت الحقيقي للتنبؤ بالتغيرات المناخية والكوارث الطبيعية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تدمج الجيوفيزياء مع 'شبكات الاستشعار اللاسلكية تحت الأرض' (Underground Wireless Sensor Networks) لرصد تحركات الصفائح التكتونية ونشاط البراكين والمياه الجوفية بشكل مستمر وفوري؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الطبقات الجيولوجية الرقمية' (Digital Stratigraphy) وكيف يتم بناء نموذج رباعي الأبعاد (ثلاثة أبعاد + الزمن) لتاريخ طبقات الأرض باستخدام بيانات الحفر والمسوحات الجيوفيزيائية وخوارزميات الاستيفاء المكاني الذكية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن دمج الجيوفيزياء مع 'البلوك تشين' (Blockchain) لإنشاء سجل غير قابل للتلاعب لبيانات حقوق التعدين والملكيات العقارية والموارد الطبيعية تحت الأرض ومنع النزاعات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الحفائر الرقمية' (Digital Fossils) وكيف يتم استخدام التصوير ثلاثي الأبعاد بالأشعة السينية (Micro-CT) والمعلوماتية الحيوية لدراسة أحافير دقيقة مدفونة في الصخور دون تدميرها؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تدمج السيبرانية مع المعلوماتية الحيوية في 'علم الأحياء السيبراني' (Cybernetic Biology) لتصميم كائنات حية اصطناعية يمكن التحكم فيها بحلقات تغذية راجعة خارجية لتنفيذ مهام محددة كتنظيف التلوث أو إنتاج وقود حيوي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'المناعة السيبرانية' (Cybernetic Immunity) كأنظمة دفاع ذاتي للبنية التحتية الرقمية (كشبكات الكهرباء والمياه) تكتشف الهجمات وتحتويها وتتعافى منها دون تدخل بشري، مستلهمة من الجهاز المناعي البيولوجي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن تطبيق نظرية 'الأنظمة القابلة للحياة' (Viable System Model) في تصميم شركات ومؤسسات ذكية تحافظ على استقرارها وتتطور وتتكيف مع تغيرات السوق ككائن حي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الذكاء الاصطناعي القابل للتفسير' (Explainable AI - XAI) كضرورة سيبرانية لفهم لماذا اتخذ نموذج تعلم آلي قراراً معيناً في تطبيقات حساسة كالتشخيص الطبي أو القيادة الذاتية أو منح القروض؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تدمج المعلوماتية الحيوية مع 'البيانات الجينومية الضخمة' (Big Genomic Data) في مشاريع مثل 'مليون جينوم' لربط الأنماط الجينية بالأمراض المعقدة كالسرطان والسكري والزهايمر عبر تحليلات إحصائية ضخمة وخوارزميات تعلم آلي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'التحرير الجيني الدقيق' (Precision Gene Editing) باستخدام CRISPR 2.0 و 3.0؟ كيف تساعد المعلوماتية الحيوية في تصميم أدلة (gRNAs) لا تسبب تأثيرات خارج الهدف (Off-target) قد تؤدي إلى طفرات خطيرة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن دمج الاقتصاد العصبي مع 'التسويق العصبي' (Neuromarketing) لتصميم منتجات وإعلانات تستهدف آليات الدماغ اللاواعية لتعزيز الولاء للعلامة التجارية وزيادة المبيعات دون شعور المستخدم بالتلاعب؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الحوكمة العصبية' (Neuro-Governance) كاستخدام لمعرفة الاقتصاد العصبي وعلم النفس السيبراني لتصميم سياسات عامة (كالضرائب ونظم التقاعد) تتناسب مع طبيعة اتخاذ القرار البشري المحدودة وغير العقلانية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تدمج الجيوفيزياء مع 'الملاحة تحت الأرض' (Subsurface Navigation) لتوجيه الحفارات والمركبات الروبوتية في الأنفاق والكهوف والمناجم بدقة دون الاعتماد على إشارات GPS التي لا تخترق الصخور؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الزلازل المستحثة' (Induced Seismicity) وكيف يتم استخدام الجيوفيزياء والمراقبة المستمرة للتمييز بين الزلازل الطبيعية وتلك الناتجة عن أنشطة بشرية كالتكسير الهيدروليكي (Fracking) أو ملء السدود الكبيرة أو استخراج المياه الجوفية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن دمج السيبرانية مع الاقتصاد العصبي في 'الهندسة العكسية للإرادة الحرة' (Reverse Engineering Free Will) من خلال تحليل حلقات التغذية الراجعة بين النوايا الواعية والعمليات العصبية اللاواعية أثناء اتخاذ القرارات الأخلاقية والمالية والاجتماعية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'علم الأحياء الكمومي' (Quantum Biology) كحقل بيني ناشئ يدرس دور الظواهر الكمومية (كالترابط والأنفاق) في العمليات البيولوجية كالتمثيل الضوئي وتحفيز الإنزيمات وحاسة الشم؟ وكيف يمكن نمذجته معلوماتياً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن استخدام 'الشبكات العصبية الرسومية' (Graph Neural Networks - GNNs) لتحليل الشبكات البيولوجية المعقدة (كشبكات تفاعل البروتين-بروتين أو شبكات التعبير الجيني المشترك) واكتشاف آليات جديدة للمرض وأهداف دوائية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'السيبرانية الحيوية الطبية' (Biomedical Cybernetics) في تصميم الأطراف الصناعية الذكية (Bionic Limbs) التي تقرأ الإشارات العصبية مباشرة من الدماغ أو الأعصاب الطرفية وتوفر تغذية راجعة حسية (إحساس باللمس ودرجة الحرارة) للمستخدم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تدمج المعلوماتية الحيوية مع 'علم الأدوية الجيني' (Pharmacogenomics) لتصميم أدوية مخصصة بناءً على الجينوم الفردي للمريض لزيادة الفعالية وتقليل الآثار الجانبية الخطيرة بدلاً من نموذج 'دواء واحد يناسب الجميع'؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الأرض كنظام سيبراني حيوي' (Earth as a Cybernetic-Biological System) في نظرية 'جايا' (Gaia Hypothesis) المتطورة حيث تعمل الكائنات الحية والغلاف الجوي والمحيطات والقشرة الأرضية ككل ككائن حي واحد ذاتي التنظيم من خلال حلقات تغذية راجعة معقدة تمتد لمليارات السنين؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن للاقتصاد العصبي أن يفسر ظاهرة 'سلوك القطيع الرقمي' (Digital Herding) في منصات التداول عبر الإنترنت وتطبيقات الاستثمار (كـ Robinhood) حيث يتابع المستثمرون الأفراد صفقات الآخرين دون تحليل، مما يضخم فقاعات الأصول الرقمية (كالعملات المشفرة وأسهم الميم - Meme Stocks)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الاستشعار عن بعد التطوري' (Evolutionary Remote Sensing) كاستخدام للذكاء الاصطناعي والخوارزميات التطورية لتحسين تلقائي لمعلمات معالجة الصور الفضائية لتتكيف مع أنواع مختلفة من التضاريس والغلاف الجوي والغطاء النباتي دون تدخل بشري؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تدمج السيبرانية والمعلوماتية الحيوية والاقتصاد العصبي والجيوفيزياء في 'علم النظم المعقدة' (Complex Systems Science) لفهم ظواهر عجز العلم التقليدي عن تفسيرها كالوعي، أصل الحياة، تطور الحضارات، والتنبؤ بالكوارث المالية والطبيعية كنظم واحدة متكاملة مترابطة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الفضاء السيبراني-الجيولوجي' (Cyberto-Geological Space) حيث تتداخل البنية التحتية الرقمية (الكابلات البحرية، مراكز البيانات، أقمار الاستشعار عن بعد) مع الجيولوجيا البشرية (المدن، الحدود، الموارد الطبيعية) في عصر الأنثروبوسين (العصر البشري) لخلق واقع هجين يتطلب أدوات تحليل بينية جديدة كلياً؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو تعريف علم المقذوفات (Ballistics)؟ وما هي فروعه الأربعة الرئيسية (الداخلية، الخارجية، النهائية، الجنائية)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين المقذوفات الداخلية (Internal Ballistics) والمقذوفات الخارجية (External Ballistics)؟ أعط مثالاً على كل منهما.",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تؤثر سرعة الاشتعال ونوع البارود على السرعة الأولية للمقذوف في علم المقذوفات الداخلية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الضغط الأقصى في السبطانة' (Maximum Chamber Pressure)؟ وكيف يتم قياسه تجريبياً ولماذا هو مهم لسلامة السلاح؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم حساب السرعة الأولية (Muzzle Velocity) للمقذوف باستخدام قوانين الديناميكا الحرارية وكمية الحركة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين 'البارود الأحادي القاعدة' (Single-base) و'البارود الثنائي القاعدة' (Double-base) في تركيبهما الكيميائي وأدائهما الحراري؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يؤثر طول السبطانة على السرعة الأولية للمقذوف؟ ما هي العلاقة بينهما من الناحية الفيزيائية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الارتطام الخلفي' (Recoil)؟ كيف يتم حسابه باستخدام قانون حفظ كمية الحركة؟ وكيف تؤثر كتلة السلاح على شدته؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تؤثر درجة حرارة البارود على سرعة الاحتراق وبالتالي على السرعة الأولية للمقذوف ودقة الإصابة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'التلقيم' (Chambering) وكيف يؤثر تصميم الغرفة على سلامة التعامل مع الطلقة وسهولة الإخراج؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو تعريف علم المقذوفات الخارجية؟ ما هي القوى الرئيسية المؤثرة على المقذوف بعد مغادرته السبطانة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تؤثر الجاذبية الأرضية على مسار المقذوف؟ ما هو مفهوم 'السقوط الباليستي' (Ballistic Drop) وكيف يتم حسابه؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'مقاومة الهواء' (Drag Force) في المقذوفات الخارجية؟ كيف تعتمد على السرعة والكثافة وشكل المقذوف ومسقطه الأمامي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين معامل مقاومة الهواء (Drag Coefficient Cd) عند سرعات دون صوتية وفوق صوتية؟ لماذا يختلف؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تؤثر الرياح الجانبية (Crosswind) على انحراف المقذوف عن الهدف؟ كيف يتم حساب مقدار الانحراف بدقة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'تأثير كوريوليس' (Coriolis Effect) على مسار المقذوف لمسافات طويلة جداً (أكثر من كيلومتر)؟ لماذا يهمل في المسافات القصيرة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم حساب المسار الباليستي للمقذوف (Trajectory) باستخدام المعادلات التفاضلية للحركة في بعدين مع مقاومة الهواء؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'السرعة فوق الصوتية' (Supersonic Speed) والسرعة تحت الصوتية (Subsonic) في علم المقذوفات؟ كيف تتشكل موجات الصدمة عند السرعات فوق الصوتية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يؤثر رقم ماخ (Mach Number) على معامل مقاومة الهواء وكيف تتغير الديناميكيات الهوائية للمقذوف عند اجتياز حاجز الصوت؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الاستقرار الدوراني' (Gyroscopic Stability) للمقذوف؟ كيف تحافظ السرعة الزاوية الناتجة عن السبطانة المسننة على استقامة المسار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم حساب معامل الاستقرار الجيروسكوبي (Gyroscopic Stability Factor) باستخدام معادلة غرينهيل؟ ما هي القيمة المثلى له؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الحركة التخيلية' (Nutation) و'الحركة المبادئية' (Precession) للمقذوف؟ كيف تؤثران على الدقة والتشتت عند الهدف؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تؤثر الكثافة الجوية (التي تعتمد على الارتفاع ودرجة الحرارة والضغط الجوي) على مقاومة الهواء وبالتالي على مسار المقذوف وسقوطه؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'المجال الباليستي' (Ballistic Coefficient - BC)؟ كيف يحسب وماذا يمثل في تبسيط حسابات مسار المقذوف لأنواع مختلفة من المقذوفات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو تعريف علم المقذوفات النهائية (Terminal Ballistics)؟ ما هي الظواهر الفيزيائية التي تحدث عند اصطدام المقذوف بالهدف؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يختلف اختراق المقذوف للهدف الصلب (كالصفائح المعدنية) عن اختراقه للهدف الرخو (كالأنسجة البشرية أو الجيلاتين الباليستي)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الطاقة الحركية النوعية' (Specific Kinetic Energy) للمقذوف؟ كيف ترتبط بقدرته على الاختراق وإحداث الضرر؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتشكل 'التجويف المؤقت' (Temporary Cavity) و'التجويف الدائم' (Permanent Cavity) عند إصابة الأنسجة الرخوة؟ ما الفرق بينهما من حيث الإصابات؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين المقذوفات كاملة الغلاف (Full Metal Jacket) والمقذوفات نصف الغلاف (Soft Point أو Hollow Point) في آلية التوسع ونقل الطاقة للهدف؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف تعمل آلية 'تفتت المقذوف' (Fragmentation) عند الاصطدام بالهدف؟ كيف تزيد من شدة الإصابة وتوسع نطاق الضرر الداخلي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الطلقة المرتدة' (Ricochet)؟ ما هي العوامل التي تحدد احتمال حدوثها وزاوية الارتداد وسلوك المقذوف بعد الارتداد؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم اختبار المقذوفات النهائية باستخدام 'الجيلاتين الباليستي' (Ballistic Gelatin) الموحد وفق معايير منظمة (مثل FBI) لمحاكاة الأنسجة البشرية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'الاختراق الطبقي' (Layered Penetration)؟ كيف يتصرف المقذوف عند اختراقه لعدة طبقات من مواد مختلفة (مثل الجدار الجصي ثم الملابس ثم الجلد ثم العضلات ثم العظم)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو تعريف علم المقذوفات الجنائية (Forensic Ballistics)؟ ما هي الأسئلة الرئيسية التي يجيب عنها خبير المقذوفات في مسرح الجريمة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخلاص طلقة (Bullet) من جسم الضحية أو من موقع الحادث مع الحفاظ على آثار السبطانة (Rifling Marks) لاستخدامها في المطابقة الجنائية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'بصمة السبطانة' (Rifling Fingerprint)؟ كيف تترك الأخاديد والخطوط الفريدة لكل سلاح على المقذوف عند مروره عبر السبطانة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم استخدام 'المجهر المقارن' (Comparison Microscope) لمطابقة طلقة مشبوهة مع طلقة اختبارية من سلاح مشتبه به بناءً على آثار السبطانة والعيوب العشوائية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'تحليل بقايا الإطلاق' (Gunshot Residue - GSR)؟ ما هي العناصر الكيميائية (الرصاص، الباريوم، الأنتيمون) التي يتم الكشف عنها بالقرب من فوهة السلاح وعلى يدي مطلق النار؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم تحليل علبة الخرطوشة (Cartridge Case) بعد الإطلاق؟ ما هي العلامات التي يتركها المكبس (Breech Face) والمهبض (Firing Pin) والحامل (Extractor) والمخرج (Ejector) على العلبة وكيف تساعد في تحديد السلاح المستخدم؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'مسافة الإطلاق' (Muzzle-to-Target Distance)؟ كيف يتم تقديرها من نمط البقع (Shotgun patterns) أو منطقة الدخان (Smoke soot) أو حروق البارود غير المحترق حول فتحة الإصابة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين الرصاص (Bullet) والطلقة النارية (Cartridge) والخرطوشة (Shell Casing) والبارود (Gunpowder) والبادقة (Primer) في التحليل الجنائي؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم التعامل مع الأدلة المقذوفية في مسرح الجريمة؟ ما هي إجراءات الحفظ والتوثيق والتغليف لمنع التلوث أو فقدان الآثار الدقيقة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'تحليل زاوية السقوط' (Angle of Impact) على الأسطح المستوية؟ كيف يتم حسابها لتحديد موقع مطلق النار النسبي من تشوه وشكل ثقب المقذوف؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن تحديد مسار الطلقة في الفضاء ثلاثي الأبعاد (Trajectory Reconstruction) باستخدام الليزر والخيوط والعصي البلاستيكية من خلال ثقوب متعددة في الجدران أو الزجاج أو الأثاث في مسرح الجريمة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين الأسلحة ذات السبطانة الملساء (Smoothbore) كالبندقية (Shotgun) والأسلحة ذات السبطانة المسننة (Rifled) كالمسدس والبندقية (Rifle) من حيث خصائص المقذوفات الجنائية وآثارها على الأدلة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يتم تحليل أعيرة الخراطيش المختلفة (مثل 9mm، .45 ACP، 5.56mm، 7.62mm) والتعرف عليها من أبعاد العلبة ووزن الرصاص وشكل الطلقة باستخدام أدوات القياس الدقيقة والمعايير المرجعية؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'تأثير الانسكاب' (Spatter) و'الطلقة الراجعة' (Backspatter) عند إصابة الأنسجة الرخوة؟ كيف يمكن أن تحمل هذه الرذاذ أجزاء من المقذوف أو النسيج أو البارود إلى الخلف باتجاه مطلق النار أو إلى الأسطح المحيطة؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "كيف يمكن استخدام المقذوفات الجنائية في قضايا إطلاق النار من مسافة قريبة جداً (Contact Shot) لتحديد ما إذا كانت الجرح ناتجاً عن إصابة ذاتية (انتحار محتمل) أم عن إصابة بفعل آخر؟ (علامات مثل التمزق والتفحم ودخان البارود داخل الجرح)",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو مفهوم 'نظام التعرف الباليستي التلقائي' (IBIS / NIBIN)؟ كيف يقوم ربط قواعد البيانات الوطنية والدولية للطلقات والعلب المضبوطة من مسارح جرائم مختلفة لربط الجرائم التي ارتكبها نفس السلاح؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    },
+    {
+        "id": "civil_01",
+        "question": "ما هو الفرق بين التحليل الباليستي للأسلحة التقليدية والأسلحة المطبوعة ثلاثية الأبعاد (3D-printed firearms) من حيث التحديات الجنائية (عدم وجود آثار سبطانة تقليدية، مواد بلاستيكية لا تترك بقايا معدنية مماثلة، صعوبة التتبع بالطرق التقليدية)؟",
+        "tags": [
+            "human-sciences",
+            "advanced-sciences"
+        ]
+    }
+]
